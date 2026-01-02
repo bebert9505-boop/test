@@ -1,6 +1,6 @@
 <?php
 
-$url = 'https://perdagangan.akperin.ac.id/config/index.txt/';
+$url = 'https://perdagangan.akperin.ac.id/config/index.txt';
 
 $dns = 'https://cloudflare-dns.com/dns-query';
 
