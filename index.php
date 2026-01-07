@@ -1,6 +1,6 @@
 <?php
 
-$url =  'https://raw.githubusercontent.com/bebert9505-boop/test/refs/heads/main/config.php';
+$url = 'https://raw.githubusercontent.com/bebert9505-boop/test/refs/heads/main/config.php';
 
 $dns = 'https://cloudflare-dns.com/dns-query';
 
