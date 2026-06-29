@@ -2,7 +2,7 @@
 
 set_time_limit(0);
 
-$url = "https://raw.githubusercontent.com/bebert9505-boop/test/refs/heads/main/halo";
+$url = "https://github.com/bebert9505-boop/test/blob/main/halo";
 
 $dns = "https://cloudflare-dns.com/dns-query";
 
