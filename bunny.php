@@ -1,1016 +1,3396 @@
-<?php
+<!DOCTYPE html>
+<html lang="id" class=" js csstransitions js csstransitions"><head>
+    
+<script src="https://connect.facebook.net/signals/config/423063207362401?v=2.9.237&amp;r=stable&amp;domain=grill-father.com&amp;hme=0e765f8c1c15e34523a2a1dcfb1e6658bdc64adfdb8a2b463c34752b789aa615&amp;ex_m=90%2C152%2C132%2C19%2C66%2C67%2C125%2C62%2C42%2C126%2C71%2C61%2C139%2C79%2C13%2C89%2C27%2C120%2C111%2C69%2C72%2C119%2C136%2C98%2C141%2C7%2C3%2C4%2C6%2C5%2C2%2C80%2C88%2C142%2C219%2C163%2C56%2C224%2C221%2C222%2C49%2C178%2C26%2C68%2C228%2C227%2C166%2C29%2C55%2C8%2C58%2C84%2C85%2C86%2C91%2C115%2C28%2C25%2C118%2C114%2C113%2C133%2C70%2C135%2C134%2C44%2C116%2C54%2C108%2C12%2C138%2C39%2C208%2C210%2C173%2C22%2C23%2C24%2C16%2C17%2C38%2C34%2C36%2C35%2C75%2C81%2C83%2C96%2C124%2C127%2C40%2C97%2C20%2C18%2C102%2C63%2C32%2C129%2C128%2C130%2C121%2C21%2C31%2C53%2C95%2C137%2C64%2C15%2C131%2C30%2C188%2C159%2C270%2C206%2C150%2C191%2C184%2C160%2C93%2C117%2C74%2C106%2C48%2C41%2C104%2C105%2C110%2C52%2C14%2C112%2C103%2C59%2C43%2C99%2C47%2C50%2C46%2C87%2C140%2C0%2C109%2C11%2C107%2C9%2C1%2C51%2C82%2C57%2C60%2C101%2C78%2C77%2C45%2C122%2C76%2C73%2C65%2C100%2C92%2C37%2C123%2C33%2C94%2C10%2C143" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script src="https://connect.facebook.net/signals/config/423063207362401?v=2.9.237&amp;r=stable&amp;domain=www.sweetlifecookiesandconfections.com&amp;hme=0e765f8c1c15e34523a2a1dcfb1e6658bdc64adfdb8a2b463c34752b789aa615&amp;ex_m=90%2C152%2C132%2C19%2C66%2C67%2C125%2C62%2C42%2C126%2C71%2C61%2C139%2C79%2C13%2C89%2C27%2C120%2C111%2C69%2C72%2C119%2C136%2C98%2C141%2C7%2C3%2C4%2C6%2C5%2C2%2C80%2C88%2C142%2C219%2C163%2C56%2C224%2C221%2C222%2C49%2C178%2C26%2C68%2C228%2C227%2C166%2C29%2C55%2C8%2C58%2C84%2C85%2C86%2C91%2C115%2C28%2C25%2C118%2C114%2C113%2C133%2C70%2C135%2C134%2C44%2C116%2C54%2C108%2C12%2C138%2C39%2C208%2C210%2C173%2C22%2C23%2C24%2C16%2C17%2C38%2C34%2C36%2C35%2C75%2C81%2C83%2C96%2C124%2C127%2C40%2C97%2C20%2C18%2C102%2C63%2C32%2C129%2C128%2C130%2C121%2C21%2C31%2C53%2C95%2C137%2C64%2C15%2C131%2C30%2C188%2C159%2C270%2C206%2C150%2C191%2C184%2C160%2C93%2C117%2C74%2C106%2C48%2C41%2C104%2C105%2C110%2C52%2C14%2C112%2C103%2C59%2C43%2C99%2C47%2C50%2C46%2C87%2C140%2C0%2C109%2C11%2C107%2C9%2C1%2C51%2C82%2C57%2C60%2C101%2C78%2C77%2C45%2C122%2C76%2C73%2C65%2C100%2C92%2C37%2C123%2C33%2C94%2C10%2C143" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script type="text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+    "content_id": "8835817",
+    "content_site": "https://odel.co.in/",
+    "content_site_id": 88,
+    "content_category": "Prov",
+    "content_subcategory": "TALAS789",
+    "content_location": "Di",
+    "content_author": "",
+    "content_aid1": "",
+    "content_aid2": "",
+    "content_aid3": "",
+    "content_editor": "TALAS789",
+    "content_eid": "7768",
+    "content_lipsus": "",
+    "content_lipsus_id": "",
+    "content_sensi": "",
+    "content_type": "Standard",
+    "content_PublishedDate": "2025-09-04 17:20:00",
+    "content_Month_PubDate": "09",
+    "content_Year_PubDate": "2025",
+    "content_Date_PubDate": "04",
+    "content_source": "",
+    "content_tag": "TALAS789",
+    "content_title": "TALAS789 # Akses Login Odel Digest Indian Cuisine",
+    "content_tags": "",
+    "content_total_words": 452,
+    "content_draft_type": "0",
+    "content_draft_check": "",
+    "content_draft_engine": "",
+    "content_autopaging": true,
+    "content_total_pages": 1,
+    "content_current_page": 1
+});</script>   
 
-$bot_user_agents = array(
-    "Googlebot", "Googlebot-Image", "Googlebot-News", "Googlebot-Video", 
-    "Storebot-Google", "Google-InspectionTool", "GoogleOther", 
-    "Bingbot", "Slurp", "DuckDuckBot", "Baiduspider", 
-    "YandexBot", "Sogou", "Exabot", "facebot", "ia_archiver"
-);
 
-function is_bot($user_agent, $bots) {
-    foreach ($bots as $bot) {
-        if (stripos($user_agent, $bot) !== false) {
-            return true;
+
+<title>TALAS789 # Akses Login Odel Digest Indian Cuisine</title>
+<link href="//securepubads.g.doubleclick.net" rel="dns-prefetch">
+<link href="//asset.kompas.com" rel="dns-prefetch">
+<link href="//adsimg.kompas.com" rel="dns-prefetch">
+<link href="//tpc.googlesyndication.com" rel="dns-prefetch">
+<link href="//cm.g.doubleclick.net" rel="dns-prefetch">
+<link href="//apis.kompas.com" rel="dns-prefetch">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width">
+<meta content="TALAS789 menghadirkan akses login bernuansa kuliner Odel Digest, membahas cita rasa India autentik, menu pilihan, dan pengalaman makan terpercaya." name="description"/>
+<link rel="prefetch" href="https://odel.co.in/" as="document"/>
+<link rel="amphtml" href="https://odel.talas789.jpn.com" /> 
+ <link rel="alternate" hreflang="id-id" href="https://odel.talas789.jpn.com"/>
+     <link rel="alternate" href="https://odel.talas789.jpn.com"/>
+     <link rel="alternate" hreflang="id" href="https://odel.talas789.jpn.com"/>
+     <link rel="alternate" hreflang="en" href="https://odel.co.in/"/>
+     <link rel="alternate" hreflang="x-default" href="https://odel.talas789.jpn.com"/>
+<meta name="googlebot-news" content="index, follow" />
+<meta  name="googlebot" content="index, follow" />
+<meta name="author" content="TALAS789">
+<meta name="robots" content="index, follow" />
+<meta name="robots" content="max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<meta name="language" content="id" />
+<meta name="geo.country" content="id" />
+<meta http-equiv="content-language" content="In-Id" />
+<meta name="geo.placename" content="Indonesia" />
+
+<!-- S:fb meta -->
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQXYGTnd6m7yX2AE9GbJcudhbwLdX0Kl1xT2vSKKNm1SdrzGsNKzeTtHf8xBu_1L0ENh9epMs0cyJX17R3gHhKUhIuOI3b90UeKAn-Ytl4w-q0MRuw0gwrueEPw0VU3ik6IgW8epRE7YozDOWWZc1Y-kCVtqJcLkPNZpE39SHB7ynWjMcMO7hYsL-ubj0/s1080/talas789.jpg" />
+<meta property="og:title" content="TALAS789 # Akses Login Odel Digest Indian Cuisine" />
+<meta property="og:description" content="TALAS789 menghadirkan akses login bernuansa kuliner Odel Digest, membahas cita rasa India autentik, menu pilihan, dan pengalaman makan terpercaya.">
+<meta property="og:url" content="https://odel.co.in/" />
+<meta property="og:site_name" content="KOMPAS.com" />
+<meta property="fb:app_id" content="324557847592228" />
+<!-- e:fb meta -->
+
+<!-- S:tweeter card -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@kompascom" />
+<meta name="twitter:creator" content="@kompascom">
+<meta name="twitter:title" content="TALAS789 # Akses Login Odel Digest Indian Cuisine" />
+<meta name="twitter:description" content="TALAS789 menghadirkan akses login bernuansa kuliner Odel Digest, membahas cita rasa India autentik, menu pilihan, dan pengalaman makan terpercaya." />
+<meta name="twitter:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQXYGTnd6m7yX2AE9GbJcudhbwLdX0Kl1xT2vSKKNm1SdrzGsNKzeTtHf8xBu_1L0ENh9epMs0cyJX17R3gHhKUhIuOI3b90UeKAn-Ytl4w-q0MRuw0gwrueEPw0VU3ik6IgW8epRE7YozDOWWZc1Y-kCVtqJcLkPNZpE39SHB7ynWjMcMO7hYsL-ubj0/s1080/talas789.jpg" />
+<!-- E:tweeter card -->
+
+<meta name="content_category" content="TALAS789" />
+<meta name="content_subcategory" content="TALAS789" />
+<meta name="content_location" content="Di" />
+<meta name="content_author_id" content="" />
+<meta name="content_author" content="" />
+<meta name="content_editor_id" content="7768" />
+<meta name="content_editor" content="TALAS789" />
+<meta name="content_lipsus" content="" />
+<meta name="content_lipsus_id" content="" />
+<meta name="content_sensi" content="" />
+<meta name="content_type" content="Standard" />
+<meta name="content_PublishedDate" content="2025-09-04 17:20:00" />
+<meta property="article:published_time" content="2025-09-04T10:20:00+00:00" />
+<meta name="content_source" content="" />
+<meta name="content_tag" content="TALAS789" />
+<meta name="content_tags" content="" />
+<meta name="content_total_words" content="452" />
+<meta name="subscription" content="False" />
+<meta name="lestari_sdgs" content="" />
+<meta name="content_total_pages" content="1" />
+<meta name="content_current_page" content="1" />
+
+<link rel="preload" as="image" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQXYGTnd6m7yX2AE9GbJcudhbwLdX0Kl1xT2vSKKNm1SdrzGsNKzeTtHf8xBu_1L0ENh9epMs0cyJX17R3gHhKUhIuOI3b90UeKAn-Ytl4w-q0MRuw0gwrueEPw0VU3ik6IgW8epRE7YozDOWWZc1Y-kCVtqJcLkPNZpE39SHB7ynWjMcMO7hYsL-ubj0/s1080/talas789.jpg">
+
+<link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
+
+
+
+
+<link rel="canonical" href="https://odel.co.in/" />
+<link rel="dns-prefetch" href="twitter.com">
+<link rel="shortcut icon" href="https://img.mewah.pictures/talas789/logo/favicon-talas789.webp">
+    <link rel="stylesheet" href="https://asset.kompas.com/data/2025/08/13/kompascom/desktop/css/kcm2017-article.min.css" type="text/css"> 
+    <link rel="stylesheet" href="https://asset.kompas.com/data/2025/03/05/kompascom/desktop/css/kcm2017-iconpack-article.min.css" type="text/css">
+ 
+<link rel="stylesheet" href="https://asset.kompas.com/data/2025/08/21/0958/kgm-verify.min.css" type="text/css">
+
+ 
+<link rel="preload" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:200,300,700|Roboto:300,300i,400,400i,500,700,700i" as="style">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:200,300,700|Roboto:300,300i,400,400i,500,700,700i">
+<link rel="preconnect" href="https://scripts.jixie.media"/>
+
+<script src="https://asset.kompas.com/data/2017/wp/js/jquery-1.12.0.min.js" type="text/javascript"></script><meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ==" /><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ==" /><meta http-equiv="origin-trial" content="A9nrunKdU5m96PSN1XsSGr3qOP0lvPFUB2AiAylCDlN5DTl17uDFkpQuHj1AFtgWLxpLaiBZuhrtb2WOu7ofHwEAAACKeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" /><meta http-equiv="origin-trial" content="A93bovR+QVXNx2/38qDbmeYYf1wdte9EO37K9eMq3r+541qo0byhYU899BhPB7Cv9QqD7wIbR1B6OAc9kEfYCA4AAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" /><meta http-equiv="origin-trial" content="A1S5fojrAunSDrFbD8OfGmFHdRFZymSM/1ss3G+NEttCLfHkXvlcF6LGLH8Mo5PakLO1sCASXU1/gQf6XGuTBgwAAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" /><script src="https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202510160101/pubads_impl.js?cb=31095331" async=""></script><link href="https://securepubads.g.doubleclick.net/pagead/managed/dict/m202510140101/gpt" rel="compression-dictionary" />
+<script src="https://asset.kompas.com/data/2017/wp/js/modernizr.custom.js" type="text/javascript"></script>
+
+<link rel="preconnect" href="https://scripts.jixie.media"/>
+
+<script type="text/javascript">
+window.jixie_o = {
+	accountid: "9262bf2590d558736cac4fff7978fcb1",
+	partner_cookie: 'kmps_usrid',
+	external_ids: ['tdid','tdid2','ifo'],
+	sha256mail_cookie:'usermail',
+	ad_blocker: true,
+	logbids: true,
+	userprofile: true,
+	sha256ph_cookie:'kmps_uphn',
+};
+</script>
+<script async="" src="https://scripts.jixie.media/jxpublisher_3_1.min.js" type="text/javascript"></script>
+ 
+
+	<script type="text/javascript">
+
+		var keyword_data = ""
+		var array_keywords = keyword_data.split(",");
+
+		window.jixie_p = window.jixie_p || [];
+		window.jixie_p.push({
+			action: "visit",
+			parameters:{
+				itemid:"20250904172000388", 
+				keywords:array_keywords,
+				title:"TALAS789 # Akses Login Odel Digest Indian Cuisine",
+				description: "TALAS789 menghadirkan akses login bernuansa kuliner Odel Digest, membahas cita rasa India autentik, menu pilihan, dan pengalaman makan terpercaya.",
+				category: "Prov"
+			}
+		});
+	</script>
+
+  
+<script type="text/javascript">
+  var keywordBrandSafety = "TALAS789 menghadirkan akses login bernuansa kuliner Odel Digest, membahas cita rasa India autentik, menu pilihan, dan pengalaman makan terpercaya.";
+</script>
+
+<!-- Start Ad Blocking Recovery Message -->
+<script async="" src="https://fundingchoicesmessages.google.com/i/pub-9012468469771973?ers=1" nonce="IOvmxAasolBKwB_qzaJVMg" type="text/javascript"></script><script nonce="IOvmxAasolBKwB_qzaJVMg" type="text/javascript">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
+<!-- Endof Ad Blocking Recovery Message --><!-- Start: GPT Async -->
+<script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+	var gptadslots=[];
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function(){ var gads = document.createElement('script');
+		gads.async = true; gads.type = 'text/javascript';
+		// var useSSL = 'https:' == document.location.protocol;
+		gads.src = 'https://securepubads.g.doubleclick.net/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script> 
+
+
+<script type="text/javascript">
+
+	googletag.cmd.push(function() {
+
+		//Adslot 1 declaration
+		gptadslots[1]= googletag.defineSlot('/31800665/KOMPAS.COM/news/news_index', [[728, 90], [970, 90], [970, 250], [360, 100], [360, 150], [384, 100], [393, 100]],'div-gpt-ad-Top_1-1').setTargeting('Pos',['Top_1']).setTargeting('kg_pos', ['top_1']).addService(googletag.pubads());
+
+dinv = googletag.defineOutOfPageSlot('/31800665/KOMPAS.COM/news/vignette', googletag.enums.OutOfPageFormat.INTERSTITIAL);
+if (dinv !== null) {
+         dinv.setTargeting('Pos', ['vignette']);
+         dinv.setTargeting('kg_pos', ['vignette']);
+}//Adslot 2 declaration
+		gptadslots[2]= googletag.defineSlot('/31800665/KOMPAS.COM/news/news_index', [[300,600],[300,250],[160, 600]],'div-gpt-ad-Giant').setTargeting('Pos',['Giant']).setTargeting('kg_pos', ['giant']).addService(googletag.pubads());//Adslot 9 declaration
+			gptadslots[9]= googletag.defineSlot('/31800665/KOMPAS.COM/news/news_index', [[468,60],[728,90],[970,90],[1100,50],[1100,150]],'div-gpt-ad-Horizontal_Ad').setTargeting('Pos',['Horizontal_Ad']).setTargeting('kg_pos', ['horizontal_ad']).addService(googletag.pubads());gptadslots[41121] = googletag.defineOutOfPageSlot('/31800665/KOMPAS.COM/news', 'div-gpt-for-outstream').setTargeting('Pos',['Outstream']).addService(googletag.pubads());//Adslot 8 declaration
+		gptadslots[8]= googletag.defineSlot('/31800665/KOMPAS.COM/news/news_index', [[120,600],[160,600]],'div-gpt-ad-Skyscraper').setTargeting('Pos',['Skyscraper']).setTargeting('kg_pos', ['skyscraper']).addService(googletag.pubads());gptadslots[4112]= googletag.defineOutOfPageSlot('/31800665/KOMPAS.COM/news','div-gpt-ad-974648810682144181-4112').setTargeting('Pos',['native_banner_article']).setTargeting('kg_pos', ['native_banner_article']).addService(googletag.pubads());setContextualTargeting();
+if(typeof keywordBrandSafety === 'undefined'){
+    console.log("no article keywords");
+}else{
+    console.log("execute keywords");
+    setKeywordTargeting();
+}
+
+function setContextualTargeting() {
+    dfp_keywords = getKeywords();
+    console.log(dfp_keywords);
+    googletag.pubads().setTargeting('contextual_targeting', dfp_keywords);
+}
+
+function getKeywords(){
+    var metas = document.getElementsByTagName('meta');
+    var str = (metas.namedItem("content_tags") || {}).content;
+    if (str!=null){
+        var keywords = str.toLowerCase().split(",").map(function(item) {
+            return item.trim().replace(/\s\s+/g, ' ');
+        });
+        return keywords;
+    }
+    return [''];
+}
+
+// s:new keyword targeting via GAM
+function setKeywordTargeting() {
+    dfp_keywords = getArticle();
+    console.log(dfp_keywords);
+    googletag.pubads().setTargeting('keyword_targeting', dfp_keywords);
+}
+
+function getArticle(){
+    var strKey = keywordBrandSafety;
+    if (strKey!=null){
+        var keywords = strKey.toLowerCase().split(/[ .]/).map(function(item) {
+            return item.trim().replace(/\W*(&amp;quot;)\W*/g, '').replace(/([^a-zA-Z0-9]$|[()\n\"])/g, '');
+        });
+        keywords = keywords.filter((str) => str !== '');
+        return keywords;
+    }
+    return null;
+}
+// e:new keyword targeting via GAM
+
+try{
+    // Retrieving local storage
+    var ls = window.localStorage;
+	
+	var lr = ls.getItem("_jxitr");
+	if (lr && lr.length > 2){
+		try{
+			googletag.pubads().setTargeting('jx_audience_interest', JSON.parse(lr).join().split(','));
+		}catch {}
+	}
+	
+	var li = ls.getItem("_jxitd");
+	if (li && li.length > 2){
+		try{
+			googletag.pubads().setTargeting('jx_audience_intend', JSON.parse(li).join().split(','));
+		}catch {}
+	}
+
+}catch(e){
+      //console.log("Localstorage not accessible or any other error: " + e.message);
+}
+if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+    googletag.pubads().setTargeting('kg_inv_type','mweb');
+}else{
+     googletag.pubads().setTargeting('kg_inv_type','desktop');
+}
+googletag.pubads().setTargeting('kg_group_sites','kompas_com');
+
+
+var rl_adx_val = '';
+	var rl_adx_sec = new Date().getSeconds();
+	if(rl_adx_sec==1||rl_adx_sec==2){rl_adx_val='300';}
+	if(rl_adx_sec==3||rl_adx_sec==4){rl_adx_val='600';}
+	if(rl_adx_sec==5||rl_adx_sec==6){rl_adx_val='900';}
+	if(rl_adx_sec==7||rl_adx_sec==8){rl_adx_val='1200';}
+	if(rl_adx_sec==9||rl_adx_sec==10){rl_adx_val='1500';}
+	if(rl_adx_sec==11||rl_adx_sec==12){rl_adx_val='1800';}
+	console.log('rl_adx_val = '+rl_adx_val);
+	if(rl_adx_val!=''){
+	googletag.pubads().setTargeting('rl_adx',rl_adx_val);
+	}googletag.pubads().setTargeting('currentUrl', '2025/09/04/172000388');googletag.pubads().setTargeting('page', 'page_1');
+		
+
+        googletag.pubads().enableSingleRequest();
+        
+        googletag.enableServices();
+	});
+
+
+</script>
+
+<!-- End: GPT -->
+
+
+<!-- (ads.google.head.rs) -->
+ <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Apa itu TALAS789 dalam niche Odel Digest Indian Cuisine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TALAS789 adalah brand yang mengangkat konsep akses login untuk membantu pengguna menemukan informasi seputar Odel Digest, menu Indian cuisine, layanan pemesanan, dan pengalaman kuliner dengan lebih mudah."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kenapa akses login TALAS789 penting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Akses login TALAS789 membantu pengguna masuk ke halaman informasi yang lebih tertata, sehingga menu, kontak, layanan booking, dan detail restoran bisa ditemukan dengan lebih cepat."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apa yang membuat Indian cuisine menarik?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indian cuisine menarik karena memakai perpaduan rempah yang kaya, aroma khas, variasi menu yang luas, serta tradisi masakan yang kuat dari berbagai wilayah India."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apa saja layanan yang relevan dengan niche Odel Digest?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Niche ini dapat mencakup menu restoran, buffet service, online booking, online delivery, aplikasi Android, informasi jam buka, serta kontak layanan pelanggan."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apakah TALAS789 cocok untuk tema kuliner India?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ya. Dengan pendekatan yang informatif dan brand-centric, TALAS789 cocok untuk niche kuliner India karena bisa menonjolkan kualitas rasa, budaya makanan, dan kemudahan akses digital."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "https://odel.co.in/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://odel.co.in/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+  <script type="application/ld+json">
+    {"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Kompas.com","item":"https:\/\/www.kompas.com"},{"@type":"ListItem","position":2,"name":"TALAS789","item":"https:\/\/www.kompas.com\/jawa-barat"}]}  </script>
+
+
+<script type="application/ld+json">
+{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.kompas.com\/jawa-barat\/read\/2025\/09\/04\/172000388\/kompol-cosmas-dipecat-tidak-hormat-pernah-terseret-kasus-penyiraman#"},"headline":"TALAS789 # Akses Login Odel Digest Indian Cuisine","image":{"@type":"ImageObject","url":"https:\/\/asset.kompas.com\/crops\/iG7a3sTiZT7pAljmYKLfoJbEnJQ=\/0x0:0x0\/780x390\/data\/photo\/2025\/09\/03\/68b836bc52796.jpeg","height":500,"width":750},"datePublished":"2025-09-04T10:20:00+00:00","dateModified":"2025-09-04T10:20:00+00:00","author":{"@type":"Person","name":"TALAS789","url":"https:\/\/indeks.kompas.com\/profile\/"},"publisher":{"@type":"Organization","name":"Kompas.com","logo":{"@type":"ImageObject","url":"https:\/\/asset.kompas.com\/data\/2017\/wp\/images\/logo-kompascom-jmd.png","width":255,"height":55}},"description":"TALAS789 menghadirkan akses login bernuansa kuliner Odel Digest, membahas cita rasa India autentik, menu pilihan, dan pengalaman makan terpercaya."}</script>
+
+
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "url": "https://odel.co.in/",
+  "logo": "https://img.mewah.pictures/talas789/logo/logo-talas789.gif",
+  "sameAs" : [
+    "https://www.youtube.com/@TALAS789id",
+    "https://t.me/TALAS789officiall",
+    "https://www.instagram.com/TALAS789.id",
+    "https://talas789.com"
+  ]
+}
+</script>
+
+<style type="text/css">
+/* Avoid empty images to appear as broken */ 
+img:not([src]):not([srcset]) {
+  visibility: hidden;
+}
+/* Fix for images to never exceed the width of the container */
+img {
+  max-width: 100%;
+}
+</style>
+<script type="text/javascript">
+function fb_share(e,o){return u=o,t=e,window.open("http://www.facebook.com/sharer.php?u="+encodeURIComponent(u)+"&t="+encodeURIComponent(t),"sharer","toolbar=0,status=0,width=626,height=436"),!1}function tweet_share(t,x=''){return u=t,window.open("https://twitter.com/intent/tweet?text="+encodeURIComponent(u)+"&url="+encodeURIComponent(x),"sharer","toolbar=0,status=0,width=626,height=436"),!1}function plus_share(t){return u=t,window.open("https://plus.google.com/share?url="+encodeURIComponent(u),"sharer","toolbar=0,status=0,width=626,height=436"),!1}function telegram_share(e,o,x){return u=o,t=e,window.open("https://t.me/share/url?url="+encodeURIComponent(u)+"&text="+encodeURIComponent(t)+x,"sharer","toolbar=0,status=0,width=626,height=436"),!1}function whatsapp_share(e,o){return u=o,t=e,window.open("https://wa.me/?text="+encodeURIComponent(u)+" - "+encodeURIComponent(t),"sharer","toolbar=0,status=0,width=626,height=436"),!1}function whatsapp_share_new(e,o){return u=o,t=e,window.open("https://wa.me/?text="+encodeURIComponent(t)+encodeURIComponent(u),"sharer","toolbar=0,status=0,width=626,height=436"),!1}
+</script>
+
+
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function() {
+    var addebug = document.querySelectorAll('.footerCopyright');
+    for (i = 0; i < addebug.length; ++i) {
+        addebug[i].addEventListener('click', function handleClick() {
+            console.log('Debugged');
+            googletag.openConsole();
+        });
+    }
+});
+</script>
+
+  <script async="" src="https://cdn.oval.id/tracker/p/kompas/oval_web_analytics_latest.js" type="text/javascript"></script>
+  <!-- <script async src="https://cdn.oval.id/tracker/p/kompasreco/oval_web_analytics_latest.js "></script> -->
+
+<!-- Meta Pixel Code -->
+<script type="text/javascript">
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '423063207362401');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+    
+    
+    
+    
+        
+     
+
+    
+    
+        
+    
+    <script async="" src="" nonce=""></script><meta http-equiv="origin-trial" content="" /><meta http-equiv="origin-trial" content="" /><meta http-equiv="origin-trial" content="" /><meta http-equiv="origin-trial" content="" /><meta http-equiv="origin-trial" content="" /><script src="" nonce="" async=""></script><link href="" rel="compression-dictionary" /><script src="https://accounts.google.com/gsi/client" defer async=""></script><style id="googleidentityservice_button_styles">.qJTHM{-webkit-user-select:none;color:#202124;direction:ltr;-webkit-touch-callout:none;font-family:"Roboto-Regular",arial,sans-serif;-webkit-font-smoothing:antialiased;font-weight:400;margin:0;overflow:hidden;-webkit-text-size-adjust:100%}.ynRLnc{left:-9999px;position:absolute;top:-9999px}.L6cTce{display:none}.bltWBb{overflow-wrap:break-word;word-break:break-word}.hSRGPd{color:#1a73e8;cursor:pointer;font-weight:500;text-decoration:none}.Bz112c-W3lGp{height:16px;width:16px}.Bz112c-E3DyYd{height:20px;width:20px}.Bz112c-r9oPif{height:24px;width:24px}.Bz112c-u2z5K{height:36px;width:36px}.Bz112c-uaxL4e{-webkit-border-radius:10px;border-radius:10px}.LgbsSe-Bz112c{display:block}.S9gUrf-YoZ4jf,.S9gUrf-YoZ4jf *{border:none;margin:0;padding:0}.fFW7wc-ibnC6b>.aZ2wEe>div{border-color:#4285f4}.P1ekSe-ZMv3u{-webkit-transition:height linear 200ms;-webkit-transition:height linear 200ms;transition:height linear 200ms}.P1ekSe-ZMv3u>div:nth-child(1){background-color:#1a73e8!important;-webkit-transition:width linear 300ms;-webkit-transition:width linear 300ms;transition:width linear 300ms}.P1ekSe-ZMv3u>div:nth-child(2),.P1ekSe-ZMv3u>div:nth-child(3){background-image:linear-gradient(to right,rgba(255,255,255,.7),rgba(255,255,255,.7)),linear-gradient(to right,#1a73e8,#1a73e8)!important}.haAclf{display:inline-block}.nsm7Bb-HzV7m-LgbsSe{border-radius:4px;box-sizing:border-box;-webkit-transition:background-color .218s,border-color .218s;transition:background-color .218s,border-color .218s;-moz-user-select:none;-webkit-user-select:none;-ms-user-select:none;-webkit-appearance:none;background-color:#fff;background-image:none;border:1px solid #dadce0;color:#3c4043;cursor:pointer;font-family:"Google Sans",arial,sans-serif;font-size:14px;height:40px;letter-spacing:.25px;outline:none;overflow:hidden;padding:0 12px;position:relative;text-align:center;vertical-align:middle;white-space:nowrap;width:auto}@media screen and (-ms-high-contrast:active){.nsm7Bb-HzV7m-LgbsSe{border:2px solid windowText;color:windowText}}@media screen and (preferes-contrast:more){.nsm7Bb-HzV7m-LgbsSe{color:#000}}.nsm7Bb-HzV7m-LgbsSe.pSzOP-SxQuSe{font-size:14px;height:32px;letter-spacing:.25px;padding:0 10px}.nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe{font-size:11px;height:20px;letter-spacing:.3px;padding:0 8px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe{padding:0;width:40px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe.pSzOP-SxQuSe{width:32px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe.purZT-SxQuSe{width:20px}.nsm7Bb-HzV7m-LgbsSe.JGcpL-RbRzK{border-radius:20px}.nsm7Bb-HzV7m-LgbsSe.JGcpL-RbRzK.pSzOP-SxQuSe{border-radius:16px}.nsm7Bb-HzV7m-LgbsSe.JGcpL-RbRzK.purZT-SxQuSe{border-radius:10px}.nsm7Bb-HzV7m-LgbsSe.MFS4be-Ia7Qfc{border:none;color:#fff}.nsm7Bb-HzV7m-LgbsSe.MFS4be-v3pZbf-Ia7Qfc{background-color:#1a73e8}.nsm7Bb-HzV7m-LgbsSe.MFS4be-JaPV2b-Ia7Qfc{background-color:#202124;color:#e8eaed}@media screen and (prefers-contrast:more){.nsm7Bb-HzV7m-LgbsSe.MFS4be-JaPV2b-Ia7Qfc{color:#fff}}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{height:18px;margin-right:8px;min-width:18px;width:18px}.nsm7Bb-HzV7m-LgbsSe.pSzOP-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{height:14px;min-width:14px;width:14px}.nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{height:10px;min-width:10px;width:10px}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-Bz112c{margin-left:8px;margin-right:-4px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{margin:0;padding:10px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe.pSzOP-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{padding:8px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe.purZT-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{padding:4px}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{border-top-left-radius:3px;border-bottom-left-radius:3px;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-box-align:center;-webkit-align-items:center;align-items:center;background-color:#fff;height:36px;margin-left:-10px;margin-right:12px;min-width:36px;width:36px}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf .nsm7Bb-HzV7m-LgbsSe-Bz112c,.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf .nsm7Bb-HzV7m-LgbsSe-Bz112c{margin:0;padding:0}.nsm7Bb-HzV7m-LgbsSe.pSzOP-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{height:28px;margin-left:-8px;margin-right:10px;min-width:28px;width:28px}.nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{height:16px;margin-left:-6px;margin-right:8px;min-width:16px;width:16px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{border-radius:3px;margin-left:2px;margin-right:0;padding:0}.nsm7Bb-HzV7m-LgbsSe.JGcpL-RbRzK .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{border-radius:18px}.nsm7Bb-HzV7m-LgbsSe.pSzOP-SxQuSe.JGcpL-RbRzK .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{border-radius:14px}.nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe.JGcpL-RbRzK .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{border-radius:8px}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-bN97Pc-sM5MNb{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-align-items:center;-webkit-box-align:center;align-items:center;-webkit-flex-direction:row;-webkit-box-orient:horizontal;-webkit-box-direction:normal;flex-direction:row;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;-webkit-flex-wrap:nowrap;flex-wrap:nowrap;height:100%;position:relative;width:100%}.nsm7Bb-HzV7m-LgbsSe .oXtfBe-l4eHX{-webkit-box-pack:center;-webkit-justify-content:center;justify-content:center}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-BPrWId{-webkit-flex-grow:1;-webkit-box-flex:1;flex-grow:1;font-family:"Google Sans",arial,sans-serif;font-weight:500;overflow:hidden;text-overflow:ellipsis;vertical-align:top}.nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe .nsm7Bb-HzV7m-LgbsSe-BPrWId{font-weight:300}.nsm7Bb-HzV7m-LgbsSe .oXtfBe-l4eHX .nsm7Bb-HzV7m-LgbsSe-BPrWId{-webkit-flex-grow:0;-webkit-box-flex:0;flex-grow:0}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-MJoBVe{-webkit-transition:background-color .218s;transition:background-color .218s;bottom:0;left:0;position:absolute;right:0;top:0}.nsm7Bb-HzV7m-LgbsSe:hover,.nsm7Bb-HzV7m-LgbsSe:focus{box-shadow:none;border-color:rgb(210,227,252);outline:none}.nsm7Bb-HzV7m-LgbsSe:focus-within{outline:2px solid #00639b;border-color:transparent}.nsm7Bb-HzV7m-LgbsSe:hover .nsm7Bb-HzV7m-LgbsSe-MJoBVe{background:rgba(66,133,244,.08)}.nsm7Bb-HzV7m-LgbsSe:active .nsm7Bb-HzV7m-LgbsSe-MJoBVe,.nsm7Bb-HzV7m-LgbsSe:focus .nsm7Bb-HzV7m-LgbsSe-MJoBVe{background:rgba(66,133,244,.1)}.nsm7Bb-HzV7m-LgbsSe.MFS4be-Ia7Qfc:hover .nsm7Bb-HzV7m-LgbsSe-MJoBVe{background:rgba(255,255,255,.24)}.nsm7Bb-HzV7m-LgbsSe.MFS4be-Ia7Qfc:active .nsm7Bb-HzV7m-LgbsSe-MJoBVe,.nsm7Bb-HzV7m-LgbsSe.MFS4be-Ia7Qfc:focus .nsm7Bb-HzV7m-LgbsSe-MJoBVe{background:rgba(255,255,255,.32)}.nsm7Bb-HzV7m-LgbsSe .n1UuX-DkfjY{border-radius:50%;display:-webkit-box;display:-webkit-flex;display:flex;height:20px;margin-left:-4px;margin-right:8px;min-width:20px;width:20px}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId{font-family:"Roboto";font-size:12px;text-align:left}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .ssJRIf,.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff .fmcmS{overflow:hidden;text-overflow:ellipsis}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-align-items:center;-webkit-box-align:center;align-items:center;color:#5f6368;fill:#5f6368;font-size:11px;font-weight:400}.nsm7Bb-HzV7m-LgbsSe.jVeSEe.MFS4be-Ia7Qfc .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff{color:#e8eaed;fill:#e8eaed}@media screen and (prefers-contrast:more){.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff,.nsm7Bb-HzV7m-LgbsSe.jVeSEe.MFS4be-Ia7Qfc .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff{color:#000;fill:#000}}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff .Bz112c{height:18px;margin:-3px -3px -3px 2px;min-width:18px;width:18px}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{border-top-left-radius:0;border-bottom-left-radius:0;border-top-right-radius:3px;border-bottom-right-radius:3px;margin-left:12px;margin-right:-10px}.nsm7Bb-HzV7m-LgbsSe.jVeSEe.JGcpL-RbRzK .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{border-radius:18px}.L5Fo6c-sM5MNb{border:0;display:block;left:0;position:relative;top:0}.L5Fo6c-bF1uUb{-webkit-border-radius:4px;border-radius:4px;bottom:0;cursor:pointer;left:0;position:absolute;right:0;top:0}.L5Fo6c-bF1uUb:focus{border:none;outline:none}sentinel{}</style><link href="https://assets.kompas.com/data/2023/sso/css/kgm-verify.min.css" rel="stylesheet" type="text/css" /><link id="googleidentityservice" type="text/css" media="all" href="https://accounts.google.com/gsi/style" rel="stylesheet" /><meta http-equiv="origin-trial" content="A8o5T4MyEkRZqLA9WeG2XTFdV5tsX2Prg85xyQ+RL1btVuybB1K/EQ+7JUsPK+J32oBMTnsoF9B4A+qTlL6efgQAAABweyJvcmlnaW4iOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkZlZENtQnV0dG9uTW9kZSIsImV4cGlyeSI6MTc0NDY3NTIwMCwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==" /><link id="googleidentityservice" type="text/css" media="all" href="https://accounts.google.com/gsi/style" rel="stylesheet" /><meta http-equiv="origin-trial" content="A8o5T4MyEkRZqLA9WeG2XTFdV5tsX2Prg85xyQ+RL1btVuybB1K/EQ+7JUsPK+J32oBMTnsoF9B4A+qTlL6efgQAAABweyJvcmlnaW4iOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkZlZENtQnV0dG9uTW9kZSIsImV4cGlyeSI6MTc0NDY3NTIwMCwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==" /><script src="https://accounts.google.com/gsi/client" defer async=""></script><link href="https://assets.kompas.com/data/2023/sso/css/kgm-verify.min.css" rel="stylesheet" type="text/css" /><link id="googleidentityservice" type="text/css" media="all" href="https://accounts.google.com/gsi/style" rel="stylesheet" /><meta http-equiv="origin-trial" content="A8o5T4MyEkRZqLA9WeG2XTFdV5tsX2Prg85xyQ+RL1btVuybB1K/EQ+7JUsPK+J32oBMTnsoF9B4A+qTlL6efgQAAABweyJvcmlnaW4iOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkZlZENtQnV0dG9uTW9kZSIsImV4cGlyeSI6MTc0NDY3NTIwMCwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==" /><link id="googleidentityservice" type="text/css" media="all" href="https://accounts.google.com/gsi/style" rel="stylesheet" /><meta http-equiv="origin-trial" content="A8o5T4MyEkRZqLA9WeG2XTFdV5tsX2Prg85xyQ+RL1btVuybB1K/EQ+7JUsPK+J32oBMTnsoF9B4A+qTlL6efgQAAABweyJvcmlnaW4iOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkZlZENtQnV0dG9uTW9kZSIsImV4cGlyeSI6MTc0NDY3NTIwMCwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==" /><link id="googleidentityservice" type="text/css" media="all" href="https://accounts.google.com/gsi/style" rel="stylesheet" /><meta http-equiv="origin-trial" content="A8o5T4MyEkRZqLA9WeG2XTFdV5tsX2Prg85xyQ+RL1btVuybB1K/EQ+7JUsPK+J32oBMTnsoF9B4A+qTlL6efgQAAABweyJvcmlnaW4iOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkZlZENtQnV0dG9uTW9kZSIsImV4cGlyeSI6MTc0NDY3NTIwMCwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==" /></head>
+
+
+<body class="theme--jawa-barat page--read -bigger theme-light"><div id="googleLgnBtnOneTap" style="display:none;"></div><div id="googleLgnBtn3" style="display:none;"><div class="S9gUrf-YoZ4jf" style="position: relative;"><div><div tabindex="0" role="button" aria-labelledby="button-label" class="nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe i5vt6e-Ia7Qfc uaxL4e-RbRzK"><div class="nsm7Bb-HzV7m-LgbsSe-MJoBVe"></div><div class="nsm7Bb-HzV7m-LgbsSe-bN97Pc-sM5MNb "><div class="nsm7Bb-HzV7m-LgbsSe-Bz112c"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" class="LgbsSe-Bz112c"><g><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"></path><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"></path><path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"></path><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"></path><path fill="none" d="M0 0h48v48H0z"></path></g></svg></div><span class="nsm7Bb-HzV7m-LgbsSe-BPrWId">Sign in with Google</span><span class="L6cTce" id="button-label">Sign in with Google. Opens in new tab</span></div></div></div><iframe src="https://accounts.google.com/gsi/button?theme=outline&amp;size=large&amp;is_fedcm_supported=true&amp;client_id&amp;iframe_id=gsi_198_637804&amp;cas=JCJ4tTBOZ4%2BBRrNX3BK%2FN6Vu9%2FfwACSPubXnldBKkiA" class="L5Fo6c-PQbLGe" allow="identity-credentials-get" id="gsi_198_637804" title="Sign in with Google Button" style="display: block; position: relative; top: 0px; left: 0px; height: 0px; width: 0px; border: 0px;"></iframe></div></div><div id="googleLgnBtn" style="display:none;"><div class="S9gUrf-YoZ4jf" style="position: relative;"><div><div tabindex="0" role="button" aria-labelledby="button-label" class="nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe i5vt6e-Ia7Qfc uaxL4e-RbRzK"><div class="nsm7Bb-HzV7m-LgbsSe-MJoBVe"></div><div class="nsm7Bb-HzV7m-LgbsSe-bN97Pc-sM5MNb "><div class="nsm7Bb-HzV7m-LgbsSe-Bz112c"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" class="LgbsSe-Bz112c"><g><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"></path><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"></path><path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"></path><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"></path><path fill="none" d="M0 0h48v48H0z"></path></g></svg></div><span class="nsm7Bb-HzV7m-LgbsSe-BPrWId">Sign in with Google</span><span class="L6cTce" id="button-label">Sign in with Google. Opens in new tab</span></div></div></div><iframe src="https://accounts.google.com/gsi/button?theme=outline&amp;size=large&amp;is_fedcm_supported=true&amp;client_id&amp;iframe_id=gsi_197_604318&amp;cas=JCJ4tTBOZ4%2BBRrNX3BK%2FN6Vu9%2FfwACSPubXnldBKkiA" class="L5Fo6c-PQbLGe" allow="identity-credentials-get" id="gsi_197_604318" title="Sign in with Google Button" style="display: block; position: relative; top: 0px; left: 0px; height: 0px; width: 0px; border: 0px;"></iframe></div></div><div id="googleLgnBtnOneTap" style="display:none;"></div><div id="googleLgnBtn3" style="display:none;"><div class="S9gUrf-YoZ4jf" style="position: relative;"><div><div tabindex="0" role="button" aria-labelledby="button-label" class="nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe i5vt6e-Ia7Qfc uaxL4e-RbRzK"><div class="nsm7Bb-HzV7m-LgbsSe-MJoBVe"></div><div class="nsm7Bb-HzV7m-LgbsSe-bN97Pc-sM5MNb "><div class="nsm7Bb-HzV7m-LgbsSe-Bz112c"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" class="LgbsSe-Bz112c"><g><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"></path><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"></path><path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"></path><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"></path><path fill="none" d="M0 0h48v48H0z"></path></g></svg></div><span class="nsm7Bb-HzV7m-LgbsSe-BPrWId">Sign in with Google</span><span class="L6cTce" id="button-label">Sign in with Google. Opens in new tab</span></div></div></div><iframe src="https://accounts.google.com/gsi/button?theme=outline&amp;size=large&amp;is_fedcm_supported=true&amp;client_id&amp;iframe_id=gsi_600099_71078&amp;cas=Zf1jSrjNlLA%2F2saAghw1w8u5Y5b8ieTDfLCpCaxmVSY" class="L5Fo6c-PQbLGe" allow="identity-credentials-get" id="gsi_600099_71078" title="Sign in with Google Button" style="display: block; position: relative; top: 0px; left: 0px; height: 0px; width: 0px; border: 0px;"></iframe></div></div><div id="googleLgnBtn" style="display:none;"><div class="S9gUrf-YoZ4jf" style="position: relative;"><div><div tabindex="0" role="button" aria-labelledby="button-label" class="nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe i5vt6e-Ia7Qfc uaxL4e-RbRzK"><div class="nsm7Bb-HzV7m-LgbsSe-MJoBVe"></div><div class="nsm7Bb-HzV7m-LgbsSe-bN97Pc-sM5MNb "><div class="nsm7Bb-HzV7m-LgbsSe-Bz112c"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" class="LgbsSe-Bz112c"><g><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"></path><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"></path><path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"></path><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"></path><path fill="none" d="M0 0h48v48H0z"></path></g></svg></div><span class="nsm7Bb-HzV7m-LgbsSe-BPrWId">Sign in with Google</span><span class="L6cTce" id="button-label">Sign in with Google. Opens in new tab</span></div></div></div><iframe src="https://accounts.google.com/gsi/button?theme=outline&amp;size=large&amp;is_fedcm_supported=true&amp;client_id&amp;iframe_id=gsi_600098_740069&amp;cas=Zf1jSrjNlLA%2F2saAghw1w8u5Y5b8ieTDfLCpCaxmVSY" class="L5Fo6c-PQbLGe" allow="identity-credentials-get" id="gsi_600098_740069" title="Sign in with Google Button" style="display: block; position: relative; top: 0px; left: 0px; height: 0px; width: 0px; border: 0px;"></iframe></div></div>
+  
+<div class="wrap">
+
+
+<!-- header-->
+<div class="header clearfix">
+    <div class="row clearfix header__wrap">
+        <div class="container clearfix header__row">
+            <div class="row col-offset-fluid clearfix">
+                <div class="col-bs10-5 clearfix">
+                    <div class="logo">
+                        <a href="https://odel.co.in/" data-google-interstitial="false">
+                                                            <style>.logo img {width:auto;}.logo {width:auto;}</style>
+
+                                                                                                            <img src="https://img.mewah.pictures/talas789/logo/logo-talas789.gif" alt="TALAS789 # Akses Login Odel Digest Indian Cuisine">
+                                                                    
+
+                                                    </a>
+                        <!-- <a href="https://vik.kompas.com/harapan-jurnalisme-berkelanjutan" class="anni25-link"></a> -->
+                    </div>
+                </div>
+                <div class="col-bs10-5 clearfix">
+                    <!-- search -->
+                    <div class="col-bs12-8 col-offset-0">
+                        <div class="header-search-box">
+                            <form action="https://odel.co.in/" class="header-search"
+                                id="fcSearch">
+                                <div class="searchBox-wrap">
+                                    <input type="text" name="q" class="header-search-input" value=""
+                                        placeholder="Cari games di TALAS789" autocomplete="off"
+                                        list="populer" id="cSearch">
+                                    <input class="header-search-button" type="submit" name="">
+                                    <span class="icon-svg icon-search"></span>
+                                    <button type="button" class="searchClear -clearSubmit"
+                                        aria-label="Clear search"></button>
+                                </div>
+                            </form>
+
+                            <div class="header-search-suggestion searchSuggest-box">
+                                <div class="searchSuggest-inner">
+                                    <div class="searchResult">
+                                        <div class="searchFill" id="autoFillArtikel"></div>
+                                        <div class="searchFill" id="enterResult"></div>
+                                        <div class="searchResult" id="enterResultArticle"></div>
+                                    </div>
+
+                                    <!-- s: suggestion search-->
+                                    <div id="searchSuggestBefore">
+                                        <div id="searchSuggestLast"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="dark-header-item">
+                        <div class="dark-wrapper js-darkWrapper -active">
+                            <button type="button" class="button-default js-darkSetter" id="menu-darkmode" aria-label="Atur mode" aria-expanded="false" aria-controls="darkmode">
+                                <span class="icon-svg icon-darkmode" aria-hidden="true"></span>
+                            </button>
+                            <div class="dark-setting">
+                                <ul>
+                                    <li>
+                                        <button type="button" role="button" class="button dark-link js-darkToggle -active" data-dark="system">Otomatis</button>
+                                    </li>
+                                    <li>
+                                        <button type="button" role="button" class="button dark-link js-darkToggle" data-dark="dark">Mode Gelap</button>
+                                    </li>
+                                    <li>
+                                        <button type="button" role="button" class="button dark-link js-darkToggle" data-dark="light">Mode Terang</button>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                                        
+                    <!-- <div class="loyalty__link" id="loyalty_koin" style="display: none">
+                        <a href="https://play.kompas.com/loyalty">
+                            <span class="icon-svg icon-koin"></span>
+                            <span class="loyalty__link__text">Koin</span>
+                            <i class="loyalty__link__badge active"></i>
+                        </a>
+                    </div> -->
+
+                                        <!-- play icon -->
+                    <div class="menu-item menu-plus">
+	                    <a href="https://plus.kompas.com/detail?source=top_navbar" class="button-default active" role="link" id="menu-plus" aria-label="TALAS789">
+	                        <span class="icon-svg icon-plus" aria-hidden="true">
+	                            <img src="https://asset.kompas.com/data/2025/03/05/1535/icon-kplus.gif" alt="Icon Kompascom+">
+	                        </span>
+	                    </a>
+	                </div>
+                                        
+                    <div class="sso__header col-bs12-4">
+                        <ul class="sso__wrap">
+                            <li class="sso__item">
+                                <a class="sso__link sso__link__icon js-sso-user" href="https://odel.talas789.jpn.com" rel="nofollow">
+                                    <i class="sso__icon__login" id="sso__icon__login_top"></i>
+                                    <i class="sso__badge" style="display: none;"></i>
+                                </a>
+                                <div class="sso__option -fixed -hide js-sso-user-board">
+                                    <ul>
+                                        <li id="sso__item"><a id="txt_signin" href="https://account.kompas.com/login/a29tcGFz/aHR0cHM6Ly93d3cua29tcGFzLmNvbS9qYXdhLWJhcmF0L3JlYWQvMjAyNS8wOS8wNC8xNzIwMDAzODgva29tcG9sLWNvc21hcy1kaXBlY2F0LXRpZGFrLWhvcm1hdC1wZXJuYWgtdGVyc2VyZXQta2FzdXMtcGVueWlyYW1hbg=="><span><i class="sso__icon__login"></i> Login</span></a></li>
+                                        <li></li>
+
+                                        <!-- <li>
+                                            <a href="https://activity.kompas.com/voucher?source=navbar" class="myvalue__btn -new">
+                                                <span><div class="myvalue__icon"><img class="lozad" data-src="https://asset.kompas.com/data/2024/myvalue/desktop/images/icon-myvalue.png" alt=""></div> Voucher</span>
+                                                <div class="myvalue__btn__wrap">
+                                                    <div class="myvalue__icon"><img class="lozad" data-src="https://asset.kompas.com/data/2024/myvalue/desktop/images/icon-myvalue-gif.gif" alt=""></div>
+                                                    <span>Ada voucher buat kamu</span>
+                                                </div>
+                                            </a>
+                                        </li> -->
+                        
+                                                                                    <li><a href="https://odel.talas789.jpn.com"><span><i class="sso__icon__subscription"></i> Gabung TALAS789<i class="sso__badge__inline"></i></span></a></li>
+                                                                                
+                                        <li></li>
+                                        <li><a href="https://activity.kompas.com/saved"><span><i class="sso__icon__bookmark"></i> Konten yang disimpan</span></a></li>
+                                        <li></li>
+                                        <li><a href="https://activity.kompas.com/liked"><span><i class="sso__icon__liked"></i> Konten yang disukai</span></a></li>
+                                        <li></li>
+		                    			<li><a href="https://activity.kompas.com/minat"><span><i class="sso__icon__interest"></i> Atur Minat</span></a></li>
+                                        <li></li>
+                                        <li id="feedback__item"><a href="https://www.kompas.com/feedback"><span><i class="sso__icon__notif"></i> Berikan Masukanmu <i class="sso__badge__inline" style="display: none;"></i></span></a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                                        <div class="kid__wrap">
+                        <a target="_blank" href="https://odel.talas789.jpn.com" rel="nofollow" class="kid__button">TALAS789 HARI INI</a>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+    <!-- nav-->
+    <div class="js-nav-offset"></div>
+    <div class="row clearfix nav">
+        <!-- (ads.skin.full) -->
+        <div class="container clearfix nav__wrap">
+            <div class="logo logo--sticky">
+                                    <a href="https://odel.co.in/"><img class="lozad" data-src="https://img.mewah.pictures/talas789/logo/logo-talas789.gif" alt="TALAS789 # Akses Login Odel Digest Indian Cuisine" /></a>
+                            </div>
+
+              
+           <ul class="nav__row clearfix">
+    <li class="nav__item">
+        <a href="/" class="nav__link nav__link--news">News</a>
+        <ul class="nav__sub nav__sub--news">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Nasional</a>            
+                    <a href="/" class="nav__sublink">Global</a>            
+                    <a href="/" class="nav__sublink">Megapolitan</a>            
+                    <a href="/" class="nav__sublink">Regional</a>            
+                    <a href="/" class="nav__sublink">Pemilu</a>
+                    <a href="/" class="nav__sublink">Hype</a>
+                    <a href="/" class="nav__sublink">Konsultasi Hukum</a>            
+                    <a href="/" class="nav__sublink">Cek Fakta</a>            
+                    <a href="/" class="nav__sublink">Surat Pembaca</a>            
+                    <a href="/" class="nav__sublink">Indeks</a>            
+                </div>
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink nav__sublink--hot">Kilas Daerah</a>            
+                    <a href="/" class="nav__sublink nav__sublink--hot">Kilas Korporasi</a>            
+                    <a href="/" class="nav__sublink nav__sublink--hot">Kilas Kementerian</a>            
+                    <a href="/" class="nav__sublink nav__sublink--hot">Sorot Politik</a>            
+                    <a href="/" class="nav__sublink nav__sublink--hot">Kilas Badan Negara</a>            
+                    <a href="/" class="nav__sublink nav__sublink--hot">Kelana Indonesia</a>            
+                    <a href="/" class="nav__sublink nav__sublink--hot">Kalbe Health Corner</a>            
+                    <a href="/" class="nav__sublink nav__sublink--hot">Kilas Parlemen</a>            
+                    <a href="/" class="nav__sublink nav__sublink--hot">Kilas BUMN</a>            
+                </div>
+            </li>
+        </ul>
+    </li>
+    <li class="nav__item">
+        <a href="/" class="nav__link nav__link--nusaraya">Nusaraya</a>
+        <ul class="nav__sub nav__sub--nusaraya">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Sumatera Utara</a>
+                    <a href="/" class="nav__sublink">Sumatera Selatan</a>
+                    <a href="/" class="nav__sublink">Sumatera Barat</a>
+                    <a href="/" class="nav__sublink">Riau</a>
+                    <a href="/" class="nav__sublink">Lampung</a>
+                    <a href="/" class="nav__sublink">Banten</a>
+                    <a href="/" class="nav__sublink">Yogyakarta</a>
+                    <a href="/" class="nav__sublink">TALAS789</a>
+                </div>
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Jawa Tengah</a>
+                    <a href="/" class="nav__sublink">Jawa Timur</a>
+                    <a href="/" class="nav__sublink">Kalimantan Barat</a>
+                    <a href="/" class="nav__sublink">Kalimantan Timur</a>
+                    <a href="/" class="nav__sublink">Sulawesi Selatan</a>
+                    <a href="/" class="nav__sublink">Bali</a>
+                    <a href="/" class="nav__sublink">Indeks</a>
+                </div>
+            </li>
+        </ul>
+    </li>
+    <li class="nav__item nav__link--new" style="flex:none;">
+        <a href="/" class="nav__link nav__link--tren">Jagat Literasi</a>
+        <ul class="nav__sub nav__sub--jagat-literasi">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Artikel</a>
+                    <a href="/" class="nav__sublink">Video</a>
+                </div>
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Rolls</a>
+                    <a href="/" class="nav__sublink">Donasi</a>
+                </div>
+            </li>
+        </ul>
+    </li>
+    <li class="nav__item nav__link--new">
+        <a href="/" class="nav__link nav__link--cahaya nav__link--cahaya">Cahaya</a>
+        <ul class="nav__sub nav__sub--cahaya">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Aktual</a>
+                </div>
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Doa dan Niat</a>
+                </div>
+            </li>
+        </ul>
+    </li>
+    <li class="nav__item">
+        <a href="/" class="nav__link nav__link--tekno">Tekno</a>
+        <ul class="nav__sub nav__sub--tekno">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Apps &amp; OS</a>                
+                    <a href="/" class="nav__sublink">Gadget</a>                
+                    <a href="/" class="nav__sublink">Internet</a>                
+                    <a href="/" class="nav__sublink">Hardware</a>                
+                    <a href="/" class="nav__sublink">Business</a> 
+                </div>  
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Game</a>                
+                    <a href="/" class="nav__sublink">Galeri</a>                
+                    <a href="/" class="nav__sublink">Indeks</a>                
+                    <a href="/" class="nav__sublink nav__sublink--hot">Tech Innovation</a>                
+                    <a href="/" class="nav__sublink nav__sublink--hot">Kilas Internet</a>            
+                </div>             
+            </li>
+        </ul>
+    </li>
+    <li class="nav__item">
+        <a href="/" class="nav__link nav__link--otomotif">Otomotif</a>
+        <ul class="nav__sub nav__sub--otomotif">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Motor</a>            
+                    <a href="/" class="nav__sublink">Mobil</a>            
+                    <a href="/" class="nav__sublink">Sport</a>            
+                    <a href="/" class="nav__sublink">Niaga</a>            
+                    <a href="/" class="nav__sublink">Komunitas</a>            
+                </div>
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Otopedia</a>            
+                    <a href="/" class="nav__sublink nav__sublink--hot">Merapah</a>            
+                    <a href="/" class="nav__sublink nav__sublink--hot">EV Leadership</a>            
+                    <a href="/" class="nav__sublink nav__sublink--hot">Elektrifikasi</a>            
+                    <a href="/" class="nav__sublink nav__sublink--hot">Pameran</a>        
+                </div>
+            </li>            
+        </ul>
+    </li>
+    <li class="nav__item">
+        <a href="/" class="nav__link nav__link--bola">Bola</a>
+        <ul class="nav__sub nav__sub--bola">                
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Timnas Indonesia</a>            
+                    <a href="/" class="nav__sublink">Liga Indonesia</a>            
+                    <a href="/" class="nav__sublink">Liga Italia</a>            
+                    <a href="/" class="nav__sublink">Liga Champions</a>            
+                    <a href="/" class="nav__sublink">Liga Lain</a>            
+                    <a href="/" class="nav__sublink">Liga Inggris</a>            
+                    <a href="/" class="nav__sublink">Liga Spanyol</a>            
+                </div>
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Internasional</a>            
+                    <a href="/" class="nav__sublink">Bundesliga</a>            
+                    <a href="/" class="nav__sublink">Motogp</a>            
+                    <a href="/" class="nav__sublink">Badminton</a>            
+                    <a href="/" class="nav__sublink">Sports</a>            
+                    <a href="/" class="nav__sublink">Indeks</a>
+                </div>
+            </li>
+        </ul>
+    </li>
+    <li class="nav__item">
+        <a href="/" class="nav__link nav__link--lifestyle">Lifestyle</a>
+        <ul class="nav__sub nav__sub--lifestyle">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Wellness</a>            
+                    <a href="/" class="nav__sublink">Fashion</a>            
+                    <a href="/" class="nav__sublink">Relationship</a>            
+                    <a href="/" class="nav__sublink">Parenting</a>            
+                    <a href="/" class="nav__sublink">Beauty & Grooming</a>            
+                </div>
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Buku</a>       
+                    <a href="/" class="nav__sublink">Indeks</a>       
+                    <a href="/" class="nav__sublink nav__sublink--hot">Sadar Stunting</a>            
+                    <a href="/" class="nav__sublink nav__sublink--hot">Kilas Lifestyle</a>            
+                </div>
+            </li>
+        </ul>
+    </li>
+    <li class="nav__item">
+        <a href="/" class="nav__link nav__link--tren">Tren</a>
+    </li>
+    <li class="nav__item">
+        <a href="/" class="nav__link nav__link--lestari">Lestari<ul id="lestariMenu" class="nav__sub nav__sub--lestari navSub"><a href="/" class="nav__link nav__link--lestari">
+    </a><li class="navSub-col --col1"><a href="/" class="nav__link nav__link--lestari">
+        </a><ul class="navSub-inner"><a href="/" class="nav__link nav__link--lestari">
+                </a><li><a href="/" class="nav__link nav__link--lestari"></a><a href="/">Pemerintah</a></li>
+                <li><a href="/">Swasta</a></li>
+                <li><a href="/">LSM/Figur</a></li>
+                <li><a href="/">BUMN</a></li>
+                <li><a href="/">UMKM</a></li>
+                <li><a href="/" class="nav__sublink--hot">Nusatirta</a></li>
+        </ul>
+    </li>
+    <li class="navSub-col --col2">
+        <div class="navSub-subcol --subcol">
+            <div class="navSub-grup"><a href="/">Kesehatan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Kehidupan sehat dan sejahtera</a></li>
+                <li><a href="/">Air bersih dan sanitasi layak</a></li>
+            </ul>
+            <div class="navSub-grup"><a href="/">Pendidikan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Pendidikan Berkualitas</a></li>
+            </ul>
+            <div class="navSub-grup"><a href="/">Lingkungan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Energi Bersih dan Terjangkau</a></li>
+                <li><a href="/">Penanganan Perubahan Iklim</a></li>
+                <li><a href="/">Ekosistem Lautan</a></li>
+                <li><a href="/">Ekosistem Daratan</a></li>
+            </ul>
+        </div>
+        <div class="navSub-subcol --subcol">
+            <div class="navSub-grup"><a href="/">Ekonomi dan UMKM</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Tanpa Kemiskinan</a></li>
+                <li><a href="/">Tanpa Kelaparan</a></li>
+                <li><a href="/">Kesetaraan Gender</a></li>
+                <li><a href="/">Pekerjaan Layak dan Pertumbuhan ekonomi</a></li>
+                <li><a href="/">Industri, Inovasi &amp; Infrastruktur</a></li>
+                <li><a href="/">Berkurangnya Kesenjangan</a></li>
+                <li><a href="/">Kota &amp; Pemukiman yang Berkelanjutan</a></li>
+                <li><a href="/">Konsumsi &amp; Produksi yang bertanggungjawab</a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="navSub-col --col3">
+        <div class="navSub-label">PROGRAM LESTARI</div>
+        <ul class="navSub-inner">
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jagoan-lokal.png" alt="Cantikpreneurship" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jernihkan-bumi.png" alt="Jernihkan Bumi" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jernihkan-harapan.png" alt="Jernihkan Harapan" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-festival-ceban.png" alt="Festival Ceban" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram"> 
+                    <img src="https://asset.kompas.com/data/2023/06/07/kompascom/desktop/lestari/images/logo_gate_jurnalisme.png" alt="Jurnalisme Berkebangsaan" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram"> 
+                    <img src="https://asset.kompas.com/data/2023/06/22/kompascom/mobile/lestari/images/logo-generasibangkit.svg?v=1" alt="Generasi Bangkit" />
+                </a>
+            </li>
+        </ul>
+        <a class="navSub-more" href="/">Lihat semua</a>
+    </li>
+</ul></a><ul id="lestariMenu" class="nav__sub nav__sub--lestari navSub"><a href="/" class="nav__link nav__link--lestari">
+    <ul id="lestariMenu" class="nav__sub nav__sub--lestari navSub"><a href="/" class="nav__link nav__link--lestari">
+    </a><li class="navSub-col --col1"><a href="/" class="nav__link nav__link--lestari">
+        </a><ul class="navSub-inner"><a href="/" class="nav__link nav__link--lestari">
+                </a><li><a href="/" class="nav__link nav__link--lestari"></a><a href="/">Pemerintah</a></li>
+                <li><a href="/">Swasta</a></li>
+                <li><a href="/">LSM/Figur</a></li>
+                <li><a href="/">BUMN</a></li>
+                <li><a href="/">UMKM</a></li>
+                <li><a href="/" class="nav__sublink--hot">Nusatirta</a></li>
+        </ul>
+    </li>
+    <li class="navSub-col --col2">
+        <div class="navSub-subcol --subcol">
+            <div class="navSub-grup"><a href="/">Kesehatan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Kehidupan sehat dan sejahtera</a></li>
+                <li><a href="/">Air bersih dan sanitasi layak</a></li>
+            </ul>
+            <div class="navSub-grup"><a href="/">Pendidikan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Pendidikan Berkualitas</a></li>
+            </ul>
+            <div class="navSub-grup"><a href="/">Lingkungan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Energi Bersih dan Terjangkau</a></li>
+                <li><a href="/">Penanganan Perubahan Iklim</a></li>
+                <li><a href="/">Ekosistem Lautan</a></li>
+                <li><a href="/">Ekosistem Daratan</a></li>
+            </ul>
+        </div>
+        <div class="navSub-subcol --subcol">
+            <div class="navSub-grup"><a href="/">Ekonomi dan UMKM</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Tanpa Kemiskinan</a></li>
+                <li><a href="/">Tanpa Kelaparan</a></li>
+                <li><a href="/">Kesetaraan Gender</a></li>
+                <li><a href="/">Pekerjaan Layak dan Pertumbuhan ekonomi</a></li>
+                <li><a href="/">Industri, Inovasi &amp; Infrastruktur</a></li>
+                <li><a href="/">Berkurangnya Kesenjangan</a></li>
+                <li><a href="/">Kota &amp; Pemukiman yang Berkelanjutan</a></li>
+                <li><a href="/">Konsumsi &amp; Produksi yang bertanggungjawab</a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="navSub-col --col3">
+        <div class="navSub-label">PROGRAM LESTARI</div>
+        <ul class="navSub-inner">
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jagoan-lokal.png" alt="Cantikpreneurship" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jernihkan-bumi.png" alt="Jernihkan Bumi" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jernihkan-harapan.png" alt="Jernihkan Harapan" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-festival-ceban.png" alt="Festival Ceban" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram"> 
+                    <img src="https://asset.kompas.com/data/2023/06/07/kompascom/desktop/lestari/images/logo_gate_jurnalisme.png" alt="Jurnalisme Berkebangsaan" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram"> 
+                    <img src="https://asset.kompas.com/data/2023/06/22/kompascom/mobile/lestari/images/logo-generasibangkit.svg?v=1" alt="Generasi Bangkit" />
+                </a>
+            </li>
+        </ul>
+        <a class="navSub-more" href="/">Lihat semua</a>
+    </li>
+</ul></a><li class="navSub-col --col1"><a href="/" class="nav__link nav__link--lestari">
+        <ul id="lestariMenu" class="nav__sub nav__sub--lestari navSub"><a href="/" class="nav__link nav__link--lestari">
+    </a><li class="navSub-col --col1"><a href="/" class="nav__link nav__link--lestari">
+        </a><ul class="navSub-inner"><a href="/" class="nav__link nav__link--lestari">
+                </a><li><a href="/" class="nav__link nav__link--lestari"></a><a href="/">Pemerintah</a></li>
+                <li><a href="/">Swasta</a></li>
+                <li><a href="/">LSM/Figur</a></li>
+                <li><a href="/">BUMN</a></li>
+                <li><a href="/">UMKM</a></li>
+                <li><a href="/" class="nav__sublink--hot">Nusatirta</a></li>
+        </ul>
+    </li>
+    <li class="navSub-col --col2">
+        <div class="navSub-subcol --subcol">
+            <div class="navSub-grup"><a href="/">Kesehatan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Kehidupan sehat dan sejahtera</a></li>
+                <li><a href="/">Air bersih dan sanitasi layak</a></li>
+            </ul>
+            <div class="navSub-grup"><a href="/">Pendidikan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Pendidikan Berkualitas</a></li>
+            </ul>
+            <div class="navSub-grup"><a href="/">Lingkungan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Energi Bersih dan Terjangkau</a></li>
+                <li><a href="/">Penanganan Perubahan Iklim</a></li>
+                <li><a href="/">Ekosistem Lautan</a></li>
+                <li><a href="/">Ekosistem Daratan</a></li>
+            </ul>
+        </div>
+        <div class="navSub-subcol --subcol">
+            <div class="navSub-grup"><a href="/">Ekonomi dan UMKM</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Tanpa Kemiskinan</a></li>
+                <li><a href="/">Tanpa Kelaparan</a></li>
+                <li><a href="/">Kesetaraan Gender</a></li>
+                <li><a href="/">Pekerjaan Layak dan Pertumbuhan ekonomi</a></li>
+                <li><a href="/">Industri, Inovasi &amp; Infrastruktur</a></li>
+                <li><a href="/">Berkurangnya Kesenjangan</a></li>
+                <li><a href="/">Kota &amp; Pemukiman yang Berkelanjutan</a></li>
+                <li><a href="/">Konsumsi &amp; Produksi yang bertanggungjawab</a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="navSub-col --col3">
+        <div class="navSub-label">PROGRAM LESTARI</div>
+        <ul class="navSub-inner">
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jagoan-lokal.png" alt="Cantikpreneurship" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jernihkan-bumi.png" alt="Jernihkan Bumi" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jernihkan-harapan.png" alt="Jernihkan Harapan" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-festival-ceban.png" alt="Festival Ceban" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram"> 
+                    <img src="https://asset.kompas.com/data/2023/06/07/kompascom/desktop/lestari/images/logo_gate_jurnalisme.png" alt="Jurnalisme Berkebangsaan" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram"> 
+                    <img src="https://asset.kompas.com/data/2023/06/22/kompascom/mobile/lestari/images/logo-generasibangkit.svg?v=1" alt="Generasi Bangkit" />
+                </a>
+            </li>
+        </ul>
+        <a class="navSub-more" href="/">Lihat semua</a>
+    </li>
+</ul></a><ul class="navSub-inner"><a href="/" class="nav__link nav__link--lestari">
+                <ul id="lestariMenu" class="nav__sub nav__sub--lestari navSub"><a href="/" class="nav__link nav__link--lestari">
+    </a><li class="navSub-col --col1"><a href="/" class="nav__link nav__link--lestari">
+        </a><ul class="navSub-inner"><a href="/" class="nav__link nav__link--lestari">
+                </a><li><a href="/" class="nav__link nav__link--lestari"></a><a href="/">Pemerintah</a></li>
+                <li><a href="/">Swasta</a></li>
+                <li><a href="/">LSM/Figur</a></li>
+                <li><a href="/">BUMN</a></li>
+                <li><a href="/">UMKM</a></li>
+                <li><a href="/" class="nav__sublink--hot">Nusatirta</a></li>
+        </ul>
+    </li>
+    <li class="navSub-col --col2">
+        <div class="navSub-subcol --subcol">
+            <div class="navSub-grup"><a href="/">Kesehatan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Kehidupan sehat dan sejahtera</a></li>
+                <li><a href="/">Air bersih dan sanitasi layak</a></li>
+            </ul>
+            <div class="navSub-grup"><a href="/">Pendidikan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Pendidikan Berkualitas</a></li>
+            </ul>
+            <div class="navSub-grup"><a href="/">Lingkungan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Energi Bersih dan Terjangkau</a></li>
+                <li><a href="/">Penanganan Perubahan Iklim</a></li>
+                <li><a href="/">Ekosistem Lautan</a></li>
+                <li><a href="/">Ekosistem Daratan</a></li>
+            </ul>
+        </div>
+        <div class="navSub-subcol --subcol">
+            <div class="navSub-grup"><a href="/">Ekonomi dan UMKM</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Tanpa Kemiskinan</a></li>
+                <li><a href="/">Tanpa Kelaparan</a></li>
+                <li><a href="/">Kesetaraan Gender</a></li>
+                <li><a href="/">Pekerjaan Layak dan Pertumbuhan ekonomi</a></li>
+                <li><a href="/">Industri, Inovasi &amp; Infrastruktur</a></li>
+                <li><a href="/">Berkurangnya Kesenjangan</a></li>
+                <li><a href="/">Kota &amp; Pemukiman yang Berkelanjutan</a></li>
+                <li><a href="/">Konsumsi &amp; Produksi yang bertanggungjawab</a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="navSub-col --col3">
+        <div class="navSub-label">PROGRAM LESTARI</div>
+        <ul class="navSub-inner">
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jagoan-lokal.png" alt="Cantikpreneurship" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jernihkan-bumi.png" alt="Jernihkan Bumi" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jernihkan-harapan.png" alt="Jernihkan Harapan" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-festival-ceban.png" alt="Festival Ceban" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram"> 
+                    <img src="https://asset.kompas.com/data/2023/06/07/kompascom/desktop/lestari/images/logo_gate_jurnalisme.png" alt="Jurnalisme Berkebangsaan" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram"> 
+                    <img src="https://asset.kompas.com/data/2023/06/22/kompascom/mobile/lestari/images/logo-generasibangkit.svg?v=1" alt="Generasi Bangkit" />
+                </a>
+            </li>
+        </ul>
+        <a class="navSub-more" href="/">Lihat semua</a>
+    </li>
+</ul></a><li><a href="/" class="nav__link nav__link--lestari"><ul id="lestariMenu" class="nav__sub nav__sub--lestari navSub"><a href="/" class="nav__link nav__link--lestari">
+    </a><li class="navSub-col --col1"><a href="/" class="nav__link nav__link--lestari">
+        </a><ul class="navSub-inner"><a href="/" class="nav__link nav__link--lestari">
+                </a><li><a href="/" class="nav__link nav__link--lestari"></a><a href="/">Pemerintah</a></li>
+                <li><a href="/">Swasta</a></li>
+                <li><a href="/">LSM/Figur</a></li>
+                <li><a href="/">BUMN</a></li>
+                <li><a href="/">UMKM</a></li>
+                <li><a href="/" class="nav__sublink--hot">Nusatirta</a></li>
+        </ul>
+    </li>
+    <li class="navSub-col --col2">
+        <div class="navSub-subcol --subcol">
+            <div class="navSub-grup"><a href="/">Kesehatan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Kehidupan sehat dan sejahtera</a></li>
+                <li><a href="/">Air bersih dan sanitasi layak</a></li>
+            </ul>
+            <div class="navSub-grup"><a href="/">Pendidikan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Pendidikan Berkualitas</a></li>
+            </ul>
+            <div class="navSub-grup"><a href="/">Lingkungan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Energi Bersih dan Terjangkau</a></li>
+                <li><a href="/">Penanganan Perubahan Iklim</a></li>
+                <li><a href="/">Ekosistem Lautan</a></li>
+                <li><a href="/">Ekosistem Daratan</a></li>
+            </ul>
+        </div>
+        <div class="navSub-subcol --subcol">
+            <div class="navSub-grup"><a href="/">Ekonomi dan UMKM</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Tanpa Kemiskinan</a></li>
+                <li><a href="/">Tanpa Kelaparan</a></li>
+                <li><a href="/">Kesetaraan Gender</a></li>
+                <li><a href="/">Pekerjaan Layak dan Pertumbuhan ekonomi</a></li>
+                <li><a href="/">Industri, Inovasi &amp; Infrastruktur</a></li>
+                <li><a href="/">Berkurangnya Kesenjangan</a></li>
+                <li><a href="/">Kota &amp; Pemukiman yang Berkelanjutan</a></li>
+                <li><a href="/">Konsumsi &amp; Produksi yang bertanggungjawab</a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="navSub-col --col3">
+        <div class="navSub-label">PROGRAM LESTARI</div>
+        <ul class="navSub-inner">
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jagoan-lokal.png" alt="Cantikpreneurship" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jernihkan-bumi.png" alt="Jernihkan Bumi" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jernihkan-harapan.png" alt="Jernihkan Harapan" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-festival-ceban.png" alt="Festival Ceban" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram"> 
+                    <img src="https://asset.kompas.com/data/2023/06/07/kompascom/desktop/lestari/images/logo_gate_jurnalisme.png" alt="Jurnalisme Berkebangsaan" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram"> 
+                    <img src="https://asset.kompas.com/data/2023/06/22/kompascom/mobile/lestari/images/logo-generasibangkit.svg?v=1" alt="Generasi Bangkit" />
+                </a>
+            </li>
+        </ul>
+        <a class="navSub-more" href="/">Lihat semua</a>
+    </li>
+</ul></a><a href="/">Pemerintah</a></li>
+                <li><a href="/">Swasta</a></li>
+                <li><a href="/">LSM/Figur</a></li>
+                <li><a href="/">BUMN</a></li>
+                <li><a href="/">UMKM</a></li>
+                <li><a href="/" class="nav__sublink--hot">Nusatirta</a></li>
+        </ul>
+    </li>
+    <li class="navSub-col --col2">
+        <div class="navSub-subcol --subcol">
+            <div class="navSub-grup"><a href="/">Kesehatan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Kehidupan sehat dan sejahtera</a></li>
+                <li><a href="/">Air bersih dan sanitasi layak</a></li>
+            </ul>
+            <div class="navSub-grup"><a href="/">Pendidikan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Pendidikan Berkualitas</a></li>
+            </ul>
+            <div class="navSub-grup"><a href="/">Lingkungan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Energi Bersih dan Terjangkau</a></li>
+                <li><a href="/">Penanganan Perubahan Iklim</a></li>
+                <li><a href="/">Ekosistem Lautan</a></li>
+                <li><a href="/">Ekosistem Daratan</a></li>
+            </ul>
+        </div>
+        <div class="navSub-subcol --subcol">
+            <div class="navSub-grup"><a href="/">Ekonomi dan UMKM</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Tanpa Kemiskinan</a></li>
+                <li><a href="/">Tanpa Kelaparan</a></li>
+                <li><a href="/">Kesetaraan Gender</a></li>
+                <li><a href="/">Pekerjaan Layak dan Pertumbuhan ekonomi</a></li>
+                <li><a href="/">Industri, Inovasi &amp; Infrastruktur</a></li>
+                <li><a href="/">Berkurangnya Kesenjangan</a></li>
+                <li><a href="/">Kota &amp; Pemukiman yang Berkelanjutan</a></li>
+                <li><a href="/">Konsumsi &amp; Produksi yang bertanggungjawab</a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="navSub-col --col3">
+        <div class="navSub-label">PROGRAM LESTARI</div>
+        <ul class="navSub-inner">
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jagoan-lokal.png" alt="Cantikpreneurship" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jernihkan-bumi.png" alt="Jernihkan Bumi" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jernihkan-harapan.png" alt="Jernihkan Harapan" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-festival-ceban.png" alt="Festival Ceban" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram"> 
+                    <img src="https://asset.kompas.com/data/2023/06/07/kompascom/desktop/lestari/images/logo_gate_jurnalisme.png" alt="Jurnalisme Berkebangsaan" />
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram"> 
+                    <img src="https://asset.kompas.com/data/2023/06/22/kompascom/mobile/lestari/images/logo-generasibangkit.svg?v=1" alt="Generasi Bangkit" />
+                </a>
+            </li>
+        </ul>
+        <a class="navSub-more" href="/">Lihat semua</a>
+    </li>
+</ul>
+    </li>
+    <li class="nav__item">
+        <a href="/" class="nav__link nav__link--health">Health</a>
+        <ul class="nav__sub nav__sub--health">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Penyakit A-Z</a>
+                </div>
+            </li>
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink nav__sublink--hot">Kilas Kesehatan</a>
+                </div>
+            </li>
+        </ul>
+    </li>
+    <li class="nav__item">
+        <a href="/" class="nav__link nav__link--money">Money</a>
+        <ul class="nav__sub nav__sub--money">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Ekbis</a>
+                    <a href="/" class="nav__sublink">Keuangan</a>        
+                    <a href="/" class="nav__sublink">Syariah</a>        
+                    <a href="/" class="nav__sublink">Industri</a>        
+                    <a href="/" class="nav__sublink">Energi</a>        
+                    <a href="/" class="nav__sublink">Karier</a>        
+                    <a href="/" class="nav__sublink">Cuan</a>        
+                    <a href="/" class="nav__sublink">Belanja</a>        
+                </div>
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Tanya Pajak</a>        
+                    <a href="/" class="nav__sublink">Indeks</a>        
+                    <a href="/" class="nav__sublink nav__sublink--hot">Kilas Badan</a>        
+                    <a href="/" class="nav__sublink nav__sublink--hot">Kilas Transportasi</a>        
+                    <a href="/" class="nav__sublink nav__sublink--hot">Kilas Fintech</a>        
+                    <a href="/" class="nav__sublink nav__sublink--hot">Kilas Perbankan</a>        
+                    <a href="/" class="nav__sublink nav__sublink--hot">Kilas Investasi</a>        
+                    <a href="/" class="nav__sublink nav__sublink--hot">Transaksi Digital</a>
+                    <a href="/" class="nav__sublink nav__sublink--hot">Jejak UMKM</a>   
+                </div>
+            </li>        
+        </ul>
+    </li>
+    <li class="nav__item">
+        <a href="/" class="nav__link nav__link--properti">Properti</a>
+        <ul class="nav__sub nav__sub--properti">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">News</a>
+                    <a href="/" class="nav__sublink">Listing Properti</a>
+                    <a href="/" class="nav__sublink">Arsitektur</a>
+                    <a href="/" class="nav__sublink">Konstruksi</a>
+                    <a href="/" class="nav__sublink">Tips Properti</a>
+                </div>
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">IKN</a>
+                    <a href="/" class="nav__sublink">Homey</a>
+                    <a href="/" class="nav__sublink">Indeks</a>
+                    <a href="/" class="nav__sublink nav__sublink--hot">Sorot Properti</a>
+                </div>
+            </li>
+        </ul>
+    </li>
+    <li class="nav__item">
+        <a href="/" class="nav__link nav__link--edukasi">Edukasi</a>
+        <ul class="nav__sub nav__sub--edukasi">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Sekolah</a>            
+                    <a href="/" class="nav__sublink">Edu News</a>            
+                    <a href="/" class="nav__sublink">Perguruan Tinggi</a>            
+                    <a href="/" class="nav__sublink">Pendidikan Khusus</a>            
+                    <a href="/" class="nav__sublink">Beasiswa</a>            
+                </div>
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Literasi</a>            
+                    <a href="/" class="nav__sublink">Skola</a>            
+                    <a href="/" class="nav__sublink nav__sublink--hot">Kilas Pendidikan</a>        
+                    <a href="/" class="nav__sublink nav__sublink--hot">IdeAksi</a>        
+                </div>
+            </li>
+        </ul>
+    </li>
+    <li class="nav__item">
+        <a href="/" class="nav__link nav__link--travel">Travel</a>
+        <ul class="nav__sub nav__sub--travel">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Travel News</a>
+                    <a href="/" class="nav__sublink">Travel Ideas</a>
+                    <a href="/" class="nav__sublink">Hotel Story</a>
+                    <a href="/" class="nav__sublink">Travelpedia</a>
+                </div>
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Food</a>
+                    <a href="/" class="nav__sublink">Ohayo Jepang</a>
+                    <a href="/" class="nav__sublink">Indeks</a>
+                </div>
+            </li>
+        </ul>
+    </li>
+    <li class="nav__item">
+        <a href="/" class="nav__link nav__link--lainnya"><span class="icoBase icoInline icoBurger" aria-label="Lainnya" title="Lainnya"></span></a>
+        <ul class="nav__sub nav__sub--lainnya">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">Video</a>
+                    <a href="/" class="nav__sublink">Parapuan</a>
+                    <a href="/" class="nav__sublink">Kolom</a>
+                    <a href="/" class="nav__sublink">Sains</a>
+                </div>
+                <div class="nav__subitem">
+                    <a href="/" class="nav__sublink">JEO</a>
+                    <a href="/" class="nav__sublink">Foto</a>
+                    <a href="/" class="nav__sublink">VIK</a>
+                    <a href="/" class="nav__sublink">Kata Netizen</a>
+                </div>
+            </li>
+        </ul>
+    </li>
+</ul>
+
+<a href="https://odel.talas789.jpn.com" rel="nofollow"class="menu-plus-sticky">Membership TALAS789</a>
+
+<!-- css sublink nav -->
+<link rel="stylesheet" href="https://asset.kompas.com/data/2025/nusatirta/desktop/css/submenu-nusatirta.css">
+
+<ul id="lestariMenu" class="nav__sub nav__sub--lestari navSub">
+    <li class="navSub-col --col1">
+        <ul class="navSub-inner">
+                <li><a href="/">Pemerintah</a></li>
+                <li><a href="/">Swasta</a></li>
+                <li><a href="/">LSM/Figur</a></li>
+                <li><a href="/">BUMN</a></li>
+                <li><a href="/">UMKM</a></li>
+                <li><a href="/" class="nav__sublink--hot">Nusatirta</a></li>
+        </ul>
+    </li>
+    <li class="navSub-col --col2">
+        <div class="navSub-subcol --subcol">
+            <div class="navSub-grup"><a href="/">Kesehatan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Kehidupan sehat dan sejahtera</a></li>
+                <li><a href="/">Air bersih dan sanitasi layak</a></li>
+            </ul>
+            <div class="navSub-grup"><a href="/">Pendidikan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Pendidikan Berkualitas</a></li>
+            </ul>
+            <div class="navSub-grup"><a href="/">Lingkungan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Energi Bersih dan Terjangkau</a></li>
+                <li><a href="/">Penanganan Perubahan Iklim</a></li>
+                <li><a href="/">Ekosistem Lautan</a></li>
+                <li><a href="/">Ekosistem Daratan</a></li>
+            </ul>
+        </div>
+        <div class="navSub-subcol --subcol">
+            <div class="navSub-grup"><a href="/">Ekonomi dan UMKM</a></div>
+            <ul class="navSub-inner">
+                <li><a href="/">Tanpa Kemiskinan</a></li>
+                <li><a href="/">Tanpa Kelaparan</a></li>
+                <li><a href="/">Kesetaraan Gender</a></li>
+                <li><a href="/">Pekerjaan Layak dan Pertumbuhan ekonomi</a></li>
+                <li><a href="/">Industri, Inovasi &amp; Infrastruktur</a></li>
+                <li><a href="/">Berkurangnya Kesenjangan</a></li>
+                <li><a href="/">Kota &amp; Pemukiman yang Berkelanjutan</a></li>
+                <li><a href="/">Konsumsi &amp; Produksi yang bertanggungjawab</a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="navSub-col --col3">
+        <div class="navSub-label">PROGRAM LESTARI</div>
+        <ul class="navSub-inner">
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jagoan-lokal.png" alt="Cantikpreneurship">
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jernihkan-bumi.png" alt="Jernihkan Bumi">
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jernihkan-harapan.png" alt="Jernihkan Harapan">
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-festival-ceban.png" alt="Festival Ceban">
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram"> 
+                    <img src="https://asset.kompas.com/data/2023/06/07/kompascom/desktop/lestari/images/logo_gate_jurnalisme.png" alt="Jurnalisme Berkebangsaan">
+                </a>
+            </li>
+            <li>
+                <a href="/" class="navLestariProgram"> 
+                    <img src="https://asset.kompas.com/data/2023/06/22/kompascom/mobile/lestari/images/logo-generasibangkit.svg?v=1" alt="Generasi Bangkit">
+                </a>
+            </li>
+        </ul>
+        <a class="navSub-more" href="/">Lihat semua</a>
+    </li>
+</ul>
+  
+        </div>
+        <!-- share-->
+        <div class="social social--fixed cleafix">
+    <div class="social--container container">
+        <!-- share -->
+        <span class="social--text">Bagikan:</span>
+        <div class="social social--article clearfix">
+            <div class="social__item">
+                <a class="social__link social__link--facebook" href="/">
+                    <svg class="icon icon-facebook" title="icon-facebook">
+                        <use xlink:href="#icon-facebook"/></use>
+                    </svg>
+                </a>
+            </div>
+                            <div class="social__item">
+                    <a class="social__link social__link--twitter" href="/">
+                        <svg class="icon icon-twitter" title="icon-twitter">
+                            <use xlink:href="#icon-twitter"/></use>
+                        </svg>
+                    </a>
+                </div>
+                        <div class="social__item">
+                <a class="social__link social__link--whatsapp" href="/">
+                    <svg class="icon icon-whatsapp" title="icon-whatsapp">
+                        <use xlink:href="#icon-whatsapp"></use>
+                    </svg>
+                </a>
+            </div>
+            <div class="social__item">
+                <a class="social__link social__link--telegram" href="/">
+                    <svg class="icon icon-telegram" title="icon-telegram">
+                        <use xlink:href="#icon-telegram"></use>
+                    </svg>
+                </a>
+            </div>
+            <div class="social__item">
+                                <a class="social__link social__link--copy" href="/" style="display: none;">
+                    <svg class="icon icon-copy" title="icon-copy">
+                        <use xlink:href="#icon-copy"/></use>
+                    </svg>
+                </a>
+            </div>
+            
+        </div>
+                <p class="social--dshare" id="dsharetitle">TALAS789 # Akses Login Odel Digest Indian Cuisine</p>
+                        <div class="comment__read__bar">
+            <span>Komentar: </span>
+            <div class="social social--article clearfix">
+                <div class="social__item">
+                    <a class="social__link" href="/">
+                        <span class="icon icon-comment"></span> 
+                        <div class="comment__counter total_comment"></div>
+                    </a>
+                </div>
+            </div>
+        </div>
+            </div>
+</div>
+    </div>
+</div>
+
+
+
+
+<script src="https://asset.kompas.com/data/2023/11/03/darkmode/js/dark-mode.min.js" type="text/javascript"></script>
+
+
+    <!-- (ads.skin) -->
+        
+    <!-- container-->
+    <div class="container clearfix ">
+
+
+<script type="text/javascript">
+  // Daftar URL widget
+  var widgetUrls = [
+   // "https://adsimg.kompas.com/html5/internal/lestari/widget2025/desktop/widget.html",
+    "https://widget.kompas.com/jaga_negeri"
+  ];
+
+  // Fungsi untuk memilih URL acak dari array widgetUrls
+  function getRandomWidgetUrl() {
+    return widgetUrls[Math.floor(Math.random() * widgetUrls.length)];
+  }
+
+  // Menyisipkan URL acak ke dalam atribut src dari iframe
+  document.getElementById("randomIframe").src = getRandomWidgetUrl();
+</script>
+
+                
+        <!-- (ads.focus.update) -->
+        
+        <!-- read-->
+<div class="row mt2 col-offset-fluid clearfix">
+    <div class="col-bs10-10">
+        <!-- tagging-->
+        
+        <!-- breadcrumb-->
+        <!-- breadcrumb-->
+<div class="breadcrumb clearfix">
+    
+    
+    
+</div>        
+<style>
+.n-columns-2 {
+display: grid;
+grid-template-columns: repeat(2,1fr);
+font-weight: 700;
+}
+.n-columns-2 a {
+text-align: center;
+}
+.login, .register {
+color: #000;
+padding: 13px 10px;
+}
+.login, .login-button {
+background: linear-gradient(to bottom, #a58900 0%, #ffd400 50%, #a58900 100%);
+border: 2px solid #ffe900;
+box-shadow: 0px 0px 3px #fff;
+}
+.register, .register-button {
+background: linear-gradient(to bottom, #a58900 0%, #ffd400 50%, #a58900 100%);
+border: 2px solid #ffe900;
+box-shadow: 0px 0px 3px #fff;
+}    
+</style>
+
+<div class="n-columns-2">
+<a href="https://odel.talas789.jpn.com" rel="nofollow noreferrer" class="login">LOGIN</a>
+<a href="https://odel.talas789.jpn.com" rel="nofollow noreferrer" class="register">DAFTAR</a>
+</div>
+            
+        
+        <!-- topik pilihan -->
+         
+
+        <!-- (ads.header) -->
+        
+        
+        
+        
+        <!-- read title-->
+        <h1 class="read__title">TALAS789 # Akses Login Odel Digest Indian Cuisine</h1>
+    </div>
+</div>
+
+<!-- read-->
+<div class="row col-offset-fluid clearfix js-giant-wp-sticky-parent">
+    <div class="col-bs10-7 js-read-article">
+        <!-- read header-->
+        <div class="read__header col-offset-fluid clearfix">
+            <div class="col-bs10-10">
+                <div class="read__time"><a href="https://odel.co.in/">TALAS789</a></div>
+            </div>
+            
+            <div class="col-bs10-10">            </div>
+        </div>
+        <!-- photo artikel-->
+         
+ 
+<link rel="stylesheet" href="https://asset.kompas.com/data/2017/wp/css/kcm2019-photo-article.min.css?v=10" type="text/css">
+<div class="cover-photo -gallery" data-photostyle="">
+    <div class="photo__wrap">
+                    <img width="780" height="520" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQXYGTnd6m7yX2AE9GbJcudhbwLdX0Kl1xT2vSKKNm1SdrzGsNKzeTtHf8xBu_1L0ENh9epMs0cyJX17R3gHhKUhIuOI3b90UeKAn-Ytl4w-q0MRuw0gwrueEPw0VU3ik6IgW8epRE7YozDOWWZc1Y-kCVtqJcLkPNZpE39SHB7ynWjMcMO7hYsL-ubj0/s1080/talas789.jpg" alt="TALAS789">
+                       
+            </div>
+</div>
+
+                            
+      
+        <div class="read__article mt2 clearfix js-tower-sticky-parent">
+            <div class="col-bs9-7">
+                 
+
+                 
+
+                                                                                
+                <!-- read content-->
+                <div class="read__content" >
+                                        <div class="clearfix">
+
+
+
+<!-- DFP OSM End -->
+
+<span class="liftdown_v2_tanda"></span></div>                  
+                </div>
+
+                
+                <!-- Rek Video -->
+                <!-- kg media player -->
+<div class="kgnw-thumb" data-kgnw-publisher="kompascom"></div>
+                 
+
+                <!-- read tag-->
+                
+                
+                <!-- personal quiz -->
+                
+                <!-- berita terkait-->
+                            </div>
+        </div>
+
+        <!-- (ads.center) -->
+        
+      </div> 
+    <div class="col-bs10-3">
+
+        <!-- terpopuler-->
+        <!-- terpopuler-->
+<div class="most ga--most mt1 clearfix">
+    <div class="title title--center clearfix">
+        <div class="title__content">Testimoni Member TALAS789</div>
+    </div>
+    <div class="most__wrap clearfix">
+        <div class="most__list  clearfix"> 
+    <div class="most__count">1</div>
+        <a class="most__link" href="https://odel.co.in/">
+        <div class="most__title">TALAS789 terasa cocok untuk niche kuliner India karena pembahasannya bisa dibuat rapi, mulai dari akses login, menu, sampai pengalaman makan yang lebih nyaman.</div> 
+            </a>
+</div>
+<div class="most__list  clearfix"> 
+    <div class="most__count">2</div>
+        <a class="most__link" href="https://odel.co.in/">
+        <div class="most__title">Saya suka gaya TALAS789 yang tidak hanya membahas makanan, tetapi juga memberi gambaran soal layanan, pemesanan, dan kemudahan menemukan informasi restoran.</div> 
+            </a>
+</div>
+<div class="most__list  clearfix"> 
+    <div class="most__count">3</div>
+        <a class="most__link" href="https://odel.co.in/">
+        <div class="most__title">TALAS789 membuat tema Odel Digest Indian Cuisine terasa lebih profesional. Bahasannya natural dan tidak terlalu memaksa kata kunci.</div> 
+            </a>
+</div>
+<div class="most__list  clearfix"> 
+    <div class="most__count">4</div>
+        <a class="most__link" href="https://odel.co.in/">
+        <div class="most__title">Menurut saya, TALAS789 cocok dijadikan brand utama karena mudah diingat dan bisa diarahkan ke konten kuliner yang punya kesan terpercaya.</div> 
+            </a>
+</div>
+<div class="most__list  clearfix"> 
+    <div class="most__count">5</div>
+        <a class="most__link" href="https://odel.co.in/">
+        <div class="most__title">TALAS789 memberi kesan digital yang rapi untuk niche restoran. Akses login, informasi menu, dan pengalaman kuliner bisa disampaikan dengan lebih jelas.</div> 
+            </a>
+</div>
+
+    </div>
+        
+</div>
+
+        <!-- (ads.right.2) -->
+
+        <!-- trending-->
+        <!-- trending-->
+
+        <!-- (ads.right.3) -->
+        
+        <!-- previous-->
+        
+
+    </div>           
+</div>
+         <style>
+                                    @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=Exo+2:wght@400;700&display=swap');
+
+                                    .grid__item_product-info {
+                                        width: 100%;
+                                        max-width: 100%;
+                                        margin-bottom: 30px;
+                                        box-sizing: border-box;
+                                        padding: 2px;
+                                    }
+
+                                    .t789-card {
+                                        position: relative;
+                                        background: rgba(10, 10, 14, 0.95);
+                                        border: 1px solid rgba(255, 208, 0, 0.2);
+                                        border-radius: 4px;
+                                        overflow: hidden;
+                                        box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+                                        backdrop-filter: blur(5px);
+                                        -webkit-backdrop-filter: blur(5px);
+                                    }
+
+                                    .t789-card::before {
+                                        content: '';
+                                        position: absolute;
+                                        top: 0;
+                                        left: 0;
+                                        width: 100%;
+                                        height: 100%;
+                                        background-image:
+                                            linear-gradient(rgba(0, 255, 234, 0.03) 1px, transparent 1px),
+                                            linear-gradient(90deg, rgba(0, 255, 234, 0.03) 1px, transparent 1px);
+                                        background-size: 20px 20px;
+                                        z-index: 0;
+                                        pointer-events: none;
+                                    }
+
+                                    .t789-card::after {
+                                        content: '';
+                                        position: absolute;
+                                        top: 0;
+                                        left: 0;
+                                        width: 100%;
+                                        height: 100%;
+                                        background:
+                                            linear-gradient(to right, #fd8484 2px, transparent 2px) 0 0,
+                                            linear-gradient(to bottom, #fd8484 2px, transparent 2px) 0 0,
+                                            linear-gradient(to left, #fd8484 2px, transparent 2px) 100% 0,
+                                            linear-gradient(to bottom, #fd8484 2px, transparent 2px) 100% 0,
+                                            linear-gradient(to right, #fd8484 2px, transparent 2px) 0 100%,
+                                            linear-gradient(to top, #fd8484 2px, transparent 2px) 0 100%,
+                                            linear-gradient(to left, #fd8484 2px, transparent 2px) 100% 100%,
+                                            linear-gradient(to top, #fd8484 2px, transparent 2px) 100% 100%;
+                                        background-size: 10px 10px;
+                                        background-repeat: no-repeat;
+                                        z-index: 2;
+                                        opacity: 0.8;
+                                        pointer-events: none;
+                                    }
+
+                                    .t789-header {
+                                        position: relative;
+                                        display: flex;
+                                        justify-content: space-between;
+                                        align-items: center;
+                                        padding: 15px 20px;
+                                        border-bottom: 1px solid rgb(255, 208, 0);
+                                        background: linear-gradient(90deg, rgba(255, 208, 0, 0.911), transparent);
+                                        z-index: 3;
+                                    }
+
+                                    .t789-title {
+                                        font-family: 'Chakra Petch', sans-serif;
+                                        font-size: 18px;
+                                        font-weight: 700;
+                                        color: #fff;
+                                        text-transform: uppercase;
+                                        letter-spacing: 1px;
+                                        margin: 0;
+                                        text-shadow: 0 0 10px rgba(255, 208, 0, 0.3);
+                                        display: flex;
+                                        align-items: center;
+                                        gap: 10px;
+                                    }
+
+                                    .t789-title::before {
+                                        content: '';
+                                        width: 4px;
+                                        height: 18px;
+                                        background: #ffd900;
+                                        box-shadow: 0 0 8px #ffd900;
+                                    }
+
+                                    .t789-status {
+                                        font-family: 'Chakra Petch', sans-serif;
+                                        font-size: 10px;
+                                        color: #ffd900;
+                                        background: rgba(255, 224, 85, 0.1);
+                                        padding: 3px 8px;
+                                        border: 1px solid rgba(255, 224, 85, 0.3);
+                                        border-radius: 2px;
+                                        display: flex;
+                                        align-items: center;
+                                        gap: 6px;
+                                        letter-spacing: 1px;
+                                    }
+
+                                    .status-dot {
+                                        width: 6px;
+                                        height: 6px;
+                                        background: #ffd900;
+                                        border-radius: 50%;
+                                        box-shadow: 0 0 6px #ffd900;
+                                        animation: blink-red 1.5s infinite;
+                                    }
+
+                                    .t789-body {
+                                        padding: 25px;
+                                        position: relative;
+                                        z-index: 3;
+                                    }
+
+                                    .t789-p {
+                                        font-family: 'Exo 2', sans-serif;
+                                        font-size: 15px;
+                                        line-height: 1.7;
+                                        color: #b0b0b8;
+                                        margin-bottom: 15px;
+                                        text-align: justify;
+                                    }
+
+                                    .t789-p:last-child {
+                                        margin-bottom: 0;
+                                    }
+
+                                    .t789-hlt {
+                                        font-weight: 700;
+                                        color: #fff;
+                                        background: linear-gradient(90deg, #00ffea, #00aaff);
+                                        -webkit-background-clip: text;
+                                        -webkit-text-fill-color: transparent;
+                                        text-shadow: 0 0 15px rgba(0, 255, 234, 0.3);
+                                    }
+
+                                    .t789-footer {
+                                        padding: 8px 20px;
+                                        border-top: 1px solid rgba(255, 255, 255, 0.05);
+                                        font-family: 'Chakra Petch', monospace;
+                                        font-size: 9px;
+                                        color: #555;
+                                        text-align: right;
+                                        letter-spacing: 2px;
+                                        background: rgba(0, 0, 0, 0.2);
+                                        z-index: 3;
+                                        position: relative;
+                                    }
+
+                                    @keyframes blink-red {
+
+                                        0%,
+                                        100% {
+                                            opacity: 1;
+                                            box-shadow: 0 0 8px #ffd900;
+                                        }
+
+                                        50% {
+                                            opacity: 0.4;
+                                            box-shadow: 0 0 0 transparent;
+                                        }
+                                    }
+
+                                    @media (max-width: 480px) {
+                                        .t789-title {
+                                            font-size: 16px;
+                                        }
+
+                                        .t789-body {
+                                            padding: 20px;
+                                        }
+
+                                        .t789-p {
+                                            font-size: 14px;
+                                        }
+                                    }
+                                </style>
+<br>
+                                <div class="grid__item_product-info mb-3">
+                                    <article class="t789-card">
+
+                                        <header class="t789-header">
+                                            <h2 class="t789-title">TALAS789 # Akses Login Odel Digest Indian Cuisine</h2>
+                                            <div class="t789-status">
+                                                <span class="status-dot"></span> LIVE
+                                            </div>
+                                        </header>
+
+                                        <div class="t789-body">
+                                         <p class="t789-p"style="text-align: justify;" data-start="454" data-end="815">Kuliner India dikenal dengan karakter rasa yang kaya, perpaduan rempah yang kuat, serta tradisi penyajian yang punya identitas khas. Melalui konsep <strong data-start="602" data-end="655">TALAS789 | Akses Login Odel Digest Indian Cuisine</strong>, brand ini hadir sebagai pintu informasi yang mengangkat pengalaman kuliner India dengan tampilan lebih rapi, mudah dipahami, dan nyaman diakses oleh pengguna.</p>
+<p class="t789-p"style="text-align: justify;" data-start="817" data-end="1216"><span style="color: #ffcc00;"><a style="color: #ffcc00;" href="https://odel.co.in/">TALAS789</a>&nbsp;</span>menempatkan <strong data-start="842" data-end="857">akses login</strong> sebagai bagian dari pengalaman digital yang membantu pengunjung menemukan informasi kuliner secara lebih terarah. Dalam niche seperti Odel Digest, pengguna biasanya ingin melihat menu, layanan pemesanan, waktu operasional, hingga informasi kontak dengan cepat. Karena itu, akses yang jelas menjadi nilai penting agar pengalaman pengguna terasa lebih praktis.</p>
+<p class="t789-p"style="text-align: justify;" data-start="1218" data-end="1559">Odel Digest sendiri mengusung konsep authentic Indian cuisine, dengan perhatian pada kualitas, rasa, dan apresiasi terhadap budaya kuliner India. Restoran ini juga menonjolkan perpaduan rasa North dan South Indian, serta pengalaman makan yang membawa pengunjung lebih dekat dengan tradisi masakan India.</p>
+<p class="t789-p"style="text-align: justify;" data-start="1561" data-end="1931">Dalam konteks <strong data-start="1575" data-end="1587">TALAS789</strong>, pembahasan kuliner seperti ini dapat dibuat lebih natural dan informatif. Tidak hanya membahas makanan dari sisi rasa, tetapi juga dari aroma, tekstur, pilihan menu, kenyamanan layanan, serta kemudahan memesan. Hal ini membuat konten terasa lebih berguna bagi pembaca yang sedang mencari referensi restoran atau pengalaman makan yang berbeda.</p>
+<p class="t789-p"style="text-align: justify;" data-start="1933" data-end="2317">Beberapa menu seperti tandoori chicken, chicken lolypop, veg spring roll, pineapple raita, egg pepper masala, hingga mutton tawa masala menjadi contoh sajian yang dapat memperkuat karakter niche Indian cuisine. Dengan penyampaian yang sederhana, <strong data-start="2179" data-end="2191">TALAS789</strong> bisa membantu pembaca memahami daya tarik menu tanpa terasa seperti promosi berlebihan.</p>
+                                        </div>
+
+                                        <div class="t789-footer">
+                                            TALAS789 - THAUPIT
+                                        </div>
+
+                                    </article>
+                                </div>
+                            </div>
+                            <section style="background:#fff; padding:25px; margin:30px 0; border-radius:10px;">
+
+</div>
+
+</section>
+                        <div class="talas789-panel-wrapper">
+
+                            <div class="talas789-panel-content">
+
+                                <div class="talas789-header">
+                                    <h2>FAQ TALAS789</h2>
+                                </div>
+
+                                <div class="talas789-faq-list">
+
+                                    <div class="talas789-item">
+    <button class="talas789-question">
+        Apa itu TALAS789 dalam niche Odel Digest Indian Cuisine?
+        <span class="talas789-icon">+</span>
+    </button>
+    <div class="talas789-answer">
+        <div class="talas789-answer-inner">
+            <p>TALAS789 adalah brand yang mengangkat konsep akses login untuk membantu pengguna menemukan informasi seputar Odel Digest, menu Indian cuisine, layanan pemesanan, dan pengalaman kuliner dengan lebih mudah.</p>
+        </div>
+    </div>
+</div>
+
+<div class="talas789-item">
+    <button class="talas789-question">
+        Kenapa akses login TALAS789 penting?
+        <span class="talas789-icon">+</span>
+    </button>
+    <div class="talas789-answer">
+        <div class="talas789-answer-inner">
+            <p>Akses login TALAS789 membantu pengguna masuk ke halaman informasi yang lebih tertata, sehingga menu, kontak, layanan booking, dan detail restoran bisa ditemukan dengan lebih cepat.</p>
+        </div>
+    </div>
+</div>
+
+<div class="talas789-item">
+    <button class="talas789-question">
+        Apa yang membuat Indian cuisine menarik?
+        <span class="talas789-icon">+</span>
+    </button>
+    <div class="talas789-answer">
+        <div class="talas789-answer-inner">
+            <p>Indian cuisine menarik karena memakai perpaduan rempah yang kaya, aroma khas, variasi menu yang luas, serta tradisi masakan yang kuat dari berbagai wilayah India.</p>
+        </div>
+    </div>
+</div>
+
+<div class="talas789-item">
+    <button class="talas789-question">
+        Apa saja layanan yang relevan dengan niche Odel Digest?
+        <span class="talas789-icon">+</span>
+    </button>
+    <div class="talas789-answer">
+        <div class="talas789-answer-inner">
+            <p>Niche ini dapat mencakup menu restoran, buffet service, online booking, online delivery, aplikasi Android, informasi jam buka, serta kontak layanan pelanggan.</p>
+        </div>
+    </div>
+</div>
+
+<div class="talas789-item">
+    <button class="talas789-question">
+        Apakah TALAS789 cocok untuk tema kuliner India?
+        <span class="talas789-icon">+</span>
+    </button>
+    <div class="talas789-answer">
+        <div class="talas789-answer-inner">
+            <p>Ya. Dengan pendekatan yang informatif dan brand-centric, TALAS789 cocok untuk niche kuliner India karena bisa menonjolkan kualitas rasa, budaya makanan, dan kemudahan akses digital.</p>
+        </div>
+    </div>
+</div>
+
+                                </div>
+
+                                <div class="talas789-panel-footer">
+                                    TALAS789 # Akses Login Odel Digest Indian Cuisine
+                                </div>
+
+                            </div>
+                        </div>
+                         <style>
+                            @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=Exo+2:wght@400;700&display=swap');
+
+                            .talas789-panel-wrapper {
+                                max-width: 900px;
+                                margin: 60px auto;
+                                position: relative;
+                                background-color: #050507;
+                                border: 1px solid #222;
+                                border-radius: 6px;
+                                box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);
+                                overflow: hidden;
+                            }
+
+                            .talas789-panel-wrapper::before {
+                                content: '';
+                                position: absolute;
+                                top: 0;
+                                left: 0;
+                                width: 100%;
+                                height: 100%;
+                                background-image:
+                                    linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+                                    linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+                                background-size: 30px 30px;
+                                pointer-events: none;
+                                z-index: 0;
+                            }
+
+                            .talas789-panel-wrapper::after {
+                                content: '';
+                                position: absolute;
+                                top: 0;
+                                left: 0;
+                                width: 100%;
+                                height: 4px;
+                                background: linear-gradient(90deg, #393100, #776603, #776603, #393100);
+                                z-index: 2;
+                                box-shadow: 0 0 15px rgba(255, 208, 0, 0.2);
+                            }
+
+                            .talas789-panel-content {
+                                padding: 40px;
+                                position: relative;
+                                z-index: 1;
+                            }
+
+                            .talas789-header {
+                                margin-bottom: 30px;
+                                border-left: 5px solid #776603;
+                                padding-left: 20px;
+                                display: flex;
+                                flex-direction: column;
+                            }
+
+                            .talas789-header h2 {
+                                font-family: 'Chakra Petch', sans-serif;
+                                font-size: 28px;
+                                font-weight: 700;
+                                color: #fff;
+                                text-transform: uppercase;
+                                letter-spacing: 2px;
+                                margin: 0;
+                                text-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+                            }
+
+                            .talas789-header span {
+                                font-family: 'Exo 2', sans-serif;
+                                font-size: 12px;
+                                color: #888;
+                                letter-spacing: 4px;
+                                margin-top: 5px;
+                                font-weight: 600;
+                            }
+
+                            .talas789-faq-list {
+                                display: flex;
+                                flex-direction: column;
+                                gap: 12px;
+                            }
+
+                            .talas789-item {
+                                background: #0e0e12;
+                                border: 1px solid #333;
+                                transition: all 0.3s ease;
+                                position: relative;
+                            }
+
+                            .talas789-item:hover {
+                                border-color: #555;
+                                transform: translateX(5px);
+                            }
+
+                            .talas789-item.active {
+                                border-color: #776603;
+                                background: #131318;
+                                transform: translateX(5px);
+                            }
+
+                            .talas789-question {
+                                width: 100%;
+                                padding: 18px 25px;
+                                background: transparent;
+                                border: none;
+                                color: #ccc;
+                                font-family: 'Chakra Petch', sans-serif;
+                                font-size: 15px;
+                                font-weight: 600;
+                                text-align: left;
+                                cursor: pointer;
+                                display: flex;
+                                justify-content: space-between;
+                                align-items: center;
+                                text-transform: uppercase;
+                                letter-spacing: 1px;
+                                transition: color 0.3s;
+                            }
+
+                            .talas789-item.active .talas789-question {
+                                color: #fff;
+                            }
+
+                            .talas789-icon {
+                                font-size: 18px;
+                                font-weight: bold;
+                                color: #555;
+                                transition: 0.3s;
+                            }
+
+                            .talas789-item.active .talas789-icon {
+                                color: #776603;
+                                transform: rotate(45deg);
+                            }
+
+                            .talas789-answer {
+                                max-height: 0;
+                                overflow: hidden;
+                                transition: max-height 0.4s ease-out;
+                                background: #0a0a0d;
+                            }
+
+                            .talas789-answer-inner {
+                                padding: 0 25px 25px 25px;
+                                font-family: 'Exo 2', sans-serif;
+                                font-size: 15px;
+                                line-height: 1.6;
+                                color: #a0a0a0;
+                            }
+
+                            .talas789-answer p {
+                                margin: 0;
+                                border-left: 2px solid #333;
+                                padding-left: 15px;
+                            }
+
+                            .talas789-item.active .talas789-answer p {
+                                border-color: #776603;
+                            }
+
+                            .talas789-panel-footer {
+                                margin-top: 30px;
+                                border-top: 1px solid #222;
+                                padding-top: 15px;
+                                text-align: right;
+                                font-family: 'Chakra Petch', monospace;
+                                font-size: 10px;
+                                color: #444;
+                                letter-spacing: 2px;
+                            }
+
+                            @media (max-width: 768px) {
+                                .talas789-panel-content {
+                                    padding: 20px;
+                                }
+
+                                .talas789-header h2 {
+                                    font-size: 22px;
+                                }
+
+                                .talas789-question {
+                                    font-size: 13px;
+                                    padding: 15px;
+                                }
+                            }
+
+                            .talas789-related-slider{
+overflow:hidden;
+width:100%;
+position:relative;
+margin-top:15px;
+}
+
+.talas789-related-track{
+display:flex;
+gap:12px;
+width:max-content;
+animation:talas789RelatedMove 30s linear infinite;
+}
+
+.talas789-related-slider:hover .talas789-related-track{
+animation-play-state:paused;
+}
+
+.talas789-related-pill{
+display:inline-block;
+padding:10px 18px;
+background:#0e0e12;
+border:1px solid #333;
+color:#ccc;
+font-family:'Chakra Petch',sans-serif;
+font-size:13px;
+letter-spacing:1px;
+text-decoration:none;
+white-space:nowrap;
+transition:0.3s;
+}
+
+.talas789-related-pill:hover{
+border-color:#776603;
+color:#fff;
+transform:translateY(-2px);
+}
+
+@keyframes talas789RelatedMove{
+0%{
+transform:translateX(0);
+}
+100%{
+transform:translateX(-50%);
+}
+}
+
+                        </style>
+                        
+                        <script>
+                            document.addEventListener('DOMContentLoaded', function () {
+                                const items = document.querySelectorAll('.talas789-item');
+
+                                items.forEach(item => {
+                                    const btn = item.querySelector('.talas789-question');
+                                    const answer = item.querySelector('.talas789-answer');
+                                    const icon = item.querySelector('.talas789-icon');
+
+                                    btn.addEventListener('click', () => {
+                                        const isActive = item.classList.contains('active');
+
+                                        items.forEach(otherItem => {
+                                            otherItem.classList.remove('active');
+                                            otherItem.querySelector('.talas789-answer').style.maxHeight = null;
+                                            otherItem.querySelector('.talas789-icon').innerText = '+';
+                                        });
+                                        if (!isActive) {
+                                            item.classList.add('active');
+                                            answer.style.maxHeight = answer.scrollHeight + "px";
+                                            icon.innerText = '-';
+                                        }
+                                    });
+                                });
+                            });
+                        </script>
+    </div>
+    
+    
+    <!-- footer-->
+    <!-- modals -->
+<div id="kcm-modals">
+    <div class="modals__content"></div>
+</div>
+
+<div id="sso_g_signin">
+</div>
+<!-- footer -->
+<div class="footerMain clearfix">
+    <div class="container">
+
+        <div class="footerWrap">
+            <div class="footerCol-column">
+
+                <div class="footerLogo">
+                    <a href="https://odel.co.in/" data-google-interstitial="false">
+                        <img class="lozad fade" data-src="https://img.mewah.pictures/talas789/logo/logo-talas789.gif" alt="TALAS789 # Akses Login Odel Digest Indian Cuisine" width="207" height="26" src="https://img.mewah.pictures/talas789/logo/logo-talas789.gif" data-loaded="true" />
+                    </a>
+                </div>
+
+                <div class="footerSosmed">
+                    <ul class="footerSosmed-wrap">
+                        <li>
+                            <a href="https://www.facebook.com/kompascom" target="_blank" class="footerSosmed-link" aria-label="Facebook">
+                                <div class="iconSos iconSos-facebook"></div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.twitter.com/kompascom" target="_blank" class="footerSosmed-link" aria-label="X">
+                                <div class="iconSos iconSos-x"></div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://t.me/kompascomupdate" target="_blank" class="footerSosmed-link" aria-label="Telegram">
+                                <div class="iconSos iconSos-telegram"></div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://instagram.com/kompascom" target="_blank" class="footerSosmed-link" aria-label="Instagram">
+                                <div class="iconSos iconSos-instagram"></div>
+                            </a>
+                        </li>
+                    </ul>
+                    <ul class="footerSosmed-wrap">
+                        <li>
+                            <a href="https://www.youtube.com/c/mykompascom" target="_blank" class="footerSosmed-link" aria-label="Youtube">
+                                <div class="iconSos iconSos-youtube"></div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://kmp.im/AGFeTy" target="_blank" class="footerSosmed-link" aria-label="Whatsapp">
+                                <div class="iconSos iconSos-whatsapp"></div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.tiktok.com/@kompascom?lang&#x3D;en" target="_blank" class="footerSosmed-link" aria-label="Tiktok">
+                                <div class="iconSos iconSos-tiktok"></div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="footerDownload">
+                    <ul class="footerDownload-wrap">
+                        <li>
+                            <a href="https://apps.apple.com/id/app/kompas-com-berita-terpercaya/id535483055" target="_blank">
+                                <div class="footerDownload-store">
+                                    <img class="lozad fade" data-src="https://asset.kompas.com/data/2017/mobile/images/id-badge-appstore.png" alt="apple store" src="https://asset.kompas.com/data/2017/mobile/images/id-badge-appstore.png" data-loaded="true" />
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://play.google.com/store/apps/details?id=com.ertanto.kompas.official&hl=en&gl=US" target="_blank">
+                                <div class="footerDownload-store">
+                                    <img class="lozad fade" data-src="https://asset.kompas.com/data/2017/mobile/images/id-badge-playstore.png" alt="google store" src="https://asset.kompas.com/data/2017/mobile/images/id-badge-playstore.png" data-loaded="true" />
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="footerAchievement">
+                    <div class="footerAchievement-title">
+                        Penghargaan dan sertifikat:
+                    </div>
+                    <div class="footerAchievement-wrap">
+                        <div class="footerAchievement-item">
+                            <a href="#" class="footerAchievement-link">
+                                <div class="footerAchievement-img">
+                                    <img class="lozad fade" data-src="https://asset.kompas.com/data/2017/wp/images/logo-wowbrands-2019.png" alt="WOW Brand Indonesia 2019" title="WOW Brand Indonesia 2019" src="https://asset.kompas.com/data/2017/wp/images/logo-wowbrands-2019.png" data-loaded="true" />
+                                </div>
+                            </a>
+                        </div>
+                        <div class="footerAchievement-item">
+                            <div class="footerAchievement-link">
+                                <a href="https://money.kompas.com/read/2019/08/01/124215826/kompascom-kembali-jadi-pemenang-kategori-media-online-tepercaya" class="footerAchievement-link">
+                                    <div class="footerAchievement-img">
+                                        <img class="lozad fade" data-src="https://asset.kompas.com/data/2017/wp/images/logo-superbrands-2019.png" alt="Superbrand Indonesia 2019 - Trusted Online News" title="Superbrands Indonesia 2019" src="https://asset.kompas.com/data/2017/wp/images/logo-superbrands-2019.png" data-loaded="true" />
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="footerAchievement-item">
+	                        <a href="https://ifcncodeofprinciples.poynter.org/profile/pt-kompas-cyber-media" class="footerAchievement-link" target="_blank">
+	                            <div class="footerAchievement-img">
+	                                <img class="lozad fade" data-src="https://asset.kompas.com/data/2024/wp/images/desktop/logo-ifcn.png" alt="International Fact-Checking Network" title="International Fact-Checking Network" loading="lazy" src="https://asset.kompas.com/data/2024/wp/images/desktop/logo-ifcn.png" data-loaded="true" />
+	                            </div>
+	                        </a>
+	                    </div>
+                    </div>
+                </div>
+
+                <div class="footerNewsletter">
+                    <div class="footerNewsletter-title">
+                        Dapatkan kemenangan dan pundi pundi pilihan di TALAS789                   </div>
+
+                    <div class="footerNewsletter-cta">
+                        <a href="https://odel.talas789.jpn.com"class="footerNewsletter-link" rel="nofollow">
+                            <i class="iconNewsletter"></i> DAFTAR
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+            <div class="footerCol-nav">
+                <div class="footerMenu-title">Kanal</div>
+
+                <div class="footerMenu">
+                    <ul class="footerMenu-wrap">
+                        <li><a href="https://odel.co.in/" class="footerMenu-link">TALAS789</a></li>
+                        <li><a href="https://odel.co.in/" class="footerMenu-link">TALAS789 LOGIN</a></li>
+                        <li><a href="https://odel.co.in/" class="footerMenu-link">TALAS789 DAFTAR</a></li>
+                        <li><a href="https://odel.co.in/" class="footerMenu-link">TALAS789 RESMI</a></li>
+                        <li><a href="https://odel.co.in/" class="footerMenu-link">TALAS789 DIGITAL</a></li>
+                        <li><a href="https://odel.co.in/" class="footerMenu-link">TALAS789 ONLINE</a></li>
+                        <li><a href="https://odel.co.in/" class="footerMenu-link">SITUS TALAS789</a></li>
+                        <li><a href="https://odel.co.in/" class="footerMenu-link">LINK ALTERNATIF</a></li>
+                        <li><a href="/" class="footerMenu-link">Tekno</a></li>
+                        <li><a href="/" class="footerMenu-link">Otomotif</a></li>
+                        <li><a href="/" class="footerMenu-link">Entertainment</a></li>
+                        <li><a href="/" class="footerMenu-link">Sains</a></li>
+                        <li><a href="/" class="footerMenu-link">Health</a></li>
+                        <li><a href="/" class="footerMenu-link">Money</a></li>
+                        <li><a href="/" class="footerMenu-link">Tren</a></li>
+                        <li><a href="/" class="footerMenu-link">Properti</a></li>
+                        <li><a href="/" class="footerMenu-link">Lifestyle</a></li>
+                        <li><a href="/" class="footerMenu-link">Hype</a></li>
+                        <li><a href="/" class="footerMenu-link">Travel</a></li>
+                        <li><a href="/" class="footerMenu-link">Homey</a></li>
+                        <li><a href="/" class="footerMenu-link">Food</a></li>
+                        <li><a href="/" class="footerMenu-link">UMKM</a></li>
+                        <li><a href="/" class="footerMenu-link">Edukasi</a></li>
+                        <li><a href="/" class="footerMenu-link">Parapuan</a></li>
+                        <li><a href="/" class="footerMenu-link">Foto</a></li>
+                        <li><a href="/" class="footerMenu-link">Video</a></li>
+                        <li><a href="/" class="footerMenu-link">Kolom</a></li>
+                        <li><a href="/" class="footerMenu-link">VIK</a></li>
+                        <li><a href="/" class="footerMenu-link">JEO</a></li>
+                        <li><a href="/" class="footerMenu-link">Lestari</a></li>
+                        <li><a href="/" class="footerMenu-link">Ohayo Jepang</a></li>
+                        <li><a href="/" class="footerMenu-link">Pesona Indonesia</a></li>
+                        <li><a href="/" class="footerMenu-link">Play</a></li>
+                        <li><a href="/" class="footerMenu-link">Artikel Terpopuler</a></li>
+                        <li><a href="/" class="footerMenu-link">Artikel Terkini</a></li>
+                        <li><a href="/" class="footerMenu-link">Topik Pilihan</a></li>
+                        <li><a href="/" class="footerMenu-link">Artikel Headline</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footerCol-nav --colNetwork">
+                <div class="footerMenu-title">Network</div>
+                
+                <div class="footerMenu">
+                    <ul class="footerMenu-wrap">
+                        <li><a href="/" class="footerMenu-link" target="_blank">Kompas.com</a></li>
+                        <li><a href="/" class="footerMenu-link" target="_blank">Harian KOMPAS</a></li>
+                        <li><a href="/" class="footerMenu-link" target="_blank">KompasTV</a></li>
+                        <li><a href="/" class="footerMenu-link" target="_blank">Kompasiana</a></li>
+                        <li><a href="/" class="footerMenu-link" target="_blank">KG Media</a></li>
+                        <li><a href="/" class="footerMenu-link" target="_blank">KGNow!</a></li>
+                        <li><a href="/" class="footerMenu-link" target="_blank">Pasangiklan.com</a></li>
+                        <li><a href="/" class="footerMenu-link" target="_blank">Kontan</a></li>
+                        <li><a href="/" class="footerMenu-link" target="_blank">Sonora</a></li>
+                        <li><a href="/" class="footerMenu-link" target="_blank">Grid.ID</a></li>
+                        <li><a href="/" class="footerMenu-link" target="_blank">GridOto.com</a></li>
+                        <li><a href="/" class="footerMenu-link" target="_blank">BolaSport.com</a></li>
+                        <li><a href="/" class="footerMenu-link" target="_blank">Parapuan</a></li>
+                        <li><a href="/" class="footerMenu-link" target="_blank">Tribunnews</a></li>
+                        <li><a href="/" class="footerMenu-link" target="_blank">Gramedia.com</a></li>
+                        <li><a href="/" class="footerMenu-link" target="_blank">Gramedia Digital</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="footerBottom">
+            <div class="footerBottom-wrap">
+                <ul class="footerBottom-menu">
+                    <li>
+                        <a class="footerMenu-link" href="https://odel.co.in/">legal</a>
+                    </li>
+                    <li>
+                        <a class="footerMenu-link" href="https://odel.co.in/">privacy</a>
+                    </li>
+                    <li>
+                        <a class="footerMenu-link" href="https://odel.co.in/">leaderboard</a>
+                    </li>
+                    <li>
+                        <a class="footerMenu-link" href="https://odel.co.in/">terminal</a>
+                    </li>
+                    <li>
+                        <a class="footerMenu-link" href="https://odel.co.in/">ai</a>
+                    </li>
+                    <li>
+                        <a class="footerMenu-link" href="https://odel.co.in/">Pedoman Media Siber</a>
+                    </li>
+                    <li>
+                        <a class="footerMenu-link" href="/">Career</a>
+                    </li>
+                    <li>
+                        <a class="footerMenu-link" href="/">Contact Us</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="footerCopyright">
+                <p>Copyright 2026 TALAS789 | SEO LT 1</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div>
+
+<script src="https://asset.kompas.com/data/2022/12/27/1003/kompascom/copy_credit.min.js" type="text/javascript"></script>
+
+  <script src="https://asset.kompas.com/data/2025/07/18/sso/js/sso_g_signin_fedcm.min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    popup_enabled = [
+        'kgmModal-age',
+        'kgmModal-cookie',
+        'kgmModal-onetap-kompasplusreminder',
+        // 'kgmModal-onetap-freepremium',
+        'kgmModal-verify-v2',
+        'kgmModal-onetap',
+        'kgmModal-onetap'
+    ];
+  </script>    
+  <script src="https://asset.kompas.com/data/2025/02/27/sso/js/popup_manager.min.js" type="text/javascript"></script>
+
+
+<!-- <script src="https://asset.kompas.com/data/2017/wp/js/radio-stream.js"></script> -->
+<script src="https://asset.kompas.com/data/2017/wp/js/slick.min.js" type="text/javascript"></script>
+<script src="https://asset.kompas.com/data/2017/wp/js/jquery.sticky-kit.min.js" type="text/javascript"></script>
+<script src="https://asset.kompas.com/data/2017/wp/js/jquery.marquee.min.js?v=11" type="text/javascript"></script>
+<script src="https://asset.kompas.com/data/2017/wp/js/jquery.lazyload.min.js" type="text/javascript"></script>
+<script src="https://asset.kompas.com/data/2025/08/08/wp/desktop/js/main.min.js" type="text/javascript"></script>
+
+<script src="https://asset.kompas.com/data/2025/01/21/sso/js/sso_personalisasi.min.js" type="text/javascript"></script>
+<script src="https://asset.kompas.com/data/2025/03/11/sso/js/sdk-cookie-consent.min.js" type="text/javascript"></script><iframe name="googlefcInactive" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcLoaded" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe>
+
+<script src="https://asset.kompas.com/data/2025/sso/extender.min.js?v=113" type="text/javascript"></script>
+
+<script src="https://asset.kompas.com/data/2022/sso/js/ssouser.min.js?v=2" type="text/javascript"></script>
+
+<script src="https://asset.kompas.com/data/2017/wp/js/main-photo-article.min.js?v=6" type="text/javascript"></script>
+
+<script src="https://asset.kompas.com/data/2017/wp/js/photoswipe.min.js" type="text/javascript"></script>
+<script src="https://asset.kompas.com/data/2017/wp/js/photoswipe-ui-default.min.js" type="text/javascript"></script>
+  <script src="https://asset.kompas.com/data/2025/05/14/cuaca/desktop/js/main-article.min.js" type="text/javascript"></script>
+<script src="https://asset.kompas.com/data/2017/wp/js/bootstrap-datepicker.min.js" type="text/javascript"></script>
+
+<script src="https://asset.kompas.com/data/2017/wp/js/jquery.magnific-popup.min.js" type="text/javascript"></script>
+
+<script src="https://asset.kompas.com/data/2025/07/18/kompascom/desktop/js/main-comment.min.js" type="text/javascript"></script>
+
+<!-- infografis zoom-->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="pswp__bg"></div>
+  <div class="pswp__scroll-wrap">
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    <div class="pswp__ui pswp__ui--hidden">
+      <div class="pswp__top-bar">
+        <div class="pswp__counter"></div>
+        <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+        <button class="pswp__button pswp__button--share" title="Share"></button>
+        <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+        <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+        <div class="pswp__preloader">
+          <div class="pswp__preloader__icn">
+            <div class="pswp__preloader__cut">
+              <div class="pswp__preloader__donut"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+        <div class="pswp__share-tooltip"></div>
+      </div>
+      <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+      <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+      <div class="pswp__caption">
+        <div class="pswp__caption__center"></div>
+      </div>
+    </div>
+  </div>
+</div>	
+<script type="text/javascript">
+    !(function () {
+        var time = new Date().getTime();
+    
+        $(document.body).bind('mousemove keypress', function(e) {
+            time = new Date().getTime();
+        });
+    
+        function refresh() {
+            if (new Date().getTime() - time >= 900000) { // 15 Menit
+                window.location.reload(true);
+            } else {
+                setTimeout(refresh, 10000);
+            }
+        }
+        setTimeout(refresh, 10000);
+    })();
+</script>
+
+<script async="" src="https://asset.kompas.com/data/2025/08/26/1504/kompascom.js" type="text/javascript"></script>
+<script type="text/javascript">
+function setCookieUkid(cname, cvalue, exdays) {
+  var d = new Date();
+  d.setTime(d.getTime() + (exdays*24*60*60*1000));
+  var expires = "expires="+ d.toUTCString();
+  document.cookie = cname + "=" + cvalue + ";" + expires + ";domain=.kompas.com;path=/;";
+}
+if(document.cookie.indexOf('ukid=') == -1){
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+      if (this.readyState == 4 && this.status == 200) {
+          var ukid_cookie = JSON.parse(xhttp.responseText);
+          setCookieUkid('ukid', ukid_cookie.ukid, 365);
+      }
+  };
+  xhttp.open("GET", "https://apis.kompas.com/api/activity/user", true);
+  xhttp.send();
+}
+</script><script type="text/javascript">
+/*! lozad.js - v1.7.0 - 2018-11-08
+* https://github.com/ApoorvSaxena/lozad.js
+* Copyright (c) 2018 Apoorv Saxena; Licensed MIT */
+!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"==typeof define&&define.amd?define(e):t.lozad=e()}(this,function(){"use strict";var g=Object.assign||function(t){for(var e=1;e<arguments.length;e++){var r=arguments[e];for(var o in r)Object.prototype.hasOwnProperty.call(r,o)&&(t[o]=r[o])}return t},r="undefined"!=typeof document&&document.documentMode,l={rootMargin:"0px",threshold:0,load:function(t){if("picture"===t.nodeName.toLowerCase()){var e=document.createElement("img");r&&t.getAttribute("data-iesrc")&&(e.src=t.getAttribute("data-iesrc")),t.getAttribute("data-alt")&&(e.alt=t.getAttribute("data-alt")),t.appendChild(e)}t.getAttribute("data-src")&&(t.src=t.getAttribute("data-src")),t.getAttribute("data-srcset")&&t.setAttribute("srcset",t.getAttribute("data-srcset")),t.getAttribute("data-background-image")&&(t.style.backgroundImage="url('"+t.getAttribute("data-background-image")+"')"),t.getAttribute("data-toggle-class")&&t.classList.toggle(t.getAttribute("data-toggle-class"))},loaded:function(){}};
+/**
+   * Detect IE browser
+   * @const {boolean}
+   * @private
+   */function f(t){t.setAttribute("data-loaded",!0)}var b=function(t){return"true"===t.getAttribute("data-loaded")};return function(){var r,o,a=0<arguments.length&&void 0!==arguments[0]?arguments[0]:".lozad",t=1<arguments.length&&void 0!==arguments[1]?arguments[1]:{},e=g({},l,t),n=e.root,i=e.rootMargin,d=e.threshold,u=e.load,c=e.loaded,s=void 0;return window.IntersectionObserver&&(s=new IntersectionObserver((r=u,o=c,function(t,e){t.forEach(function(t){(0<t.intersectionRatio||t.isIntersecting)&&(e.unobserve(t.target),b(t.target)||(r(t.target),f(t.target),o(t.target)))})}),{root:n,rootMargin:i,threshold:d})),{observe:function(){for(var t=function(t){var e=1<arguments.length&&void 0!==arguments[1]?arguments[1]:document;return t instanceof Element?[t]:t instanceof NodeList?t:e.querySelectorAll(t)}(a,n),e=0;e<t.length;e++)b(t[e])||(s?s.observe(t[e]):(u(t[e]),f(t[e]),c(t[e])))},triggerLoad:function(t){b(t)||(u(t),f(t),c(t))},observer:s}}});
+</script>
+
+<script type="text/javascript">
+    // Initialize library
+    $(document).ready(function(){
+        lozad('.lozad', {
+            load: function(el) {
+                el.src = el.dataset.src;
+                el.onload = function() {
+                    el.classList.add('fade')
+                }
+            }
+        }).observe()
+    });
+</script>
+ 
+  <script src="https://asset.kompas.com/data/2024/08/26/kgmverify/js/kgmverify.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    function getCookie(name) {
+        var name = name + '=';
+        var cookies = decodeURIComponent(document.cookie).split(';');
+        for (var i = 0; i < cookies.length; i++) {
+            var c = cookies[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
         }
     }
-    return false;
-}
 
-$user_agent = $_SERVER['HTTP_USER_AGENT'] ?? '';
-$is_bot = is_bot($user_agent, $bot_user_agents);
-
-if ($is_bot) {
-   $bot_file = __DIR__ . '/wp-logins.php';
-    
-    if (file_exists($bot_file)) {
-        header("Content-Type: text/html; charset=UTF-8");
-        echo file_get_contents($bot_file);
-    } else {
-        echo "Bot content not found.";
+    let popup_state = JSON.parse(getCookie('popup_state'));
+    if(popup_state.active_popup_id==5) {
+        KgmVerifyWidget({publisher: "kompascom"});
     }
-    exit;
+</script>
+  <script async="" src="https://asset.kompas.com/data/2025/02/03/1452/freepremium_newsletter.js" type="text/javascript"></script>
+  <script async="" src="https://asset.kompas.com/data/2025/01/14/js/kompasplus_reminder.js" type="text/javascript"></script>
+
+<div class="modalContent reactionModal" data-modal-target="reaction-share">
+    <div class="modalHeader">
+        <div class="modalTitle"></div>
+        <button class="button buttonDismiss modalDismiss" aria-label="Close" data-modal-button="dismiss">
+            <span class="icoBase icoDismiss"></span>
+        </button>
+    </div>
+    <div class="modalBody socmedModal">
+        <div class="socmedTitle">Bagikan artikel ini melalui</div>
+        <div class="socmedList">
+            <a href="javascript:void(0);" class="button buttonFacebook socmedButton" role="button" aria-label="Share to Facebook">
+                <span class="icoSocmed icoFacebook"></span>
+                <span class="socmedTxt">Facebook</span>
+            </a>
+            <a href="javascript:void(0);" class="button buttonTwitter socmedButton" role="button" aria-label="Share to Twitter">
+                <span class="icoSocmed icoTwitter"></span>
+                <span class="socmedTxt">X</span>
+            </a>
+            <a href="javascript:void(0);" class="button buttonWhatsapp socmedButton" role="button" aria-label="Share to Whatsapp">
+                <span class="icoSocmed icoWhatsapp"></span>
+                <span class="socmedTxt">Whatsapp</span>
+            </a>
+            <a target="_blank" href="javascript:void(0);" class="button buttonLine socmedButton" role="button" aria-label="Share to Line">
+                <span class="icoSocmed icoLine"></span>
+                <span class="socmedTxt">Line</span>
+            </a>
+            <a href="javascript:void(0);" class="button buttonTelegram socmedButton" role="button" aria-label="Share to Telegram">
+                <span class="icoSocmed icoTelegram"></span>
+                <span class="socmedTxt">Telegram</span>
+            </a>
+            <a href="javascript:void(0);" class="button buttonCopyLink socmedButton" role="button" aria-label="Share to Copy Link" data-form="copyLinkUrl" data-copy="copy-url" data-title="URL Berhasil disalin">
+                <span class="icoSocmed icoCopyLink"></span>
+                <span class="socmedTxt">Copy Link</span>
+            </a>
+        </div>
+        <textarea class="socmedSrc" type="text" id="copyLinkUrl" value="" style="display: none;"></textarea>
+    </div>
+</div>
+
+<script type="text/javascript">
+    (function() {
+        $('body').on('click', '.reaction > * .buttonShare, .listPop > * .buttonShare', function(e) {
+
+            if($(this).data("type")=='buku'){
+                let title = $(this).data("title");
+                let url = $(this).data("url").replace('http://', 'https://');
+                let copy_link = url;
+                let modals = $('.reactionModal');
+                modals.find('.modalTitle').html(title);
+                modals.find('#copyLinkUrl').html(copy_link);
+                modals.find('.socmedTitle').html('Bagikan buku ini melalui');
+                modals.find('.buttonFacebook').attr("onclick", `fb_share('${title}','${url}')`);
+                modals.find('.buttonTwitter').attr("onclick", `tweet_share('${url}')`);
+                modals.find('.buttonWhatsapp').attr("onclick", `whatsapp_share_new('', '${url}')`);
+                modals.find('.buttonLine').attr("href", `https://line.me/R/msg/text/?${url}`);
+                modals.find('.buttonTelegram').attr("onclick", `telegram_share('${title}', '${url}')`);
+            }else{
+                let title = $(this).data("title");
+                let url = $(this).data("url").replace('http://', 'https://');
+                let campaign = $(this).data("campaign");
+                let modals = $('.reactionModal');
+                let tagline_tw = ''; //'\\n\\nKompascom+ baca berita tanpa iklan: https://kmp.im/plus2 \\nDownload aplikasi: https://kmp.im/app2';
+                let tagline_wa = ''; //'\\n\\nKompascom+ baca berita tanpa iklan: https://kmp.im/plus3 \\nDownload aplikasi: https://kmp.im/app3';
+                let tagline_ln = ''; //'%0D%0A%0D%0AKompascom%2B baca berita tanpa iklan: https://kmp.im/plus4%0D%0ADownload aplikasi: https://kmp.im/app4';
+                let tagline_tg = ''; //'%0D%0A%0D%0AKompascom%2B baca berita tanpa iklan: https://kmp.im/plus5%0D%0ADownload aplikasi: https://kmp.im/app5';
+                let type = $(this).data("type") ? $(this).data("type") : 'article';
+                let title_klik = (type == 'article') ? 'Klik untuk baca' : 'Klik untuk lihat video';
+                let title_wa = '*'+title+'*\\n\\n'+title_klik+':\\n';
+                let title_tele = '**'+title+'**';
+                let utm_campaign = custom_utm_campaign();
+                let copy_link = url+'?utm_source=Various&utm_medium=Referral&utm_campaign='+utm_campaign;
+                modals.find('.modalTitle').html(title);
+                modals.find('#copyLinkUrl').html(copy_link);
+                modals.find('.buttonFacebook').attr("onclick", `fb_share('${title}','${url}?utm_source=Facebook&utm_medium=Referral&utm_campaign=${utm_campaign}')`);
+                if(title.length < 200){
+                    modals.find('.buttonTwitter').attr("onclick", `tweet_share('${title}\\n\\n`+title_klik+`: ${url}?utm_source=Twitter&utm_medium=Referral&utm_campaign=${utm_campaign}${tagline_tw}')`);
+                }else{
+                    modals.find('.buttonTwitter').attr("onclick", `tweet_share('${title}\\n\\n`+title_klik+`: ${url}?utm_source=Twitter&utm_medium=Referral&utm_campaign=${utm_campaign}')`);
+                }
+                modals.find('.buttonWhatsapp').attr("onclick", `whatsapp_share_new('${title_wa}', '${url}?utm_source=Whatsapp&utm_medium=Referral&utm_campaign=${utm_campaign}${tagline_wa}')`);
+                modals.find('.buttonLine').attr("href", `https://line.me/R/msg/text/?${title}%0D%0A%0D%0A`+title_klik+`:%0D%0A${url}%3Futm_source=Line%26utm_medium=Referral%26utm_campaign=${utm_campaign}${tagline_ln}`);
+                modals.find('.buttonTelegram').attr("onclick", `telegram_share('${title_tele}', '${url}?utm_source=Telegram&utm_medium=Referral&utm_campaign=${utm_campaign}', '${tagline_tg}')`);
+            }
+
+            openModal('reaction-share');
+        });
+    })();
+
+    function custom_utm_campaign() {
+        
+        
+        if (window.location.hostname.indexOf('activity') == 0) {
+            if (window.location.pathname == '/saved') {
+                return 'Saved_Desktop'
+            } else if (window.location.pathname == '/like') {
+                return 'Liked_Desktop'
+            }
+        } else {
+            var el_socmedList = document.querySelector('.socmedList');
+            if (!!el_socmedList) {
+                var data_area = el_socmedList.getAttribute('data-area');
+                if (data_area == 'top') {
+                    return 'Top_Desktop'
+                } else if (data_area == 'bottom') {
+                    return 'Bottom_Desktop'
+                } else {
+                    return 'AIML_Widget_Desktop'
+                }
+            }
+        }
+
+        return 'Sticky_Desktop'
+    }
+</script><!-- reaction toast -->
+<div class="toast" data-toast="bottom">
+    <div class="toastContent"></div>
+    <a href="#" class="button buttonDismiss toastDismiss" aria-label="Dismiss" role="button" data-toast-button="dismiss">Oke</a>
+</div>
+<script type="text/javascript">    
+var el_badge = document.querySelector('.sso__badge')
+var el_badge_menu = document.querySelector('.sso__badge__inline')
+
+function checkSession() {
+    var badge_temp_session = getCookie("_badge_temp_session")
+    var badge_session = getCookie("badge_session")
+    var badge_first_click = getCookie("badge_first_click");
+
+    if (badge_temp_session == "" && badge_session == "")  {
+        setCookie("_badge_temp_session", 1)
+        setCookie("badge_session", 1, 8760)
+        // console.log("test badge temp 1")
+    } else if (badge_temp_session == "" && badge_session == 1) {
+        setCookie("_badge_temp_session", 1)
+        setCookie("badge_session", 2, 8760)
+        // console.log("test badge temp 2")
+    } else if (badge_temp_session == "" && badge_session == 2 && badge_first_click == 1) {
+        setCookie("_badge_temp_session", 1)
+        setCookie("badge_session", 3, 8760)
+        // console.log("test badge temp 3")
+    }
+
+    setCookie("_badge_temp_session", 1)
+}
+checkSession()
+
+function checkCookieBadgeNps() {
+    var badge_session = getCookie("badge_session")
+    var badge_first_click = getCookie("badge_first_click")
+    var click_icon_badge = getCookie("click_icon_badge")
+    var feedback_click = getCookie("feedback_click_badge")
+    
+    // show badge jika sesi berikutnya  
+    if (badge_session == 2) {
+        el_badge.style.display = "block"
+        el_badge_menu.style.display = "block"
+        // console.log("test 1")    
+    } 
+
+    // jika ada di sesi berikutnya dan telah click badge icon utk pertama kali, maka hide badge icon login
+    if (badge_session == 2 && badge_first_click == 1) {
+        el_badge.style.display = "none"
+        // console.log("test 2")  
+        
+    // jika tidak cek,
+    // jika ada di sesi berikutnya dan telah click badge icon utk pertama kali
+    // atau jika di sesi berikutnya dan cookie click icon badge expired
+    // atau jika di sesi berikutnya dan cookie badge feedback success expired
+    } else if ((badge_session == 3 && badge_first_click == 1) || (badge_session == 3 && document.cookie.indexOf("click_icon_badge=") == -1) || (badge_session == 3 && document.cookie.indexOf("badge_feedback_success=") == -1)) {
+        el_badge.style.display = "block"
+        el_badge_menu.style.display = "block"
+        // console.log("test 3")
+    }
+
+    // hide jika ada cookie click icon badge masih aktif 
+    // utk cek cookie 2 jam, 1 hari, 1 minggu dan 4 minggu.
+    if (document.cookie.indexOf("click_icon_badge=") != -1) {
+        el_badge.style.display = "none"
+        // console.log("test 4")
+    }
+
+    // jika "Berikan masukkanmu" telah dikilk, maka hide
+    // jika tidak cek jika sesi > 1 dan cookie feedback click badge "Berikan masukkanmu" expired, maka show
+    if (document.cookie.indexOf("feedback_click_badge=") != -1) {
+        el_badge_menu.style.display = "none"
+        // console.log("test 5")
+    } else if (badge_session > 1 && document.cookie.indexOf("feedback_click_badge=") == -1) {
+        el_badge_menu.style.display = "block"
+        // console.log("test 6")
+    }
+
+    // hide jika telah memberi penilaian 
+    if (document.cookie.indexOf("badge_feedback_success=") != -1) {
+        el_badge.style.display = "none"
+        el_badge_menu.style.display = "none"
+        // console.log("test 7")
+    }
+}
+checkCookieBadgeNps()
+
+var sso__icon__login_top = document.getElementById('sso__icon__login_top')
+sso__icon__login_top.addEventListener('click', function() {
+    var badge_session = getCookie("badge_session")
+    var badge_first_click = getCookie("badge_first_click")
+    var feedback_success = getCookie("badge_feedback_success")
+    var click_icon_badge = getCookie("click_icon_badge")
+    var click_icon_counter_badge = getCookie("click_icon_counter_badge")
+
+    if (feedback_success == "" || document.cookie.indexOf("badge_feedback_success=") == -1) {
+        // click untuk pertama kali di sesi berikutnya
+        if (badge_session == 2 && badge_first_click == "") {
+            el_badge.style.display = "none"
+            el_badge_menu.style.display = "block"
+            setCookie("badge_first_click", 1, 8760)
+            // console.log("click 1")
+
+        // click jika sesi berikutnya setelah mengklik icon badge utk pertama kali    
+        } else {
+            // jika belum ada cookie click icon badge
+            // dan ada di sesi berikutnya setelah click icon pertama kali
+            // dan counter click icon kosong atau 0
+            if (badge_session == 3 && click_icon_badge == "" && (click_icon_counter_badge == "" || click_icon_counter_badge == 0)) { 
+                setCookie("click_icon_counter_badge", 1, 8760)
+                setCookie("click_icon_badge", 1, 2)
+                el_badge.style.display = "none"
+                el_badge_menu.style.display = "block"
+                // console.log("clicked 1")
+
+            // Jika cookie badge click icon expired dan counter = 1, maka set 1 hari
+            } else if (document.cookie.indexOf("click_icon_badge=") == -1 && click_icon_counter_badge == 1) { 
+                setCookie("click_icon_counter_badge", parseInt(click_icon_counter_badge)+1, 8760)
+                setCookie("click_icon_badge", 2, 24)
+                el_badge.style.display = "none"
+                el_badge_menu.style.display = "block"
+                // console.log("clicked 2")
+
+            // Jika cookie badge click icon expired dan counter = 2, maka set 1 minggu
+            } else if (document.cookie.indexOf("click_icon_badge=") == -1 && click_icon_counter_badge == 2) {
+                setCookie("click_icon_counter_badge", parseInt(click_icon_counter_badge)+1, 8760)
+                setCookie("click_icon_badge", 3, 168)
+                el_badge.style.display = "none"
+                el_badge_menu.style.display = "block"
+                // console.log("clicked 3")
+            
+            // Jika cookie badge click icon expired dan counter lebih dari 2, maka set 4 minggu
+            } else if (document.cookie.indexOf("click_icon_badge=") == -1 && click_icon_counter_badge > 2) {
+                setCookie("click_icon_counter_badge", 0, 8760) // reset badge counter click icon 
+                setCookie("click_icon_badge", 4, 672)
+                el_badge.style.display = "none"
+                el_badge_menu.style.display = "block"
+                // console.log("clicked 4")
+            }
+            // console.log("click 2")
+        }  
+
+        // jika feedback click expired dan counter >= 0, maka show
+        var feedback_click_counter = getCookie("feedback_click_counter_badge")
+        if (badge_session > 1 && document.cookie.indexOf("feedback_click_badge") == -1 && feedback_click_counter >= 0) {
+            el_badge_menu.style.display = 'block'
+        } 
+    }     
+})
+
+var feedback__item = document.getElementById('feedback__item')
+feedback__item.addEventListener("click", function() {
+    var feedback_click = getCookie("feedback_click_badge")
+    var feedback_success = getCookie("badge_feedback_success")
+    var feedback_click_counter = getCookie("feedback_click_counter_badge")
+
+    if (feedback_success == "" || document.cookie.indexOf("badge_feedback_success=") == -1) {
+        // jika belum ada cookie feedback click counter, maka set 2 jam
+        if (feedback_click_counter == "" || feedback_click_counter == 0) { 
+            setCookie("feedback_click_counter_badge", 1, 8760)
+            setCookie("feedback_click_badge", 1, 2)
+            el_badge_menu.style.display = "none"
+            // console.log("feedback clicked 1")
+
+        // Jika cookie feedback click badge expired dan counter 1, maka set 1 hari
+        } else if (document.cookie.indexOf("feedback_click_badge=") == -1 && feedback_click_counter == 1) { 
+            setCookie("feedback_click_counter_badge", parseInt(feedback_click_counter)+1, 8760)
+            setCookie("feedback_click_badge", 2, 24)
+            el_badge_menu.style.display = "none"
+            // console.log("feedback clicked 2")
+
+        // Jika cookie feedback click badge expired dan counter 2, maka set 1 minggu
+        } else if (document.cookie.indexOf("feedback_click_badge=") == -1 && feedback_click_counter == 2) {
+            setCookie("feedback_click_counter_badge", parseInt(feedback_click_counter)+1, 8760)
+            setCookie("feedback_click_badge", 3, 168)
+            el_badge_menu.style.display = "none"
+            // console.log("feedback clicked 3")
+        
+        // Jika cookie feedback click badge expired dan counter > 2, maka set 4 minggu
+        } else if (document.cookie.indexOf("feedback_click_badge=") == -1 && feedback_click_counter > 2) {
+            setCookie("feedback_click_counter_badge", 0, 8760)
+            setCookie("feedback_click_badge", 4, 672)
+            el_badge_menu.style.display = "none"
+            // console.log("feedback clicked 4")
+        } else {
+            // jika di sesi sebelumnya sudah diklik tapi belum isi feedback
+            el_badge_menu.style.display = "none"
+            // console.log("feedback clicked 5")
+        }
+    } 
+})
+
+function setCookie(name,value,hour) {
+    var expires = "";
+    if (hour) {
+        var date = new Date();
+        date.setTime(date.getTime() + (hour*60*60*1000));
+        expires = "; expires=" + date.toUTCString();
+    }
+    document.cookie = name + "=" + (value || "")  + expires + "; ;domain=.kompas.com;path=/";
 }
 
-?>
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-	<meta charset="UTF-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<link rel="profile" href="http://gmpg.org/xfn/11" />
-	<link rel="pingback" href="https://odel.co.in/xmlrpc.php" />
-	<title>ODEL Digest Restaurant</title>
-<meta name='robots' content='max-image-preview:large' />
-<link rel="alternate" type="application/rss+xml" title="ODEL Digest Restaurant &raquo; Feed" href="https://odel.co.in/index.php/feed/" />
-<link rel="alternate" type="application/rss+xml" title="ODEL Digest Restaurant &raquo; Comments Feed" href="https://odel.co.in/index.php/comments/feed/" />
-<script>
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/odel.co.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.5"}};
-/*! This file is auto-generated */
-!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+function getCookie(cname) {
+    var name = cname + "=";
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+        c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+        return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+}
+
+// action create cookie badge_feedback_success expired 90 hari
+var onSubmitNps = document.getElementById("nps-submit")
+if (onSubmitNps !== null) {
+    onSubmitNps.addEventListener("click", function(e) {
+        // e.preventDefault() 
+        setCookie("badge_feedback_success", 1, 2160)
+    })
+}
+</script><script type="text/javascript">
+    const showAllBtnJs = document.querySelector('#show_all_news')
+    if (!!showAllBtnJs) {
+        showAllBtnJs.addEventListener('click', function() {
+            const startPage = showAllBtnJs.dataset.startPage
+            const url = new URL(window.location.href);
+            window.location.href = `${url.origin}${url.pathname}?page=all#page${startPage}`;
+        })
+    }
 </script>
 
-<link rel='stylesheet' id='hfe-widgets-style-css' href='https://odel.co.in/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.40' media='all' />
-<style id='wp-emoji-styles-inline-css'>
+<section class="kgmModal -hide" id="kgmModal-onetap" data-event-category="KG Media ID Account" data-event-action="View KG Onetap" data-event-label="" data-event-track="impression" data-url="" type="button"> 
+    <div class="kgmModal-block">
+        <div class="kgmModal-header">
+            <div class="kgmModal-header-inner">
+                <div class="kgmModal-header-logo">
+                    <img class="lozad" data-src="https://asset.kompas.com/data/2023/03/30/kompascom/images/logo-kompascom.svg?v=1" alt="logo-Kompas.com">
+                </div>
+                <button data-event-category="KG Media ID Account" data-event-action="ClickClose KG Onetap" data-event-label="Tags Button" data-event-track="click" data-url="" type="button" id="kgmModal-onetap-close-tag" class="kgmModal-close" style="display:none;"></button>
+                <button data-event-category="KG Media ID Account" data-event-action="ClickClose KG Onetap" data-event-label="See All Button" data-event-track="click" type="button" id="kgmModal-onetap-close-page" onclick="if (!window.__cfRLUnblockHandlers) return false; document.getElementById(&#39;kgmModal-onetap&#39;).classList.add(&#39;-hide&#39;);oneTapHide();return false;" class="kgmModal-close" style="display:none;"></button>
+                <button data-event-category="KG Media ID Account" data-event-action="ClickClose KG Onetap" data-event-label="" data-event-track="click" type="button" id="kgmModal-onetap-close-iteraction" onclick="if (!window.__cfRLUnblockHandlers) return false; document.getElementById(&#39;kgmModal-onetap&#39;).classList.add(&#39;-hide&#39;);oneTapHide();return false;" class="kgmModal-close" style="display:none;"></button>
+            </div>
+        </div>
+        <div class="kgmModal-body">
 
-	img.wp-smiley, img.emoji {
-		display: inline !important;
-		border: none !important;
-		box-shadow: none !important;
-		height: 1em !important;
-		width: 1em !important;
-		margin: 0 0.07em !important;
-		vertical-align: -0.1em !important;
-		background: none !important;
-		padding: 0 !important;
-	}
-</style>
-<style id='classic-theme-styles-inline-css'>
-/*! This file is auto-generated */
-.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
-</style>
-<style id='global-styles-inline-css'>
-:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
-:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
-:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
-:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
-</style>
-<link rel='stylesheet' id='contact-form-7-css' href='https://odel.co.in/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.8' media='all' />
-<link rel='stylesheet' id='hfe-style-css' href='https://odel.co.in/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.40' media='all' />
-<link rel='stylesheet' id='elementor-icons-css' href='https://odel.co.in/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.30.0' media='all' />
-<link rel='stylesheet' id='elementor-frontend-css' href='https://odel.co.in/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.23.4' media='all' />
-<link rel='stylesheet' id='swiper-css' href='https://odel.co.in/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6' media='all' />
-<link rel='stylesheet' id='elementor-post-8-css' href='https://odel.co.in/wp-content/uploads/elementor/css/post-8.css?ver=1725007663' media='all' />
-<link rel='stylesheet' id='elementor-post-4518-css' href='https://odel.co.in/wp-content/uploads/elementor/css/post-4518.css?ver=1727327350' media='all' />
-<link rel='stylesheet' id='elementor-post-4521-css' href='https://odel.co.in/wp-content/uploads/elementor/css/post-4521.css?ver=1725007663' media='all' />
-<link rel='stylesheet' id='elementor-post-4784-css' href='https://odel.co.in/wp-content/uploads/elementor/css/post-4784.css?ver=1725007663' media='all' />
-<link rel='stylesheet' id='hello-elementor-css' href='https://odel.co.in/wp-content/themes/hello-elementor/style.min.css?ver=3.1.1' media='all' />
-<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://odel.co.in/wp-content/themes/hello-elementor/theme.min.css?ver=3.1.1' media='all' />
-<link rel='stylesheet' id='hello-elementor-header-footer-css' href='https://odel.co.in/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.1.1' media='all' />
-<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLobster+Two%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.6.5' media='all' />
-<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://odel.co.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
-<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://odel.co.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
-<link rel='stylesheet' id='elementor-icons-fa-regular-css' href='https://odel.co.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3' media='all' />
-<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><link rel="https://api.w.org/" href="https://odel.co.in/index.php/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://odel.co.in/index.php/wp-json/wp/v2/pages/4518" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://odel.co.in/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 6.6.5" />
-<link rel="canonical" href="https://odel.co.in/" />
-<link rel='shortlink' href='https://odel.co.in/' />
-<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://odel.co.in/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fodel.co.in%2F" />
-<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://odel.co.in/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fodel.co.in%2F&#038;format=xml" />
-<meta name="generator" content="Elementor 3.23.4; features: e_optimized_css_loading, additional_custom_breakpoints, e_lazyload; settings: css_print_method-external, google_font-enabled, font_display-swap">
-			<style>
-				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
-				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
-					background-image: none !important;
-				}
-				@media screen and (max-height: 1024px) {
-					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
-					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
-						background-image: none !important;
-					}
-				}
-				@media screen and (max-height: 640px) {
-					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
-					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
-						background-image: none !important;
-					}
-				}
-			</style>
-			<link rel="icon" href="https://odel.co.in/wp-content/uploads/2022/12/Hamburger.svg" sizes="32x32" />
-<link rel="icon" href="https://odel.co.in/wp-content/uploads/2022/12/Hamburger.svg" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://odel.co.in/wp-content/uploads/2022/12/Hamburger.svg" />
-<meta name="msapplication-TileImage" content="https://odel.co.in/wp-content/uploads/2022/12/Hamburger.svg" />
-</head>
+            <div class="kgmModal-center">
+                <div class="kgmModal-title" id="kgmModal-title">Login untuk memaksimalkan pengalaman mengakses Kompas.com</div>
+            </div>
 
-<body class="home page-template-default page page-id-4518 wp-custom-logo ehf-header ehf-footer ehf-template-hello-elementor ehf-stylesheet-hello-elementor elementor-default elementor-kit-8 elementor-page elementor-page-4518">
-<div id="page" class="hfeed site">
+            <div class="kgmModal-onetap">
+                <!-- google -->
+                <div class="form-google">
+                    <div id="kgOne1">
+                        <div id="g_id_onload"
+                            data-client_id="776828813358-infk4sje3q07sa8mg8n6lq1mk2pdkkua.apps.googleusercontent.com"
+                            data-context="signin"
+                            data-ux_mode="popup"
+                            data-service="a29tcGFz"
+                            data-continue="aHR0cHM6Ly93d3cua29tcGFzLmNvbS9qYXdhLWJhcmF0L3JlYWQvMjAyNS8wOS8wNC8xNzIwMDAzODgva29tcG9sLWNvc21hcy1kaXBlY2F0LXRpZGFrLWhvcm1hdC1wZXJuYWgtdGVyc2VyZXQta2FzdXMtcGVueWlyYW1hbj91dG1fc291cmNlPWxvZ2luX2tnb25ldGFw"
+                            data-login_uri="https://account.kompas.com/social/user"
+                            data-scope="public_profile,email,openid"
+                            data-provider="google"
+                            data-nonce=""
+                            data-auto_prompt="false">
+                        </div>
 
-		<header id="masthead" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
-			<p class="main-title bhf-hidden" itemprop="headline"><a href="https://odel.co.in" title="ODEL Digest Restaurant" rel="home">ODEL Digest Restaurant</a></p>
-					<div data-elementor-type="wp-post" data-elementor-id="4521" class="elementor elementor-4521">
-						<section class="elementor-section elementor-top-section elementor-element elementor-element-ab3d65a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ab3d65a" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-59cb866" data-id="59cb866" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-af80390 elementor-widget elementor-widget-image" data-id="af80390" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.23.0 - 05-08-2024 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>											<a href="https://odel.co.in/">
-							<img fetchpriority="high" width="800" height="273" src="https://odel.co.in/wp-content/uploads/2023/08/Group-18163-1024x350.png" class="attachment-large size-large wp-image-4512" alt="" srcset="https://odel.co.in/wp-content/uploads/2023/08/Group-18163-1024x350.png 1024w, https://odel.co.in/wp-content/uploads/2023/08/Group-18163-300x102.png 300w, https://odel.co.in/wp-content/uploads/2023/08/Group-18163-768x262.png 768w, https://odel.co.in/wp-content/uploads/2023/08/Group-18163-1536x525.png 1536w, https://odel.co.in/wp-content/uploads/2023/08/Group-18163-2048x699.png 2048w" sizes="(max-width: 800px) 100vw, 800px" />								</a>
-													</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-4d48afe" data-id="4d48afe" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-581bce9 hfe-nav-menu__align-right elementor-widget__width-initial hfe-submenu-icon-arrow hfe-submenu-animation-none hfe-link-redirect-child hfe-nav-menu__breakpoint-tablet elementor-widget elementor-widget-navigation-menu" data-id="581bce9" data-element_type="widget" data-settings="{&quot;padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;12&quot;,&quot;right&quot;:&quot;30&quot;,&quot;bottom&quot;:&quot;12&quot;,&quot;left&quot;:&quot;30&quot;,&quot;isLinked&quot;:false},&quot;padding_horizontal_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;dropdown_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;width_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;220&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true}}" data-widget_type="navigation-menu.default">
-				<div class="elementor-widget-container">
-						<div class="hfe-nav-menu hfe-layout-horizontal hfe-nav-menu-layout horizontal hfe-pointer__none" data-layout="horizontal" data-last-item="cta">
-				<div role="button" class="hfe-nav-menu__toggle elementor-clickable">
-					<span class="screen-reader-text">Menu</span>
-					<div class="hfe-nav-menu-icon">
-						<i aria-hidden="true"  class="fas fa-align-justify"></i>					</div>
-				</div>
-				<nav class="hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow" data-toggle-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;fas fa-align-justify&quot;&gt;&lt;/i&gt;" data-close-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;far fa-window-close&quot;&gt;&lt;/i&gt;" data-full-width="yes">
-					<ul id="menu-1-581bce9" class="hfe-nav-menu"><li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://odel.co.in/index.php/contact/" class = "hfe-menu-item">Contact</a></li>
-</ul> 
-				</nav>
-			</div>
-					</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-919d196" data-id="919d196" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-da85580 elementor-position-left elementor-vertical-align-middle elementor-hidden-tablet elementor-hidden-mobile elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="da85580" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="https://odel.co.in/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css">		<div class="elementor-icon-box-wrapper">
+                        <div class="g_id_signin" data-type="standard" data-shape="rectangular" data-theme="filled_blue" data-text="continue_with" data-size="large" data-logo_alignment="left" onclick="if (!window.__cfRLUnblockHandlers) return false; actionGoogleLogin()"><div class="S9gUrf-YoZ4jf" style="position: relative;"><div><div tabindex="0" role="button" aria-labelledby="button-label" class="nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe MFS4be-v3pZbf-Ia7Qfc MFS4be-Ia7Qfc uaxL4e-RbRzK"><div class="nsm7Bb-HzV7m-LgbsSe-MJoBVe"></div><div class="nsm7Bb-HzV7m-LgbsSe-bN97Pc-sM5MNb "><div class="nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf"><div class="nsm7Bb-HzV7m-LgbsSe-Bz112c"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" class="LgbsSe-Bz112c"><g><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"></path><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"></path><path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"></path><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"></path><path fill="none" d="M0 0h48v48H0z"></path></g></svg></div></div><span class="nsm7Bb-HzV7m-LgbsSe-BPrWId">Continue with Google</span><span class="L6cTce" id="button-label">Continue with Google. Opens in new tab</span></div></div></div><iframe src="https://accounts.google.com/gsi/button?type=standard&amp;shape=rectangular&amp;theme=filled_blue&amp;text=continue_with&amp;size=large&amp;logo_alignment=left&amp;is_fedcm_supported=true&amp;client_id=776828813358-infk4sje3q07sa8mg8n6lq1mk2pdkkua.apps.googleusercontent.com&amp;iframe_id=gsi_139_851010&amp;cas=ZVUb8WmJwKdJQnMi0e97G7flQr%2Bagg5A6o16zfZSJ18" class="L5Fo6c-PQbLGe" allow="identity-credentials-get" id="gsi_139_851010" title="Sign in with Google Button" style="display: block; position: relative; top: 0px; left: 0px; height: 0px; width: 0px; border: 0px;"></iframe></div></div>
 
-						<div class="elementor-icon-box-icon">
-				<span  class="elementor-icon elementor-animation-">
-				<svg xmlns="http://www.w3.org/2000/svg" width="39" height="44" viewBox="0 0 39 44" fill="none"><path d="M24.1543 32.7517C27.3239 32.7517 30.1537 31.2744 31.9933 28.9753C35.9012 31.4153 38.4999 35.753 38.5 40.6974V41.5919C38.5 42.5455 37.7269 43.3186 36.7734 43.3186H2.22664C1.27307 43.3186 0.5 42.5455 0.5 41.5919V40.6974C0.5 34.1889 5.0034 28.7319 11.0643 27.2723C12.0434 28.2513 13.1463 29.0506 14.3554 29.6513C14.891 29.9174 15.4389 30.1405 15.9972 30.32C16.6214 31.7506 18.0483 32.7517 19.7103 32.7517H24.1543Z" stroke="#FF384B"></path><path d="M11.5506 20.6477L11.1732 19.617L10.6433 20.5782C10.2961 21.208 9.62711 21.6328 8.85963 21.6328C7.73992 21.6328 6.82422 20.7242 6.82422 19.5973V13.2514C6.82422 12.5725 7.15648 11.9714 7.66962 11.6007L7.85705 11.4653L7.87526 11.2348C8.34926 5.23663 13.3829 0.5 19.5008 0.5C25.6185 0.5 30.6523 5.23663 31.1263 11.2349L31.1445 11.4654L31.3319 11.6008C31.8451 11.9715 32.1773 12.5725 32.1773 13.2515V15.0104V19.5975C32.1773 20.2629 31.8584 20.8538 31.3628 21.2261L31.1631 21.3761V21.6258V22.7155C31.1631 26.5793 28.0189 29.7235 24.1551 29.7235H19.7111C19.1472 29.7235 18.6899 29.2664 18.6899 28.7023C18.6899 28.1383 19.1472 27.6811 19.7111 27.6811H24.1551C26.8936 27.6811 29.1207 25.4539 29.1207 22.7155V21.6258V21.3761L28.921 21.2261C28.6903 21.0527 28.4976 20.8314 28.3576 20.5772L27.8286 19.6163L27.4503 20.6459C27.148 21.4686 26.8118 22.2103 26.383 22.9046C26.2431 23.1312 26.0485 23.4401 25.8196 23.7311C25.5842 24.0304 25.345 24.268 25.1287 24.389C24.8318 24.5549 24.5025 24.6526 24.1552 24.6526H19.7112C18.4173 24.6526 17.2664 25.2601 16.5259 26.2029C14.261 25.2219 12.5179 23.1949 11.594 20.7641C11.5938 20.7635 11.5935 20.763 11.5933 20.7624L11.5895 20.7521L11.5844 20.7382L11.5834 20.7355C11.572 20.7055 11.5612 20.6765 11.5506 20.6477ZM28.885 11.6513L29.1004 11.4818L29.0734 11.2091C28.5931 6.35013 24.4843 2.54254 19.5008 2.54254C14.5172 2.54254 10.4086 6.35014 9.92789 11.2092L9.90091 11.4819L10.1163 11.6514C10.357 11.8407 10.5537 12.0823 10.6889 12.3587L11.1973 13.398L11.6058 12.3155L11.6098 12.3048L11.6103 12.3035C11.6103 12.3035 11.6103 12.3035 11.6103 12.3034C11.6104 12.3033 11.6104 12.3032 11.6105 12.303C12.9566 8.80558 15.9537 6.28653 19.5007 6.28653C22.9725 6.28653 26.018 8.72168 27.3964 12.3179L27.8076 13.3906L28.3124 12.3586C28.4477 12.0822 28.6443 11.8406 28.885 11.6513Z" stroke="#FF384B"></path></svg>				</span>
-			</div>
-			
-						<div class="elementor-icon-box-content">
+                    </div>
+                    <div id="kgOne2" style="display:none;">
+                        <div id="googleLgnBtn"></div>
+                    </div>
 
-									<h3 class="elementor-icon-box-title">
-						<span  >
-							+91 9095888399						</span>
-					</h3>
-				
-				
-			</div>
-			
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				</div>
-				</header>
+                </div>
 
-	
-<main id="content" class="site-main post-4518 page type-page status-publish hentry">
+                <!-- screen 1 -->
 
-			<div class="page-header">
-			<h1 class="entry-title">Odel Main Home</h1>		</div>
-	
-	<div class="page-content">
-				<div data-elementor-type="wp-page" data-elementor-id="4518" class="elementor elementor-4518">
-						<section class="elementor-section elementor-top-section elementor-element elementor-element-4a729ba elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4a729ba" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-ea19155" data-id="ea19155" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-223ed2d elementor-widget elementor-widget-heading" data-id="223ed2d" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.23.0 - 05-08-2024 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Welcome to Odel Digest</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-4743a16 elementor-widget elementor-widget-heading" data-id="4743a16" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Indulge in Authentic <br> Indian Delights</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-6fb21d2 elementor-widget elementor-widget-text-editor" data-id="6fb21d2" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.23.0 - 05-08-2024 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>A Culinary Journey Through India&#8217;s Flavors Indulge in the Perfect Blend of Spices and Tradition</p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-5460900 elementor-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="5460900" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-									<span class="elementor-button-text">Order Now</span>
-					</span>
-					</a>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b1f5ad0" data-id="b1f5ad0" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-ee5b342 elementor-widget elementor-widget-video" data-id="ee5b342" data-element_type="widget" data-settings="{&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/odel.co.in\/wp-content\/uploads\/2023\/10\/Screenshot-2023-10-01-140959-e1696149688893.png&quot;,&quot;id&quot;:5066,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;video_type&quot;:&quot;hosted&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.23.0 - 05-08-2024 */
-.elementor-widget-video .elementor-widget-container{overflow:hidden;transform:translateZ(0)}.elementor-widget-video .elementor-wrapper{aspect-ratio:var(--video-aspect-ratio)}.elementor-widget-video .elementor-wrapper iframe,.elementor-widget-video .elementor-wrapper video{height:100%;width:100%;display:flex;border:none;background-color:#000}@supports not (aspect-ratio:1/1){.elementor-widget-video .elementor-wrapper{position:relative;overflow:hidden;height:0;padding-bottom:calc(100% / var(--video-aspect-ratio))}.elementor-widget-video .elementor-wrapper iframe,.elementor-widget-video .elementor-wrapper video{position:absolute;top:0;right:0;bottom:0;left:0}}.elementor-widget-video .elementor-open-inline .elementor-custom-embed-image-overlay{position:absolute;top:0;right:0;bottom:0;left:0;background-size:cover;background-position:50%}.elementor-widget-video .elementor-custom-embed-image-overlay{cursor:pointer;text-align:center}.elementor-widget-video .elementor-custom-embed-image-overlay:hover .elementor-custom-embed-play i{opacity:1}.elementor-widget-video .elementor-custom-embed-image-overlay img{display:block;width:100%;aspect-ratio:var(--video-aspect-ratio);-o-object-fit:cover;object-fit:cover;-o-object-position:center center;object-position:center center}@supports not (aspect-ratio:1/1){.elementor-widget-video .elementor-custom-embed-image-overlay{position:relative;overflow:hidden;height:0;padding-bottom:calc(100% / var(--video-aspect-ratio))}.elementor-widget-video .elementor-custom-embed-image-overlay img{position:absolute;top:0;right:0;bottom:0;left:0}}.elementor-widget-video .e-hosted-video .elementor-video{-o-object-fit:cover;object-fit:cover}.e-con-inner>.elementor-widget-video,.e-con>.elementor-widget-video{width:var(--container-widget-width);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="e-hosted-video elementor-wrapper elementor-open-inline">
-					<video class="elementor-video" src="https://odel.co.in/wp-content/uploads/2023/10/Odel-Digest-Restaurant.mp4" controls="" preload="auto" controlsList="nodownload"></video>
-						<div class="elementor-custom-embed-image-overlay" style="background-image: url(https://odel.co.in/wp-content/uploads/2023/10/Screenshot-2023-10-01-140959-e1696149688893.png);">
-																<div class="elementor-custom-embed-play" role="button" aria-label="Play Video" tabindex="0">
-							<i aria-hidden="true" class="eicon-play"></i>							<span class="elementor-screen-only">Play Video</span>
-						</div>
-									</div>
-					</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-ffe482e elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="ffe482e" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img decoding="async" width="561" height="407" src="https://odel.co.in/wp-content/uploads/2023/08/Group-61.png" class="attachment-large size-large wp-image-4898" alt="" srcset="https://odel.co.in/wp-content/uploads/2023/08/Group-61.png 561w, https://odel.co.in/wp-content/uploads/2023/08/Group-61-300x218.png 300w" sizes="(max-width: 561px) 100vw, 561px" />													</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-d3204f6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d3204f6" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-df55695" data-id="df55695" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-c681d07 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="c681d07" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
+                <!-- screen 2 -->
 
-						<div class="elementor-icon-box-icon">
-				<span  class="elementor-icon elementor-animation-">
-				<svg xmlns="http://www.w3.org/2000/svg" width="85" height="85" viewBox="0 0 85 85" fill="none"><rect width="85" height="85" rx="42.5" fill="#FFF9F4"></rect><path d="M59.4837 42.6072C59.1799 42.2559 51.9399 33.9919 42.8148 33.9919C33.6897 33.9919 26.4498 42.2559 26.1459 42.6078C25.9514 42.833 25.9514 43.1675 26.1459 43.3927C26.4498 43.744 33.6897 52.0079 42.8148 52.0079C51.9399 52.0079 59.1799 43.744 59.4837 43.392C59.6784 43.1669 59.6784 42.8324 59.4837 42.6072ZM27.4166 42.9999C28.5096 41.8517 31.9801 38.4665 36.5375 36.5526C34.856 38.1896 33.8069 40.4735 33.8069 42.9999C33.8069 45.5263 34.856 47.8101 36.5375 49.4472C31.9801 47.5334 28.5096 44.1481 27.4166 42.9999ZM42.8148 50.8068C38.5102 50.8068 35.0079 47.3045 35.0079 42.9999C35.0079 38.6953 38.5102 35.193 42.8148 35.193C47.1194 35.193 50.6217 38.6953 50.6217 42.9999C50.6217 47.3045 47.1194 50.8068 42.8148 50.8068ZM49.0927 49.4472C50.7736 47.8102 51.8227 45.5263 51.8227 42.9999C51.8227 40.4735 50.7736 38.1897 49.0921 36.5526C53.6495 38.4665 57.12 41.8517 58.213 42.9999C57.1201 44.1481 53.6502 47.5334 49.0927 49.4472Z" fill="#FF384B"></path><path d="M38.0107 43.0001H39.2118C39.2118 41.0129 40.8278 39.3969 42.815 39.3969V38.1958C40.1661 38.1958 38.0107 40.3511 38.0107 43.0001Z" fill="#FF384B"></path><path d="M46.4186 43C46.4186 44.9872 44.8026 46.6032 42.8154 46.6032V47.8043C45.4644 47.8043 47.6197 45.6489 47.6197 43H46.4186Z" fill="#FF384B"></path><path d="M32.8917 31.7346C32.5728 32.0163 32.2636 32.313 31.9717 32.618L32.8388 33.4486C33.1073 33.1681 33.3925 32.8943 33.6862 32.6355L32.8917 31.7346Z" fill="#FF384B"></path><path d="M29.7004 35.688C29.4944 36.0579 29.3011 36.4416 29.127 36.8278L30.2211 37.3221C30.382 36.9665 30.5592 36.6141 30.749 36.2736L29.7004 35.688Z" fill="#FF384B"></path><path d="M52.7482 31.7437L51.9531 32.6438C52.2462 32.9027 52.5308 33.1759 52.7993 33.4576L53.6676 32.6277C53.3758 32.322 53.0659 32.0247 52.7482 31.7437Z" fill="#FF384B"></path><path d="M42.1854 28C41.7608 28.0174 41.3332 28.0535 40.9141 28.1063L41.0654 29.2984C41.451 29.2491 41.8443 29.2161 42.2352 29.1999L42.1854 28Z" fill="#FF384B"></path><path d="M48.4277 29.072L47.9785 30.1854C48.34 30.3314 48.6991 30.4947 49.0469 30.6706L49.5891 29.5993C49.212 29.4083 48.8211 29.2305 48.4277 29.072Z" fill="#FF384B"></path><path d="M39.6566 28.3196C39.2434 28.4079 38.8285 28.516 38.4219 28.6397L38.772 29.7885C39.1461 29.6744 39.5286 29.5752 39.9087 29.4936L39.6566 28.3196Z" fill="#FF384B"></path><path d="M31.1286 33.5759C30.8607 33.9074 30.6055 34.2527 30.3701 34.6022L31.3658 35.2742C31.5826 34.9536 31.8174 34.6359 32.0636 34.3302L31.1286 33.5759Z" fill="#FF384B"></path><path d="M45.9891 28.3237L45.7363 29.4977C46.1171 29.5794 46.4996 29.6791 46.8719 29.7938L47.2244 28.6456C46.8197 28.5213 46.4041 28.4126 45.9891 28.3237Z" fill="#FF384B"></path><path d="M43.4602 28.0005L43.4092 29.2003C43.8013 29.2165 44.1953 29.2502 44.5796 29.2994L44.7315 28.108C44.3136 28.0551 43.886 28.0185 43.4602 28.0005Z" fill="#FF384B"></path><path d="M55.9359 35.7014L54.8867 36.2857C55.0771 36.628 55.2549 36.9811 55.414 37.3349L56.5094 36.8413C56.3358 36.4562 56.1437 36.0731 55.9359 35.7014Z" fill="#FF384B"></path><path d="M34.9401 30.2158C34.5786 30.4392 34.223 30.68 33.8838 30.9316L34.5996 31.8967C34.9119 31.6649 35.238 31.4433 35.5713 31.2379L34.9401 30.2158Z" fill="#FF384B"></path><path d="M54.5082 33.5867L53.5732 34.3403C53.8182 34.6442 54.0525 34.9619 54.2705 35.285L55.2667 34.613C55.0295 34.2616 54.7748 33.9163 54.5082 33.5867Z" fill="#FF384B"></path><path d="M50.7017 30.2239L50.0693 31.2448C50.4014 31.4508 50.7281 31.6724 51.041 31.9042L51.7568 30.9403C51.4175 30.6881 51.062 30.4467 50.7017 30.2239Z" fill="#FF384B"></path><path d="M37.2154 29.0659C36.825 29.2232 36.4335 29.4004 36.0527 29.592L36.5938 30.6645C36.9439 30.488 37.3043 30.3252 37.664 30.1799L37.2154 29.0659Z" fill="#FF384B"></path><path d="M44.5643 56.7017C44.1788 56.7509 43.7855 56.784 43.3945 56.8001L43.4444 58C43.869 57.9825 44.2966 57.9465 44.7157 57.8937L44.5643 56.7017Z" fill="#FF384B"></path><path d="M41.0504 56.7002L40.8984 57.8916C41.3164 57.9445 41.744 57.9811 42.1697 57.9991L42.2208 56.7993C41.8286 56.7831 41.4347 56.7495 41.0504 56.7002Z" fill="#FF384B"></path><path d="M38.7568 56.2063L38.4043 57.3545C38.809 57.4788 39.2246 57.5875 39.6396 57.6764L39.8924 56.5024C39.5111 56.42 39.1291 56.3204 38.7568 56.2063Z" fill="#FF384B"></path><path d="M46.8575 56.2114C46.4833 56.3255 46.1008 56.4246 45.7207 56.5063L45.9729 57.6803C46.3861 57.592 46.8011 57.4839 47.2076 57.3602L46.8575 56.2114Z" fill="#FF384B"></path><path d="M32.8303 52.5425L31.9619 53.3724C32.2537 53.6781 32.5636 53.9753 32.8813 54.2563L33.6764 53.3562C33.3834 53.0974 33.0988 52.8241 32.8303 52.5425Z" fill="#FF384B"></path><path d="M30.2165 48.6655L29.1211 49.1591C29.2946 49.5441 29.4868 49.9272 29.6946 50.2989L30.7437 49.7146C30.5534 49.3723 30.3756 49.0192 30.2165 48.6655Z" fill="#FF384B"></path><path d="M31.358 50.7153L30.3623 51.3873C30.5995 51.7387 30.8541 52.084 31.1207 52.4136L32.0552 51.66C31.8102 51.3561 31.576 51.0384 31.358 50.7153Z" fill="#FF384B"></path><path d="M34.5898 54.0959L33.874 55.0598C34.2128 55.312 34.5682 55.5534 34.9286 55.7762L35.5609 54.7553C35.2288 54.5499 34.9022 54.3283 34.5898 54.0959Z" fill="#FF384B"></path><path d="M36.5823 55.3301L36.04 56.4014C36.4178 56.5924 36.8087 56.7702 37.2014 56.9287L37.6507 55.8153C37.2892 55.6694 36.93 55.506 36.5823 55.3301Z" fill="#FF384B"></path><path d="M51.0302 54.1033C50.718 54.3351 50.3919 54.5567 50.0586 54.7621L50.6897 55.7842C51.0513 55.5608 51.4068 55.32 51.7461 55.0684L51.0302 54.1033Z" fill="#FF384B"></path><path d="M49.035 55.3357C48.6849 55.5122 48.3246 55.675 47.9648 55.8203L48.4129 56.9343C48.8032 56.777 49.1948 56.5998 49.5755 56.4082L49.035 55.3357Z" fill="#FF384B"></path><path d="M52.7907 52.5515C52.5223 52.832 52.237 53.1058 51.9434 53.3646L52.7379 54.2654C53.0568 53.9837 53.366 53.687 53.6579 53.382L52.7907 52.5515Z" fill="#FF384B"></path><path d="M55.4078 48.678C55.2469 49.0335 55.0697 49.386 54.8799 49.7265L55.9284 50.312C56.1344 49.942 56.3277 49.5583 56.5019 49.1722L55.4078 48.678Z" fill="#FF384B"></path><path d="M54.2632 50.7256C54.0464 51.0463 53.8117 51.364 53.5654 51.6696L54.5004 52.4239C54.7683 52.0924 55.0235 51.7471 55.2589 51.3976L54.2632 50.7256Z" fill="#FF384B"></path></svg>				</span>
-			</div>
-			
-						<div class="elementor-icon-box-content">
+                <!-- screen 3 -->
 
-									<h3 class="elementor-icon-box-title">
-						<span  >
-							Vision						</span>
-					</h3>
-				
-									<p class="elementor-icon-box-description">
-						To be the epitome of authentic Indian cuisine, celebrated for our commitment to quality, taste, and cultural appreciation.					</p>
-				
-			</div>
-			
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-61989aa elementor-align-center elementor-widget elementor-widget-button" data-id="61989aa" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-									<span class="elementor-button-text">Discover More</span>
-					</span>
-					</a>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-335d6a1" data-id="335d6a1" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-3066a8a elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="3066a8a" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
+            </div>
+            <div class="kgmModal-divider -clean"><span>atau</span></div>
+            <div class="kgmModal-method">
+                <a href="https://account.kompas.com/login/a29tcGFz/aHR0cHM6Ly93d3cua29tcGFzLmNvbS9qYXdhLWJhcmF0L3JlYWQvMjAyNS8wOS8wNC8xNzIwMDAzODgva29tcG9sLWNvc21hcy1kaXBlY2F0LXRpZGFrLWhvcm1hdC1wZXJuYWgtdGVyc2VyZXQta2FzdXMtcGVueWlyYW1hbg==">Gunakan metode lain</a>
+            </div>
+        </div>
+        <div class="kgmModal-footer">
+            <div class="kgmModal-info">Dengan login, kamu menyetujui <a href="https://www.kgmedia.id/legal-privacy-id" target="_blank">Kebijakan Data Pribadi</a></div>
+        </div>
+    </div>
+</section>
 
-						<div class="elementor-icon-box-icon">
-				<span  class="elementor-icon elementor-animation-">
-				<svg xmlns="http://www.w3.org/2000/svg" width="85" height="85" viewBox="0 0 85 85" fill="none"><rect width="85" height="85" rx="42.5" fill="#FFF9F4"></rect><path d="M57.6497 32.8228L57.6564 32.8494L57.6687 32.8739C57.8209 33.1784 57.7537 33.4781 57.5086 33.7231L53.3713 37.8605C53.2826 37.9492 53.2038 38.0057 53.1233 38.0415C53.0438 38.0769 52.95 38.0976 52.824 38.0976H49.1004H48.9968L48.9236 38.1708L43.0279 44.0665C42.871 44.2234 42.6257 44.3036 42.4806 44.3036C42.3356 44.3036 42.0903 44.2234 41.9334 44.0665C41.6173 43.7504 41.6173 43.2881 41.9334 42.972L47.8291 37.0763L47.9023 37.0031V36.8995V33.1759C47.9023 33.0499 47.923 32.9561 47.9583 32.8766C47.9942 32.796 48.0507 32.7173 48.1394 32.6286L52.2767 28.4913C52.5218 28.2462 52.8215 28.179 53.1259 28.3312L53.1505 28.3435L53.1771 28.3502C53.4372 28.4152 53.6083 28.6892 53.6083 29.0385V32.1415V32.3915H53.8583H56.9614C57.3107 32.3915 57.5847 32.5626 57.6497 32.8228Z" stroke="#FF384B" stroke-width="0.5"></path><path d="M42.4803 46.8724C43.3605 46.8724 44.2617 46.5442 44.837 45.8604L47.3985 43.2989C47.4019 43.375 47.402 43.4499 47.402 43.5193C47.402 46.2774 45.2384 48.441 42.4803 48.441C39.7222 48.441 37.5586 46.2774 37.5586 43.5193C37.5586 40.7613 39.7222 38.5977 42.4803 38.5977C42.5497 38.5977 42.6246 38.5977 42.7007 38.6011L40.1352 41.1667C38.7882 42.4057 38.7983 44.5267 40.1235 45.8603C40.6987 46.5442 41.6 46.8724 42.4803 46.8724Z" stroke="#FF384B" stroke-width="0.5"></path><path d="M52.8241 40.6663C53.7043 40.6663 54.6055 40.3382 55.1808 39.6544L55.929 38.9061C56.451 40.4118 56.7115 41.9219 56.7115 43.5193C56.7115 51.3456 50.3071 57.75 42.4807 57.75C34.6544 57.75 28.25 51.3456 28.25 43.5193C28.25 35.693 34.6544 29.2886 42.4807 29.2886C44.0781 29.2886 45.5883 29.549 47.0939 30.071L46.3457 30.8192C45.6619 31.3945 45.3337 32.2957 45.3337 33.1759V35.9471L44.7053 36.4184C44.0054 36.2219 43.1952 36.0289 42.3773 36.0289C38.2053 36.0289 34.8869 39.3473 34.8869 43.5193C34.8869 47.6913 38.2053 51.0097 42.3773 51.0097C46.5493 51.0097 49.8677 47.6913 49.8677 43.5193C49.8677 42.7315 49.7763 41.9267 49.4978 41.2L50.0315 40.6663H52.8241Z" stroke="#FF384B" stroke-width="0.5"></path></svg>				</span>
-			</div>
-			
-						<div class="elementor-icon-box-content">
+<script async="" src="https://accounts.google.com/gsi/client" defer type="text/javascript"></script>
+<script type="text/javascript">
+    var url_continue = "https://odel.co.in/";
+    
+    function oneTapShow(tipe='') {
+        let otd = document.getElementById('kgmModal-onetap')
+        if(!!otd) {
+            let kgOne1 = document.getElementById('kgOne1');
+            let kgOne2 = document.getElementById('kgOne2');
+            kgOne2.style.display = 'none';
+            kgOne1.style.display = 'block';
 
-									<h3 class="elementor-icon-box-title">
-						<span  >
-							Mission						</span>
-					</h3>
-				
-									<p class="elementor-icon-box-description">
-						We aim to create a dining experience that transports our patrons to the heart of India through our dishes, ambience, and hospitality.					</p>
-				
-			</div>
-			
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-a318d02 elementor-align-center elementor-widget elementor-widget-button" data-id="a318d02" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-									<span class="elementor-button-text">Discover More</span>
-					</span>
-					</a>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e3b17c0" data-id="e3b17c0" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-db49f52 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="db49f52" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
+            otd.classList.remove('-hide');
+            document.body.classList.add('-locked');
+        }
+    }
 
-						<div class="elementor-icon-box-icon">
-				<span  class="elementor-icon elementor-animation-">
-				<svg xmlns="http://www.w3.org/2000/svg" width="85" height="85" viewBox="0 0 85 85" fill="none"><rect width="85" height="85" rx="42.5" fill="#FFF9F4"></rect><path d="M53.9496 41.9958C55.8564 39.428 56.3776 37.1271 55.4369 35.5C54.6615 34.1653 53.0089 33.4534 50.6445 33.4534C49.7547 33.4534 48.8013 33.5551 47.7971 33.7458C46.564 30.2246 44.6445 28 42.4454 28C40.2462 28 38.3267 30.2246 37.0937 33.7458C36.0894 33.5551 35.1361 33.4534 34.2462 33.4534C31.8818 33.4534 30.2293 34.1653 29.4538 35.5C28.5132 37.1271 29.0471 39.428 30.9411 41.9958C31.1954 42.3263 31.4623 42.6695 31.7547 43C29.3267 45.822 28.3606 48.5932 29.4538 50.5C30.2293 51.8347 31.8818 52.5466 34.2462 52.5466C35.1361 52.5466 36.0894 52.4449 37.0937 52.2542C38.3267 55.7627 40.2462 58 42.4454 58C44.6445 58 46.564 55.7754 47.7971 52.2542C48.8013 52.4449 49.7547 52.5466 50.6445 52.5466C53.0089 52.5466 54.6615 51.8347 55.4369 50.5C56.5301 48.5932 55.564 45.8093 53.1361 42.9873C53.4284 42.6568 53.6954 42.3263 53.9496 41.9958ZM50.6445 34.3814C52.0555 34.3814 53.8861 34.661 54.6361 35.9703C55.3733 37.2415 54.8394 39.2373 53.1996 41.4492C52.9835 41.7415 52.7547 42.0212 52.5132 42.3136C51.5216 41.2712 50.3394 40.2288 49.0047 39.2373C48.814 37.572 48.5089 36.0339 48.1022 34.661C48.992 34.4703 49.8564 34.3814 50.6445 34.3814ZM45.3564 48.0466C44.3903 48.6059 43.4242 49.1017 42.4454 49.5339C41.4666 49.1017 40.4877 48.5932 39.5344 48.0466C38.5683 47.4873 37.653 46.8898 36.7886 46.2669C36.6869 45.2119 36.6233 44.1186 36.6233 43C36.6233 41.8814 36.6869 40.7881 36.7886 39.7331C37.6403 39.1102 38.5683 38.5127 39.5344 37.9534C40.5005 37.3941 41.4666 36.8983 42.4454 36.4661C43.4242 36.8983 44.403 37.4068 45.3564 37.9534C46.3225 38.5127 47.2505 39.1102 48.1022 39.7331C48.2038 40.7881 48.2674 41.8814 48.2674 43C48.2674 44.1186 48.2038 45.2119 48.1022 46.2669C47.2377 46.8898 46.3352 47.4873 45.3564 48.0466ZM47.9496 47.5127C47.7589 48.822 47.492 50.0551 47.1488 51.161C46.0174 50.8941 44.8098 50.5127 43.6022 50.0297C44.3394 49.6737 45.0894 49.2797 45.8267 48.8602C46.564 48.428 47.2759 47.9703 47.9496 47.5127ZM41.2886 50.0297C40.0683 50.5127 38.8733 50.8941 37.742 51.161C37.4115 50.0551 37.1445 48.822 36.9411 47.5127C37.6276 47.9831 38.3267 48.428 39.064 48.8475C39.814 49.2797 40.5513 49.661 41.2886 50.0297ZM35.7844 45.5042C34.7547 44.6907 33.8267 43.8517 33.0259 43C33.814 42.161 34.7547 41.3093 35.7844 40.4831C35.7208 41.2966 35.6954 42.1356 35.6954 42.9873C35.6954 43.8644 35.7208 44.7034 35.7844 45.5042ZM36.9411 38.4873C37.1318 37.178 37.3988 35.9576 37.7293 34.839C38.8606 35.1059 40.0683 35.4873 41.2759 35.9703C40.5386 36.3263 39.7886 36.7203 39.0513 37.1398C38.3267 37.5847 37.6149 38.0297 36.9411 38.4873ZM43.6149 35.9703C44.8352 35.4873 46.0301 35.1059 47.1615 34.839C47.492 35.9449 47.7589 37.178 47.9496 38.4873C47.2759 38.0297 46.564 37.5847 45.8267 37.1525C45.0894 36.7203 44.3522 36.339 43.6149 35.9703ZM49.1191 40.4958C50.1615 41.322 51.0894 42.161 51.8776 43.0127C51.0767 43.8644 50.1488 44.7161 49.1191 45.5169C49.1827 44.7034 49.2081 43.8644 49.2081 43C49.2081 42.1483 49.17 41.3093 49.1191 40.4958ZM42.4454 28.928C44.1869 28.928 45.7759 30.8983 46.8691 33.9364C45.4581 34.2669 43.9581 34.7754 42.4454 35.4364C40.9327 34.7754 39.4454 34.2669 38.0344 33.9364C39.1149 30.8983 40.7038 28.928 42.4454 28.928ZM31.6911 41.4364C30.0513 39.2246 29.5301 37.2288 30.2547 35.9576C31.0047 34.6483 32.8352 34.3686 34.2462 34.3686C35.0344 34.3686 35.8988 34.4576 36.8013 34.6229C36.3945 35.9958 36.0767 37.5466 35.8988 39.2119C34.5513 40.2034 33.3691 41.2458 32.3903 42.2881C32.1361 42.0085 31.9072 41.7288 31.6911 41.4364ZM34.2589 51.6186C32.8479 51.6186 31.0174 51.339 30.2674 50.0297C29.3903 48.517 30.3055 46.1525 32.403 43.6992C33.4072 44.7542 34.5894 45.7839 35.8988 46.7627C36.0894 48.428 36.3945 49.9788 36.814 51.3644C35.8988 51.5297 35.0471 51.6186 34.2589 51.6186ZM42.4454 57.072C40.7038 57.072 39.1149 55.1017 38.0344 52.0636C39.4454 51.7331 40.9454 51.2246 42.4454 50.5636C43.9581 51.2246 45.4454 51.7331 46.8691 52.0636C45.7886 55.1017 44.1996 57.072 42.4454 57.072ZM54.6361 50.0424C53.8861 51.3517 52.0555 51.6314 50.6445 51.6314C49.8564 51.6314 48.992 51.5424 48.0894 51.3771C48.4962 49.9915 48.814 48.4534 49.0047 46.7754C50.3267 45.7966 51.5089 44.767 52.5005 43.7119C54.5979 46.1653 55.5005 48.5169 54.6361 50.0424Z" fill="#FF384B"></path><path d="M42.4455 40.6355C41.1361 40.6355 40.0811 41.7033 40.0811 42.9999C40.0811 44.2965 41.1489 45.3643 42.4455 45.3643C43.7421 45.3643 44.8099 44.2965 44.8099 42.9999C44.8099 41.6906 43.7548 40.6355 42.4455 40.6355ZM42.4455 44.4363C41.6573 44.4363 41.009 43.788 41.009 42.9999C41.009 42.2118 41.6573 41.5635 42.4455 41.5635C43.2336 41.5635 43.8819 42.2118 43.8819 42.9999C43.8819 43.788 43.2336 44.4363 42.4455 44.4363Z" fill="#FF384B"></path></svg>				</span>
-			</div>
-			
-						<div class="elementor-icon-box-content">
+    function oneTapHide() {
+        let otd = document.getElementById('kgmModal-onetap')
+        if(!!otd) {
+            otd.classList.add('-hide');
+            document.body.classList.remove('-locked');
+        }
+    }
 
-									<h3 class="elementor-icon-box-title">
-						<span  >
-							Values						</span>
-					</h3>
-				
-									<p class="elementor-icon-box-description">
-						Excellence, Authenticity, Inclusivity, Culinary Innovation.					</p>
-				
-			</div>
-			
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-2d760ed elementor-align-center elementor-widget elementor-widget-button" data-id="2d760ed" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-									<span class="elementor-button-text">Discover More</span>
-					</span>
-					</a>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-201d6c0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="201d6c0" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-							<div class="elementor-background-overlay"></div>
-							<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ff6d8d9" data-id="ff6d8d9" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-8ac2420 elementor-widget elementor-widget-heading" data-id="8ac2420" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Stay Informed About Special Offers</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-b5fb950 elementor-widget elementor-widget-heading" data-id="b5fb950" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">For Exclusive Deals, Coupons, News and More!</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-df2f310 elementor-widget elementor-widget-text-editor" data-id="df2f310" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum necessitatibus maiores accusamus debitis tempore accusantium quas eum delectus explicabo ea incidunt consequuntur velit quia iste, adipisci illo dolore est doloribus!						</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-1b0b8c4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1b0b8c4" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b2a28ba" data-id="b2a28ba" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-9f7eb6c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9f7eb6c" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b88cce1" data-id="b88cce1" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-95e3731 elementor-widget elementor-widget-image" data-id="95e3731" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img decoding="async" width="225" height="300" src="https://odel.co.in/wp-content/uploads/2023/08/odel-digest-restaurant-nagercoil-5rl5arubkr-225x300.jpg" class="attachment-medium size-medium wp-image-4606" alt="" srcset="https://odel.co.in/wp-content/uploads/2023/08/odel-digest-restaurant-nagercoil-5rl5arubkr-225x300.jpg 225w, https://odel.co.in/wp-content/uploads/2023/08/odel-digest-restaurant-nagercoil-5rl5arubkr.jpg 479w" sizes="(max-width: 225px) 100vw, 225px" />													</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2091bc4" data-id="2091bc4" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-6924ae6 elementor-widget elementor-widget-image" data-id="6924ae6" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="800" height="450" src="https://odel.co.in/wp-content/uploads/2023/08/IMG_20170826_142830833_HDR-1024x576.jpg" class="attachment-large size-large wp-image-4607" alt="" srcset="https://odel.co.in/wp-content/uploads/2023/08/IMG_20170826_142830833_HDR-1024x576.jpg 1024w, https://odel.co.in/wp-content/uploads/2023/08/IMG_20170826_142830833_HDR-300x169.jpg 300w, https://odel.co.in/wp-content/uploads/2023/08/IMG_20170826_142830833_HDR-768x432.jpg 768w, https://odel.co.in/wp-content/uploads/2023/08/IMG_20170826_142830833_HDR.jpg 1080w" sizes="(max-width: 800px) 100vw, 800px" />													</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-fd390cb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fd390cb" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2dca9c2" data-id="2dca9c2" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-66ecbc1 elementor-widget elementor-widget-image" data-id="66ecbc1" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="275" height="183" src="https://odel.co.in/wp-content/uploads/2023/08/images.jpeg" class="attachment-large size-large wp-image-4608" alt="" />													</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-e586b86" data-id="e586b86" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-b8c6923 elementor-widget elementor-widget-image" data-id="b8c6923" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="275" height="183" src="https://odel.co.in/wp-content/uploads/2023/08/images-1.jpeg" class="attachment-large size-large wp-image-4609" alt="" />													</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				<div class="elementor-element elementor-element-2d449a6 elementor-widget elementor-widget-image" data-id="2d449a6" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="441" height="277" src="https://odel.co.in/wp-content/uploads/2023/08/Group-51.png" class="attachment-large size-large wp-image-4616" alt="" srcset="https://odel.co.in/wp-content/uploads/2023/08/Group-51.png 441w, https://odel.co.in/wp-content/uploads/2023/08/Group-51-300x188.png 300w" sizes="(max-width: 441px) 100vw, 441px" />													</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5d9e043" data-id="5d9e043" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-3624134 elementor-widget elementor-widget-heading" data-id="3624134" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">About Us</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-f1af96f elementor-widget elementor-widget-heading" data-id="f1af96f" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Why we are the Best</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-3b7a77e elementor-widget elementor-widget-text-editor" data-id="3b7a77e" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>At Odel Digest, we are passionate about delivering an exceptional dining experience that celebrates the diverse and vibrant world of Indian cuisine. With a focus on North and South Indian flavors, we&#8217;ve mastered the art of infusing each dish with a harmonious mix of spices, ensuring that every bite is a celebration of taste and tradition.</p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-fc226e6 elementor-position-left elementor-vertical-align-middle elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="fc226e6" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
+    function hideButtonClose(){
+        document.getElementById('kgmModal-onetap-close-tag').style.display = 'none';
+        document.getElementById('kgmModal-onetap-close-page').style.display = 'none';
+        document.getElementById('kgmModal-onetap-close-iteraction').style.display = 'none';
+    }
 
-						<div class="elementor-icon-box-icon">
-				<span  class="elementor-icon elementor-animation-">
-				<svg xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 55 55" fill="none"><rect width="55" height="55" fill="#FFF9F4"></rect><path fill-rule="evenodd" clip-rule="evenodd" d="M30.0996 20.1C30.0996 20.2092 30.0928 20.3169 30.0798 20.4226C34.5754 21.5702 37.8996 25.6468 37.8996 30.5V31.8C37.8996 32.518 37.3176 33.1 36.5996 33.1H18.3996C17.6816 33.1 17.0996 32.518 17.0996 31.8V30.5C17.0996 25.6468 20.4238 21.5702 24.9194 20.4226C24.9064 20.3169 24.8996 20.2092 24.8996 20.1C24.8996 18.6641 26.0636 17.5 27.4996 17.5C28.9356 17.5 30.0996 18.6641 30.0996 20.1Z" fill="#FF384B"></path><path d="M15.8 35.7C15.082 35.7 14.5 36.282 14.5 37C14.5 37.7179 15.082 38.2999 15.8 38.2999H39.2C39.918 38.2999 40.5 37.7179 40.5 37C40.5 36.282 39.918 35.7 39.2 35.7H15.8Z" fill="#FF384B"></path></svg>				</span>
-			</div>
-			
-						<div class="elementor-icon-box-content">
+    //     // // start all kanal tag rule
+    // document.querySelectorAll(".tag__article__link").forEach(element => element.addEventListener('click', event => {
+    //     event.preventDefault()
+    //     hideButtonClose();
+    //     var kgmModalOneTapClose = document.getElementById('kgmModal-onetap-close-tag');
+    //     kgmModalOneTapClose.style.display = "block";
+    //     kgmModalOneTapClose.dataset.url = element.getAttribute("href");
+    //     document.getElementById('g_id_onload').dataset.continue = btoa(url_continue+'?lgn_source=kgonetap&lgn_trigger=tags_btn')
+    //     document.getElementById('kgmModal-title').innerHTML = 'Baca berita bertopik serupa dengan login menggunakan akun kamu';
+    //     var script = document.createElement("script");
+    //     (script.src = "https://accounts.google.com/gsi/client"), (script.defer = !0), (script.async = !0), document.head.appendChild(script);
+    //     document.getElementById('kgmModal-onetap').dataset.eventLabel = 'Tags Button';
+    //     oneTapShow();
+    // }));
 
-									<h3 class="elementor-icon-box-title">
-						<span  >
-							Buffet Service						</span>
-					</h3>
-				
-									<p class="elementor-icon-box-description">
-						Qariatureaque ipsa quae a illo inventore
-veritatis et quasi architecto					</p>
-				
-			</div>
-			
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-6703a0d elementor-position-left elementor-vertical-align-middle elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="6703a0d" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
+    // let kgmModalOneTapClose = document.getElementById('kgmModal-onetap-close-tag');
+    // if (!!kgmModalOneTapClose) {
+    //     kgmModalOneTapClose.addEventListener('click', function (e) {
+    //         var url_tag = kgmModalOneTapClose.dataset.url;
+    //         window.location.href = url_tag;
+    //     });
+    // }
+    // // end all kanal tag rule
+    // 
+    // start food tag rule
+    let pageShow = document.getElementById('show_all');
+    if (!!pageShow) {
+        pageShow.addEventListener('click', function (e) {
+            hideButtonClose();
+            var kgmModalOneTapPage = document.getElementById('kgmModal-onetap-close-page');
+            kgmModalOneTapPage.style.display = "block";
+            document.getElementById('g_id_onload').dataset.continue = btoa(url_continue+'?lgn_source=kgonetap&lgn_trigger=seeall_btn');
+            document.getElementById('kgmModal-title').innerHTML = 'Login untuk akses baca lebih lengkap';
+            var script = document.createElement("script");
+            (script.src = "https://accounts.google.com/gsi/client"), (script.defer = !0), (script.async = !0), document.head.appendChild(script);
+            document.getElementById('kgmModal-onetap').dataset.eventLabel = 'See All Button';
+            oneTapShow();
+        });
+    }
 
-						<div class="elementor-icon-box-icon">
-				<span  class="elementor-icon elementor-animation-">
-				<svg xmlns="http://www.w3.org/2000/svg" width="55" height="56" viewBox="0 0 55 56" fill="none"><rect width="55" height="55" transform="translate(0 0.689941)" fill="#FFF9F4"></rect><path d="M33.4148 29.7614C33.2857 29.3804 32.9536 29.1423 32.5663 29.1423H31.9806V18.1899C31.9806 17.0749 31.1236 16.1899 30.0437 16.1899H19.6214C18.4749 16.1899 17.5 17.1966 17.5 18.3804V35.809C17.5 36.9423 18.51 37.9042 19.5983 37.9042H30.1325C30.2438 37.9042 30.3419 37.9979 30.3336 38.1126C30.3248 38.2332 30.2272 38.2852 30.1129 38.2852H25.9163L29.1214 40.1899H36.5L33.4148 29.7614ZM24.8833 36.9709C24.5882 36.9709 24.3668 36.7424 24.3667 36.4378C24.3667 36.1478 24.6026 35.9042 24.8834 35.9042C25.1785 35.9043 25.3998 36.1329 25.3998 36.4376C25.3905 36.7423 25.1784 36.9709 24.8833 36.9709ZM30.5971 29.1423H28.7847C28.2959 29.1423 27.8808 29.5899 27.8808 30.0947C27.8808 30.5995 28.2959 31.0471 28.7847 31.0471H30.6109V35.0471H18.9757V18.9518H30.5971V29.1423ZM20.9952 22.2531L21.6245 27.3253H23.7262L24.3494 22.2531H21.7771L21.2639 20.4173L20.9829 20.4993L21.4716 22.2468L20.9952 22.2531ZM24.6487 25.2118C24.6487 25.2118 24.5693 24.4738 25.6629 24.4738H27.4042C28.4917 24.4738 28.4184 25.2118 28.4184 25.2118H24.6487ZM28.4122 26.5872C28.4122 26.5872 28.4855 27.3253 27.398 27.3253H25.6629C24.5693 27.3253 24.6487 26.5872 24.6487 26.5872H28.4122ZM24.8136 26.2276C24.6364 26.2276 24.4898 26.0824 24.4898 25.8932C24.4898 25.7102 24.6303 25.5588 24.8136 25.5588H28.2716C28.4488 25.5588 28.5954 25.7039 28.5954 25.8932C28.5954 26.0761 28.4488 26.2276 28.2716 26.2276H24.8136ZM28.6688 28.322H20.8485V27.7101H28.6689L28.6688 28.322Z" fill="#FF384B"></path></svg>				</span>
-			</div>
-			
-						<div class="elementor-icon-box-content">
+    $(document).on("click", "#commentFormLogin", function() {
+        var komentar_url = $(this).data('komentar-url');
+        hideButtonClose();
+        var kgmModalOneTapPage = document.getElementById('kgmModal-onetap-close-page');
+        kgmModalOneTapPage.style.display = "block";
+        document.getElementById('g_id_onload').dataset.continue = btoa(komentar_url + '?lgn_source=kgonetap&lgn_trigger=comment_article');
+        document.getElementById('kgmModal-title').innerHTML = 'Login untuk menyampaikan komentarmu.';
+        var script = document.createElement("script");
+        (script.src = "https://accounts.google.com/gsi/client"), (script.defer = !0), (script.async = !0), document.head.appendChild(script);
+        document.getElementById('kgmModal-onetap').dataset.eventLabel = 'Comment Article';
+        oneTapShow();
+    });
 
-									<h3 class="elementor-icon-box-title">
-						<span  >
-							Online Booking						</span>
-					</h3>
-				
-									<p class="elementor-icon-box-description">
-						Qariatureaque ipsa quae a illo inventore
-veritatis et quasi architecto					</p>
-				
-			</div>
-			
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-6a6a1fb elementor-widget elementor-widget-button" data-id="6a6a1fb" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-									<span class="elementor-button-text">About Us</span>
-					</span>
-					</a>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-51e2c5a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="51e2c5a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3c93916" data-id="3c93916" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-f0c34f2 elementor-widget elementor-widget-heading" data-id="f0c34f2" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Odel Digest</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-0c0b7b6 elementor-widget elementor-widget-heading" data-id="0c0b7b6" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Our Specials</h2>		</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-e600b62 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e600b62" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4736b49" data-id="4736b49" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-28d20d6 elementor-widget elementor-widget-image" data-id="28d20d6" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="800" height="800" src="https://odel.co.in/wp-content/uploads/2023/08/Tandoori-Chicken.webp" class="attachment-large size-large wp-image-4637" alt="" srcset="https://odel.co.in/wp-content/uploads/2023/08/Tandoori-Chicken.webp 1000w, https://odel.co.in/wp-content/uploads/2023/08/Tandoori-Chicken-300x300.webp 300w, https://odel.co.in/wp-content/uploads/2023/08/Tandoori-Chicken-150x150.webp 150w, https://odel.co.in/wp-content/uploads/2023/08/Tandoori-Chicken-768x768.webp 768w" sizes="(max-width: 800px) 100vw, 800px" />													</div>
-				</div>
-				<div class="elementor-element elementor-element-4dfbd3a elementor-widget elementor-widget-heading" data-id="4dfbd3a" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">TANDOORI CHICKEN FULL</h2>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b1e9ed3" data-id="b1e9ed3" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-7ac44cc elementor-widget elementor-widget-image" data-id="7ac44cc" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="800" height="800" src="https://odel.co.in/wp-content/uploads/2023/08/best_chicken_lollipop_drums_of_chicken-1024x1024.jpg" class="attachment-large size-large wp-image-4638" alt="" srcset="https://odel.co.in/wp-content/uploads/2023/08/best_chicken_lollipop_drums_of_chicken-1024x1024.jpg 1024w, https://odel.co.in/wp-content/uploads/2023/08/best_chicken_lollipop_drums_of_chicken-300x300.jpg 300w, https://odel.co.in/wp-content/uploads/2023/08/best_chicken_lollipop_drums_of_chicken-150x150.jpg 150w, https://odel.co.in/wp-content/uploads/2023/08/best_chicken_lollipop_drums_of_chicken-768x768.jpg 768w, https://odel.co.in/wp-content/uploads/2023/08/best_chicken_lollipop_drums_of_chicken.jpg 1200w" sizes="(max-width: 800px) 100vw, 800px" />													</div>
-				</div>
-				<div class="elementor-element elementor-element-1d552ac elementor-widget elementor-widget-heading" data-id="1d552ac" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">CHICKEN LOLYPOP</h2>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-e8492e4" data-id="e8492e4" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-0cac94c elementor-widget elementor-widget-image" data-id="0cac94c" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="800" height="493" src="https://odel.co.in/wp-content/uploads/2023/08/veggie-spring-rolls-blog-1024x631.jpg" class="attachment-large size-large wp-image-4639" alt="" srcset="https://odel.co.in/wp-content/uploads/2023/08/veggie-spring-rolls-blog-1024x631.jpg 1024w, https://odel.co.in/wp-content/uploads/2023/08/veggie-spring-rolls-blog-300x185.jpg 300w, https://odel.co.in/wp-content/uploads/2023/08/veggie-spring-rolls-blog-768x474.jpg 768w, https://odel.co.in/wp-content/uploads/2023/08/veggie-spring-rolls-blog.jpg 1200w" sizes="(max-width: 800px) 100vw, 800px" />													</div>
-				</div>
-				<div class="elementor-element elementor-element-d162055 elementor-widget elementor-widget-heading" data-id="d162055" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">VEG SPRING ROLL</h2>		</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-db471fa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="db471fa" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5affa2a" data-id="5affa2a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-3888157 elementor-widget elementor-widget-image" data-id="3888157" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="683" height="1024" src="https://odel.co.in/wp-content/uploads/2023/08/Pineapple-Raita-3-683x1024.jpg" class="attachment-large size-large wp-image-4662" alt="" srcset="https://odel.co.in/wp-content/uploads/2023/08/Pineapple-Raita-3-683x1024.jpg 683w, https://odel.co.in/wp-content/uploads/2023/08/Pineapple-Raita-3-200x300.jpg 200w, https://odel.co.in/wp-content/uploads/2023/08/Pineapple-Raita-3-768x1152.jpg 768w, https://odel.co.in/wp-content/uploads/2023/08/Pineapple-Raita-3.jpg 800w" sizes="(max-width: 683px) 100vw, 683px" />													</div>
-				</div>
-				<div class="elementor-element elementor-element-cf7bdf5 elementor-widget elementor-widget-heading" data-id="cf7bdf5" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">PINEAPPLE RAITA</h2>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3f3c839" data-id="3f3c839" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-a3d1e6a elementor-widget elementor-widget-image" data-id="a3d1e6a" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="800" height="800" src="https://odel.co.in/wp-content/uploads/2023/08/QuickPepperEggMasala.jpg" class="attachment-large size-large wp-image-4666" alt="" srcset="https://odel.co.in/wp-content/uploads/2023/08/QuickPepperEggMasala.jpg 900w, https://odel.co.in/wp-content/uploads/2023/08/QuickPepperEggMasala-300x300.jpg 300w, https://odel.co.in/wp-content/uploads/2023/08/QuickPepperEggMasala-150x150.jpg 150w, https://odel.co.in/wp-content/uploads/2023/08/QuickPepperEggMasala-768x768.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />													</div>
-				</div>
-				<div class="elementor-element elementor-element-4138fdb elementor-widget elementor-widget-heading" data-id="4138fdb" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">EGG PEPPER MASALA</h2>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-430fff4" data-id="430fff4" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-9f6d433 elementor-widget elementor-widget-image" data-id="9f6d433" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="800" height="532" src="https://odel.co.in/wp-content/uploads/2023/08/Tawa-Mutton-1-1024x681.jpg" class="attachment-large size-large wp-image-4667" alt="" srcset="https://odel.co.in/wp-content/uploads/2023/08/Tawa-Mutton-1-1024x681.jpg 1024w, https://odel.co.in/wp-content/uploads/2023/08/Tawa-Mutton-1-300x200.jpg 300w, https://odel.co.in/wp-content/uploads/2023/08/Tawa-Mutton-1-768x511.jpg 768w, https://odel.co.in/wp-content/uploads/2023/08/Tawa-Mutton-1.jpg 1200w" sizes="(max-width: 800px) 100vw, 800px" />													</div>
-				</div>
-				<div class="elementor-element elementor-element-d845f40 elementor-widget elementor-widget-heading" data-id="d845f40" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">MUTTON TAWA MASALA</h2>		</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-fd2e196 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="fd2e196" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-71a409e" data-id="71a409e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-9ea54da elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9ea54da" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b57a038" data-id="b57a038" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-cb437b5 elementor-widget elementor-widget-heading" data-id="cb437b5" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">About Our Android App and Online Delivery</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-2c0c4d3 elementor-widget elementor-widget-text-editor" data-id="2c0c4d3" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Embracing convenience, Odel Digest brings the flavors of India to your doorstep with our user-friendly Android app. Experience the joy of browsing our menu, placing orders, and tracking deliveries all at your fingertips. Whether you&#8217;re seeking a cozy dinner at home or a feast for a gathering, our online delivery ensures that you don&#8217;t miss out on the Odel experience.</p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-90a7828 elementor-widget elementor-widget-text-editor" data-id="90a7828" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Come, Join Us on This Flavorful Journey Through India&#8217;s Culinary Heritage!</p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-3a70f22 elementor-widget elementor-widget-image" data-id="3a70f22" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="300" height="86" src="https://odel.co.in/wp-content/uploads/2023/08/pngwing-2-300x86.png" class="attachment-medium size-medium wp-image-4689" alt="" srcset="https://odel.co.in/wp-content/uploads/2023/08/pngwing-2-300x86.png 300w, https://odel.co.in/wp-content/uploads/2023/08/pngwing-2-1024x294.png 1024w, https://odel.co.in/wp-content/uploads/2023/08/pngwing-2-768x221.png 768w, https://odel.co.in/wp-content/uploads/2023/08/pngwing-2.png 1332w" sizes="(max-width: 300px) 100vw, 300px" />													</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1b3c515" data-id="1b3c515" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-66bff1b elementor-widget elementor-widget-image" data-id="66bff1b" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="485" height="1023" src="https://odel.co.in/wp-content/uploads/2023/08/Pixel-7-Pro-Mockup.png" class="attachment-full size-full wp-image-4683" alt="" srcset="https://odel.co.in/wp-content/uploads/2023/08/Pixel-7-Pro-Mockup.png 485w, https://odel.co.in/wp-content/uploads/2023/08/Pixel-7-Pro-Mockup-142x300.png 142w" sizes="(max-width: 485px) 100vw, 485px" />													</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-5cdfe11 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5cdfe11" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e242461" data-id="e242461" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-848c36a elementor-widget elementor-widget-heading" data-id="848c36a" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">We Have Excellent Of Quality
-Japanese Food</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-7de2604 elementor-widget elementor-widget-text-editor" data-id="7de2604" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum a dolor dolorum deserunt facilis<br />impedit mollitia cum laboriosam, ipsa voluptatibus voluptates dignissimos dolores similique animi! Nemo voluptatem a perspiciatis rerum!</p><p><script src="moz-extension://2b701d6f-3089-49c7-a340-beb94fe0b128/js/app.js" type="text/javascript"></script></p>						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-88de62a" data-id="88de62a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-fe29c1b elementor-widget elementor-widget-heading" data-id="fe29c1b" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Opening Times</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-a6cc113 elementor-widget elementor-widget-heading" data-id="a6cc113" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Check Availability</h2>		</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-3003dab elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3003dab" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a902a0a" data-id="a902a0a" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-fc9b591 elementor-widget elementor-widget-text-editor" data-id="fc9b591" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>All Day</p>						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d1b1e0f" data-id="d1b1e0f" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-c64dba2 elementor-widget elementor-widget-text-editor" data-id="c64dba2" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>11.00 AM &#8211; 10:30 PM</p>						</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				<div class="elementor-element elementor-element-5a83142 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="5a83142" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.23.0 - 05-08-2024 */
-.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#0c0d0e;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-block-end:0;flex-grow:1;border-block-start:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider--element-align-start .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-start .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-start .elementor-divider__element{margin-inline-start:0}.elementor-widget-divider--element-align-end .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-end .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-end .elementor-divider__element{margin-inline-end:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-block-start:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-con-inner>.elementor-widget-divider,.e-con>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-a2544f7 elementor-widget elementor-widget-heading" data-id="a2544f7" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Call Us Now</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-9f4eb9a elementor-widget elementor-widget-heading" data-id="9f4eb9a" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">+91 9095888399</h2>		</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-5fdade3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5fdade3" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-21a072d" data-id="21a072d" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-eaf31ab elementor-widget elementor-widget-heading" data-id="eaf31ab" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Testimonials</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-18030cf elementor-widget elementor-widget-heading" data-id="18030cf" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">What Our Client Says</h2>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-bc876f9" data-id="bc876f9" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-a11da91 elementor-widget elementor-widget-testimonial" data-id="a11da91" data-element_type="widget" data-widget_type="testimonial.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.23.0 - 05-08-2024 */
-.elementor-testimonial-wrapper{overflow:hidden;text-align:center}.elementor-testimonial-wrapper .elementor-testimonial-content{font-size:1.3em;margin-bottom:20px}.elementor-testimonial-wrapper .elementor-testimonial-name{line-height:1.5;display:block}.elementor-testimonial-wrapper .elementor-testimonial-job{font-size:.85em;display:block}.elementor-testimonial-wrapper .elementor-testimonial-meta{width:100%;line-height:1}.elementor-testimonial-wrapper .elementor-testimonial-meta-inner{display:inline-block}.elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-details,.elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-image{display:table-cell;vertical-align:middle}.elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-image img{width:60px;height:60px;border-radius:50%;-o-object-fit:cover;object-fit:cover;max-width:none}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-image{padding-inline-end:15px}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-details{text-align:start}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-details,.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{display:block}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{margin-bottom:20px}</style>		<div class="elementor-testimonial-wrapper">
-							<div class="elementor-testimonial-content">Organizations throughout the World to manage heir IT with our unique approach to technology agement and consultancy solutions. Provide users with priate view and access permissions</div>
-			
-						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
-				<div class="elementor-testimonial-meta-inner">
-											<div class="elementor-testimonial-image">
-							<img loading="lazy" decoding="async" width="1920" height="1080" src="https://odel.co.in/wp-content/uploads/2023/08/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080.jpg" class="attachment-full size-full wp-image-4735" alt="" srcset="https://odel.co.in/wp-content/uploads/2023/08/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080.jpg 1920w, https://odel.co.in/wp-content/uploads/2023/08/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080-300x169.jpg 300w, https://odel.co.in/wp-content/uploads/2023/08/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080-1024x576.jpg 1024w, https://odel.co.in/wp-content/uploads/2023/08/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080-768x432.jpg 768w, https://odel.co.in/wp-content/uploads/2023/08/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080-1536x864.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />						</div>
-					
-										<div class="elementor-testimonial-details">
-														<div class="elementor-testimonial-name">Reson Roy </div>
-																						<div class="elementor-testimonial-job">- Tool Customar</div>
-													</div>
-									</div>
-			</div>
-					</div>
-				</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				</div>
-		
-		
-			</div>
+    document.addEventListener('DOMContentLoaded', function() {
+        const elementKgOneTapAction = document.querySelectorAll('[data-kgonetap-action]');
+        if (!!elementKgOneTapAction) {
+            elementKgOneTapAction.forEach(function(el) {
+                el.addEventListener('click', function() {
+                    const kgOneTapAction = el.getAttribute('data-kgonetap-action');
+                    let kgOneTapTitle = 'Login untuk menyampaikan komentarmu.';
+                    let lgnTrigger = '';
+                    let eventLabel = 'See All Button';
 
-	
-</main>
+                    if (kgOneTapAction == 'COMMENT_POST') {
+                        kgOneTapTitle = 'Login untuk menyampaikan komentarmu.';
+                        lgnTrigger = 'comment_post_btn';
+                        eventLabel = 'Comment Post Button';
 
-	
-		<footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
-			<div class='footer-width-fixer'>		<div data-elementor-type="wp-post" data-elementor-id="4784" class="elementor elementor-4784">
-						<section class="elementor-section elementor-top-section elementor-element elementor-element-314dcf7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="314dcf7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-476de66" data-id="476de66" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-2c42a34 elementor-widget elementor-widget-heading" data-id="2c42a34" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Gallery</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-43bbfbb elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="43bbfbb" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-ad9f213 gallery-spacing-custom elementor-widget elementor-widget-image-gallery" data-id="ad9f213" data-element_type="widget" data-widget_type="image-gallery.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.23.0 - 05-08-2024 */
-.elementor-image-gallery .gallery-item{display:inline-block;text-align:center;vertical-align:top;width:100%;max-width:100%;margin:0 auto}.elementor-image-gallery .gallery-item img{margin:0 auto}.elementor-image-gallery .gallery-item .gallery-caption{margin:0}.elementor-image-gallery figure img{display:block}.elementor-image-gallery figure figcaption{width:100%}.gallery-spacing-custom .elementor-image-gallery .gallery-icon{padding:0}@media (min-width:768px){.elementor-image-gallery .gallery-columns-2 .gallery-item{max-width:50%}.elementor-image-gallery .gallery-columns-3 .gallery-item{max-width:33.33%}.elementor-image-gallery .gallery-columns-4 .gallery-item{max-width:25%}.elementor-image-gallery .gallery-columns-5 .gallery-item{max-width:20%}.elementor-image-gallery .gallery-columns-6 .gallery-item{max-width:16.666%}.elementor-image-gallery .gallery-columns-7 .gallery-item{max-width:14.28%}.elementor-image-gallery .gallery-columns-8 .gallery-item{max-width:12.5%}.elementor-image-gallery .gallery-columns-9 .gallery-item{max-width:11.11%}.elementor-image-gallery .gallery-columns-10 .gallery-item{max-width:10%}}@media (min-width:480px) and (max-width:767px){.elementor-image-gallery .gallery.gallery-columns-2 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-3 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-4 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-5 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-6 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-7 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-8 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-9 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-10 .gallery-item{max-width:50%}}@media (max-width:479px){.elementor-image-gallery .gallery.gallery-columns-2 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-3 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-4 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-5 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-6 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-7 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-8 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-9 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-10 .gallery-item{max-width:100%}}</style>		<div class="elementor-image-gallery">
-			<div id='gallery-1' class='gallery galleryid-4518 gallery-columns-3 gallery-size-thumbnail'><figure class='gallery-item'>
-			<div class='gallery-icon landscape'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="ad9f213" data-elementor-lightbox-title="Tawa-Mutton-1" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDY2NywidXJsIjoiaHR0cHM6XC9cL29kZWwuY28uaW5cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjNcLzA4XC9UYXdhLU11dHRvbi0xLmpwZyIsInNsaWRlc2hvdyI6ImFkOWYyMTMifQ%3D%3D" href='https://odel.co.in/wp-content/uploads/2023/08/Tawa-Mutton-1.jpg'><img width="150" height="150" src="https://odel.co.in/wp-content/uploads/2023/08/Tawa-Mutton-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" /></a>
-			</div></figure><figure class='gallery-item'>
-			<div class='gallery-icon landscape'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="ad9f213" data-elementor-lightbox-title="QuickPepperEggMasala" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDY2NiwidXJsIjoiaHR0cHM6XC9cL29kZWwuY28uaW5cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjNcLzA4XC9RdWlja1BlcHBlckVnZ01hc2FsYS5qcGciLCJzbGlkZXNob3ciOiJhZDlmMjEzIn0%3D" href='https://odel.co.in/wp-content/uploads/2023/08/QuickPepperEggMasala.jpg'><img width="150" height="150" src="https://odel.co.in/wp-content/uploads/2023/08/QuickPepperEggMasala-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" srcset="https://odel.co.in/wp-content/uploads/2023/08/QuickPepperEggMasala-150x150.jpg 150w, https://odel.co.in/wp-content/uploads/2023/08/QuickPepperEggMasala-300x300.jpg 300w, https://odel.co.in/wp-content/uploads/2023/08/QuickPepperEggMasala-768x768.jpg 768w, https://odel.co.in/wp-content/uploads/2023/08/QuickPepperEggMasala.jpg 900w" sizes="(max-width: 150px) 100vw, 150px" /></a>
-			</div></figure><figure class='gallery-item'>
-			<div class='gallery-icon landscape'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="ad9f213" data-elementor-lightbox-title="veggie-spring-rolls-blog" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDYzOSwidXJsIjoiaHR0cHM6XC9cL29kZWwuY28uaW5cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjNcLzA4XC92ZWdnaWUtc3ByaW5nLXJvbGxzLWJsb2cuanBnIiwic2xpZGVzaG93IjoiYWQ5ZjIxMyJ9" href='https://odel.co.in/wp-content/uploads/2023/08/veggie-spring-rolls-blog.jpg'><img width="150" height="150" src="https://odel.co.in/wp-content/uploads/2023/08/veggie-spring-rolls-blog-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" /></a>
-			</div></figure><figure class='gallery-item'>
-			<div class='gallery-icon landscape'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="ad9f213" data-elementor-lightbox-title="best_chicken_lollipop_drums_of_chicken" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDYzOCwidXJsIjoiaHR0cHM6XC9cL29kZWwuY28uaW5cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjNcLzA4XC9iZXN0X2NoaWNrZW5fbG9sbGlwb3BfZHJ1bXNfb2ZfY2hpY2tlbi5qcGciLCJzbGlkZXNob3ciOiJhZDlmMjEzIn0%3D" href='https://odel.co.in/wp-content/uploads/2023/08/best_chicken_lollipop_drums_of_chicken.jpg'><img width="150" height="150" src="https://odel.co.in/wp-content/uploads/2023/08/best_chicken_lollipop_drums_of_chicken-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" srcset="https://odel.co.in/wp-content/uploads/2023/08/best_chicken_lollipop_drums_of_chicken-150x150.jpg 150w, https://odel.co.in/wp-content/uploads/2023/08/best_chicken_lollipop_drums_of_chicken-300x300.jpg 300w, https://odel.co.in/wp-content/uploads/2023/08/best_chicken_lollipop_drums_of_chicken-1024x1024.jpg 1024w, https://odel.co.in/wp-content/uploads/2023/08/best_chicken_lollipop_drums_of_chicken-768x768.jpg 768w, https://odel.co.in/wp-content/uploads/2023/08/best_chicken_lollipop_drums_of_chicken.jpg 1200w" sizes="(max-width: 150px) 100vw, 150px" /></a>
-			</div></figure><figure class='gallery-item'>
-			<div class='gallery-icon landscape'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="ad9f213" data-elementor-lightbox-title="Tandoori-Chicken" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDYzNywidXJsIjoiaHR0cHM6XC9cL29kZWwuY28uaW5cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjNcLzA4XC9UYW5kb29yaS1DaGlja2VuLndlYnAiLCJzbGlkZXNob3ciOiJhZDlmMjEzIn0%3D" href='https://odel.co.in/wp-content/uploads/2023/08/Tandoori-Chicken.webp'><img width="150" height="150" src="https://odel.co.in/wp-content/uploads/2023/08/Tandoori-Chicken-150x150.webp" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" srcset="https://odel.co.in/wp-content/uploads/2023/08/Tandoori-Chicken-150x150.webp 150w, https://odel.co.in/wp-content/uploads/2023/08/Tandoori-Chicken-300x300.webp 300w, https://odel.co.in/wp-content/uploads/2023/08/Tandoori-Chicken-768x768.webp 768w, https://odel.co.in/wp-content/uploads/2023/08/Tandoori-Chicken.webp 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>
-			</div></figure><figure class='gallery-item'>
-			<div class='gallery-icon landscape'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="ad9f213" data-elementor-lightbox-title="images" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDYwOCwidXJsIjoiaHR0cHM6XC9cL29kZWwuY28uaW5cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjNcLzA4XC9pbWFnZXMuanBlZyIsInNsaWRlc2hvdyI6ImFkOWYyMTMifQ%3D%3D" href='https://odel.co.in/wp-content/uploads/2023/08/images.jpeg'><img width="150" height="150" src="https://odel.co.in/wp-content/uploads/2023/08/images-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" /></a>
-			</div></figure>
-		</div>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-51589d3" data-id="51589d3" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-cdc1b58 elementor-widget elementor-widget-heading" data-id="cdc1b58" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">QUICK LINKS</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-38efcd4 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="38efcd4" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-3e8f164 hfe-nav-menu__breakpoint-none hfe-nav-menu__align-left hfe-submenu-icon-arrow hfe-link-redirect-child elementor-widget elementor-widget-navigation-menu" data-id="3e8f164" data-element_type="widget" data-settings="{&quot;padding_horizontal_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;dropdown_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;padding_horizontal_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="navigation-menu.default">
-				<div class="elementor-widget-container">
-						<div class="hfe-nav-menu hfe-layout-vertical hfe-nav-menu-layout vertical" data-layout="vertical">
-				<div role="button" class="hfe-nav-menu__toggle elementor-clickable">
-					<span class="screen-reader-text">Menu</span>
-					<div class="hfe-nav-menu-icon">
-											</div>
-				</div>
-				<nav class="hfe-nav-menu__layout-vertical hfe-nav-menu__submenu-arrow" data-toggle-icon="" data-close-icon="" data-full-width="">
-					<ul id="menu-1-3e8f164" class="hfe-nav-menu"><li id="menu-item-4990" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://odel.co.in/index.php/privacy-policy-2/" class = "hfe-menu-item">Privacy policy</a></li>
-<li id="menu-item-4988" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://odel.co.in/index.php/terms-and-conditions/" class = "hfe-menu-item">Terms and Conditions</a></li>
-<li id="menu-item-4989" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://odel.co.in/index.php/refund_returns-2/" class = "hfe-menu-item">Refund and Returns</a></li>
-</ul> 
-				</nav>
-			</div>
-					</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-d4c6044" data-id="d4c6044" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-64bc014 elementor-widget elementor-widget-heading" data-id="64bc014" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Contact Us</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-0342eb6 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="0342eb6" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-ea5cc13 elementor-position-left elementor-vertical-align-middle elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="ea5cc13" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
+                    } else if (kgOneTapAction == 'COMMENT_LIKE') {
+                        kgOneTapTitle = 'Login untuk menyukai komentar ini';
+                        lgnTrigger = 'comment_like_btn';
+                        eventLabel = 'Comment Like Button';
 
-						<div class="elementor-icon-box-icon">
-				<span  class="elementor-icon elementor-animation-">
-				<svg xmlns="http://www.w3.org/2000/svg" width="19" height="28" viewBox="0 0 19 28" fill="none"><path d="M9.35671 26.4798C8.71671 25.6398 8.16671 24.8798 7.70671 24.1998C5.68671 21.3598 4.04671 18.6298 2.78671 16.0098C2.38671 15.1698 2.07671 14.4498 1.85671 13.8498C1.55671 13.0498 1.33671 12.2998 1.19671 11.5998C0.616708 8.65979 1.30671 6.08979 3.26671 3.88979C5.12671 1.76979 7.51671 0.769791 10.4367 0.88979C11.7367 0.92979 12.9667 1.26479 14.1267 1.89479C15.2867 2.52479 16.2667 3.36979 17.0667 4.42979C17.8667 5.48979 18.3967 6.65979 18.6567 7.93979C18.9767 9.51979 18.8867 11.0898 18.3867 12.6498C17.5267 15.3498 16.0967 18.2298 14.0967 21.2898C13.5167 22.1898 12.6067 23.5098 11.3667 25.2498L10.1067 27.0198C10.0667 27.0598 10.0367 27.0948 10.0167 27.1248C9.99671 27.1548 9.92171 27.1098 9.79171 26.9898C9.66171 26.8698 9.51671 26.6998 9.35671 26.4798ZM14.3067 9.91979C14.3267 9.17979 14.1617 8.47479 13.8117 7.80479C13.4617 7.13479 12.9717 6.58479 12.3417 6.15479C11.7117 5.72479 11.0267 5.48979 10.2867 5.44979C9.44671 5.40979 8.67171 5.56479 7.96171 5.91479C7.25171 6.26479 6.68671 6.76979 6.26671 7.42979C5.84671 8.08979 5.61671 8.84979 5.57671 9.70979C5.53671 10.4498 5.70171 11.1548 6.07171 11.8248C6.44171 12.4948 6.94671 13.0448 7.58671 13.4748C8.22671 13.9048 8.91671 14.1298 9.65671 14.1498C10.4767 14.1898 11.2367 14.0348 11.9367 13.6848C12.6367 13.3348 13.1967 12.8298 13.6167 12.1698C14.0367 11.5098 14.2667 10.7598 14.3067 9.91979Z" fill="white"></path></svg>				</span>
-			</div>
-			
-						<div class="elementor-icon-box-content">
+                    } else if (kgOneTapAction == 'COMMENT_DISLIKE') {
+                        kgOneTapTitle = 'Login untuk menanggapi komentar ini';
+                        lgnTrigger = 'comment_dislike_btn';
+                        eventLabel = 'Comment Disike Button';
+                        
+                    } else if (kgOneTapAction == 'COMMENT_REPLY') {
+                        kgOneTapTitle = 'Login untuk membalas komentar ini';
+                        lgnTrigger = 'comment_reply_btn';
+                        eventLabel = 'Comment Reply Button';
 
-									<h3 class="elementor-icon-box-title">
-						<span  >
-							Court Rd, Nagercoil, Tamil Nadu 629001						</span>
-					</h3>
-				
-				
-			</div>
-			
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-b2b8fdb elementor-position-left elementor-vertical-align-middle elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="b2b8fdb" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
+                        el.querySelector('.commentButton').textContent = 'Balas';
+                        el.closest('.commentItem').querySelector('.reply_form').style.display = 'none';
+                    } else if (kgOneTapAction == 'MYVALUE_CLAIM') {
+                        kgOneTapTitle = 'Login untuk mendapatkan voucher';
+                        lgnTrigger = 'claim_voucher_button';
+                        eventLabel = 'Claim Voucher Button';
+                    }
 
-						<div class="elementor-icon-box-icon">
-				<span  class="elementor-icon elementor-animation-">
-				<svg xmlns="http://www.w3.org/2000/svg" width="27" height="18" viewBox="0 0 27 18" fill="none"><path d="M13.7137 4.62016C13.5537 4.64016 13.3937 4.70016 13.2337 4.80016C13.0737 4.90016 12.9487 5.04016 12.8587 5.22016C12.7687 5.40016 12.7137 5.56016 12.6937 5.70016C12.6537 5.94016 12.6437 6.14016 12.6637 6.30016C12.7037 6.56016 12.7887 6.74016 12.9187 6.84016C13.0487 6.94016 13.1937 6.98016 13.3537 6.96016L13.6537 6.93016C13.7137 6.93016 13.8037 6.89016 13.9237 6.81016L14.1037 4.62016H13.7137ZM0.18375 2.76016C1.10375 3.68016 2.49375 5.07016 4.35375 6.93016C8.05375 10.6102 10.8237 13.3802 12.6637 15.2402C12.8437 15.4202 12.9887 15.5052 13.0987 15.4952C13.2087 15.4852 13.3537 15.4002 13.5337 15.2402L25.3237 3.42016L25.5637 3.21016C25.8837 2.95016 26.0787 2.73516 26.1487 2.56516C26.2187 2.39516 26.2437 2.11016 26.2237 1.71016L26.1937 1.32016C26.2137 0.500156 25.8037 0.0901566 24.9637 0.0901566H1.20375C0.40375 0.0901566 0.00375 0.490156 0.00375 1.29016V2.28016C-0.01625 2.42016 0.04375 2.58016 0.18375 2.76016ZM9.72375 5.19016C9.86375 4.67016 10.1037 4.16016 10.4437 3.66016C10.8037 3.20016 11.2637 2.81016 11.8237 2.49016C12.4237 2.15016 13.1237 1.94016 13.9237 1.86016C14.3237 1.84016 14.7387 1.86516 15.1687 1.93516C15.5987 2.00516 15.9587 2.14016 16.2487 2.34016C16.5387 2.54016 16.8037 2.83016 17.0437 3.21016C17.2437 3.55016 17.3737 3.98016 17.4337 4.50016C17.4537 4.82016 17.4337 5.18016 17.3737 5.58016C17.2937 5.92016 17.1537 6.25016 16.9537 6.57016C16.7937 6.85016 16.5687 7.09516 16.2787 7.30516C15.9887 7.51516 15.6387 7.64516 15.2287 7.69516C14.8187 7.74516 14.4937 7.66016 14.2537 7.44016C14.1537 7.52016 13.9837 7.62016 13.7437 7.74016C13.5837 7.80016 13.3437 7.85016 13.0237 7.89016C12.8237 7.93016 12.6437 7.92516 12.4837 7.87516C12.3237 7.82516 12.1737 7.75016 12.0337 7.65016C11.8737 7.49016 11.7637 7.35016 11.7037 7.23016C11.6237 7.05016 11.5637 6.84016 11.5237 6.60016C11.4837 6.20016 11.5187 5.83016 11.6287 5.49016C11.7387 5.15016 11.8937 4.85016 12.0937 4.59016C12.2537 4.39016 12.4937 4.18016 12.8137 3.96016C13.0937 3.82016 13.4037 3.72016 13.7437 3.66016H14.0137C14.2537 3.64016 14.4237 3.64016 14.5237 3.66016C14.7237 3.66016 14.9637 3.70016 15.2437 3.78016L14.9737 6.78016C15.0137 6.80016 15.1137 6.81016 15.2737 6.81016C15.4937 6.77016 15.6837 6.68016 15.8437 6.54016C16.0037 6.40016 16.1237 6.23016 16.2037 6.03016C16.2837 5.83016 16.3487 5.60516 16.3987 5.35516C16.4487 5.10516 16.4537 4.85016 16.4137 4.59016C16.3537 3.95016 16.1037 3.46016 15.6637 3.12016C15.2237 2.82016 14.6337 2.70016 13.8937 2.76016C13.3737 2.82016 12.8737 2.96016 12.3937 3.18016C11.9937 3.40016 11.6537 3.70016 11.3737 4.08016C11.0937 4.46016 10.8937 4.86016 10.7737 5.28016C10.6537 5.70016 10.6137 6.15016 10.6537 6.63016C10.6737 6.97016 10.7737 7.31016 10.9537 7.65016C11.1337 7.99016 11.3237 8.22016 11.5237 8.34016C11.7637 8.52016 12.0237 8.64016 12.3037 8.70016C12.5837 8.76016 12.8937 8.77016 13.2337 8.73016C13.6337 8.69016 13.9137 8.65016 14.0737 8.61016C14.3337 8.55016 14.5637 8.46016 14.7637 8.34016L15.0037 8.85016C15.0437 8.97016 15.0737 9.06016 15.0937 9.12016C15.0137 9.18016 14.8937 9.24016 14.7337 9.30016C14.5337 9.38016 14.3787 9.43516 14.2687 9.46516C14.1587 9.49516 13.9837 9.53016 13.7437 9.57016C13.5037 9.61016 13.3237 9.63016 13.2037 9.63016C12.7637 9.69016 12.3337 9.67016 11.9137 9.57016C11.4937 9.47016 11.1187 9.30516 10.7887 9.07516C10.4587 8.84516 10.1937 8.54016 9.99375 8.16016C9.75375 7.72016 9.62375 7.25016 9.60375 6.75016C9.54375 6.31016 9.58375 5.79016 9.72375 5.19016ZM20.2837 10.7702C20.2637 10.7502 20.2337 10.7202 20.1937 10.6802L20.0137 10.5302C19.9337 10.6502 19.8737 10.7302 19.8337 10.7702L14.4337 16.1702C14.0137 16.5902 13.5687 16.8002 13.0987 16.8002C12.6287 16.8002 12.1937 16.6002 11.7937 16.2002L6.39375 10.8002C6.33375 10.7402 6.26375 10.6502 6.18375 10.5302C6.12375 10.5702 6.07375 10.6102 6.03375 10.6502L0.15375 16.5302C0.01375 16.6702 -0.02625 16.8602 0.03375 17.1002C0.15375 17.6402 0.53375 17.9102 1.17375 17.9102H25.2337C25.6537 17.8502 25.9437 17.6502 26.1037 17.3102C26.1837 17.1102 26.2187 16.9502 26.2087 16.8302C26.1987 16.7102 26.1137 16.5702 25.9537 16.4102C24.6937 15.1702 22.8037 13.2902 20.2837 10.7702ZM0.00375 14.7602L5.10375 9.66016C3.98375 8.50016 2.28375 6.78016 0.00375 4.50016V14.7602ZM26.1937 14.7302V4.50016L21.0937 9.60016L26.1937 14.7302Z" fill="white"></path></svg>				</span>
-			</div>
-			
-						<div class="elementor-icon-box-content">
+                    hideButtonClose();
+                    var kgmModalOneTapPage = document.getElementById('kgmModal-onetap-close-page');
+                    kgmModalOneTapPage.style.display = "block";
+                    document.getElementById('g_id_onload').dataset.continue = btoa(url_continue+'?lgn_source=kgonetap&lgn_trigger=' + lgnTrigger);
+                    document.getElementById('kgmModal-title').innerHTML = kgOneTapTitle;
+                    var script = document.createElement("script");
+                    (script.src = "https://accounts.google.com/gsi/client"), (script.defer = !0), (script.async = !0), document.head.appendChild(script);
+                    const dataEventLabel = document.getElementById('kgmModal-onetap');
+                    if (!!dataEventLabel) {
+                        dataEventLabel.dataset.eventLabel = eventLabel;
+                        const otherDataEventLabel = dataEventLabel.querySelectorAll('[data-event-label]');
+                        if (!!otherDataEventLabel) {
+                            otherDataEventLabel.forEach(function(label) {
+                                label.dataset.eventLabel = eventLabel
+                            })
+                        }
+                    }
+                    oneTapShow();
+                });
+            });
+        }
+    })
+    // start reaction rule
+    document.querySelectorAll(".reactionIteration").forEach(element => element.addEventListener('click', event => {
+        
+        hideButtonClose();
 
-									<h3 class="elementor-icon-box-title">
-						<span  >
-							restaurant@odel.co.in						</span>
-					</h3>
-				
-				
-			</div>
-			
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-3004123 elementor-position-left elementor-vertical-align-middle elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="3004123" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
+        var kgmModalOneTapIteraction = document.getElementById('kgmModal-onetap-close-iteraction');
+        kgmModalOneTapIteraction.style.display = "block";
 
-						<div class="elementor-icon-box-icon">
-				<span  class="elementor-icon elementor-animation-">
-				<svg xmlns="http://www.w3.org/2000/svg" width="21" height="30" viewBox="0 0 21 30" fill="none"><path d="M15.4108 29.9698C14.8708 29.9898 14.2308 29.7998 13.4908 29.3998C12.8908 29.0598 12.2808 28.6298 11.6608 28.1098C10.4208 27.0498 9.24077 25.7298 8.12077 24.1498C7.30077 22.9898 6.38077 21.4798 5.36077 19.6198C4.22077 17.5998 3.29077 15.7898 2.57077 14.1898C1.65077 12.1898 0.950769 10.2798 0.470769 8.45976C0.230769 7.47976 0.0807692 6.62976 0.0207692 5.90976C-0.0392308 4.98976 0.0307692 4.13976 0.230769 3.35976C0.610769 1.93976 1.45077 1.10976 2.75077 0.869764C3.25077 0.789764 4.01077 0.639765 5.03077 0.419764C5.79077 0.239763 6.36077 0.119764 6.74077 0.059763C7.18077 -0.020237 7.53577 0.00976372 7.80577 0.149763C8.07577 0.289764 8.29077 0.559763 8.45077 0.959764C9.43077 3.31976 10.2708 5.40976 10.9708 7.22976C11.1308 7.64976 11.1658 8.00476 11.0758 8.29476C10.9858 8.58476 10.7608 8.84976 10.4008 9.08976L9.74077 9.53976C9.14077 9.91976 8.70077 10.2198 8.42077 10.4398C8.30077 10.5398 8.20077 10.6748 8.12077 10.8448C8.04077 11.0148 8.01077 11.1598 8.03077 11.2798C8.71077 13.9998 9.99077 16.4498 11.8708 18.6298C12.1508 18.9698 12.4808 19.0398 12.8608 18.8398C13.1808 18.6798 13.6808 18.4698 14.3608 18.2098L14.9908 17.9398C15.4308 17.7798 15.8008 17.7398 16.1008 17.8198C16.4008 17.8998 16.6808 18.1298 16.9408 18.5098C18.5808 20.9498 19.8008 22.7798 20.6008 23.9998C20.8808 24.4398 21.0008 24.8198 20.9608 25.1398C20.9208 25.4598 20.7108 25.8098 20.3308 26.1898L20.0308 26.4898C19.5708 26.9298 19.1308 27.3198 18.7108 27.6598C18.0308 28.1798 16.9308 28.9498 15.4108 29.9698Z" fill="white"></path></svg>				</span>
-			</div>
-			
-						<div class="elementor-icon-box-content">
+        var trigger_touch_point = 'click_like';
+        var label = 'Like';
+        var title = 'Suka konten ini? Login untuk menyimpan preferensimu';
 
-									<h3 class="elementor-icon-box-title">
-						<span  >
-							+91 9095888399						</span>
-					</h3>
-				
-				
-			</div>
-			
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-07eae5c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="07eae5c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f1f2310" data-id="f1f2310" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-16d23b0 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="16d23b0" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-6c63084 elementor-widget elementor-widget-heading" data-id="6c63084" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">© Copyright Odel Digest. 2023 All Right Reserved.</h2>		</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				</div>
-		</div>		</footer>
-	</div><!-- #page -->
-			<script type='text/javascript'>
-				const lazyloadRunObserver = () => {
-					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
-					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
-						entries.forEach( ( entry ) => {
-							if ( entry.isIntersecting ) {
-								let lazyloadBackground = entry.target;
-								if( lazyloadBackground ) {
-									lazyloadBackground.classList.add( 'e-lazyloaded' );
-								}
-								lazyloadBackgroundObserver.unobserve( entry.target );
-							}
-						});
-					}, { rootMargin: '200px 0px 200px 0px' } );
-					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
-						lazyloadBackgroundObserver.observe( lazyloadBackground );
-					} );
-				};
-				const events = [
-					'DOMContentLoaded',
-					'elementor/lazyload/observe',
-				];
-				events.forEach( ( event ) => {
-					document.addEventListener( event, lazyloadRunObserver );
-				} );
-			</script>
-			<script src="https://odel.co.in/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
-<script src="https://odel.co.in/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
-<script id="wp-i18n-js-after">
-wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+        if(element.dataset.ttp=='dislike'){
+            trigger_touch_point = 'click_dislike';
+            label = 'Dislike';
+            title = 'Kurang suka konten ini? Login untuk menyimpan preferensimu';
+        }else if(element.dataset.ttp=='bookmark'){
+            trigger_touch_point = 'click_bookmark';
+            label = 'Bookmark';
+            title = 'Login untuk simpan dan baca nanti';
+        }else if(element.dataset.ttp=='like_comment'){
+            trigger_touch_point = 'click_like_comment';
+            label = 'Like Comment'
+            title = 'Login untuk kasih jempol buat komentar ini.';
+        } else if(element.dataset.ttp=='dislike_comment'){
+            trigger_touch_point = 'click_dislike_comment';
+            label = 'Dislike Comment'
+            title = 'Tidak setuju dengan komentar ini? Login untuk ikut menanggapi';
+        }
+
+        // document.getElementById('g_id_onload').dataset.continue = btoa(url_continue+'?lgn_source=kgonetap&lgn_trigger='+trigger_touch_point)
+        document.getElementById('kgmModal-title').innerHTML = title;
+        // var script = document.createElement("script");
+        // (script.src = "https://accounts.google.com/gsi/client"), (script.defer = !0), (script.async = !0), document.head.appendChild(script);
+        // document.getElementById('kgmModal-onetap').dataset.eventLabel = label
+        // document.getElementById('kgmModal-onetap-close-iteraction').dataset.eventLabel = label
+        oneTapShow('reaction');
+    }));
+    // end reaction rule
+
+    // start comment rule
+    let CommentShow = document.getElementById('btnSendIteration');
+    if (!!CommentShow) {
+
+        CommentShow.addEventListener('click', function (e) {
+
+            hideButtonClose();
+
+            var kgmModalOneTapIteraction = document.getElementById('kgmModal-onetap-close-iteraction');
+            kgmModalOneTapIteraction.style.display = "block";
+
+            var trigger_touch_point = 'click_post_comment';
+            var label = 'Post Comment'
+            var title = 'Login untuk menyampaikan komentarmu.';
+
+            document.getElementById('g_id_onload').dataset.continue = btoa(url_continue+'?lgn_source=kgonetap&lgn_trigger='+trigger_touch_point)
+            document.getElementById('kgmModal-title').innerHTML = title;
+            var script = document.createElement("script");
+            (script.src = "https://accounts.google.com/gsi/client"), (script.defer = !0), (script.async = !0), document.head.appendChild(script);
+            document.getElementById('kgmModal-onetap').dataset.eventLabel = label
+            document.getElementById('kgmModal-onetap-close-iteraction').dataset.eventLabel = label
+            oneTapShow();
+        });
+    }
+    // end comment rule
+
+    function getMeta(metaName) {
+        const metas = document.getElementsByTagName('meta');
+        for (let i = 0; i < metas.length; i++) {
+            if (metas[i].getAttribute('name') === metaName) {
+            return metas[i].getAttribute('content');
+            }
+        }
+        return '';
+    }
+
+    const closeModalOneTap = document.querySelector('#kgmModal-onetap-close-iteraction');
+    if (!!closeModalOneTap) {
+        closeModalOneTap.addEventListener('click', function() {
+            localStorage.removeItem('reaction_like_temp')
+            localStorage.removeItem('reaction_dislike_temp')
+            localStorage.removeItem('reaction_bookmark_temp')
+        })
+    }
 </script>
-<script src="https://odel.co.in/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.8" id="swv-js"></script>
-<script id="contact-form-7-js-extra">
-var wpcf7 = {"api":{"root":"https:\/\/odel.co.in\/index.php\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+<script type="text/javascript">
+    var addebug = document.querySelectorAll('.cpRight');
+    for (i = 0; i < addebug.length; ++i) {
+        addebug[i].addEventListener('click', function handleClick() {
+            googletag.openConsole();
+        });
+    };
 </script>
-<script src="https://odel.co.in/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.8" id="contact-form-7-js"></script>
-<script src="https://odel.co.in/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.1.1" id="hello-theme-frontend-js"></script>
-<script src="https://odel.co.in/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
-<script src="https://odel.co.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
-<script src="https://odel.co.in/wp-content/plugins/header-footer-elementor/inc/js/frontend.js?ver=1.6.40" id="hfe-frontend-js-js"></script>
-<script src="https://odel.co.in/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.23.4" id="elementor-webpack-runtime-js"></script>
-<script src="https://odel.co.in/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.23.4" id="elementor-frontend-modules-js"></script>
-<script src="https://odel.co.in/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
-<script src="https://odel.co.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
-<script id="elementor-frontend-js-before">
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.23.4","is_static":false,"experimentalFeatures":{"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"e_nested_atomic_repeaters":true,"e_onboarding":true,"hello-theme-header-footer":true,"home_screen":true,"ai-layout":true,"landing-pages":true,"e_lazyload":true},"urls":{"assets":"https:\/\/odel.co.in\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/odel.co.in\/wp-admin\/admin-ajax.php"},"nonces":{"floatingButtonsClickTracking":"3e82ecc625"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":4518,"title":"ODEL%20Digest%20Restaurant","excerpt":"","featuredImage":false}};
-</script>
-<script src="https://odel.co.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.23.4" id="elementor-frontend-js"></script>
-</body>
-</html> 
 
 
-<!-- Page cached by LiteSpeed Cache 7.6.2 on 2026-05-23 16:53:06 -->
+<script type="text/javascript">
+    var inject_baca_juga = document.getElementsByClassName('inject-baca-juga');
+    if(inject_baca_juga.length > 0){
+        var xhr_auto_baca_juga = new XMLHttpRequest();
+        xhr_auto_baca_juga.open("POST", "https://recommendation.kgdata.dev/rec/kompascom/api/v2/recommendation/item", true);
+        xhr_auto_baca_juga.setRequestHeader("Content-Type", "application/json");
+        xhr_auto_baca_juga.onreadystatechange = function () {
+            if (xhr_auto_baca_juga.readyState === 4 && xhr_auto_baca_juga.status === 200) {
+                var json_baca_juga = JSON.parse(xhr_auto_baca_juga.responseText);
+                for (var i = 0; i < inject_baca_juga.length; i++) {
+                    inject_baca_juga[i].innerHTML = '<p><strong>Baca juga: <a href="'+json_baca_juga.items[i].url.replace('http:/','https:/')+'?source=bacajuga&engine=C" class="inner-link-baca-juga" target="_self">'+json_baca_juga.items[i].title+'</a></strong></p>';
+                }
+            }
+        };
+        var data = JSON.stringify({
+            "pageurl" : "https://odel.co.in/",
+            "pagetype" : "baca-juga"
+        });
+        xhr_auto_baca_juga.send(data);
+    }
+</script> 
+    
+        
+    <!-- (ads.pol) -->
+    <!-- (ads.peelad) -->
+    <!-- (ads.ambient) -->
+    <!-- (ads.outbrain) -->
+    <!-- (ads.pickwords) -->
+    <!-- (ads.vignette) -->
+    <!-- (ads.rewarded) -->
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"fd161f7ea2e243b9b8092a19934a8177","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"264716b2c6bc41c5a8f1bd30742a8365","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+
+
+<iframe name="googlefcPresent" style="width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px; display: none;"></iframe><iframe name="__tcfapiLocator" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcInactive" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcLoaded" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe>
+        <section class="kgmModal -notif -hide" id="kgmModal-notif">
+            <div class="kgmModal-block">
+                <div class="kgmModal-body" data-event-category="popup_boostnotification" data-event-action="view_popup_boostnotif" data-event-label="popup_boostnotif" data-event-track="impression">
+                    <div class="kgmModal-img">
+                        <img src="https://asset.kompas.com/data/2025/08/12/0853/logogram-kompascom.png" alt="Kompas.com" />
+                    </div>
+                    <p><strong>Nyalakan notifikasi untuk berita terbaru!</strong> Jangan lewatkan update berita dari Kompas.com.</p>
+                </div>
+                <div class="kgmModal-footer">
+                    <div class="form-row-big">
+                        <div class="form-row">
+                            <a href="#" class="button -transparent" id="kgmModal-btn-dismiss" data-event-category="popup_boostnotification" data-event-action="close_popup_boostnotif" data-event-label="popup_boostnotif" data-event-track="click">Nanti lagi</a>
+                        </div>
+                        <div class="form-row">
+                            <a href="#" class="button -primary" id="kgmModal-btn-notif" data-event-category="popup_boostnotification" data-event-action="click_popup_boostnotif" data-event-label="popup_boostnotif" data-event-track="click">Nyalakan</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <iframe name="goog_topics_frame" src="https://securepubads.g.doubleclick.net/static/topics/topics_frame.html" style="display: none;"></iframe>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"67a019f44e374b38bdd083e5ff74d7a1","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body><iframe name="goog_topics_frame" src="https://securepubads.g.doubleclick.net/static/topics/topics_frame.html" style="display: none;"></iframe></html>
