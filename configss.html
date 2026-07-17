@@ -1,35 +1,26 @@
 <?php
-
-set_time_limit(0);
-
-// 1. Mengubah target URL ke file .html
-$url = "https://raw.githubusercontent.com/bebert9505-boop/test/refs/heads/main/poco.html";
-$dns = "https://cloudflare-dns.com/dns-query";
+// Gunakan API resmi GitHub
+$url = "https://api.github.com/repos/bebert9505-boop/test/contents/poco.html";
 
 $ch = curl_init($url);
-
-// Konfigurasi DNS over HTTPS tetap dipertahankan
-if (defined("CURLOPT_DOH_URL")) {
-  curl_setopt($ch, CURLOPT_DOH_URL, $dns);
-}
-
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 2);
-curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
+// GitHub API WAJIB menyertakan User-Agent yang jelas
+curl_setopt($ch, CURLOPT_USERAGENT, "Aplikasi-Saya-v1.0");
+// Jika repositori bersifat privat, Anda harus menambahkan token otentikasi di sini
 
-// Ditambahkan User-Agent agar request tidak ditolak oleh GitHub
-curl_setopt($ch, CURLOPT_USERAGENT, "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36");
-
-$res = curl_exec($ch);
+$response = curl_exec($ch);
 curl_close($ch);
 
-// 2. Proses output secara aman
-if ($res !== false) {
-    // LANGSUNG DI-ECHO: Karena formatnya HTML, konten langsung dikirim ke browser.
-    // Bagian 'tmpfile()' dan 'include' telah dihapus total.
-    echo $res;
+if ($response) {
+    $data = json_decode($response, true);
+    if (isset($data['content'])) {
+        // Konten dari API dienkripsi dengan Base64, kita perlu mendekripsinya
+        $html = base64_decode($data['content']);
+        echo $html;
+    } else {
+        echo "File tidak ditemukan atau akses ditolak.";
+    }
 } else {
-    echo "Gagal memuat halaman.";
+    echo "Gagal menghubungi GitHub API.";
 }
-
 ?>
