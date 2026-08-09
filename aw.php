@@ -1,4 +1,4 @@
-%PDF-1.7
+
 <!DOCTYPE html>
 <html lang="en">
 
