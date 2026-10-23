@@ -38,16 +38,16 @@
     <!-- AMP Boilerplate (Wajib AMP) -->
     <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 
-    <!-- Custom CSS AMP (Templat Hitam / Pitch Black Cyber) -->
+    <!-- Custom CSS AMP (Templat Light Elegant / Terang) -->
     <style amp-custom>
         :root {
-            --black-pure: #000000;
-            --black-card: #0d0d0d;
-            --black-border: #1a1a1a;
-            --red-neon: #ff003c;
-            --gold-accent: #ffcc00;
-            --white: #ffffff;
-            --text-gray: #888888;
+            --bg-light: #f4f6f9;
+            --card-white: #ffffff;
+            --primary-pink: #ff007f;
+            --primary-pink-dark: #d8006f;
+            --text-main: #1a1a2e;
+            --text-muted: #6c757d;
+            --border-color: #e2e8f0;
         }
 
         * {
@@ -55,8 +55,8 @@
         }
 
         body {
-            background-color: var(--black-pure);
-            color: var(--white);
+            background-color: var(--bg-light);
+            color: var(--text-main);
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
             margin: 0;
             padding: 0;
@@ -69,13 +69,13 @@
 
         .container {
             width: 100%;
-            max-width: 450px;
+            max-width: 460px;
             padding: 20px 15px;
             margin: auto;
             text-align: center;
         }
 
-        /* Header Banner Box */
+        /* Banner Header */
         header {
             margin-bottom: 20px;
         }
@@ -83,52 +83,51 @@
         .banner-box {
             display: block;
             width: 100%;
-            border-radius: 12px;
-            overflow: hidden;
-            border: 1px solid var(--black-border);
-            box-shadow: 0 0 15px rgba(255, 0, 60, 0.2);
-        }
-
-        /* Card Frame Pitch Black */
-        .black-card {
-            background: var(--black-card);
-            border: 1px solid var(--black-border);
             border-radius: 16px;
-            padding: 25px 20px;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.9);
+            overflow: hidden;
+            border: 2px solid #ffffff;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
         }
 
-        /* Badge Tag */
-        .status-tag {
+        /* Card Frame Putih Bersih */
+        .white-card {
+            background: var(--card-white);
+            border: 1px solid var(--border-color);
+            border-radius: 20px;
+            padding: 28px 20px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+        }
+
+        /* Status Badge */
+        .status-badge {
             display: inline-block;
-            background: #140005;
-            border: 1px solid var(--red-neon);
-            color: var(--red-neon);
+            background: #fff0f6;
+            color: var(--primary-pink);
+            border: 1px solid rgba(255, 0, 127, 0.3);
             font-size: 0.75rem;
             font-weight: 700;
-            padding: 5px 14px;
-            border-radius: 20px;
+            padding: 6px 16px;
+            border-radius: 50px;
             text-transform: uppercase;
             letter-spacing: 1px;
             margin-bottom: 15px;
         }
 
         h1 {
-            color: var(--white);
-            font-size: 1.6rem;
+            color: var(--text-main);
+            font-size: 1.7rem;
             margin: 0 0 10px 0;
             font-weight: 800;
-            letter-spacing: 0.5px;
         }
 
         p.intro {
-            font-size: 0.88rem;
+            font-size: 0.9rem;
             line-height: 1.5;
-            color: var(--text-gray);
+            color: var(--text-muted);
             margin-bottom: 25px;
         }
 
-        /* Tombol Utama Vertikal / Stacked */
+        /* CTA Buttons */
         .btn-stack {
             display: flex;
             flex-direction: column;
@@ -144,96 +143,64 @@
             font-weight: 800;
             text-decoration: none;
             text-transform: uppercase;
-            border-radius: 8px;
+            border-radius: 12px;
             letter-spacing: 1px;
             text-align: center;
+            transition: all 0.2s ease;
         }
 
         .btn-login {
-            background: var(--red-neon);
-            color: var(--white);
-            box-shadow: 0 0 15px rgba(255, 0, 60, 0.4);
+            background: linear-gradient(135deg, var(--primary-pink) 0%, var(--primary-pink-dark) 100%);
+            color: #ffffff;
+            box-shadow: 0 4px 15px rgba(255, 0, 127, 0.3);
         }
 
         .btn-daftar {
-            background: transparent;
-            color: var(--gold-accent);
-            border: 2px solid var(--gold-accent);
-            box-shadow: 0 0 10px rgba(255, 204, 0, 0.15);
+            background: #ffffff;
+            color: var(--primary-pink);
+            border: 2px solid var(--primary-pink);
         }
 
-        /* Informasi Footer Card */
+        /* Info Grid */
         .info-grid {
             display: grid;
             grid-template-columns: repeat(3, 1fr);
-            gap: 8px;
-            padding-top: 15px;
-            border-top: 1px solid var(--black-border);
+            gap: 10px;
+            padding-top: 18px;
+            border-top: 1px solid var(--border-color);
             font-size: 0.75rem;
-            color: #555;
+            color: var(--text-muted);
         }
 
-        .info-grid div span {
+        .info-grid div strong {
             display: block;
-            color: var(--white);
-            font-weight: bold;
-            font-size: 0.8rem;
+            color: var(--text-main);
+            font-size: 0.85rem;
+            margin-top: 2px;
         }
 
         footer {
             margin-top: 25px;
             font-size: 0.75rem;
-            color: #444;
+            color: #a0aec0;
         }
     </style>
 </head>
 <body>
 
     <div class="container">
-        <!-- Header Visual Banner AMP -->
+        <!-- Banner Header AMP -->
         <header>
             <a href="https://satu.gagatoto79.com/" class="banner-box">
                 <amp-img src="https://i.ibb.co/tT0YRG74/41042120-e74e-4e77-a439-9195768befc6.png" width="600" height="200" layout="responsive" alt="Banner Kakek Gacor"></amp-img>
             </a>
         </header>
 
-        <!-- Main Black Card -->
-        <main class="black-card">
-            <span class="status-tag">Link Resmi Alternatif</span>
+        <!-- Main Card Terang -->
+        <main class="white-card">
+            <span class="status-badge">Link Resmi Alternatif</span>
             
             <h1>Kakek Gacor</h1>
             
             <p class="intro">
-                Selamat datang di portal akses resmi <strong>Kakek Gacor</strong>. Nikmati kemudahan akses login dan pendaftaran cepat dengan sistem keamanan terbaik 24 jam.
-            </p>
-
-            <!-- CTA Buttons -->
-            <div class="btn-stack">
-                <a href="https://satu.gagatoto79.com/" class="btn btn-login" target="_blank" rel="noopener">Login</a>
-                <a href="https://satu.gagatoto79.com/" class="btn btn-daftar" target="_blank" rel="noopener">Daftar</a>
-            </div>
-
-            <!-- Metric Info -->
-            <div class="info-grid">
-                <div>
-                    <span>Kecepatan</span>
-                    Ultra Fast
-                </div>
-                <div>
-                    <span>Sistem</span>
-                    SSL Enkripsi
-                </div>
-                <div>
-                    <span>Layanan</span>
-                    24/7 Aktif
-                </div>
-            </div>
-        </main>
-
-        <footer>
-            &copy; 2026 Kakek Gacor - Slotcuan. All Rights Reserved.
-        </footer>
-    </div>
-
-</body>
-</html>
+                Selamat datang di portal akses resmi <strong>Kake
