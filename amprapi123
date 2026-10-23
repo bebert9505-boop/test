@@ -4,49 +4,50 @@
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     
-    <!-- Meta Tag SEO Khusus Keyword: Kakek Zeus -->
-    <title>Kakek Zeus - Link Resmi & Platform Game Online Terpercaya</title>
+    <!-- Meta Tag SEO Khusus Keyword: Kakek Gacor -->
+    <title>Kakek Gacor - Link Resmi & Platform Game Online Terpercaya</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <meta name="description" content="Akses link resmi Kakek Zeus sekarang. Nikmati keseruan bermain slot kakek zeus dengan performa terbaik, pendaftaran mudah, dan akses login 24 jam nonstop.">
-    <meta name="keywords" content="kakek zeus, link kakek zeus, login kakek zeus, daftar kakek zeus, slot zeus, slotcuan, slot kakek zeus">
+    <meta name="description" content="Akses link resmi Kakek Gacor sekarang. Nikmati keseruan bermain slot kakek gacor dengan performa terbaik, pendaftaran mudah, dan akses login 24 jam nonstop.">
+    <meta name="keywords" content="kakek gacor, link kakek gacor, login kakek gacor, daftar kakek gacor, slot kakek gacor, slotcuan">
     <meta name="robots" content="index, follow">
     
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="https://i.ibb.co/jZfjWYGL/Pavicon-GAGATOTO.png">
     
-    <!-- Tag Canonical -->
-    <link rel="canonical" href="https://avto-brend.az/slotgacor/">
+    <!-- Tag Canonical Baru -->
+    <link rel="canonical" href="https://elnurimanov.az/kakekgacor/">
 
     <!-- Open Graph / Meta Sosial -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://gagapucuk.online/amp/">
-    <meta property="og:title" content="Kakek Zeus - Link Resmi & Platform Game Online Terpercaya">
-    <meta property="og:description" content="Mainkan slot kakek zeus dengan akses resmi, aman, dan mudah. Dapatkan link login dan daftar terbaru di sini.">
-    <meta property="og:image" content="https://i.ibb.co/qYBhw6n4/aadbce56-d463-4bd1-a091-2f7288179c6b.png">
+    <meta property="og:title" content="Kakek Gacor - Link Resmi & Platform Game Online Terpercaya">
+    <meta property="og:description" content="Mainkan slot kakek gacor dengan akses resmi, aman, dan mudah. Dapatkan link login dan daftar terbaru di sini.">
+    <meta property="og:image" content="https://i.ibb.co/tT0YRG74/41042120-e74e-4e77-a439-9195768befc6.png">
 
     <!-- Schema.org Structured Data -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "WebSite",
-      "name": "Kakek Zeus",
+      "name": "Kakek Gacor",
       "url": "https://gagapucuk.online/amp/",
-      "description": "Halaman resmi portal permainan slot kakek zeus terpercaya."
+      "description": "Halaman resmi portal permainan kakek gacor terpercaya."
     }
     </script>
 
     <!-- AMP Boilerplate (Wajib AMP) -->
     <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 
-    <!-- Custom CSS AMP (Templat Modern Neon Glassmorphism) -->
+    <!-- Custom CSS AMP (Templat Baru: Emerald Dark & Gold Accent) -->
     <style amp-custom>
         :root {
-            --bg-main: #0a0a10;
-            --accent-glow: #ff007f;
-            --gold: #ffd700;
-            --card-bg: rgba(20, 20, 30, 0.9);
+            --bg-emerald: #04120f;
+            --card-emerald: #0a221c;
+            --gold-light: #ffe066;
+            --gold-dark: #d4af37;
+            --accent-green: #00ff88;
             --white: #ffffff;
-            --text-muted: #aaaaef;
+            --text-gray: #a3c2b8;
         }
 
         * {
@@ -54,7 +55,7 @@
         }
 
         body {
-            background: radial-gradient(circle at top, #1c0a2a 0%, var(--bg-main) 100%);
+            background: linear-gradient(180deg, #020b08 0%, var(--bg-emerald) 100%);
             color: var(--white);
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
             margin: 0;
@@ -68,168 +69,120 @@
 
         .container {
             width: 100%;
-            max-width: 480px;
+            max-width: 460px;
             padding: 20px 15px;
             margin: auto;
             text-align: center;
         }
 
-        /* Banner Header */
+        /* Banner Box */
         header {
-            margin-bottom: 20px;
+            margin-bottom: 18px;
         }
 
-        .banner-wrapper {
+        .banner-box {
             display: block;
             width: 100%;
-            border-radius: 16px;
+            border-radius: 14px;
             overflow: hidden;
-            border: 2px solid rgba(255, 0, 127, 0.5);
-            box-shadow: 0 0 20px rgba(255, 0, 127, 0.3);
+            border: 2px solid var(--gold-dark);
+            box-shadow: 0 0 18px rgba(212, 175, 55, 0.25);
         }
 
-        /* Card Section */
-        .main-card {
-            background: var(--card-bg);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            border-radius: 20px;
-            padding: 25px 20px;
-            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.8);
-            backdrop-filter: blur(10px);
+        /* Card Frame */
+        .emerald-card {
+            background: var(--card-emerald);
+            border: 1px solid rgba(0, 255, 136, 0.2);
+            border-radius: 18px;
+            padding: 24px 18px;
+            box-shadow: 0 12px 30px rgba(0, 0, 0, 0.85);
         }
 
-        .status-badge {
+        /* Tag Line Top */
+        .vip-tag {
             display: inline-block;
-            background: linear-gradient(90deg, #ff007f 0%, #7928ca 100%);
-            color: var(--white);
+            background: rgba(0, 255, 136, 0.15);
+            border: 1px solid var(--accent-green);
+            color: var(--accent-green);
             font-size: 0.75rem;
-            font-weight: bold;
-            padding: 6px 14px;
-            border-radius: 50px;
+            font-weight: 700;
+            padding: 5px 16px;
+            border-radius: 30px;
             text-transform: uppercase;
             letter-spacing: 1px;
-            margin-bottom: 15px;
+            margin-bottom: 12px;
         }
 
         h1 {
-            color: var(--gold);
-            font-size: 1.7rem;
+            color: var(--gold-light);
+            font-size: 1.65rem;
             margin: 0 0 10px 0;
-            text-shadow: 0 0 10px rgba(255, 215, 0, 0.3);
+            text-shadow: 0 0 10px rgba(255, 224, 102, 0.3);
             font-weight: 800;
         }
 
         p.intro {
-            font-size: 0.9rem;
+            font-size: 0.88rem;
             line-height: 1.5;
-            color: var(--text-muted);
-            margin-bottom: 25px;
+            color: var(--text-gray);
+            margin-bottom: 22px;
         }
 
-        /* CTA Stack Buttons */
-        .cta-stack {
-            display: flex;
-            flex-direction: column;
+        /* Group Buttons - Side-by-Side Modern */
+        .btn-group {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
             gap: 12px;
+            margin-bottom: 18px;
         }
 
         .btn {
             display: block;
-            width: 100%;
-            padding: 15px 0;
-            font-size: 1.05rem;
+            padding: 14px 0;
+            font-size: 1rem;
             font-weight: 800;
             text-decoration: none;
             text-transform: uppercase;
-            border-radius: 12px;
-            letter-spacing: 1px;
+            border-radius: 10px;
+            letter-spacing: 0.5px;
             text-align: center;
         }
 
         .btn-login {
-            background: linear-gradient(135deg, #ff007f 0%, #e0006f 100%);
-            color: var(--white);
-            box-shadow: 0 4px 15px rgba(255, 0, 127, 0.4);
+            background: linear-gradient(135deg, #00ff88 0%, #00a859 100%);
+            color: #020b08;
+            box-shadow: 0 4px 12px rgba(0, 255, 136, 0.3);
         }
 
         .btn-daftar {
-            background: linear-gradient(135deg, #ffd700 0%, #ffa500 100%);
-            color: #000;
-            box-shadow: 0 4px 15px rgba(255, 215, 0, 0.3);
+            background: linear-gradient(135deg, var(--gold-light) 0%, var(--gold-dark) 100%);
+            color: #1a1200;
+            box-shadow: 0 4px 12px rgba(212, 175, 55, 0.3);
         }
 
-        /* Features Bar */
-        .features-grid {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 10px;
-            margin-top: 20px;
-            padding-top: 15px;
-            border-top: 1px dashed rgba(255, 255, 255, 0.15);
+        /* Status Metrics Bar */
+        .status-bar {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 10px;
+            padding: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.78rem;
+            color: var(--text-gray);
+            border: 1px solid rgba(255, 255, 255, 0.05);
         }
 
-        .feature-box {
-            font-size: 0.75rem;
-            color: #ccc;
+        .status-item {
+            flex: 1;
         }
 
-        .feature-box strong {
+        .status-item strong {
             display: block;
-            color: var(--gold);
+            color: var(--white);
             font-size: 0.85rem;
         }
 
         footer {
-            margin-top: 25px;
-            font-size: 0.75rem;
-            color: #666;
-        }
-    </style>
-</head>
-<body>
-
-    <div class="container">
-        <!-- Banner Header AMP -->
-        <header>
-            <a href="https://satu.gagatoto79.com/" class="banner-wrapper">
-                <amp-img src="https://i.ibb.co/qYBhw6n4/aadbce56-d463-4bd1-a091-2f7288179c6b.png" width="600" height="200" layout="responsive" alt="Banner Kakek Zeus"></amp-img>
-            </a>
-        </header>
-
-        <!-- Main Card Section -->
-        <main class="main-card">
-            <span class="status-badge">Link Alternatif Resmi</span>
-            
-            <h1>Kakek Zeus</h1>
-            
-            <p class="intro">
-                Selamat datang di portal akses resmi <strong>Kakek Zeus</strong>. Dapatkan kemudahan pendaftaran dan akses login cepat dengan sistem transaksi 24 jam nonstop.
-            </p>
-
-            <!-- CTA Buttons -->
-            <div class="cta-stack">
-                <a href="https://satu.gagatoto79.com/" class="btn btn-login" target="_blank" rel="noopener">Login</a>
-                <a href="https://satu.gagatoto79.com/" class="btn btn-daftar" target="_blank" rel="noopener">Daftar</a>
-            </div>
-
-            <!-- Features -->
-            <div class="features-grid">
-                <div class="feature-box">
-                    <strong>Server</strong> Fast AMP
-                </div>
-                <div class="feature-box">
-                    <strong>Layanan</strong> 24 Jam
-                </div>
-                <div class="feature-box">
-                    <strong>Keamanan</strong> Terjamin
-                </div>
-            </div>
-        </main>
-
-        <footer>
-            &copy; 2026 Kakek Zeus - Slotcuan. All Rights Reserved.
-        </footer>
-    </div>
-
-</body>
-</html>
+            margin-top: 22px;
+            font-size: 0.7
