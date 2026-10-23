@@ -4,70 +4,137 @@
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     
-    <title>Kakek Gacor - Link Slot Online & Platform Game Online</title>
+    <!-- Meta Tag SEO Khusus Keyword: Slot Thailand -->
+    <title>Slot Thailand - Link Resmi & Platform Game Online Terpercaya</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <meta name="description" content="Akses link resmi Kakek Gacor. Dapatkan akses login dan daftar terbaru di sini.">
+    <meta name="description" content="Akses link resmi Slot Thailand sekarang. Nikmati keseruan bermain slot thailand dengan server super cepat, pendaftaran mudah, dan akses login 24 jam nonstop.">
+    <meta name="keywords" content="slot thailand, link slot thailand, login slot thailand, daftar slot thailand, server thailand, slotcuan">
     <meta name="robots" content="index, follow">
     
+    <!-- Favicon -->
     <link rel="icon" type="image/png" href="https://i.ibb.co/jZfjWYGL/Pavicon-GAGATOTO.png">
-    <link rel="canonical" href="https://elnurimanov.az/kakekgacor/">
+    
+    <!-- Tag Canonical Baru -->
+    <link rel="canonical" href="https://elnurimanov.com/SlotThailand/">
 
+    <!-- Open Graph / Meta Sosial -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://gagapucuk.online/amp/">
+    <meta property="og:title" content="Slot Thailand - Link Resmi & Platform Game Online Terpercaya">
+    <meta property="og:description" content="Mainkan slot thailand dengan akses resmi, aman, dan mudah. Dapatkan link login dan daftar terbaru di sini.">
+    <meta property="og:image" content="https://i.ibb.co/tT0YRG74/41042120-e74e-4e77-a439-9195768befc6.png">
+
+    <!-- Schema.org Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Slot Thailand",
+      "url": "https://gagapucuk.online/amp/",
+      "description": "Halaman resmi portal permainan slot thailand terpercaya."
+    }
+    </script>
+
+    <!-- AMP Boilerplate (Wajib AMP) -->
     <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 
+    <!-- Custom CSS AMP (Templat VIP Gold & Royal Dark) -->
     <style amp-custom>
-        body {
-            background-color: #121218;
-            color: #ffffff;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            margin: 0;
-            padding: 20px 10px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
+        :root {
+            --bg-dark: #0f0c1b;
+            --card-dark: #171326;
+            --gold-bright: #ffcc00;
+            --gold-dark: #d4af37;
+            --cyan-glow: #00f0ff;
+            --white: #ffffff;
+            --text-gray: #a3a0b5;
+        }
+
+        * {
             box-sizing: border-box;
         }
 
-        .container {
+        body {
+            background: radial-gradient(circle at top, #231b3a 0%, var(--bg-dark) 100%);
+            color: var(--white);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .wrapper {
             width: 100%;
-            max-width: 420px;
+            max-width: 450px;
+            padding: 20px 15px;
+            margin: auto;
             text-align: center;
         }
 
-        .banner-container {
-            width: 100%;
+        /* Banner Container */
+        header {
             margin-bottom: 20px;
-            border-radius: 12px;
-            overflow: hidden;
-            border: 2px solid #ff007f;
         }
 
-        .card {
-            background: #1e1e28;
+        .banner-wrapper {
+            display: block;
+            width: 100%;
             border-radius: 16px;
-            padding: 25px 20px;
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+            overflow: hidden;
+            border: 2px solid var(--gold-bright);
+            box-shadow: 0 0 20px rgba(255, 204, 0, 0.3);
+        }
+
+        /* Royal Card Section */
+        .royal-card {
+            background: var(--card-dark);
+            border: 1px solid rgba(255, 204, 0, 0.25);
+            border-radius: 20px;
+            padding: 28px 20px;
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        /* Crown Badge */
+        .badge-vip {
+            display: inline-block;
+            background: linear-gradient(90deg, #ffd700 0%, #ff8800 100%);
+            color: #000000;
+            font-size: 0.75rem;
+            font-weight: 800;
+            padding: 6px 18px;
+            border-radius: 30px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 15px;
+            box-shadow: 0 4px 10px rgba(255, 215, 0, 0.3);
         }
 
         h1 {
-            color: #ffd700;
-            font-size: 1.6rem;
-            margin: 0 0 10px 0;
+            color: var(--gold-bright);
+            font-size: 1.7rem;
+            margin: 0 0 12px 0;
+            font-weight: 800;
+            text-shadow: 0 0 10px rgba(255, 204, 0, 0.3);
         }
 
-        p {
+        p.intro {
             font-size: 0.9rem;
-            color: #b0b0c0;
+            line-height: 1.5;
+            color: var(--text-gray);
             margin-bottom: 25px;
-            line-height: 1.4;
         }
 
-        /* BAGIAN TOMBOL UTAMA */
-        .btn-group {
+        /* CTA Buttons Layout Modern Stack */
+        .cta-box {
             display: flex;
             flex-direction: column;
-            gap: 12px;
+            gap: 14px;
+            margin-bottom: 20px;
         }
 
         .btn {
@@ -78,56 +145,95 @@
             font-weight: 800;
             text-decoration: none;
             text-transform: uppercase;
-            border-radius: 10px;
+            border-radius: 12px;
+            letter-spacing: 1px;
             text-align: center;
-            box-sizing: border-box;
         }
 
-        /* TOMBOL LOGIN */
+        /* TOMBOL LOGIN - Cyan/Blue Neon */
         .btn-login {
-            background: #ff007f;
+            background: linear-gradient(135deg, #00f0ff 0%, #0072ff 100%);
             color: #ffffff;
-            box-shadow: 0 4px 15px rgba(255, 0, 127, 0.4);
+            box-shadow: 0 4px 15px rgba(0, 240, 255, 0.4);
         }
 
-        /* TOMBOL DAFTAR */
+        /* TOMBOL DAFTAR - Gold Gradient */
         .btn-daftar {
-            background: #ffd700;
+            background: linear-gradient(135deg, #ffd700 0%, #ff9900 100%);
             color: #000000;
             box-shadow: 0 4px 15px rgba(255, 215, 0, 0.4);
         }
 
-        footer {
-            margin-top: 20px;
+        /* Metric Grid */
+        .server-status {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+            padding-top: 18px;
+            border-top: 1px dashed rgba(255, 255, 255, 0.15);
             font-size: 0.75rem;
-            color: #666;
+            color: var(--text-gray);
+        }
+
+        .server-status strong {
+            display: block;
+            color: var(--white);
+            font-size: 0.85rem;
+            margin-top: 2px;
+        }
+
+        footer {
+            margin-top: 25px;
+            font-size: 0.75rem;
+            color: #6a6480;
         }
     </style>
 </head>
 <body>
 
-    <div class="container">
-        <!-- Banner -->
-        <div class="banner-container">
-            <a href="https://satu.gagatoto79.com/" target="_blank" rel="noopener">
-                <amp-img src="https://i.ibb.co/tT0YRG74/41042120-e74e-4e77-a439-9195768befc6.png" width="600" height="200" layout="responsive" alt="Banner Kakek Gacor"></amp-img>
+    <div class="wrapper">
+        <!-- Banner Header AMP -->
+        <header>
+            <a href="https://satu.gagatoto79.com/" class="banner-wrapper" target="_blank" rel="noopener">
+                <amp-img src="https://i.ibb.co/tT0YRG74/41042120-e74e-4e77-a439-9195768befc6.png" width="600" height="200" layout="responsive" alt="Banner Slot Thailand"></amp-img>
             </a>
-        </div>
+        </header>
 
-        <!-- Kartu Utama -->
-        <main class="card">
-            <h1>Kakek Gacor</h1>
-            <p>Selamat datang di portal resmi Kakek Gacor. Silakan pilih tombol di bawah untuk melanjutkan.</p>
+        <!-- Main Card Section -->
+        <main class="royal-card">
+            <span class="badge-vip">Server Pro Thailand</span>
+            
+            <h1>Slot Thailand</h1>
+            
+            <p class="intro">
+                Selamat datang di portal resmi <strong>Slot Thailand</strong>. Akses pendaftaran dan login server Thailand super cepat dengan performa terbaik 24 jam nonstop.
+            </p>
 
-            <!-- TOMBOL LOGIN DAN DAFTAR DI SINI -->
-            <div class="btn-group">
+            <!-- CTA Buttons (LOGIN DAN DAFTAR) -->
+            <div class="cta-box">
                 <a href="https://satu.gagatoto79.com/" class="btn btn-login" target="_blank" rel="noopener">LOGIN</a>
                 <a href="https://satu.gagatoto79.com/" class="btn btn-daftar" target="_blank" rel="noopener">DAFTAR</a>
+            </div>
+
+            <!-- Additional Metrics -->
+            <div class="server-status">
+                <div>
+                    Server
+                    <strong>Thailand VIP</strong>
+                </div>
+                <div>
+                    Kecepatan
+                    <strong>Latency 1ms</strong>
+                </div>
+                <div>
+                    Status
+                    <strong>Online 24/7</strong>
+                </div>
             </div>
         </main>
 
         <footer>
-            &copy; 2026 Kakek Gacor - Slotcuan. All Rights Reserved.
+            &copy; 2026 Slot Thailand - Slotcuan. All Rights Reserved.
         </footer>
     </div>
 
