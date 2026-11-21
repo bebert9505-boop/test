@@ -1,17 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="th">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Register Official PG Joker1688 Slot with High Winrate at PG Joker1688</title>
-<meta name="description" content="Play your favorite PG Slot at PG Joker1688 with the highest winrate. Secure and automated deposit and withdraw services.">
-<meta name="keywords" content="PG Joker1688, Slot Thailand, PG Slot, Joker1688, PG Joker1688">
+<title>Biowin99 | ลิงก์สล็อต Biowin99 Login ออนไลน์ 24 ชั่วโมง</title>
+<meta name="description" content="เล่น Biowin99 Login ที่คุณชื่นชอบได้ที่ Biowin99 ด้วยอัตราการชนะสูงสุด บริการฝากและถอนเงินอัตโนมัติที่ปลอดภัย">
+<meta name="keywords" content="Biowin99, Biowin99 Slot, Biowin99 Register, Biowin99 Login, Biowin99">
 <meta name="robots" content="index, follow">
-<meta property="og:title" content="Register Official PG Joker1688 Slot with High Winrate at PG Joker1688">
-<meta property="og:description" content="Play your favorite PG Slot at PG Joker1688 with the highest winrate. Secure and automated deposit and withdraw services.">
+<meta property="og:title" content="Biowin99 | ลิงก์สล็อต Biowin99 Login ออนไลน์ 24 ชั่วโมง">
+<meta property="og:description" content="เล่น Biowin99 Login ที่คุณชื่นชอบได้ที่ Biowin99 ด้วยอัตราการชนะสูงสุด บริการฝากและถอนเงินอัตโนมัติที่ปลอดภัย">
 <meta property="og:type" content="website">
-<link rel="canonical" href="https://spinemantra.com/faqs/">
-<link rel="amphtml" href="https://broken-shape-bbd0.bebert9505.workers.dev/">
+<link rel="canonical" href="https://adakcapital.com/terms.html">
+<link rel="amphtml" href="https://biowin99.bebert9505.workers.dev/">
 <link rel='dns-prefetch' href='//thumbs.ebaystatic.com'>
 <link rel='dns-prefetch' href='//vi.vipr.ebaydesc.com'>
 <link rel='dns-prefetch' href='//p.ebaystatic.com'>
@@ -27,34 +27,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Is there a withdrawal limit?",
+      "name": "RTP ในสล็อตคืออะไร?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "There is no maximum withdrawal limit, you can withdraw any amount."
+        "text": "RTP คือเปอร์เซ็นต์เฉลี่ยของเงินรางวัลที่คืนให้ผู้เล่นในระยะยาว"
       }
     },
     {
       "@type": "Question",
-      "name": "How to know the slot patterns?",
+      "name": "มีบริการแชทสดหรือไม่?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You can monitor live RTP and pattern information in the provided menu."
+        "text": "มี ฝ่ายบริการลูกค้าของเราให้บริการ 24 ชั่วโมงผ่านแชทสด"
       }
     },
     {
       "@type": "Question",
-      "name": "Is the withdrawal slow?",
+      "name": "ยอดฝากขั้นต่ำเท่าไหร่?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No, withdrawals are processed automatically and instantly 24 hours a day."
+        "text": "ยอดฝากขั้นต่ำเป็นมิตรมาก เพียง 10,000 รูเปียห์"
       }
     },
     {
       "@type": "Question",
-      "name": "What payment methods are supported?",
+      "name": "จะรู้รูปแบบสล็อตได้อย่างไร?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We support bank transfers and e-wallets (Dana, OVO, GoPay, LinkAja)."
+        "text": "คุณสามารถตรวจสอบ RTP สดและข้อมูลรูปแบบในเมนูที่ให้ไว้"
       }
     }
   ]
@@ -65,9 +65,9 @@
 
 *{margin:0;padding:0;box-sizing:border-box}
 html{scroll-behavior:smooth}
-body{font-family:'Segoe UI',system-ui,sans-serif;background:#eaeded;color:#111111;line-height:1.65;-webkit-font-smoothing:antialiased}
+body{font-family:'Segoe UI',system-ui,sans-serif;background:#faf5ff;color:#2e1065;line-height:1.65;-webkit-font-smoothing:antialiased}
 img{max-width:100%}
-a{color:#2563eb;text-decoration:none}
+a{color:#8b5cf6;text-decoration:none}
 .wrap{max-width:1080px;margin:0 auto;padding:0 22px}
 
 /* === ETYS CLONE HEADER STYLE === */
@@ -82,12 +82,12 @@ a{color:#2563eb;text-decoration:none}
 .etsy-nav-icons span:hover { color: #f1641e; }
 
 /* === MARKETPLACE HEADER & LAYOUT === */
-.mp-header { background: #2563eb; padding: 15px 0; }
+.mp-header { background: #8b5cf6; padding: 15px 0; }
 .mp-header-inner { display: flex; align-items: center; justify-content: space-between; gap: 30px; }
 .mp-logo { font-size: 28px; font-weight: 800; color: #fff; font-style: italic; letter-spacing: -1px; display: flex; align-items: center; gap: 5px; }
 .mp-search { flex: 1; background: #fff; display: flex; border-radius: 4px; overflow: hidden; }
 .mp-search input { flex: 1; border: none; padding: 10px 15px; outline: none; font-size: 14px; }
-.mp-search button { background: #2563eb; color: #fff; border: none; padding: 0 20px; cursor: pointer; font-size: 18px; }
+.mp-search button { background: #8b5cf6; color: #fff; border: none; padding: 0 20px; cursor: pointer; font-size: 18px; }
 .mp-cart { color: #fff; font-size: 24px; cursor: pointer; display: flex; align-items: center; }
 
 .mp-container { background: #fff; border-radius: 8px; margin-top: 20px; padding: 20px; display: flex; gap: 30px; flex-wrap: wrap; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
@@ -98,9 +98,9 @@ a{color:#2563eb;text-decoration:none}
 .mp-rating { display: flex; align-items: center; gap: 10px; font-size: 14px; color: #666; margin-bottom: 15px; }
 .mp-rating span.star { color: #f59e0b; }
 .mp-price-box { background: #fafafa; padding: 15px; border-radius: 8px; margin-bottom: 15px; }
-.mp-price-current { font-size: 30px; font-weight: 700; color: #2563eb; }
+.mp-price-current { font-size: 30px; font-weight: 700; color: #8b5cf6; }
 .mp-price-old { text-decoration: line-through; color: #999; font-size: 16px; margin-left: 10px; }
-.mp-discount { background: #2563eb; color: #fff; padding: 2px 6px; border-radius: 4px; font-size: 12px; font-weight: 700; margin-left: 10px; }
+.mp-discount { background: #8b5cf6; color: #fff; padding: 2px 6px; border-radius: 4px; font-size: 12px; font-weight: 700; margin-left: 10px; }
 
 .mp-warranty { background:#f0fdf4; border:1px solid #bbf7d0; padding:10px 15px; border-radius:8px; margin-bottom:20px; display:flex; align-items:center; gap:12px; font-size:14px; color:#166534; }
 .mp-warranty-icon { font-size:20px; }
@@ -109,16 +109,16 @@ a{color:#2563eb;text-decoration:none}
 .mp-option-label { width: 100px; color: #666; font-size: 14px; padding-top: 5px; }
 .mp-option-values { flex: 1; display: flex; gap: 10px; flex-wrap: wrap; }
 .mp-variant { border: 1px solid #ccc; background: #fff; padding: 6px 15px; border-radius: 4px; cursor: pointer; font-size: 14px; transition: 0.2s; }
-.mp-variant:hover { border-color: #2563eb; color: #2563eb; }
+.mp-variant:hover { border-color: #8b5cf6; color: #8b5cf6; }
 
 .mp-qty { display: flex; border: 1px solid #ccc; border-radius: 4px; width: max-content; }
 .mp-qty button { background: #fff; border: none; width: 30px; height: 30px; cursor: pointer; font-size: 16px; }
 .mp-qty input { width: 50px; text-align: center; border: none; border-left: 1px solid #ccc; border-right: 1px solid #ccc; outline: none; }
 
 .mp-actions { display: flex; gap: 15px; margin-top: 25px; }
-.mp-btn { flex: 1; padding: 14px; border-radius: 4px; font-weight: 700; font-size: 16px; cursor: pointer; text-align: center; border: 1px solid #2563eb; }
-.mp-btn.outline { background: transparent; color: #2563eb; }
-.mp-btn.solid { background: #2563eb; color: #fff; }
+.mp-btn { flex: 1; padding: 14px; border-radius: 4px; font-weight: 700; font-size: 16px; cursor: pointer; text-align: center; border: 1px solid #8b5cf6; }
+.mp-btn.outline { background: transparent; color: #8b5cf6; }
+.mp-btn.solid { background: #8b5cf6; color: #fff; }
 .mp-btn:hover { filter: brightness(0.9); }
 
 .mp-desc-section { margin-top: 30px; padding-top: 20px; border-top: 1px solid #eee; }
@@ -128,7 +128,7 @@ a{color:#2563eb;text-decoration:none}
 .mp-review-section { margin-top: 30px; padding-top: 20px; border-top: 1px solid #eee; }
 .mp-review-section h2 { font-size: 18px; margin-bottom: 15px; }
 .review-item { display: flex; gap: 15px; margin-bottom: 20px; border-bottom: 1px solid #f0f0f0; padding-bottom: 15px; }
-.review-avatar { width: 40px; height: 40px; background: #2563eb; color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px; }
+.review-avatar { width: 40px; height: 40px; background: #8b5cf6; color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px; }
 .review-content { flex: 1; }
 .review-header { display: flex; justify-content: space-between; margin-bottom: 5px; }
 .review-date { font-size: 12px; color: #999; }
@@ -136,8 +136,8 @@ a{color:#2563eb;text-decoration:none}
 .review-text { font-size: 14px; color: #333; }
 
 /* === HERO & UMUM === */
-.hero{background:linear-gradient(135deg,#2563eb,#1e3a8a);color:#fff;padding-bottom:70px;position:relative;}
-.etsy-header + .hero { padding-top: 20px; background: linear-gradient(135deg,#2563eb,#1e3a8a); color: #fff; }
+.hero{background:linear-gradient(135deg,#8b5cf6,#ec4899);color:#fff;padding-bottom:70px;position:relative;}
+.etsy-header + .hero { padding-top: 20px; background: linear-gradient(135deg,#8b5cf6,#ec4899); color: #fff; }
 .etsy-header + .hero h1 { color: #fff; }
 .etsy-header + .hero .lead { color: #fff; opacity: .93; }
 .etsy-header + .hero .badge { background: rgba(255,255,255,.16); color: #fff; border-color: rgba(255,255,255,.28); }
@@ -160,7 +160,7 @@ h1{font-size:clamp(28px,4.6vw,46px);line-height:1.18;letter-spacing:-.8px;margin
 
 /* Styling Tombol CTA */
 .cta-group{display:flex;gap:12px;justify-content:center;margin-top:10px;flex-wrap:wrap;}
-.cta{display:inline-block;background:#fff;color:#2563eb;padding:14px 34px;border-radius:11px;font-weight:700;border:2px solid #fff;cursor:pointer;font-size:16px;font-family:inherit;text-decoration:none;text-align:center;transition:.2s;}
+.cta{display:inline-block;background:#fff;color:#8b5cf6;padding:14px 34px;border-radius:11px;font-weight:700;border:2px solid #fff;cursor:pointer;font-size:16px;font-family:inherit;text-decoration:none;text-align:center;transition:.2s;}
 .cta:hover{transform:translateY(-2px); box-shadow:0 5px 15px rgba(0,0,0,0.2);}
 .cta.outline{background:transparent;color:#fff;border:2px solid #fff;}
 .cta.outline:hover{background:rgba(255,255,255,.1);}
@@ -170,7 +170,7 @@ h1{font-size:clamp(28px,4.6vw,46px);line-height:1.18;letter-spacing:-.8px;margin
 .mock-bar{height:10px;width:60%;background:rgba(255,255,255,.5);border-radius:6px;margin-bottom:14px}
 .mock-line{height:8px;background:rgba(255,255,255,.28);border-radius:6px;margin-bottom:10px}
 .mock-line.short{width:70%}
-.mock-btn{margin-top:18px;background:#fff;color:#2563eb;text-align:center;padding:11px;border-radius:9px;font-weight:700;font-size:14px}
+.mock-btn{margin-top:18px;background:#fff;color:#8b5cf6;text-align:center;padding:11px;border-radius:9px;font-weight:700;font-size:14px}
 
 /* Layout hero */
 .hero.center .hero-inner{text-align:center}
@@ -197,7 +197,7 @@ h1{font-size:clamp(28px,4.6vw,46px);line-height:1.18;letter-spacing:-.8px;margin
 
 /* 1. Standard Grid (2x2 untuk 4 item) */
 .layout-standard .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px;margin-top:36px;max-width:900px;margin-left:auto;margin-right:auto;}
-.layout-standard .card{background:#ffffff;border:1px solid rgba(128,128,128,.2);border-radius:16px;padding:28px}
+.layout-standard .card{background:#f3e8ff;border:1px solid rgba(128,128,128,.2);border-radius:16px;padding:28px}
 .layout-standard .card h3{margin-bottom:8px;font-size:18px}
 .layout-standard .card p{font-size:15px;opacity:.86}
 
@@ -205,22 +205,22 @@ h1{font-size:clamp(28px,4.6vw,46px);line-height:1.18;letter-spacing:-.8px;margin
 .layout-alternating .feature-rows { margin-top: 40px; }
 .layout-alternating .feature-row{display:flex;align-items:center;gap:40px;margin-bottom:40px;}
 .layout-alternating .feature-row:nth-child(even){flex-direction:row-reverse;}
-.layout-alternating .feature-img{flex:1;background:#ffffff;height:250px;border-radius:16px;display:flex;align-items:center;justify-content:center;font-size:48px;color:#2563eb;opacity:.8}
+.layout-alternating .feature-img{flex:1;background:#f3e8ff;height:250px;border-radius:16px;display:flex;align-items:center;justify-content:center;font-size:48px;color:#8b5cf6;opacity:.8}
 .layout-alternating .feature-text{flex:1;}
-.layout-alternating .feature-text h3{font-size:24px;margin-bottom:12px;color:#2563eb}
+.layout-alternating .feature-text h3{font-size:24px;margin-bottom:12px;color:#8b5cf6}
 .layout-alternating .feature-text p{font-size:16px;opacity:.8;line-height:1.7}
 
 /* 3. List / Vertikal */
 .layout-list .feature-list{display:flex;flex-direction:column;gap:20px;max-width:800px;margin:36px auto 0;}
-.layout-list .card{display:flex;align-items:flex-start;gap:20px;background:#ffffff;border:1px solid rgba(128,128,128,.2);border-radius:16px;padding:24px;}
-.layout-list .icon-box{background:#2563eb;color:#fff;width:50px;height:50px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:24px;flex-shrink:0;}
+.layout-list .card{display:flex;align-items:flex-start;gap:20px;background:#f3e8ff;border:1px solid rgba(128,128,128,.2);border-radius:16px;padding:24px;}
+.layout-list .icon-box{background:#8b5cf6;color:#fff;width:50px;height:50px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:24px;flex-shrink:0;}
 .layout-list .card-text h3{margin-bottom:6px;font-size:18px;}
 .layout-list .card-text p{font-size:15px;opacity:.86;}
 
 /* 4. Minimal / Text Focus */
 .layout-minimal .feature-list{display:flex;flex-direction:column;gap:30px;max-width:700px;margin:40px auto 0;text-align:center;}
 .layout-minimal .card{background:transparent;border:none;padding:0;}
-.layout-minimal .card h3{font-size:22px;margin-bottom:8px;color:#2563eb;}
+.layout-minimal .card h3{font-size:22px;margin-bottom:8px;color:#8b5cf6;}
 .layout-minimal .card p{font-size:16px;opacity:.75;}
 
 /* === FAQ SECTION === */
@@ -231,15 +231,15 @@ h1{font-size:clamp(28px,4.6vw,46px);line-height:1.18;letter-spacing:-.8px;margin
 .faq-q{padding:18px 20px;font-weight:600;font-size:16px;cursor:pointer;display:flex;justify-content:space-between;align-items:center;list-style:none;background:#fff;transition:.2s;}
 .faq-q::-webkit-details-marker{display:none;}
 .faq-q:hover{background:#f9fafb;}
-.faq-q::after{content:'+';font-size:20px;color:#2563eb;transition:.3s;font-weight:400;}
+.faq-q::after{content:'+';font-size:20px;color:#8b5cf6;transition:.3s;font-weight:400;}
 details[open] .faq-q::after{content:'−';transform:rotate(180deg);}
 .faq-a{padding:0 20px 20px;font-size:15px;opacity:.8;line-height:1.6;border-top:1px solid rgba(0,0,0,0.05);padding-top:15px;}
 
 /* === BAND & FOOTER === */
-.band{background:#2563eb;color:#fff;text-align:center;padding:58px 0}
+.band{background:#8b5cf6;color:#fff;text-align:center;padding:58px 0}
 .band h2{font-size:clamp(22px,3.2vw,29px);margin-bottom:10px}
 .band p{opacity:.92;margin-bottom:24px;max-width:640px;margin-left:auto;margin-right:auto}
-.band .cta{color:#2563eb; border-color:#fff;}
+.band .cta{color:#8b5cf6; border-color:#fff;}
 .band .cta.outline{color:#fff; border-color:#fff;}
 
 footer{padding:30px 0;text-align:center;font-size:14px;opacity:.65;border-top:1px solid rgba(128,128,128,.22)}
@@ -261,140 +261,92 @@ footer{padding:30px 0;text-align:center;font-size:14px;opacity:.65;border-top:1p
 </head>
 <body>
 
-    <header class="mp-header">
-      <div class="wrap mp-header-inner">
-        <div class="mp-logo">PG Joker1688</div>
-        <div class="mp-search">
-          <input type="text" placeholder="Search PG Joker1688, Slot Thailand, PG Slot, Joker1688 in PG Joker1688">
-          <button>🔍</button>
+
+    <header class="hero center has-banner" style="background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://i.ibb.co.com/6Jw6F6zH/Neon-Olympus-Slot-Adventure.png') center/cover no-repeat;">
+      <div class="wrap">
+        <nav class="nav">
+          <img src="https://i.ibb.co.com/zTyQ2Z7S/Epic-Zeus-Casino-Logo-BIOWIN99.png" alt="Biowin99">
+        </nav>
+        <div class="hero-inner">
+          <div class="hero-text">
+            <span class="badge">Biowin99, Biowin99 Slot, Biowin99 Register,Biowin99 Login</span>
+            <h1>Biowin99 | ลิงก์สล็อต Biowin99 Login ออนไลน์ 24 ชั่วโมง</h1>
+            <p class="lead">เล่น Biowin99 Login ที่คุณชื่นชอบได้ที่ Biowin99 ด้วยอัตราการชนะสูงสุด บริการฝากและถอนเงินอัตโนมัติที่ปลอดภัย</p>
+            <div class="price-tag">฿50</div>
+            
+      <div class="cta-group">
+        <a href="https://www.gobig55.pro/?rc=sunrise" class="cta ">เข้าสู่ระบบ</a>
+        <a href="https://www.gobig55.pro/?rc=sunrise" class="cta outline">สมัครสมาชิก</a>
+      </div>
+          </div>
+          
         </div>
-        <div class="mp-cart">🛒</div>
       </div>
     </header>
 
-    <div class="wrap">
-      <div style="font-size:13px; color:#666; margin-top:15px;">
-        PG Joker1688 > Category > PG Joker1688, Slot Thailand, PG Slot, Joker1688
+<section class="features layout-minimal">
+  <div class="wrap">
+    <h2>ทำไมต้องเลือก Biowin99</h2>
+    <p class="sub">เหตุผลที่ลูกค้าไว้วางใจเรา</p>
+    <div class="feature-list">
+      <div class="card">
+        <h3>บริการลูกค้า 24 ชั่วโมง</h3>
+        <p>บริการแชทสดและ WhatsApp ที่ตอบสนองได้ตลอดเวลา</p>
       </div>
-      
-      <div class="mp-container">
-        <div class="mp-col-left">
-          <img src="https://i.postimg.cc/J4LFVh29/b25fb592-c942-4947-9a5b-fe2383093345.png" class="mp-img-main" alt="Product">
-          <div style="display:flex; gap:10px; margin-top:10px;">
-            <div style="width:60px; height:60px; background:#eee; border:1px solid #ddd; border-radius:4px;"></div>
-            <div style="width:60px; height:60px; background:#eee; border:1px solid #ddd; border-radius:4px;"></div>
-            <div style="width:60px; height:60px; background:#eee; border:1px solid #ddd; border-radius:4px;"></div>
-          </div>
-        </div>
-        
-        <div class="mp-col-right">
-          <h1 class="mp-title">Register Official PG Joker1688 Slot with High Winrate at PG Joker1688</h1>
-          <div class="mp-rating">
-            <span class="star">★★★★★</span> 4.8 | 1.2RB Sold
-          </div>
-          
-          
-        <div class="mp-price-box">
-          <span class="mp-price-current">THB 50</span>
-          <span class="mp-price-old">THB 100</span>
-          <span class="mp-discount">-50%</span>
-        </div>
-          
-    <div class="mp-warranty">
-      <span class="mp-warranty-icon">🛡️</span>
-      <div>
-        <div style="font-weight:bold; margin-bottom:2px;">Official Warranty</div>
-        <div>7-Day Replacement Warranty</div>
+      <div class="card">
+        <h3>RTP สดที่แม่นยำ</h3>
+        <p>ติดตามเปอร์เซ็นต์ RTP แบบเรียลไทม์เพื่อกลยุทธ์การเล่นของคุณ</p>
       </div>
-    </div>
-  
-          
-          <div class="mp-option">
-            <div class="mp-option-label">Color</div>
-            <div class="mp-option-values">
-              <button class="mp-variant">Black</button>
-              <button class="mp-variant">White</button>
-              <button class="mp-variant">Blue</button>
-            </div>
-          </div>
-          
-          <div class="mp-option">
-            <div class="mp-option-label">Quantity</div>
-            <div class="mp-qty">
-              <button>-</button>
-              <input type="text" value="1" readonly>
-              <button>+</button>
-            </div>
-          </div>
-          
-          <div class="mp-actions">
-            <a href="https://www.gobig55.pro/?rc=sunrise" class="mp-btn outline">Login</a>
-            <a href="https://www.gobig55.pro/?rc=sunrise" class="mp-btn solid">Sign Up</a>
-          </div>
-          
-          <div class="mp-desc-section">
-            <h2>Product Description</h2>
-            <p>Play your favorite PG Slot at PG Joker1688 with the highest winrate. Secure and automated deposit and withdraw services.</p>
-          </div>
-          
-          <div class="mp-review-section">
-            <h2>Buyer Reviews</h2>
-            
-      <div class="review-item">
-        <div class="review-avatar">F</div>
-        <div class="review-content">
-          <div class="review-header">
-            <strong>Fitri H.</strong>
-            <span class="review-date">Nov 12, 2026</span>
-          </div>
-          <div class="review-stars">⭐⭐⭐⭐⭐</div>
-          <p class="review-text">Was hesitant at first, but the item is really good. Top!</p>
-        </div>
+      <div class="card">
+        <h3>ธุรกรรมรวดเร็ว</h3>
+        <p>ฝากและถอนเงินรวดเร็วทันใจ 24 ชั่วโมงผ่านธนาคารและอีวอลเล็ต</p>
       </div>
-    
-      <div class="review-item">
-        <div class="review-avatar">B</div>
-        <div class="review-content">
-          <div class="review-header">
-            <strong>Bambang</strong>
-            <span class="review-date">Nov 16, 2026</span>
-          </div>
-          <div class="review-stars">⭐⭐⭐⭐⭐</div>
-          <p class="review-text">Matches the description, safe packaging. Thanks seller.</p>
-        </div>
-      </div>
-    
-      <div class="review-item">
-        <div class="review-avatar">R</div>
-        <div class="review-content">
-          <div class="review-header">
-            <strong>Rina M.</strong>
-            <span class="review-date">Nov 16, 2026</span>
-          </div>
-          <div class="review-stars">⭐⭐⭐⭐⭐</div>
-          <p class="review-text">Cheap but not cheap quality. Satisfied shopping here.</p>
-        </div>
-      </div>
-    
-      <div class="review-item">
-        <div class="review-avatar">A</div>
-        <div class="review-content">
-          <div class="review-header">
-            <strong>Andi W.</strong>
-            <span class="review-date">Nov 13, 2026</span>
-          </div>
-          <div class="review-stars">⭐⭐⭐⭐⭐</div>
-          <p class="review-text">Very satisfying product quality, will repeat order.</p>
-        </div>
-      </div>
-    
-          </div>
-        </div>
-      </div>
-    </div>
+      <div class="card">
+        <h3>เซิร์ฟเวอร์ต่างประเทศ</h3>
+        <p>ใช้เซิร์ฟเวอร์มาตรฐานสากลป้องกันการหน่วง</p>
+      </div></div>
+  </div>
+</section>
 
-    <footer style="margin-top:40px;">
-      <div class="wrap">&copy; 2025 PG Joker1688. All rights reserved.</div>
-    </footer>
+<section class="faq-section">
+  <div class="wrap">
+    <h2>คำถามที่พบบ่อย (FAQ)</h2>
+    <div class="faq-container">
+      
+    <details class="faq-item">
+      <summary class="faq-q">RTP ในสล็อตคืออะไร?</summary>
+      <div class="faq-a">RTP คือเปอร์เซ็นต์เฉลี่ยของเงินรางวัลที่คืนให้ผู้เล่นในระยะยาว</div>
+    </details>
+    <details class="faq-item">
+      <summary class="faq-q">มีบริการแชทสดหรือไม่?</summary>
+      <div class="faq-a">มี ฝ่ายบริการลูกค้าของเราให้บริการ 24 ชั่วโมงผ่านแชทสด</div>
+    </details>
+    <details class="faq-item">
+      <summary class="faq-q">ยอดฝากขั้นต่ำเท่าไหร่?</summary>
+      <div class="faq-a">ยอดฝากขั้นต่ำเป็นมิตรมาก เพียง 10,000 รูเปียห์</div>
+    </details>
+    <details class="faq-item">
+      <summary class="faq-q">จะรู้รูปแบบสล็อตได้อย่างไร?</summary>
+      <div class="faq-a">คุณสามารถตรวจสอบ RTP สดและข้อมูลรูปแบบในเมนูที่ให้ไว้</div>
+    </details>
+    </div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap">
+    <h2>พร้อมที่จะรับสิ่งที่ดีที่สุดหรือยัง?</h2>
+    <p>สมัครตอนนี้และรับข้อเสนอพิเศษ</p>
+    
+      <div class="cta-group">
+        <a href="https://www.gobig55.pro/?rc=sunrise" class="cta ">เข้าสู่ระบบ</a>
+        <a href="https://www.gobig55.pro/?rc=sunrise" class="cta outline">สมัครสมาชิก</a>
+      </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">&copy; 2025 Biowin99. สงวนลิขสิทธิ์</div>
+</footer>
 </body>
 </html>
