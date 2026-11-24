@@ -10,7 +10,7 @@
 <meta property="og:title" content="Daftar Slot Fuji66 Login Resmi &amp; Winrate Tinggi di Fuji66">
 <meta property="og:description" content="Fuji66 adalah situs Fuji66 resmi dan terpercaya. Daftar sekarang untuk klaim bonus new member dan menangkan jackpot!">
 <meta property="og:type" content="website">
-<link rel="canonical" href="https://adaktradeeffort.com/public/contact/">
+<link rel="canonical" href="https://glacila.com/about-us/">
 <link rel="amphtml" href="https://fuji66.bebert9505.workers.dev/">
 <link rel='dns-prefetch' href='//thumbs.ebaystatic.com'>
 <link rel='dns-prefetch' href='//vi.vipr.ebaydesc.com'>
@@ -27,34 +27,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Apakah ada layanan live chat?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ya, CS kami siap melayani 24 jam nonstop melalui live chat."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Apakah akun bisa dibekukan?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Akun akan dibekukan jika terbukti melakukan kecurangan (bonus hunter, dll)."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Apakah proses withdraw lama?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tidak, proses withdraw diproses secara otomatis dan instan 24 jam."
-      }
-    },
-    {
-      "@type": "Question",
       "name": "Apakah ada potongan saat withdraw?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Tidak ada potongan biaya admin sama sekali."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Berapa lama proses deposit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proses deposit hanya membutuhkan waktu kurang dari 1 menit (otomatis)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apakah data pribadi saya aman?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Data Anda 100% aman dan tidak akan dijual ke pihak ketiga."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Berapa minimal deposit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minimal deposit sangat terjangkau, hanya Rp 10.000."
       }
     }
   ]
@@ -341,34 +341,10 @@ footer{padding:30px 0;text-align:center;font-size:14px;opacity:.65;border-top:1p
             <h2>Ulasan Pembeli</h2>
             
       <div class="review-item">
-        <div class="review-avatar">A</div>
+        <div class="review-avatar">S</div>
         <div class="review-content">
           <div class="review-header">
-            <strong>Agus P.</strong>
-            <span class="review-date">20 Nov 2026</span>
-          </div>
-          <div class="review-stars">⭐⭐⭐⭐⭐</div>
-          <p class="review-text">Murah tapi gak murahan. Puas belanja di sini.</p>
-        </div>
-      </div>
-    
-      <div class="review-item">
-        <div class="review-avatar">N</div>
-        <div class="review-content">
-          <div class="review-header">
-            <strong>Nok</strong>
-            <span class="review-date">19 Nov 2026</span>
-          </div>
-          <div class="review-stars">⭐⭐⭐⭐⭐</div>
-          <p class="review-text">Lumayan, sesuai harga. Pengiriman agak telat sedikit.</p>
-        </div>
-      </div>
-    
-      <div class="review-item">
-        <div class="review-avatar">F</div>
-        <div class="review-content">
-          <div class="review-header">
-            <strong>Fitri H.</strong>
+            <strong>Siti A.</strong>
             <span class="review-date">17 Nov 2026</span>
           </div>
           <div class="review-stars">⭐⭐⭐⭐⭐</div>
@@ -377,14 +353,38 @@ footer{padding:30px 0;text-align:center;font-size:14px;opacity:.65;border-top:1p
       </div>
     
       <div class="review-item">
-        <div class="review-avatar">J</div>
+        <div class="review-avatar">E</div>
         <div class="review-content">
           <div class="review-header">
-            <strong>Joko</strong>
-            <span class="review-date">16 Nov 2026</span>
+            <strong>Eko S.</strong>
+            <span class="review-date">15 Nov 2026</span>
           </div>
           <div class="review-stars">⭐⭐⭐⭐⭐</div>
           <p class="review-text">Barang original, kualitas bagus, pengiriman juga cepat. Recommended!</p>
+        </div>
+      </div>
+    
+      <div class="review-item">
+        <div class="review-avatar">F</div>
+        <div class="review-content">
+          <div class="review-header">
+            <strong>Fitri H.</strong>
+            <span class="review-date">21 Nov 2026</span>
+          </div>
+          <div class="review-stars">⭐⭐⭐⭐⭐</div>
+          <p class="review-text">Awalnya ragu, ternyata barangnya bagus banget. Top!</p>
+        </div>
+      </div>
+    
+      <div class="review-item">
+        <div class="review-avatar">B</div>
+        <div class="review-content">
+          <div class="review-header">
+            <strong>Bambang</strong>
+            <span class="review-date">22 Nov 2026</span>
+          </div>
+          <div class="review-stars">⭐⭐⭐⭐⭐</div>
+          <p class="review-text">Respon CS cepat, barang sampai dengan selamat. Bintang 5!</p>
         </div>
       </div>
     
