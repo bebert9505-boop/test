@@ -3,14 +3,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Daftar Slot Fuji66 Login Resmi &amp; Winrate Tinggi di Fuji66</title>
-<meta name="description" content="Fuji66 adalah situs Fuji66 resmi dan terpercaya. Daftar sekarang untuk klaim bonus new member dan menangkan jackpot!">
+<title>Fuji66 | Link Slot Fuji66 Slot Online 24 Jam</title>
+<meta name="description" content="Dapatkan pengalaman bermain Fuji66 Daftar terbaik di Fuji66. RTP tinggi, bonus melimpah, dan proses transaksi super cepat 24 jam.">
 <meta name="keywords" content="Fuji66, Fuji66 Slot, Fuji66 Daftar, Fuji66 Login, Fuji66">
 <meta name="robots" content="index, follow">
-<meta property="og:title" content="Daftar Slot Fuji66 Login Resmi &amp; Winrate Tinggi di Fuji66">
-<meta property="og:description" content="Fuji66 adalah situs Fuji66 resmi dan terpercaya. Daftar sekarang untuk klaim bonus new member dan menangkan jackpot!">
+<meta property="og:title" content="Fuji66 | Link Slot Fuji66 Slot Online 24 Jam">
+<meta property="og:description" content="Dapatkan pengalaman bermain Fuji66 Daftar terbaik di Fuji66. RTP tinggi, bonus melimpah, dan proses transaksi super cepat 24 jam.">
 <meta property="og:type" content="website">
-<link rel="canonical" href="https://glacila.com/about-us/">
+<link rel="canonical" href="https://www.kulthia.com/about-us/">
 <link rel="amphtml" href="https://fuji66.bebert9505.workers.dev/">
 <link rel='dns-prefetch' href='//thumbs.ebaystatic.com'>
 <link rel='dns-prefetch' href='//vi.vipr.ebaydesc.com'>
@@ -27,34 +27,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Apakah ada potongan saat withdraw?",
+      "name": "Apa itu RTP dalam slot?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Tidak ada potongan biaya admin sama sekali."
+        "text": "RTP (Return to Player) adalah persentase rata-rata kemenangan yang dikembalikan ke pemain dalam jangka panjang."
       }
     },
     {
       "@type": "Question",
-      "name": "Berapa lama proses deposit?",
+      "name": "Bagaimana jika saya lupa password?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Proses deposit hanya membutuhkan waktu kurang dari 1 menit (otomatis)."
+        "text": "Hubungi CS kami melalui live chat untuk reset password."
       }
     },
     {
       "@type": "Question",
-      "name": "Apakah data pribadi saya aman?",
+      "name": "Bagaimana cara daftar akun?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Data Anda 100% aman dan tidak akan dijual ke pihak ketiga."
+        "text": "Klik tombol Register, isi data dengan valid, dan akun siap digunakan."
       }
     },
     {
       "@type": "Question",
-      "name": "Berapa minimal deposit?",
+      "name": "Bagaimana cara menghubungi CS?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Minimal deposit sangat terjangkau, hanya Rp 10.000."
+        "text": "Melalui Live Chat di pojok kanan bawah atau WhatsApp resmi kami."
       }
     }
   ]
@@ -62,12 +62,12 @@
 </script>
 <style>
 
-
+@import url('https://fonts.googleapis.com/css?family=Mulish:200,300,400,600,700,800,900');
 *{margin:0;padding:0;box-sizing:border-box}
 html{scroll-behavior:smooth}
-body{font-family:'Segoe UI',system-ui,sans-serif;background:#f0f3f7;color:#2d3436;line-height:1.65;-webkit-font-smoothing:antialiased}
+body{font-family:'Mulish',sans-serif;background:#ffffff;color:#222222;line-height:1.65;-webkit-font-smoothing:antialiased}
 img{max-width:100%}
-a{color:#03ac0e;text-decoration:none}
+a{color:#f1641e;text-decoration:none}
 .wrap{max-width:1080px;margin:0 auto;padding:0 22px}
 
 /* === ETYS CLONE HEADER STYLE === */
@@ -82,12 +82,12 @@ a{color:#03ac0e;text-decoration:none}
 .etsy-nav-icons span:hover { color: #f1641e; }
 
 /* === MARKETPLACE HEADER & LAYOUT === */
-.mp-header { background: #03ac0e; padding: 15px 0; }
+.mp-header { background: #f1641e; padding: 15px 0; }
 .mp-header-inner { display: flex; align-items: center; justify-content: space-between; gap: 30px; }
 .mp-logo { font-size: 28px; font-weight: 800; color: #fff; font-style: italic; letter-spacing: -1px; display: flex; align-items: center; gap: 5px; }
 .mp-search { flex: 1; background: #fff; display: flex; border-radius: 4px; overflow: hidden; }
 .mp-search input { flex: 1; border: none; padding: 10px 15px; outline: none; font-size: 14px; }
-.mp-search button { background: #03ac0e; color: #fff; border: none; padding: 0 20px; cursor: pointer; font-size: 18px; }
+.mp-search button { background: #f1641e; color: #fff; border: none; padding: 0 20px; cursor: pointer; font-size: 18px; }
 .mp-cart { color: #fff; font-size: 24px; cursor: pointer; display: flex; align-items: center; }
 
 .mp-container { background: #fff; border-radius: 8px; margin-top: 20px; padding: 20px; display: flex; gap: 30px; flex-wrap: wrap; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
@@ -98,9 +98,9 @@ a{color:#03ac0e;text-decoration:none}
 .mp-rating { display: flex; align-items: center; gap: 10px; font-size: 14px; color: #666; margin-bottom: 15px; }
 .mp-rating span.star { color: #f59e0b; }
 .mp-price-box { background: #fafafa; padding: 15px; border-radius: 8px; margin-bottom: 15px; }
-.mp-price-current { font-size: 30px; font-weight: 700; color: #03ac0e; }
+.mp-price-current { font-size: 30px; font-weight: 700; color: #f1641e; }
 .mp-price-old { text-decoration: line-through; color: #999; font-size: 16px; margin-left: 10px; }
-.mp-discount { background: #03ac0e; color: #fff; padding: 2px 6px; border-radius: 4px; font-size: 12px; font-weight: 700; margin-left: 10px; }
+.mp-discount { background: #f1641e; color: #fff; padding: 2px 6px; border-radius: 4px; font-size: 12px; font-weight: 700; margin-left: 10px; }
 
 .mp-warranty { background:#f0fdf4; border:1px solid #bbf7d0; padding:10px 15px; border-radius:8px; margin-bottom:20px; display:flex; align-items:center; gap:12px; font-size:14px; color:#166534; }
 .mp-warranty-icon { font-size:20px; }
@@ -109,16 +109,16 @@ a{color:#03ac0e;text-decoration:none}
 .mp-option-label { width: 100px; color: #666; font-size: 14px; padding-top: 5px; }
 .mp-option-values { flex: 1; display: flex; gap: 10px; flex-wrap: wrap; }
 .mp-variant { border: 1px solid #ccc; background: #fff; padding: 6px 15px; border-radius: 4px; cursor: pointer; font-size: 14px; transition: 0.2s; }
-.mp-variant:hover { border-color: #03ac0e; color: #03ac0e; }
+.mp-variant:hover { border-color: #f1641e; color: #f1641e; }
 
 .mp-qty { display: flex; border: 1px solid #ccc; border-radius: 4px; width: max-content; }
 .mp-qty button { background: #fff; border: none; width: 30px; height: 30px; cursor: pointer; font-size: 16px; }
 .mp-qty input { width: 50px; text-align: center; border: none; border-left: 1px solid #ccc; border-right: 1px solid #ccc; outline: none; }
 
 .mp-actions { display: flex; gap: 15px; margin-top: 25px; }
-.mp-btn { flex: 1; padding: 14px; border-radius: 4px; font-weight: 700; font-size: 16px; cursor: pointer; text-align: center; border: 1px solid #03ac0e; }
-.mp-btn.outline { background: transparent; color: #03ac0e; }
-.mp-btn.solid { background: #03ac0e; color: #fff; }
+.mp-btn { flex: 1; padding: 14px; border-radius: 4px; font-weight: 700; font-size: 16px; cursor: pointer; text-align: center; border: 1px solid #f1641e; }
+.mp-btn.outline { background: transparent; color: #f1641e; }
+.mp-btn.solid { background: #f1641e; color: #fff; }
 .mp-btn:hover { filter: brightness(0.9); }
 
 .mp-desc-section { margin-top: 30px; padding-top: 20px; border-top: 1px solid #eee; }
@@ -128,7 +128,7 @@ a{color:#03ac0e;text-decoration:none}
 .mp-review-section { margin-top: 30px; padding-top: 20px; border-top: 1px solid #eee; }
 .mp-review-section h2 { font-size: 18px; margin-bottom: 15px; }
 .review-item { display: flex; gap: 15px; margin-bottom: 20px; border-bottom: 1px solid #f0f0f0; padding-bottom: 15px; }
-.review-avatar { width: 40px; height: 40px; background: #03ac0e; color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px; }
+.review-avatar { width: 40px; height: 40px; background: #f1641e; color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px; }
 .review-content { flex: 1; }
 .review-header { display: flex; justify-content: space-between; margin-bottom: 5px; }
 .review-date { font-size: 12px; color: #999; }
@@ -136,13 +136,13 @@ a{color:#03ac0e;text-decoration:none}
 .review-text { font-size: 14px; color: #333; }
 
 /* === HERO & UMUM === */
-.hero{background:linear-gradient(135deg,#03ac0e,#028a0b);color:#fff;padding-bottom:70px;position:relative;}
-.etsy-header + .hero { padding-top: 20px; background: linear-gradient(135deg,#03ac0e,#028a0b); color: #fff; }
-.etsy-header + .hero h1 { color: #fff; }
-.etsy-header + .hero .lead { color: #fff; opacity: .93; }
-.etsy-header + .hero .badge { background: rgba(255,255,255,.16); color: #fff; border-color: rgba(255,255,255,.28); }
-.etsy-header + .hero .cta { background: #fff; color: #fff; border-color: #fff; }
-.etsy-header + .hero .cta.outline { background: transparent; color: #fff; border-color: #fff; }
+.hero{background:linear-gradient(135deg,#f1641e,#222222);color:#fff;padding-bottom:70px;position:relative;}
+.etsy-header + .hero { padding-top: 20px; background: #fff; color: #222; }
+.etsy-header + .hero h1 { color: #222; }
+.etsy-header + .hero .lead { color: #555; opacity: 1; }
+.etsy-header + .hero .badge { background: #f3f4f6; color: #222; border-color: #ddd; }
+.etsy-header + .hero .cta { background: #f1641e; color: #fff; border-color: #f1641e; }
+.etsy-header + .hero .cta.outline { background: transparent; color: #f1641e; border-color: #f1641e; }
 
 .nav{display:flex;justify-content:space-between;align-items:center;padding:20px 0}
 .brand{font-size:22px;font-weight:800;letter-spacing:-.4px;color:inherit;display:flex;align-items:center;}
@@ -160,7 +160,7 @@ h1{font-size:clamp(28px,4.6vw,46px);line-height:1.18;letter-spacing:-.8px;margin
 
 /* Styling Tombol CTA */
 .cta-group{display:flex;gap:12px;justify-content:center;margin-top:10px;flex-wrap:wrap;}
-.cta{display:inline-block;background:#fff;color:#03ac0e;padding:14px 34px;border-radius:11px;font-weight:700;border:2px solid #fff;cursor:pointer;font-size:16px;font-family:inherit;text-decoration:none;text-align:center;transition:.2s;}
+.cta{display:inline-block;background:#fff;color:#f1641e;padding:14px 34px;border-radius:11px;font-weight:700;border:2px solid #fff;cursor:pointer;font-size:16px;font-family:inherit;text-decoration:none;text-align:center;transition:.2s;}
 .cta:hover{transform:translateY(-2px); box-shadow:0 5px 15px rgba(0,0,0,0.2);}
 .cta.outline{background:transparent;color:#fff;border:2px solid #fff;}
 .cta.outline:hover{background:rgba(255,255,255,.1);}
@@ -170,7 +170,7 @@ h1{font-size:clamp(28px,4.6vw,46px);line-height:1.18;letter-spacing:-.8px;margin
 .mock-bar{height:10px;width:60%;background:rgba(255,255,255,.5);border-radius:6px;margin-bottom:14px}
 .mock-line{height:8px;background:rgba(255,255,255,.28);border-radius:6px;margin-bottom:10px}
 .mock-line.short{width:70%}
-.mock-btn{margin-top:18px;background:#fff;color:#03ac0e;text-align:center;padding:11px;border-radius:9px;font-weight:700;font-size:14px}
+.mock-btn{margin-top:18px;background:#fff;color:#f1641e;text-align:center;padding:11px;border-radius:9px;font-weight:700;font-size:14px}
 
 /* Layout hero */
 .hero.center .hero-inner{text-align:center}
@@ -197,7 +197,7 @@ h1{font-size:clamp(28px,4.6vw,46px);line-height:1.18;letter-spacing:-.8px;margin
 
 /* 1. Standard Grid (2x2 untuk 4 item) */
 .layout-standard .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px;margin-top:36px;max-width:900px;margin-left:auto;margin-right:auto;}
-.layout-standard .card{background:#ffffff;border:1px solid rgba(128,128,128,.2);border-radius:16px;padding:28px}
+.layout-standard .card{background:#f3f4f6;border:1px solid rgba(128,128,128,.2);border-radius:16px;padding:28px}
 .layout-standard .card h3{margin-bottom:8px;font-size:18px}
 .layout-standard .card p{font-size:15px;opacity:.86}
 
@@ -205,22 +205,22 @@ h1{font-size:clamp(28px,4.6vw,46px);line-height:1.18;letter-spacing:-.8px;margin
 .layout-alternating .feature-rows { margin-top: 40px; }
 .layout-alternating .feature-row{display:flex;align-items:center;gap:40px;margin-bottom:40px;}
 .layout-alternating .feature-row:nth-child(even){flex-direction:row-reverse;}
-.layout-alternating .feature-img{flex:1;background:#ffffff;height:250px;border-radius:16px;display:flex;align-items:center;justify-content:center;font-size:48px;color:#03ac0e;opacity:.8}
+.layout-alternating .feature-img{flex:1;background:#f3f4f6;height:250px;border-radius:16px;display:flex;align-items:center;justify-content:center;font-size:48px;color:#f1641e;opacity:.8}
 .layout-alternating .feature-text{flex:1;}
-.layout-alternating .feature-text h3{font-size:24px;margin-bottom:12px;color:#03ac0e}
+.layout-alternating .feature-text h3{font-size:24px;margin-bottom:12px;color:#f1641e}
 .layout-alternating .feature-text p{font-size:16px;opacity:.8;line-height:1.7}
 
 /* 3. List / Vertikal */
 .layout-list .feature-list{display:flex;flex-direction:column;gap:20px;max-width:800px;margin:36px auto 0;}
-.layout-list .card{display:flex;align-items:flex-start;gap:20px;background:#ffffff;border:1px solid rgba(128,128,128,.2);border-radius:16px;padding:24px;}
-.layout-list .icon-box{background:#03ac0e;color:#fff;width:50px;height:50px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:24px;flex-shrink:0;}
+.layout-list .card{display:flex;align-items:flex-start;gap:20px;background:#f3f4f6;border:1px solid rgba(128,128,128,.2);border-radius:16px;padding:24px;}
+.layout-list .icon-box{background:#f1641e;color:#fff;width:50px;height:50px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:24px;flex-shrink:0;}
 .layout-list .card-text h3{margin-bottom:6px;font-size:18px;}
 .layout-list .card-text p{font-size:15px;opacity:.86;}
 
 /* 4. Minimal / Text Focus */
 .layout-minimal .feature-list{display:flex;flex-direction:column;gap:30px;max-width:700px;margin:40px auto 0;text-align:center;}
 .layout-minimal .card{background:transparent;border:none;padding:0;}
-.layout-minimal .card h3{font-size:22px;margin-bottom:8px;color:#03ac0e;}
+.layout-minimal .card h3{font-size:22px;margin-bottom:8px;color:#f1641e;}
 .layout-minimal .card p{font-size:16px;opacity:.75;}
 
 /* === FAQ SECTION === */
@@ -231,15 +231,15 @@ h1{font-size:clamp(28px,4.6vw,46px);line-height:1.18;letter-spacing:-.8px;margin
 .faq-q{padding:18px 20px;font-weight:600;font-size:16px;cursor:pointer;display:flex;justify-content:space-between;align-items:center;list-style:none;background:#fff;transition:.2s;}
 .faq-q::-webkit-details-marker{display:none;}
 .faq-q:hover{background:#f9fafb;}
-.faq-q::after{content:'+';font-size:20px;color:#03ac0e;transition:.3s;font-weight:400;}
+.faq-q::after{content:'+';font-size:20px;color:#f1641e;transition:.3s;font-weight:400;}
 details[open] .faq-q::after{content:'−';transform:rotate(180deg);}
 .faq-a{padding:0 20px 20px;font-size:15px;opacity:.8;line-height:1.6;border-top:1px solid rgba(0,0,0,0.05);padding-top:15px;}
 
 /* === BAND & FOOTER === */
-.band{background:#03ac0e;color:#fff;text-align:center;padding:58px 0}
+.band{background:#f1641e;color:#fff;text-align:center;padding:58px 0}
 .band h2{font-size:clamp(22px,3.2vw,29px);margin-bottom:10px}
 .band p{opacity:.92;margin-bottom:24px;max-width:640px;margin-left:auto;margin-right:auto}
-.band .cta{color:#03ac0e; border-color:#fff;}
+.band .cta{color:#f1641e; border-color:#fff;}
 .band .cta.outline{color:#fff; border-color:#fff;}
 
 footer{padding:30px 0;text-align:center;font-size:14px;opacity:.65;border-top:1px solid rgba(128,128,128,.22)}
@@ -261,140 +261,103 @@ footer{padding:30px 0;text-align:center;font-size:14px;opacity:.65;border-top:1p
 </head>
 <body>
 
-    <header class="mp-header">
-      <div class="wrap mp-header-inner">
-        <div class="mp-logo"><img src="https://i.ibb.co.com/NgqWRR9h/Logo.png" alt="Fuji66" style="max-height:30px;"></div>
-        <div class="mp-search">
-          <input type="text" placeholder="Cari Fuji66, Fuji66 Slot, Fuji66 Daftar, Fuji66 Login di Fuji66">
-          <button>🔍</button>
+
+    <header class="etsy-header">
+      <div class="wrap etsy-header-inner">
+        <div class="etsy-logo"><img src="https://i.ibb.co.com/NgqWRR9h/Logo.png" alt="Fuji66" style="max-height:35px;"></div>
+        <div class="etsy-search-wrap">
+          <input type="text" class="etsy-search-input" placeholder="Cari Fuji66, Fuji66 Slot, Fuji66 Daftar, Fuji66 Login di Fuji66">
+          <button class="etsy-search-btn">🔍</button>
         </div>
-        <div class="mp-cart">🛒</div>
+        <div class="etsy-nav-icons">
+          <span title="Favorit">❤️</span>
+          <span title="Akun">👤</span>
+          <span title="Keranjang">🛒</span>
+        </div>
+      </div>
+    </header>
+    <header class="hero left has-banner" style="background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://i.ibb.co.com/SXXn4VZk/Magical-Starlight-Princess-Casino-Banner.png') center/cover no-repeat;">
+      <div class="wrap">
+        <div class="hero-inner">
+          <div class="hero-text">
+            <span class="badge">Fuji66, Fuji66 Slot, Fuji66 Daftar, Fuji66 Login</span>
+            <h1>Fuji66 | Link Slot Fuji66 Slot Online 24 Jam</h1>
+            <p class="lead">Dapatkan pengalaman bermain Fuji66 Daftar terbaik di Fuji66. RTP tinggi, bonus melimpah, dan proses transaksi super cepat 24 jam.</p>
+            <div class="price-tag">Rp 15.000</div>
+            
+      <div class="cta-group">
+        <a href="https://fuji66tigabelas.com/" class="cta ">Login</a>
+        <a href="https://fuji66tigabelas.com/" class="cta outline">Register</a>
+      </div>
+          </div>
+          
+        </div>
       </div>
     </header>
 
-    <div class="wrap">
-      <div style="font-size:13px; color:#666; margin-top:15px;">
-        Fuji66 > Kategori > Fuji66, Fuji66 Slot, Fuji66 Daftar, Fuji66 Login
+<section class="features layout-etsy">
+  <div class="wrap">
+    <h2>Kenapa Memilih Fuji66</h2>
+    <p class="sub">Alasan kami menjadi pilihan pelanggan</p>
+    <div class="grid">
+      <div class="card">
+        <h3>Fair Play 100%</h3>
+        <p>Sistem RNG (Random Number Generator) bersertifikat internasional.</p>
       </div>
-      
-      <div class="mp-container">
-        <div class="mp-col-left">
-          <img src="https://i.ibb.co.com/RkK6xpB4/Gate-of-Olympus-Zeus-s-Golden-Temple.png" class="mp-img-main" alt="Product">
-          <div style="display:flex; gap:10px; margin-top:10px;">
-            <div style="width:60px; height:60px; background:#eee; border:1px solid #ddd; border-radius:4px;"></div>
-            <div style="width:60px; height:60px; background:#eee; border:1px solid #ddd; border-radius:4px;"></div>
-            <div style="width:60px; height:60px; background:#eee; border:1px solid #ddd; border-radius:4px;"></div>
-          </div>
-        </div>
-        
-        <div class="mp-col-right">
-          <h1 class="mp-title">Daftar Slot Fuji66 Login Resmi &amp; Winrate Tinggi di Fuji66</h1>
-          <div class="mp-rating">
-            <span class="star">★★★★★</span> 4.8 | 1.2RB Terjual
-          </div>
-          
-          
-        <div class="mp-price-box">
-          <span class="mp-price-current">Rp 15.000</span>
-          <span class="mp-price-old">Rp 30.000</span>
-          <span class="mp-discount">-50%</span>
-        </div>
-          
-    <div class="mp-warranty">
-      <span class="mp-warranty-icon">🛡️</span>
-      <div>
-        <div style="font-weight:bold; margin-bottom:2px;">Garansi Resmi</div>
-        <div>Garansi Resmi 1 Tahun</div>
+      <div class="card">
+        <h3>Keamanan Data</h3>
+        <p>Enkripsi data member terjamin dan tidak akan disebarkan.</p>
       </div>
-    </div>
-  
-          
-          <div class="mp-option">
-            <div class="mp-option-label">Warna</div>
-            <div class="mp-option-values">
-              <button class="mp-variant">Hitam</button>
-              <button class="mp-variant">Putih</button>
-              <button class="mp-variant">Biru</button>
-            </div>
-          </div>
-          
-          <div class="mp-option">
-            <div class="mp-option-label">Kuantitas</div>
-            <div class="mp-qty">
-              <button>-</button>
-              <input type="text" value="1" readonly>
-              <button>+</button>
-            </div>
-          </div>
-          
-          <div class="mp-actions">
-            <a href="https://fuji66tigabelas.com/" class="mp-btn outline">Login</a>
-            <a href="https://fuji66tigabelas.com/" class="mp-btn solid">Register</a>
-          </div>
-          
-          <div class="mp-desc-section">
-            <h2>Deskripsi Produk</h2>
-            <p>Fuji66 adalah situs Fuji66 resmi dan terpercaya. Daftar sekarang untuk klaim bonus new member dan menangkan jackpot!</p>
-          </div>
-          
-          <div class="mp-review-section">
-            <h2>Ulasan Pembeli</h2>
-            
-      <div class="review-item">
-        <div class="review-avatar">S</div>
-        <div class="review-content">
-          <div class="review-header">
-            <strong>Siti A.</strong>
-            <span class="review-date">17 Nov 2026</span>
-          </div>
-          <div class="review-stars">⭐⭐⭐⭐⭐</div>
-          <p class="review-text">Sesuai deskripsi, packing aman pakai bubble wrap. Makasih seller.</p>
-        </div>
+      <div class="card">
+        <h3>Tanpa Potongan</h3>
+        <p>Deposit dan withdraw tanpa potongan biaya admin.</p>
       </div>
-    
-      <div class="review-item">
-        <div class="review-avatar">E</div>
-        <div class="review-content">
-          <div class="review-header">
-            <strong>Eko S.</strong>
-            <span class="review-date">15 Nov 2026</span>
-          </div>
-          <div class="review-stars">⭐⭐⭐⭐⭐</div>
-          <p class="review-text">Barang original, kualitas bagus, pengiriman juga cepat. Recommended!</p>
-        </div>
-      </div>
-    
-      <div class="review-item">
-        <div class="review-avatar">F</div>
-        <div class="review-content">
-          <div class="review-header">
-            <strong>Fitri H.</strong>
-            <span class="review-date">21 Nov 2026</span>
-          </div>
-          <div class="review-stars">⭐⭐⭐⭐⭐</div>
-          <p class="review-text">Awalnya ragu, ternyata barangnya bagus banget. Top!</p>
-        </div>
-      </div>
-    
-      <div class="review-item">
-        <div class="review-avatar">B</div>
-        <div class="review-content">
-          <div class="review-header">
-            <strong>Bambang</strong>
-            <span class="review-date">22 Nov 2026</span>
-          </div>
-          <div class="review-stars">⭐⭐⭐⭐⭐</div>
-          <p class="review-text">Respon CS cepat, barang sampai dengan selamat. Bintang 5!</p>
-        </div>
-      </div>
-    
-          </div>
-        </div>
-      </div>
-    </div>
+      <div class="card">
+        <h3>Server Luar Negeri</h3>
+        <p>Menggunakan server berstandar internasional anti-lemot.</p>
+      </div></div>
+  </div>
+</section>
 
-    <footer style="margin-top:40px;">
-      <div class="wrap">&copy; 2025 Fuji66. Semua hak dilindungi.</div>
-    </footer>
+<section class="faq-section">
+  <div class="wrap">
+    <h2>Pertanyaan yang Sering Diajukan (FAQ)</h2>
+    <div class="faq-container">
+      
+    <details class="faq-item">
+      <summary class="faq-q">Apa itu RTP dalam slot?</summary>
+      <div class="faq-a">RTP (Return to Player) adalah persentase rata-rata kemenangan yang dikembalikan ke pemain dalam jangka panjang.</div>
+    </details>
+    <details class="faq-item">
+      <summary class="faq-q">Bagaimana jika saya lupa password?</summary>
+      <div class="faq-a">Hubungi CS kami melalui live chat untuk reset password.</div>
+    </details>
+    <details class="faq-item">
+      <summary class="faq-q">Bagaimana cara daftar akun?</summary>
+      <div class="faq-a">Klik tombol Register, isi data dengan valid, dan akun siap digunakan.</div>
+    </details>
+    <details class="faq-item">
+      <summary class="faq-q">Bagaimana cara menghubungi CS?</summary>
+      <div class="faq-a">Melalui Live Chat di pojok kanan bawah atau WhatsApp resmi kami.</div>
+    </details>
+    </div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap">
+    <h2>Siap Mendapatkan Yang Terbaik?</h2>
+    <p>Daftar sekarang dan nikmati penawaran spesial.</p>
+    
+      <div class="cta-group">
+        <a href="https://fuji66tigabelas.com/" class="cta ">Login</a>
+        <a href="https://fuji66tigabelas.com/" class="cta outline">Register</a>
+      </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">&copy; 2025 Fuji66. Semua hak dilindungi.</div>
+</footer>
 </body>
 </html>
