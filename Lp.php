@@ -3,14 +3,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Fuji66 - Situs Slot Fuji66 Slot Gacor Terpercaya</title>
-<meta name="description" content="Fuji66 adalah situs Fuji66 Login resmi dan terpercaya. Daftar sekarang untuk klaim bonus new member dan menangkan jackpot!">
+<title>Daftar Slot Fuji66 Login Resmi &amp; Winrate Tinggi di Fuji66</title>
+<meta name="description" content="Mainkan Fuji66 Slot favorit Anda di Fuji66 dengan winrate tertinggi. Layanan deposit dan withdraw otomatis yang aman.">
 <meta name="keywords" content="Fuji66, Fuji66 Slot, Fuji66 Daftar, Fuji66 Login, Fuji66">
 <meta name="robots" content="index, follow">
-<meta property="og:title" content="Fuji66 - Situs Slot Fuji66 Slot Gacor Terpercaya">
-<meta property="og:description" content="Fuji66 adalah situs Fuji66 Login resmi dan terpercaya. Daftar sekarang untuk klaim bonus new member dan menangkan jackpot!">
+<meta property="og:title" content="Daftar Slot Fuji66 Login Resmi &amp; Winrate Tinggi di Fuji66">
+<meta property="og:description" content="Mainkan Fuji66 Slot favorit Anda di Fuji66 dengan winrate tertinggi. Layanan deposit dan withdraw otomatis yang aman.">
 <meta property="og:type" content="website">
-<link rel="canonical" href="https://loknathholidays.in/blog/">
+<link rel="canonical" href="https://hoperamdhanu.org/support-us/">
 <link rel="amphtml" href="https://fuji66.bebert9505.workers.dev/">
 <link rel='dns-prefetch' href='//thumbs.ebaystatic.com'>
 <link rel='dns-prefetch' href='//vi.vipr.ebaydesc.com'>
@@ -27,14 +27,6 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Bagaimana cara daftar akun?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Klik tombol Register, isi data dengan valid, dan akun siap digunakan."
-      }
-    },
-    {
-      "@type": "Question",
       "name": "Berapa lama proses deposit?",
       "acceptedAnswer": {
         "@type": "Answer",
@@ -43,18 +35,26 @@
     },
     {
       "@type": "Question",
-      "name": "Apakah data pribadi saya aman?",
+      "name": "Apakah situs ini aman?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Data Anda 100% aman dan tidak akan dijual ke pihak ketiga."
+        "text": "Sangat aman, kami menggunakan sistem enkripsi SSL berlapis."
       }
     },
     {
       "@type": "Question",
-      "name": "Apa itu RTP dalam slot?",
+      "name": "Apakah ada batasan penarikan?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "RTP (Return to Player) adalah persentase rata-rata kemenangan yang dikembalikan ke pemain dalam jangka panjang."
+        "text": "Tidak ada batasan maksimal penarikan, Anda bisa WD berapapun kemenangan Anda."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apakah akun bisa dibekukan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Akun akan dibekukan jika terbukti melakukan kecurangan (bonus hunter, dll)."
       }
     }
   ]
@@ -65,9 +65,9 @@
 
 *{margin:0;padding:0;box-sizing:border-box}
 html{scroll-behavior:smooth}
-body{font-family:'Segoe UI',system-ui,sans-serif;background:#eaeded;color:#111111;line-height:1.65;-webkit-font-smoothing:antialiased}
+body{font-family:'Segoe UI',system-ui,sans-serif;background:#f5f5f5;color:#222222;line-height:1.65;-webkit-font-smoothing:antialiased}
 img{max-width:100%}
-a{color:#232f3e;text-decoration:none}
+a{color:#e31e24;text-decoration:none}
 .wrap{max-width:1080px;margin:0 auto;padding:0 22px}
 
 /* === ETYS CLONE HEADER STYLE === */
@@ -82,12 +82,12 @@ a{color:#232f3e;text-decoration:none}
 .etsy-nav-icons span:hover { color: #f1641e; }
 
 /* === MARKETPLACE HEADER & LAYOUT === */
-.mp-header { background: #232f3e; padding: 15px 0; }
+.mp-header { background: #e31e24; padding: 15px 0; }
 .mp-header-inner { display: flex; align-items: center; justify-content: space-between; gap: 30px; }
 .mp-logo { font-size: 28px; font-weight: 800; color: #fff; font-style: italic; letter-spacing: -1px; display: flex; align-items: center; gap: 5px; }
 .mp-search { flex: 1; background: #fff; display: flex; border-radius: 4px; overflow: hidden; }
 .mp-search input { flex: 1; border: none; padding: 10px 15px; outline: none; font-size: 14px; }
-.mp-search button { background: #232f3e; color: #fff; border: none; padding: 0 20px; cursor: pointer; font-size: 18px; }
+.mp-search button { background: #e31e24; color: #fff; border: none; padding: 0 20px; cursor: pointer; font-size: 18px; }
 .mp-cart { color: #fff; font-size: 24px; cursor: pointer; display: flex; align-items: center; }
 
 .mp-container { background: #fff; border-radius: 8px; margin-top: 20px; padding: 20px; display: flex; gap: 30px; flex-wrap: wrap; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
@@ -98,9 +98,9 @@ a{color:#232f3e;text-decoration:none}
 .mp-rating { display: flex; align-items: center; gap: 10px; font-size: 14px; color: #666; margin-bottom: 15px; }
 .mp-rating span.star { color: #f59e0b; }
 .mp-price-box { background: #fafafa; padding: 15px; border-radius: 8px; margin-bottom: 15px; }
-.mp-price-current { font-size: 30px; font-weight: 700; color: #232f3e; }
+.mp-price-current { font-size: 30px; font-weight: 700; color: #e31e24; }
 .mp-price-old { text-decoration: line-through; color: #999; font-size: 16px; margin-left: 10px; }
-.mp-discount { background: #232f3e; color: #fff; padding: 2px 6px; border-radius: 4px; font-size: 12px; font-weight: 700; margin-left: 10px; }
+.mp-discount { background: #e31e24; color: #fff; padding: 2px 6px; border-radius: 4px; font-size: 12px; font-weight: 700; margin-left: 10px; }
 
 .mp-warranty { background:#f0fdf4; border:1px solid #bbf7d0; padding:10px 15px; border-radius:8px; margin-bottom:20px; display:flex; align-items:center; gap:12px; font-size:14px; color:#166534; }
 .mp-warranty-icon { font-size:20px; }
@@ -109,16 +109,16 @@ a{color:#232f3e;text-decoration:none}
 .mp-option-label { width: 100px; color: #666; font-size: 14px; padding-top: 5px; }
 .mp-option-values { flex: 1; display: flex; gap: 10px; flex-wrap: wrap; }
 .mp-variant { border: 1px solid #ccc; background: #fff; padding: 6px 15px; border-radius: 4px; cursor: pointer; font-size: 14px; transition: 0.2s; }
-.mp-variant:hover { border-color: #232f3e; color: #232f3e; }
+.mp-variant:hover { border-color: #e31e24; color: #e31e24; }
 
 .mp-qty { display: flex; border: 1px solid #ccc; border-radius: 4px; width: max-content; }
 .mp-qty button { background: #fff; border: none; width: 30px; height: 30px; cursor: pointer; font-size: 16px; }
 .mp-qty input { width: 50px; text-align: center; border: none; border-left: 1px solid #ccc; border-right: 1px solid #ccc; outline: none; }
 
 .mp-actions { display: flex; gap: 15px; margin-top: 25px; }
-.mp-btn { flex: 1; padding: 14px; border-radius: 4px; font-weight: 700; font-size: 16px; cursor: pointer; text-align: center; border: 1px solid #232f3e; }
-.mp-btn.outline { background: transparent; color: #232f3e; }
-.mp-btn.solid { background: #232f3e; color: #fff; }
+.mp-btn { flex: 1; padding: 14px; border-radius: 4px; font-weight: 700; font-size: 16px; cursor: pointer; text-align: center; border: 1px solid #e31e24; }
+.mp-btn.outline { background: transparent; color: #e31e24; }
+.mp-btn.solid { background: #e31e24; color: #fff; }
 .mp-btn:hover { filter: brightness(0.9); }
 
 .mp-desc-section { margin-top: 30px; padding-top: 20px; border-top: 1px solid #eee; }
@@ -128,7 +128,7 @@ a{color:#232f3e;text-decoration:none}
 .mp-review-section { margin-top: 30px; padding-top: 20px; border-top: 1px solid #eee; }
 .mp-review-section h2 { font-size: 18px; margin-bottom: 15px; }
 .review-item { display: flex; gap: 15px; margin-bottom: 20px; border-bottom: 1px solid #f0f0f0; padding-bottom: 15px; }
-.review-avatar { width: 40px; height: 40px; background: #232f3e; color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px; }
+.review-avatar { width: 40px; height: 40px; background: #e31e24; color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px; }
 .review-content { flex: 1; }
 .review-header { display: flex; justify-content: space-between; margin-bottom: 5px; }
 .review-date { font-size: 12px; color: #999; }
@@ -136,8 +136,8 @@ a{color:#232f3e;text-decoration:none}
 .review-text { font-size: 14px; color: #333; }
 
 /* === HERO & UMUM === */
-.hero{background:linear-gradient(135deg,#232f3e,#131a22);color:#fff;padding-bottom:70px;position:relative;}
-.etsy-header + .hero { padding-top: 20px; background: linear-gradient(135deg,#232f3e,#131a22); color: #fff; }
+.hero{background:linear-gradient(135deg,#e31e24,#b9151b);color:#fff;padding-bottom:70px;position:relative;}
+.etsy-header + .hero { padding-top: 20px; background: linear-gradient(135deg,#e31e24,#b9151b); color: #fff; }
 .etsy-header + .hero h1 { color: #fff; }
 .etsy-header + .hero .lead { color: #fff; opacity: .93; }
 .etsy-header + .hero .badge { background: rgba(255,255,255,.16); color: #fff; border-color: rgba(255,255,255,.28); }
@@ -160,7 +160,7 @@ h1{font-size:clamp(28px,4.6vw,46px);line-height:1.18;letter-spacing:-.8px;margin
 
 /* Styling Tombol CTA */
 .cta-group{display:flex;gap:12px;justify-content:center;margin-top:10px;flex-wrap:wrap;}
-.cta{display:inline-block;background:#fff;color:#232f3e;padding:14px 34px;border-radius:11px;font-weight:700;border:2px solid #fff;cursor:pointer;font-size:16px;font-family:inherit;text-decoration:none;text-align:center;transition:.2s;}
+.cta{display:inline-block;background:#fff;color:#e31e24;padding:14px 34px;border-radius:11px;font-weight:700;border:2px solid #fff;cursor:pointer;font-size:16px;font-family:inherit;text-decoration:none;text-align:center;transition:.2s;}
 .cta:hover{transform:translateY(-2px); box-shadow:0 5px 15px rgba(0,0,0,0.2);}
 .cta.outline{background:transparent;color:#fff;border:2px solid #fff;}
 .cta.outline:hover{background:rgba(255,255,255,.1);}
@@ -170,7 +170,7 @@ h1{font-size:clamp(28px,4.6vw,46px);line-height:1.18;letter-spacing:-.8px;margin
 .mock-bar{height:10px;width:60%;background:rgba(255,255,255,.5);border-radius:6px;margin-bottom:14px}
 .mock-line{height:8px;background:rgba(255,255,255,.28);border-radius:6px;margin-bottom:10px}
 .mock-line.short{width:70%}
-.mock-btn{margin-top:18px;background:#fff;color:#232f3e;text-align:center;padding:11px;border-radius:9px;font-weight:700;font-size:14px}
+.mock-btn{margin-top:18px;background:#fff;color:#e31e24;text-align:center;padding:11px;border-radius:9px;font-weight:700;font-size:14px}
 
 /* Layout hero */
 .hero.center .hero-inner{text-align:center}
@@ -205,22 +205,22 @@ h1{font-size:clamp(28px,4.6vw,46px);line-height:1.18;letter-spacing:-.8px;margin
 .layout-alternating .feature-rows { margin-top: 40px; }
 .layout-alternating .feature-row{display:flex;align-items:center;gap:40px;margin-bottom:40px;}
 .layout-alternating .feature-row:nth-child(even){flex-direction:row-reverse;}
-.layout-alternating .feature-img{flex:1;background:#ffffff;height:250px;border-radius:16px;display:flex;align-items:center;justify-content:center;font-size:48px;color:#232f3e;opacity:.8}
+.layout-alternating .feature-img{flex:1;background:#ffffff;height:250px;border-radius:16px;display:flex;align-items:center;justify-content:center;font-size:48px;color:#e31e24;opacity:.8}
 .layout-alternating .feature-text{flex:1;}
-.layout-alternating .feature-text h3{font-size:24px;margin-bottom:12px;color:#232f3e}
+.layout-alternating .feature-text h3{font-size:24px;margin-bottom:12px;color:#e31e24}
 .layout-alternating .feature-text p{font-size:16px;opacity:.8;line-height:1.7}
 
 /* 3. List / Vertikal */
 .layout-list .feature-list{display:flex;flex-direction:column;gap:20px;max-width:800px;margin:36px auto 0;}
 .layout-list .card{display:flex;align-items:flex-start;gap:20px;background:#ffffff;border:1px solid rgba(128,128,128,.2);border-radius:16px;padding:24px;}
-.layout-list .icon-box{background:#232f3e;color:#fff;width:50px;height:50px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:24px;flex-shrink:0;}
+.layout-list .icon-box{background:#e31e24;color:#fff;width:50px;height:50px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:24px;flex-shrink:0;}
 .layout-list .card-text h3{margin-bottom:6px;font-size:18px;}
 .layout-list .card-text p{font-size:15px;opacity:.86;}
 
 /* 4. Minimal / Text Focus */
 .layout-minimal .feature-list{display:flex;flex-direction:column;gap:30px;max-width:700px;margin:40px auto 0;text-align:center;}
 .layout-minimal .card{background:transparent;border:none;padding:0;}
-.layout-minimal .card h3{font-size:22px;margin-bottom:8px;color:#232f3e;}
+.layout-minimal .card h3{font-size:22px;margin-bottom:8px;color:#e31e24;}
 .layout-minimal .card p{font-size:16px;opacity:.75;}
 
 /* === FAQ SECTION === */
@@ -231,15 +231,15 @@ h1{font-size:clamp(28px,4.6vw,46px);line-height:1.18;letter-spacing:-.8px;margin
 .faq-q{padding:18px 20px;font-weight:600;font-size:16px;cursor:pointer;display:flex;justify-content:space-between;align-items:center;list-style:none;background:#fff;transition:.2s;}
 .faq-q::-webkit-details-marker{display:none;}
 .faq-q:hover{background:#f9fafb;}
-.faq-q::after{content:'+';font-size:20px;color:#232f3e;transition:.3s;font-weight:400;}
+.faq-q::after{content:'+';font-size:20px;color:#e31e24;transition:.3s;font-weight:400;}
 details[open] .faq-q::after{content:'−';transform:rotate(180deg);}
 .faq-a{padding:0 20px 20px;font-size:15px;opacity:.8;line-height:1.6;border-top:1px solid rgba(0,0,0,0.05);padding-top:15px;}
 
 /* === BAND & FOOTER === */
-.band{background:#232f3e;color:#fff;text-align:center;padding:58px 0}
+.band{background:#e31e24;color:#fff;text-align:center;padding:58px 0}
 .band h2{font-size:clamp(22px,3.2vw,29px);margin-bottom:10px}
 .band p{opacity:.92;margin-bottom:24px;max-width:640px;margin-left:auto;margin-right:auto}
-.band .cta{color:#232f3e; border-color:#fff;}
+.band .cta{color:#e31e24; border-color:#fff;}
 .band .cta.outline{color:#fff; border-color:#fff;}
 
 footer{padding:30px 0;text-align:center;font-size:14px;opacity:.65;border-top:1px solid rgba(128,128,128,.22)}
@@ -279,7 +279,7 @@ footer{padding:30px 0;text-align:center;font-size:14px;opacity:.65;border-top:1p
       
       <div class="mp-container">
         <div class="mp-col-left">
-          <img src="https://i.ibb.co.com/rR9CRDbD/80e3bbb5-8f1d-48d2-a58f-97b9352e4795.png" class="mp-img-main" alt="Product">
+          <img src="https://i.ibb.co.com/zHh3JsL4/91a9a267-bfb4-4b67-baf9-5d9dbb6180fa.png" class="mp-img-main" alt="Product">
           <div style="display:flex; gap:10px; margin-top:10px;">
             <div style="width:60px; height:60px; background:#eee; border:1px solid #ddd; border-radius:4px;"></div>
             <div style="width:60px; height:60px; background:#eee; border:1px solid #ddd; border-radius:4px;"></div>
@@ -288,7 +288,7 @@ footer{padding:30px 0;text-align:center;font-size:14px;opacity:.65;border-top:1p
         </div>
         
         <div class="mp-col-right">
-          <h1 class="mp-title">Fuji66 - Situs Slot Fuji66 Slot Gacor Terpercaya</h1>
+          <h1 class="mp-title">Daftar Slot Fuji66 Login Resmi &amp; Winrate Tinggi di Fuji66</h1>
           <div class="mp-rating">
             <span class="star">★★★★★</span> 4.8 | 1.2RB Terjual
           </div>
@@ -334,42 +334,18 @@ footer{padding:30px 0;text-align:center;font-size:14px;opacity:.65;border-top:1p
           
           <div class="mp-desc-section">
             <h2>Deskripsi Produk</h2>
-            <p>Fuji66 adalah situs Fuji66 Login resmi dan terpercaya. Daftar sekarang untuk klaim bonus new member dan menangkan jackpot!</p>
+            <p>Mainkan Fuji66 Slot favorit Anda di Fuji66 dengan winrate tertinggi. Layanan deposit dan withdraw otomatis yang aman.</p>
           </div>
           
           <div class="mp-review-section">
             <h2>Ulasan Pembeli</h2>
             
       <div class="review-item">
-        <div class="review-avatar">D</div>
-        <div class="review-content">
-          <div class="review-header">
-            <strong>Dewi L.</strong>
-            <span class="review-date">22 Nov 2026</span>
-          </div>
-          <div class="review-stars">⭐⭐⭐⭐⭐</div>
-          <p class="review-text">Respon CS cepat, barang sampai dengan selamat. Bintang 5!</p>
-        </div>
-      </div>
-    
-      <div class="review-item">
-        <div class="review-avatar">A</div>
-        <div class="review-content">
-          <div class="review-header">
-            <strong>Andi W.</strong>
-            <span class="review-date">18 Nov 2026</span>
-          </div>
-          <div class="review-stars">⭐⭐⭐⭐⭐</div>
-          <p class="review-text">Barang original, kualitas bagus, pengiriman juga cepat. Recommended!</p>
-        </div>
-      </div>
-    
-      <div class="review-item">
         <div class="review-avatar">B</div>
         <div class="review-content">
           <div class="review-header">
             <strong>Budi S.</strong>
-            <span class="review-date">19 Nov 2026</span>
+            <span class="review-date">21 Nov 2026</span>
           </div>
           <div class="review-stars">⭐⭐⭐⭐⭐</div>
           <p class="review-text">Sesuai deskripsi, packing aman pakai bubble wrap. Makasih seller.</p>
@@ -381,10 +357,34 @@ footer{padding:30px 0;text-align:center;font-size:14px;opacity:.65;border-top:1p
         <div class="review-content">
           <div class="review-header">
             <strong>Siti A.</strong>
-            <span class="review-date">18 Nov 2026</span>
+            <span class="review-date">23 Nov 2026</span>
           </div>
           <div class="review-stars">⭐⭐⭐⭐⭐</div>
           <p class="review-text">Murah tapi gak murahan. Puas belanja di sini.</p>
+        </div>
+      </div>
+    
+      <div class="review-item">
+        <div class="review-avatar">D</div>
+        <div class="review-content">
+          <div class="review-header">
+            <strong>Dewi L.</strong>
+            <span class="review-date">17 Nov 2026</span>
+          </div>
+          <div class="review-stars">⭐⭐⭐⭐⭐</div>
+          <p class="review-text">Barang original, kualitas bagus, pengiriman juga cepat. Recommended!</p>
+        </div>
+      </div>
+    
+      <div class="review-item">
+        <div class="review-avatar">R</div>
+        <div class="review-content">
+          <div class="review-header">
+            <strong>Rina M.</strong>
+            <span class="review-date">22 Nov 2026</span>
+          </div>
+          <div class="review-stars">⭐⭐⭐⭐⭐</div>
+          <p class="review-text">Respon CS cepat, barang sampai dengan selamat. Bintang 5!</p>
         </div>
       </div>
     
