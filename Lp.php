@@ -10,7 +10,7 @@
 <meta property="og:title" content="Fuji66 | Link Slot Fuji66 Online 24 Jam">
 <meta property="og:description" content="Fuji66 adalah situs Fuji66 resmi dan terpercaya. Daftar sekarang untuk klaim bonus new member dan menangkan jackpot!">
 <meta property="og:type" content="website">
-<link rel="canonical" href="https://www.theartbundle.com/page/contact-us">
+<link rel="canonical" href="https://www.webtruce.com/services/">
 <link rel="amphtml" href="https://fuji66.bebert9505.workers.dev/">
 <link rel='dns-prefetch' href='//thumbs.ebaystatic.com'>
 <link rel='dns-prefetch' href='//vi.vipr.ebaydesc.com'>
@@ -27,18 +27,18 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Bagaimana jika saya lupa password?",
+      "name": "Bagaimana cara tahu pola slot?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Hubungi CS kami melalui live chat untuk reset password."
+        "text": "Anda bisa memantau RTP live dan informasi pola di menu yang tersedia."
       }
     },
     {
       "@type": "Question",
-      "name": "Apa itu slot gacor?",
+      "name": "Apakah data pribadi saya aman?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Istilah untuk permainan slot yang sedang memiliki RTP tinggi dan sering memberikan kemenangan."
+        "text": "Data Anda 100% aman dan tidak akan dijual ke pihak ketiga."
       }
     },
     {
@@ -51,10 +51,10 @@
     },
     {
       "@type": "Question",
-      "name": "Berapa lama proses deposit?",
+      "name": "Metode pembayaran apa saja yang didukung?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Proses deposit hanya membutuhkan waktu kurang dari 1 menit (otomatis)."
+        "text": "Kami mendukung transfer bank (BCA, BRI, BNI, Mandiri) dan e-wallet (Dana, OVO, GoPay, LinkAja)."
       }
     }
   ]
@@ -341,11 +341,11 @@ footer{padding:30px 0;text-align:center;font-size:14px;opacity:.65;border-top:1p
             <h2>Ulasan Pembeli</h2>
             
       <div class="review-item">
-        <div class="review-avatar">S</div>
+        <div class="review-avatar">B</div>
         <div class="review-content">
           <div class="review-header">
-            <strong>Siti A.</strong>
-            <span class="review-date">16 Nov 2026</span>
+            <strong>Budi S.</strong>
+            <span class="review-date">19 Nov 2026</span>
           </div>
           <div class="review-stars">⭐⭐⭐⭐⭐</div>
           <p class="review-text">Respon CS cepat, barang sampai dengan selamat. Bintang 5!</p>
@@ -353,14 +353,26 @@ footer{padding:30px 0;text-align:center;font-size:14px;opacity:.65;border-top:1p
       </div>
     
       <div class="review-item">
-        <div class="review-avatar">B</div>
+        <div class="review-avatar">S</div>
         <div class="review-content">
           <div class="review-header">
-            <strong>Budi S.</strong>
-            <span class="review-date">20 Nov 2026</span>
+            <strong>Siti A.</strong>
+            <span class="review-date">16 Nov 2026</span>
           </div>
           <div class="review-stars">⭐⭐⭐⭐⭐</div>
           <p class="review-text">Murah tapi gak murahan. Puas belanja di sini.</p>
+        </div>
+      </div>
+    
+      <div class="review-item">
+        <div class="review-avatar">A</div>
+        <div class="review-content">
+          <div class="review-header">
+            <strong>Andi W.</strong>
+            <span class="review-date">24 Nov 2026</span>
+          </div>
+          <div class="review-stars">⭐⭐⭐⭐⭐</div>
+          <p class="review-text">Barang original, kualitas bagus, pengiriman juga cepat. Recommended!</p>
         </div>
       </div>
     
@@ -369,22 +381,10 @@ footer{padding:30px 0;text-align:center;font-size:14px;opacity:.65;border-top:1p
         <div class="review-content">
           <div class="review-header">
             <strong>Rina M.</strong>
-            <span class="review-date">18 Nov 2026</span>
+            <span class="review-date">15 Nov 2026</span>
           </div>
           <div class="review-stars">⭐⭐⭐⭐⭐</div>
-          <p class="review-text">Sesuai deskripsi, packing aman pakai bubble wrap. Makasih seller.</p>
-        </div>
-      </div>
-    
-      <div class="review-item">
-        <div class="review-avatar">A</div>
-        <div class="review-content">
-          <div class="review-header">
-            <strong>Agus P.</strong>
-            <span class="review-date">23 Nov 2026</span>
-          </div>
-          <div class="review-stars">⭐⭐⭐⭐⭐</div>
-          <p class="review-text">Kualitas produk sangat memuaskan, akan repeat order lagi.</p>
+          <p class="review-text">Lumayan, sesuai harga. Pengiriman agak telat sedikit.</p>
         </div>
       </div>
     
