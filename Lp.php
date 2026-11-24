@@ -1,87 +1,3 @@
-⚡ LPBuilder SEO Edition
-1. Nama Brand
-Fuji66
-2. Keyword Target (Bisa lebih dari satu)
-Fuji66, Fuji66 Slot, Fuji66 Daftar, Fuji66 Login
-Pisahkan dengan koma (,). Sistem memilih acak untuk teks.
-3. Judul (auto)
-Fuji66 | Link Slot Fuji66 Online 24 Jam
-↻
-4. Deskripsi (Meta)
-Mainkan Fuji66 favorit Anda di Fuji66 dengan winrate tertinggi. Layanan deposit dan withdraw otomatis yang aman.
-✨ Generate Deskripsi
-5. Harga (Opsional)
-15000
-
-IDR (Rp)
-6. Deskripsi Garansi (Opsional)
-Garansi Resmi 1 Tahun
-7. URL Logo (Opsional)
-https://i.ibb.co.com/NgqWRR9h/Logo.png
-8. URL Gambar Produk / Banner
-https://i.ibb.co.com/cK4xDrPQ/e3c22658-9b4e-4d51-bc53-576425432e8b.png
-9. URL SEO (Opsional)
-https://adaktradeeffort.com/public/contact/
- 
-https://fuji66.bebert9505.workers.dev/
-10. URL Login & Register
-https://fuji66tigabelas.com/
-https://fuji66tigabelas.com/
-11. Jenis Bisnis
-
-Situs Slot
-12. Tipe CTA
-
-Tombol Login & Register
-13. Bahasa
-
-Indonesia
-14. Pilih Template & Layout (38)
-Modern Blue
-Sunset Orange
-Forest Green
-Royal Purple
-Midnight Dark
-Rose Pink
-Ocean Teal
-Amber Gold
-Slate Alternating
-Cherry ZigZag
-Mint Alternating
-Lavender Split
-Coral Alternating
-Sky Blue Split
-Coffee ZigZag
-Neon List
-Indigo List
-Peach List
-Cyberpunk List
-Minimal White
-Elegant List
-Nordic List
-Autumn List
-Sea Salt Text
-Berry Text
-Gold Text
-Emerald Text
-Crimson Text
-Mono Text
-Gradient Text
-Etsy Clone
-Shopee Orange
-Tokped Green
-Lazada Blue
-Amazon Dark
-Blibli Blue
-Bukalapak Red
-AliExpress Red
-⬇ Download HTML
-⬇ Download AMP HTML
-📋 Copy Kode AMP
-👁 Live Preview
-HTML Code
-AMP Code
-Refresh (Acak Fitur & FAQ)
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -379,8 +295,8 @@ footer{padding:30px 0;text-align:center;font-size:14px;opacity:.65;border-top:1p
           
           
         <div class="mp-price-box">
-          <span class="mp-price-current">Rp 15.000</span>
-          <span class="mp-price-old">Rp 30.000</span>
+          <span class="mp-price-current">Rp 15.000</span>
+          <span class="mp-price-old">Rp 30.000</span>
           <span class="mp-discount">-50%</span>
         </div>
           
@@ -482,4 +398,3 @@ footer{padding:30px 0;text-align:center;font-size:14px;opacity:.65;border-top:1p
     </footer>
 </body>
 </html>
-File HTML berhasil diunduh
