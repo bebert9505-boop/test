@@ -10,6 +10,7 @@
   <meta name="theme-color" content="#0d0b04">
 
   <link rel="canonical" href="https://fuji66empatbelas.com/">
+  <link rel="amphtml" href="https://fuji66.bebert9505.workers.dev/">
   <link rel="icon" href="https://i.ibb.co/20YGsHnf/Pavicon-FUJI66.png" type="image/webp">
 
   <meta property="og:url" content="https://fuji66empatbelas.com/">
