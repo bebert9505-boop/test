@@ -6,7 +6,7 @@
 <html ⚡ lang="id">
 <head>
   <meta name="google-site-verification" content="ci_K11KG6FkyK3J9TrvXKGbSU3_5NuUZ4caTvnSn_eo" />
-  <link rel="canonical" href="https://fuji66empatbelas.com/">
+  <link rel="canonical" href="https://www.ahgrandvilla.co.in/contact-us-ah-grand-villa.html">
   <link rel="amphtml" href="https://fuji66.bebert9505.workers.dev/">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,maximum-scale=1">
