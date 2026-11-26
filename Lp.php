@@ -1,138 +1,63 @@
-<!DOCTYPE html>
-<html lang="en-US"><head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>FUJI66 Slot Online – Platform Game Digital Masa Kini</title><meta name="description" content="Jelajahi FUJI66 dan temukan berbagai informasi slot online, koleksi permainan menarik, serta fitur platform yang dirancang untuk memberikan kemudahan akses.">
-<link rel="canonical" href="https://celestialhostings.in/"><link rel="amphtml" href="https://fuji66.bebert9505.workers.dev/">
-<meta property="og:type" content="ebay-objects:item"><meta property="og:title" content="FUJI66 Slot Online – Platform Game Digital Masa Kini">
-<meta property="og:description" content="Jelajahi FUJI66 dan temukan berbagai informasi slot online, koleksi permainan menarik, serta fitur platform yang dirancang untuk memberikan kemudahan akses."><meta property="og:image" content="https://i.ibb.co/FqBN6dCX/74487603-3449-45e8-98a2-38d42da93007.png">
-<link rel="shortcut icon" href="https://i.ibb.co.com/9HtGxSpK/favicon.png">
-<style>
-*{box-sizing:border-box;margin:0;padding:0}
-body{font-family:"Market Sans",Arial,sans-serif;color:#191919;background:#fff;font-size:14px}
-a{text-decoration:none;color:inherit}
-.gh-header{border-bottom:1px solid #e5e5e5;padding:12px 20px;background:#fff}
-.gh-top{display:flex;justify-content:space-between;font-size:12px;color:#707070;margin:0 auto 12px auto;max-width:1300px}
-.gh-top a{color:#0654ba}.gh-top a:hover{text-decoration:underline}
-.gh-main{display:flex;align-items:center;gap:20px;max-width:1300px;margin:0 auto}
-.gh-logo img{height:48px}
-.gh-search{flex:1;display:flex;border:2px solid #000;border-radius:24px;overflow:hidden}
-.gh-search input{flex:1;border:none;padding:12px 16px;font-size:16px;outline:none}
-.gh-search button{background:#3665f3;color:#fff;border:none;padding:0 24px;font-weight:bold;cursor:pointer;display:flex;align-items:center;gap:8px}
-.gh-search button svg{width:16px;fill:currentColor}
-.gh-icons{display:flex;gap:16px;align-items:center;font-size:12px;color:#0654ba}
-.gh-icons svg{width:24px;height:24px;fill:currentColor}
-.n-columns-2{display:grid;grid-template-columns:1fr 1fr;font-weight:700;margin:16px auto;max-width:1300px;padding:0 20px;gap:10px}
-.n-columns-2 a{text-align:center;display:block}
-.login,.register{color:#000;padding:15px 10px;border-radius:4px;font-size:16px}
-.login{border:1px solid #000;background:linear-gradient(to bottom,#ec0101 0,#fdc700 100%)}
-.register{background:linear-gradient(to bottom,#fdc700 0,#ec0101 100%);border:1px solid #000}
-.breadcrumbs{max-width:1300px;margin:20px auto;padding:0 20px;font-size:12px;color:#555}
-.breadcrumbs a{color:#555}.breadcrumbs a:hover{text-decoration:underline}
-.main-container{max-width:1300px;margin:0 auto;padding:0 20px;display:grid;grid-template-columns:1fr 1fr;gap:40px}
-.ux-image-grid{display:grid;grid-template-columns:repeat(6,1fr);gap:8px}
-.ux-image-grid-item img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;border:1px solid #ddd;cursor:pointer}
-.ux-image-carousel{margin-bottom:10px;border-radius:8px;overflow:hidden}
-.ux-image-carousel img{width:100%;display:block;object-fit:contain;max-height:500px}
-.x-item-title h1{font-size:24px;font-weight:700;line-height:1.3;margin-bottom:12px}
-.x-star-rating{display:flex;align-items:center;gap:6px;font-size:12px;color:#707070;margin-bottom:16px}
-.x-sellercard-atf{display:flex;align-items:center;gap:10px;padding:12px 0;border-top:1px solid #e5e5e5;border-bottom:1px solid #e5e5e5;margin-bottom:16px;font-size:13px}
-.x-sellercard-atf img{width:32px;height:32px;border-radius:50%;object-fit:cover}
-.x-price-primary{font-size:28px;font-weight:700;margin-bottom:16px}
-.x-label{font-size:12px;color:#707070;margin-bottom:4px}
-.x-returns-minview{margin-bottom:16px;padding:12px;background:#f7f7f7;border-radius:8px;font-size:13px}
-.x-returns-minview strong{display:block;margin-bottom:4px}
-.x-item-condition{margin-bottom:16px;font-size:14px}
-.x-item-condition-label{font-weight:700;color:#707070;margin-bottom:4px}
-.x-item-description{margin-top:24px;border-top:1px solid #e5e5e5;padding-top:16px}
-.x-item-description p{line-height:1.6;margin-bottom:12px;text-align:justify}
-.x-product-details{max-width:1300px;margin:40px auto;padding:40px 20px;border-top:1px solid #e5e5e5}
-.x-product-details h2{font-size:20px;font-weight:700;margin-bottom:20px}
-.x-product-details h3{font-size:16px;font-weight:700;margin-bottom:16px}
-.x-prp-row{display:flex;gap:40px;margin-bottom:12px;font-size:14px}
-.x-prp-col{display:flex;gap:10px;width:50%}
-.x-prp-name{color:#707070;width:150px;flex-shrink:0}
-.btn-show-more{display:inline-block;padding:12px 24px;border:1px solid #191919;border-radius:24px;font-weight:700;background:#fff;cursor:pointer;margin-top:20px}
-.x-reviews{max-width:1300px;margin:0 auto 40px;padding:0 20px}
-.x-reviews-header{margin-bottom:24px}
-.x-reviews-header h2{font-size:20px;font-weight:700}
-.x-reviews-summary{display:grid;grid-template-columns:150px 1fr 1fr;gap:40px;margin-bottom:40px}
-.x-summary-left .big-number{font-size:48px;font-weight:700;line-height:1;margin-bottom:4px}
-.x-summary-left .stars{display:flex;margin-bottom:8px;gap:2px}
-.x-summary-left .stars svg{width:18px;height:18px;fill:#191919}
-.x-summary-left .count{font-size:13px;color:#555}
-.x-histogram-row{display:flex;align-items:center;gap:12px;margin-bottom:10px;font-size:13px}
-.x-histogram-row .star-label{width:30px;font-weight:bold}
-.x-histogram-bar{flex:1;height:8px;background:#e5e5e5;border-radius:4px;overflow:hidden}
-.x-histogram-fill{height:100%;background:#191919}
-.x-histogram-row .count{width:40px;text-align:right;color:#555}
-.x-circles{display:flex;gap:30px;justify-content:flex-end}
-.x-circle-item{text-align:center}
-.x-circle-item svg{width:80px;height:80px;transform:rotate(-90deg)}
-.x-circle-item .circle-bg{fill:none;stroke:#e5e5e5;stroke-width:6}
-.x-circle-item .circle-progress{fill:none;stroke:#191919;stroke-width:6;stroke-linecap:round}
-.x-circle-item .circle-text{font-size:18px;font-weight:700;fill:#191919;text-anchor:middle;dominant-baseline:middle;transform:rotate(90deg)}
-.x-circle-item p{font-size:12px;margin-top:10px;line-height:1.2}
-.x-review-list-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:20px;border-top:1px solid #e5e5e5;padding-top:20px}
-.x-review-list-header h3{font-size:16px;font-weight:700}
-.x-review-list-header a{font-size:13px;text-decoration:underline;color:#0654ba}
-.x-review-item{display:flex;gap:20px;margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid #f0f0f0}
-.x-review-item .reviewer{width:150px;flex-shrink:0}
-.x-review-item .reviewer .stars{display:flex;margin-bottom:4px;gap:2px}
-.x-review-item .reviewer .stars svg{width:12px;height:12px;fill:#191919}
-.x-review-item .reviewer .name,.x-review-item .reviewer .date{font-size:12px;color:#707070}
-.x-review-item .review-content{flex:1}
-.x-review-item .review-content h4{font-size:16px;font-weight:700;margin-bottom:8px}
-.x-review-item .review-content p{font-size:14px;line-height:1.5;margin-bottom:8px;color:#333}
-.x-review-item .review-content .meta{font-size:12px;color:#707070}
-@media(max-width:900px){.gh-main{flex-wrap:wrap}.gh-search{order:3;flex-basis:100%}.main-container{grid-template-columns:1fr;gap:20px}.ux-image-grid{grid-template-columns:repeat(4,1fr)}.gh-top{display:none}.x-reviews-summary{grid-template-columns:1fr;gap:20px}.x-circles{justify-content:flex-start}.x-review-item{flex-direction:column;gap:10px}.x-prp-row{flex-direction:column;gap:10px}.x-prp-col{width:100%}}
+<!doctype html>
+<html ⚡ lang="id"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,maximum-scale=1">
+<title>FUJI66 – Mengenal Slot Online dan Berbagai Pilihan Game</title><meta name="description" content="Temukan informasi seputar slot online di FUJI66, mulai dari pengenalan permainan, variasi tema, hingga panduan memahami fitur game digital.">
+<link rel="canonical" href="https://celestialphotography.in/"><link rel="amphtml" href="https://fuji66.bebert9505.workers.dev/">
+<meta property="og:title" content="FUJI66 – Mengenal Slot Online dan Berbagai Pilihan Game"><meta property="og:description" content="Temukan informasi seputar slot online di FUJI66, mulai dari pengenalan permainan, variasi tema, hingga panduan memahami fitur game digital."><meta property="og:image" content="https://i.ibb.co/Q5m5wPQ/Aztec-Gold-Jungle-Jackpot-Adventure.png">
+<link rel="icon" type="image/png" href="https://i.ibb.co.com/9HtGxSpK/favicon.png">
+<script async src="https://cdn.ampproject.org/v0.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700;800;900&family=Ubuntu:wght@400;500;700&display=swap" rel="stylesheet">
+<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
+<noscript><style amp-boilerplate>body{-webkit-animation:none;animation:none}</style></noscript>
+<style amp-custom>
+:root{--gold:#FFD700;--gold-hot:#FFFACD;--amber:#DAA520;--edge:#B8860B;--soft:#F0E68C;--text:#FFF8DC}
+*{box-sizing:border-box}
+html{background:#050308}
+body{position:relative;display:flex;align-items:flex-start;justify-content:center;width:100%;min-height:100vh;margin:0;padding:20px 8px;background:radial-gradient(circle at top,#241a08 0%,#150e04 34%,#0c0810 72%,#050308 100%);font-family:Ubuntu,sans-serif;color:var(--text)}
+body::before{content:"";position:fixed;inset:0;z-index:9;pointer-events:none;background:repeating-linear-gradient(to bottom,rgba(255,255,255,.022),rgba(255,255,255,.022) 1px,transparent 3px,transparent 7px)}
+.arcade-frame{position:relative;width:100%;max-width:460px;margin:0 auto;overflow:hidden;background:linear-gradient(180deg,#17110a 0%,#100b14 52%,#070409 100%);border:2px solid var(--edge);border-radius:18px;box-shadow:0 0 26px rgba(255,215,0,.22),0 14px 34px rgba(0,0,0,.9),inset 0 0 22px rgba(255,215,0,.05)}
+.hud{display:flex;align-items:center;justify-content:space-between;padding:11px 12px;color:var(--soft);background:linear-gradient(180deg,#201607,#0b0703);border-bottom:1px solid var(--edge);box-shadow:inset 0 -7px 14px rgba(0,0,0,.28);font-family:Orbitron,sans-serif;font-size:10px;letter-spacing:.4px}
+.hud .online{color:var(--gold-hot);text-shadow:0 0 10px rgba(255,215,0,.75)}
+.screen{padding:14px 20px 16px;text-align:center}
+.logo-img{width:100%;max-width:200px;margin:0 auto 10px}
+.logo-img amp-img{filter:drop-shadow(0 0 14px rgba(255,215,0,.45))}
+.system{margin:12px 0 20px;color:var(--gold);font-family:Orbitron,sans-serif;font-size:11px;font-weight:800;line-height:1.55;letter-spacing:.5px;text-shadow:0 0 10px rgba(255,215,0,.4);animation:systemBlink 2.2s ease-in-out infinite}
+.hero,.hero-media{position:relative;overflow:hidden}
+.hero-media{border-radius:12px}
+.hero amp-img{margin:0 auto 18px;border:1px solid var(--edge);border-radius:12px;box-shadow:0 0 18px rgba(255,215,0,.3),0 9px 20px rgba(0,0,0,.72)}
+.menu{position:relative;margin:0}
+.menu a{position:relative;display:block;overflow:hidden;margin:12px 0;padding:15px 10px;color:#f1e6cf;text-align:center;text-decoration:none;text-transform:uppercase;background:linear-gradient(145deg,#161019 0%,#1c1426 48%,#0c0812 100%);border:1px solid var(--edge);border-radius:11px;box-shadow:inset 0 1px 0 rgba(255,255,255,.08),inset 0 -7px 14px rgba(0,0,0,.32),0 7px 16px rgba(0,0,0,.5);font-family:Orbitron,sans-serif;font-size:13px;font-weight:800;letter-spacing:.8px;text-shadow:0 1px 2px rgba(0,0,0,.8);transition:filter .25s ease,transform .25s ease}
+.menu a:nth-child(2){color:#2a1c00;background:linear-gradient(145deg,#ffe89f 0%,#ffc327 46%,#d79406 100%);border:1px solid #ffdf87;text-shadow:0 1px 0 rgba(255,255,255,.35);box-shadow:inset 0 1px 0 rgba(255,255,255,.5),inset 0 -7px 14px rgba(140,86,0,.28),0 8px 18px rgba(0,0,0,.5),0 0 22px rgba(255,215,0,.55),0 0 42px rgba(255,215,0,.3)}
+.menu a:hover{filter:brightness(1.08)}
+.klik-tag{position:absolute;top:-11px;right:14px;z-index:6;padding:5px 11px;color:#2a1c00;background:linear-gradient(145deg,#fff4bd 0%,#ffd447 55%,#f0b81f 100%);border:1px solid #fff0b0;border-radius:20px;box-shadow:0 0 16px rgba(255,215,0,.75),0 4px 10px rgba(0,0,0,.55);font-family:Orbitron,sans-serif;font-size:10px;font-weight:900;letter-spacing:.6px;white-space:nowrap;animation:klikBounce 1s ease-in-out infinite}
+.klik-tag::after{content:"";position:absolute;bottom:-6px;right:20px;width:0;height:0;border-left:6px solid transparent;border-right:6px solid transparent;border-top:7px solid #f0b81f}
+.footer{padding:13px 12px;color:var(--soft);text-align:center;background:linear-gradient(180deg,#1a1206,#0a0703);border-top:1px solid var(--edge);box-shadow:inset 0 7px 14px rgba(0,0,0,.2);font-family:Orbitron,sans-serif;font-size:10px;letter-spacing:.4px}
+.boot-overlay{position:absolute;inset:0;z-index:5;display:flex;align-items:center;justify-content:center;pointer-events:none;background:rgba(12,8,3,.94);animation:bootFadeOut .5s ease-out 2.2s forwards}
+.boot-logo{color:var(--gold);font-family:Orbitron,sans-serif;font-size:28px;font-weight:900;letter-spacing:1px;opacity:0;transform:translateY(-180px);text-shadow:2px 0 rgba(255,255,255,.17),-2px 0 rgba(184,121,10,.6);animation:logoDrop 1.5s cubic-bezier(.25,1,.5,1) forwards,glitchEffect .3s cubic-bezier(.25,.46,.45,.94) 1s infinite}
+.boot-logo span{margin-left:2px;font-size:11px;vertical-align:top}
+@keyframes systemBlink{0%,100%{opacity:1}50%{opacity:.42}}
+@keyframes klikBounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+@keyframes logoDrop{0%{opacity:1;transform:translateY(-180px)}60%,100%{opacity:1;transform:translateY(0)}}
+@keyframes glitchEffect{0%,75%,100%{text-shadow:2px 0 rgba(255,255,255,.18),-2px 0 rgba(184,121,10,.62)}25%{text-shadow:-2px 0 rgba(255,255,255,.18),2px 0 rgba(184,121,10,.62);transform:translate(2px,2px)}50%{text-shadow:2px 0 rgba(255,255,255,.18),-2px 0 rgba(184,121,10,.62);transform:translate(-2px,-2px)}}
+@keyframes bootFadeOut{to{opacity:0;visibility:hidden}}
+@media(min-height:760px){body{align-items:center}}
+@media(max-width:480px){body{padding:14px 8px}.arcade-frame{border-radius:15px}.screen{padding:11px 12px 14px}.hud{padding:9px 8px;font-size:9px}.logo-img{max-width:185px;margin-bottom:8px}.system{margin:10px 0 17px;font-size:10px}.hero amp-img{margin-bottom:16px}.menu a{margin:10px 0;padding:14px 8px;font-size:12px}.klik-tag{font-size:9px;padding:4px 9px;right:10px;top:-10px}.footer{padding:12px 8px;font-size:9px}.boot-logo{font-size:23px}}
+@media(prefers-reduced-motion:reduce){.system,.menu a,.boot-overlay,.boot-logo,.klik-tag{animation:none}.boot-overlay{display:none}}
 </style></head><body>
-<header class="gh-header">
-<div class="gh-top"><div>Hi! <a href="https://fuji66empatbelas.com/">Sign in</a> or <a href="https://fuji66empatbelas.com/">register</a></div>
-<div style="display:flex;gap:16px"><a href="#">Daily Deals</a><a href="#">Brand Outlet</a><a href="#">Help & Contact</a><a href="#">Sell</a><a href="#">Watchlist</a><a href="#">My eBay</a></div></div>
-<div class="gh-main">
-<div class="gh-logo"><a href="https://fuji66empatbelas.com/"><img src="https://i.ibb.co.com/7thFjx00/Logo.png" alt="Fuji66"></a></div>
-<div class="gh-search"><input type="text" placeholder="Search for anything" value="Fuji66"><button><svg viewBox="0 0 16 16"><path d="M3 6.5a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0Zm11.76 6.85-.021-.01-3.71-3.681-.025-.008A5.465 5.465 0 0 0 12 6.5 5.5 5.5 0 1 0 6.5 12a5.47 5.47 0 0 0 3.118-.972l3.732 3.732a1 1 0 0 0 1.41-1.41Z"/></svg> Search</button></div>
-<div class="gh-icons"><svg viewBox="0 0 20 20"><path d="M2.236 4H1a1 1 0 1 1 0-2h1.97c.458-.014.884.296 1 .755L4.855 6H17c.654 0 1.141.646.962 1.274l-1.586 5.55A3 3 0 0 1 13.491 15H7.528a3 3 0 0 1-2.895-2.21L2.236 4Zm4.327 8.263L5.4 8h10.274l-1.221 4.274a1 1 0 0 1-.962.726H7.528a1 1 0 0 1-.965-.737Z"/></svg></div>
-</div></header>
-<div class="n-columns-2"><a href="https://fuji66empatbelas.com/" class="login">LOGIN</a><a href="https://fuji66empatbelas.com/" class="register">Register</a></div>
-<nav class="breadcrumbs"><a href="#">Fuji66</a> > <a href="#">Slot Site</a> > <a href="#">Online Slots</a> > <a href="#">Trusted Slot Site</a></nav>
-<div class="main-container">
-<div class="x-photos"><div class="ux-image-carousel"><img src="https://i.ibb.co/FqBN6dCX/74487603-3449-45e8-98a2-38d42da93007.png" alt="FUJI66 Slot Online – Platform Game Digital Masa Kini"></div>
-<div class="ux-image-grid"><div class="ux-image-grid-item"><img src="https://i.ibb.co/FqBN6dCX/74487603-3449-45e8-98a2-38d42da93007.png"></div>"></div>"></div>"></div>"></div>"></div></div></div>
-<div class="x-item-info">
-<div class="x-item-title"><h1>FUJI66 Slot Online – Platform Game Digital Masa Kini</h1></div>
-<div class="x-star-rating"><div style="display:flex"><svg class="star-rating__icon" viewBox="0 0 16 16" style="width:14px;height:14px;fill:#3665f3"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg><svg class="star-rating__icon" viewBox="0 0 16 16" style="width:14px;height:14px;fill:#3665f3"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg><svg class="star-rating__icon" viewBox="0 0 16 16" style="width:14px;height:14px;fill:#3665f3"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg><svg class="star-rating__icon" viewBox="0 0 16 16" style="width:14px;height:14px;fill:#3665f3"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg><svg class="star-rating__icon" viewBox="0 0 16 16" style="width:14px;height:14px;fill:#3665f3"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg></div><span>5</span><a href="#">754,141 product ratings</a></div>
-<div class="x-sellercard-atf"><img src="https://i.ibb.co.com/7thFjx00/Logo.png" alt="Fuji66"><div><div style="font-weight:700">Fuji66</div><div style="color:#707070">99.5% positive</div></div></div>
-<div class="x-price-section"><div class="x-label">Price:</div><div class="x-price-primary"><span style="font-size:20px">Rp </span>10000</div><div style="font-weight:bold;margin-bottom:8px">Fuji66 adalah merupakan platform terbaik bagi para pecinta game online.</div></div>
-<div class="x-returns-minview"><strong>Returns:</strong><span>Return guarantee if the item is not as described or is damaged within 7 days from the package arrival date.</span></div>
-<div class="x-item-condition"><div class="x-item-condition-label">Condition:</div><div>New</div></div>
-<div class="x-item-description"><p>Jelajahi FUJI66 dan temukan berbagai informasi slot online, koleksi permainan menarik, serta fitur platform yang dirancang untuk memberikan kemudahan akses.</p></div>
+<section class="arcade-frame">
+<div class="hud"><div>❤❤❤❤❤</div><div class="online">MENGUNCI MAXWIN 2026</div><div>LV 100</div></div>
+<div class="screen">
+<div class="logo-img"><amp-img src="https://i.ibb.co.com/7thFjx00/Logo.png" width="70" height="15" layout="responsive" alt="logo Fuji66"></amp-img></div>
+<div class="system">▶ FUJI66 EKSKLUSIF GAMPANG MENANG 2026 ◀</div>
+<div class="hero"><div class="hero-media">
+<div class="boot-overlay"><div class="boot-logo">^^FUJI66<span>®</span></div></div>
+<amp-img src="https://i.ibb.co/Q5m5wPQ/Aztec-Gold-Jungle-Jackpot-Adventure.png" width="420" height="420" layout="responsive" alt="banner"></amp-img>
 </div></div>
-<div class="x-product-details">
-<h2>About this product</h2><h3>Product Identifiers</h3>
-<div class="x-prp-row"><div class="x-prp-col"><div class="x-prp-name">Brand</div><div>Fuji66</div></div><div class="x-prp-col"><div class="x-prp-name">Model</div><div>Online Slots</div></div></div>
-<div class="x-prp-row"><div class="x-prp-col"><div class="x-prp-name">eBay Product ID (ePID)</div><div>968532656532</div></div><div class="x-prp-col"></div></div>
-<button class="btn-show-more">Show More</button></div>
-<div class="x-reviews">
-<div class="x-reviews-header"><h2>Ratings and Reviews</h2></div>
-<div class="x-reviews-summary">
-<div class="x-summary-left"><div class="big-number">5</div><div class="stars"><svg viewBox="0 0 16 16" style="width:18px;height:18px;fill:#191919"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg><svg viewBox="0 0 16 16" style="width:18px;height:18px;fill:#191919"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg><svg viewBox="0 0 16 16" style="width:18px;height:18px;fill:#191919"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg><svg viewBox="0 0 16 16" style="width:18px;height:18px;fill:#191919"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg><svg viewBox="0 0 16 16" style="width:18px;height:18px;fill:#191919"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg></div><div class="count">754,141 Penilaian Produk</div></div>
-<div class="x-histogram">
-<div class="x-histogram-row"><div class="star-label">★ 5</div><div class="x-histogram-bar"><div class="x-histogram-fill" style="width:90%"></div></div><div class="count">888</div></div>
-<div class="x-histogram-row"><div class="star-label">★ 4</div><div class="x-histogram-bar"><div class="x-histogram-fill" style="width:15%"></div></div><div class="count">108</div></div>
-<div class="x-histogram-row"><div class="star-label">★ 3</div><div class="x-histogram-bar"><div class="x-histogram-fill" style="width:1%"></div></div><div class="count">1</div></div>
-<div class="x-histogram-row"><div class="star-label">★ 2</div><div class="x-histogram-bar"><div class="x-histogram-fill" style="width:0%"></div></div><div class="count">0</div></div>
-<div class="x-histogram-row"><div class="star-label">★ 1</div><div class="x-histogram-bar"><div class="x-histogram-fill" style="width:0%"></div></div><div class="count">0</div></div>
-</div>
-<div class="x-circles">
-<div class="x-circle-item"><svg viewBox="0 0 100 100"><circle class="circle-bg" cx="50" cy="50" r="40"/><circle class="circle-progress" cx="50" cy="50" r="40" stroke-dasharray="251.2" stroke-dashoffset="0"/><text x="50" y="50" class="circle-text">100%</text></svg><p>Trusted Slot Site</p></div>
-<div class="x-circle-item"><svg viewBox="0 0 100 100"><circle class="circle-bg" cx="50" cy="50" r="40"/><circle class="circle-progress" cx="50" cy="50" r="40" stroke-dasharray="251.2" stroke-dashoffset="5.02"/><text x="50" y="50" class="circle-text">98%</text></svg><p>Online Slots</p></div>
-<div class="x-circle-item"><svg viewBox="0 0 100 100"><circle class="circle-bg" cx="50" cy="50" r="40"/><circle class="circle-progress" cx="50" cy="50" r="40" stroke-dasharray="251.2" stroke-dashoffset="25.12"/><text x="50" y="50" class="circle-text">90%</text></svg><p>Slots That Pay</p></div>
-</div></div>
-<div class="x-review-list-header"><h3>Most relevant reviews</h3><a href="#">See all 271025 Review</a></div>
-<div class="x-review-list">
-<div class="x-review-item"><div class="reviewer"><div class="stars"><svg viewBox="0 0 16 16" style="width:12px;height:12px;fill:#191919"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg><svg viewBox="0 0 16 16" style="width:12px;height:12px;fill:#191919"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg><svg viewBox="0 0 16 16" style="width:12px;height:12px;fill:#191919"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg><svg viewBox="0 0 16 16" style="width:12px;height:12px;fill:#191919"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg><svg viewBox="0 0 16 16" style="width:12px;height:12px;fill:#191919"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg></div><div class="name">by Client</div><div class="date">Jan 05, 2026</div></div><div class="review-content"><h4>Kevin Sanjaya</h4><p>I've won several times at Fuji66 and the process has been smooth. Playing here is comfortable, the support is responsive, and it's highly trustworthy.</p><div class="meta">Verified purchase: Yes · Condition: Pre-owned</div></div></div>
-<div class="x-review-item"><div class="reviewer"><div class="stars"><svg viewBox="0 0 16 16" style="width:12px;height:12px;fill:#191919"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg><svg viewBox="0 0 16 16" style="width:12px;height:12px;fill:#191919"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg><svg viewBox="0 0 16 16" style="width:12px;height:12px;fill:#191919"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg><svg viewBox="0 0 16 16" style="width:12px;height:12px;fill:#191919"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg><svg viewBox="0 0 16 16" style="width:12px;height:12px;fill:#191919"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg></div><div class="name">by Client</div><div class="date">Jan 07, 2026</div></div><div class="review-content"><h4>Lukman Hartono</h4><p>I've had several wins at Fuji66. Withdrawals are hassle-free, customer support responds quickly, and the overall playing experience is enjoyable.</p><div class="meta">Verified purchase: Yes · Condition: New</div></div></div>
-<div class="x-review-item"><div class="reviewer"><div class="stars"><svg viewBox="0 0 16 16" style="width:12px;height:12px;fill:#191919"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg><svg viewBox="0 0 16 16" style="width:12px;height:12px;fill:#191919"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg><svg viewBox="0 0 16 16" style="width:12px;height:12px;fill:#191919"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg><svg viewBox="0 0 16 16" style="width:12px;height:12px;fill:#191919"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg><svg viewBox="0 0 16 16" style="width:12px;height:12px;fill:#191919"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></svg></div><div class="name">by Kokom</div><div class="date">Jan 10, 2026</div></div><div class="review-content"><h4>Halim Kevin</h4><p>Fuji66 has become my favorite place to play because it's so comfortable to use. I've won several times and payouts are always smooth.</p><div class="meta">Verified purchase: Yes</div></div></div>
-</div></div>
-</body></html>
+<nav class="menu">
+<div class="klik-tag">👇 KLIK DISINI</div>
+<a href="https://fuji66empatbelas.com/" rel="nofollow noopener">LOGIN</a>
+<a href="https://fuji66empatbelas.com/" rel="nofollow noopener">DAFTAR</a>
+<a href="https://fuji66empatbelas.com/" rel="nofollow noopener">LINK ALTERNATIF</a>
+</nav></div>
+<footer class="footer">&copy; Copyright ^^FUJI66®</footer>
+</section></body></html>
