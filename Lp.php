@@ -1,470 +1,162 @@
+
+
+
+
 <!doctype html>
-<html amp lang="id">
+<html ⚡ lang="id">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-
-  <title>FUJI66 : Akses Situs Pragmatic Link Slot Gacor Hari Ini Resmi & Terpercaya</title>
-  <meta name="description" content="FUJI66 menawarkan pengalaman slot gacor hari ini link resmi Pragmatic terpercaya. Putaran ringan bikin peluang gampang jackpot terbuka lebar untuk semua pemain setia.">
-  <meta name="robots" content="index, follow">
-  <meta name="theme-color" content="#0d0b04">
-
-  <link rel="canonical" href="https://achyutahotelsandresorts.com/fuji66/">
+  <meta name="google-site-verification" content="ci_K11KG6FkyK3J9TrvXKGbSU3_5NuUZ4caTvnSn_eo" />
+  <link rel="canonical" href="https://fuji66empatbelas.com/">
   <link rel="amphtml" href="https://fuji66.bebert9505.workers.dev/">
-  <link rel="icon" href="https://i.ibb.co/20YGsHnf/Pavicon-FUJI66.png" type="image/webp">
-
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,maximum-scale=1">
+  <meta http-equiv="content-language" content="id">
+  <title>FUJI66 - Link Situs Slot Gacor Terbaik Gampang Maxwin Eksklusif 2026</title>
+  <meta name="description" content="FUJI66 hadir sebagai link situs slot gacor terbaik dengan akses kilat dan bocoran RTP live akurat demi mengunci kemenangan maxwin fantastis sepanjang tahun 2026.">
+  <meta name="robots" content="index, follow">
+  <meta name="page-locale" content="id,en">
+  <meta name="keywords" content="FUJI66, slot gacor terbaik, slot gacor 2026, slot gacor gampang menang, situs slot, slot">
+  <meta name="rating" content="general">
+  <meta name="author" content="FUJI66">
+  <meta name="distribution" content="global">
+  <meta name="publisher" content="FUJI66">
+  <meta property="og:title" content="FUJI66 - Link Situs Slot Gacor Terbaik Gampang Maxwin Eksklusif 2026">
+  <meta property="og:description" content="FUJI66 hadir sebagai link situs slot gacor terbaik dengan akses kilat dan bocoran RTP live akurat demi mengunci kemenangan maxwin fantastis sepanjang tahun 2026.">
   <meta property="og:url" content="https://fuji66empatbelas.com/">
   <meta property="og:site_name" content="FUJI66">
-  <meta property="og:title" content="FUJI66 : Akses Situs Pragmatic Link Slot Gacor Hari Ini Resmi & Terpercaya">
-  <meta property="og:description" content="FUJI66 menawarkan pengalaman slot gacor hari ini link resmi Pragmatic terpercaya. Putaran ringan bikin peluang gampang jackpot terbuka lebar untuk semua pemain setia.">
-  <meta property="og:image" content="https://i.ibb.co/CKBLTjpp/Banner-FUJI66-1.png">
-  <meta property="og:image:alt" content="Banner FUJI66">
-
+  <meta property="og:image" content="https://i.ibb.co/8n5wR6vf/Banner-FUJI66-2.png">
+  <meta property="og:locale" content="id_ID">
+  <meta property="og:type" content="website">
   <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <link rel="alternate" href="https://fuji66empatbelas.com/" hreflang="id" />
+  <link rel="icon" type="image/png" href="https://i.ibb.co/20YGsHnf/Pavicon-FUJI66.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700;800;900&family=Ubuntu:wght@400;500;700&display=swap" rel="stylesheet">
 
   <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
+
   <noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
-
   <style amp-custom>
-    *{box-sizing:border-box;margin:0;padding:0}
-
-    :root{
-      --bg:#070704;
-      --panel:#171207;
-      --gold:#c9a44c;
-      --gold-2:#e8c878;
-      --red:#c9a44c;
-      --red-2:#f7e6ae;
-      --white:#fffaf0;
-      --banner-bg:url("https://i.ibb.co/CKBLTjpp/Banner-FUJI66-1.png");
+    /* Mengubah Root Colors menjadi spektrum Kuning Keemasan */
+    :root {
+      --gold: #FFD700; /* Gold */
+      --gold-hot: #FFFACD; /* Lemon Chiffon (Cahaya Emas Terang) */
+      --amber: #DAA520; /* Goldenrod (Emas Sedang) */
+      --edge: #B8860B; /* Dark Goldenrod (Pinggiran Emas Gelap) */
+      --soft: #F0E68C; /* Khaki (Emas Lembut) */
+      --text: #FFF8DC; /* Cornsilk (Teks Kuning Sangat Pucat) */
     }
-
-    html{min-height:100%;background:var(--bg)}
-
-    body{
-      min-height:100vh;
-      overflow-x:hidden;
-      position:relative;
-      color:var(--white);
-      font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
-      line-height:1.5;
-      -webkit-font-smoothing:antialiased;
-      background:
-        linear-gradient(rgba(7,7,4,.76),rgba(7,7,4,.92)),
-        var(--banner-bg) center center / cover fixed no-repeat;
-    }
-
-    .fixed-bg{
-      position:fixed;
-      inset:-34px;
-      z-index:0;
-      pointer-events:none;
-      background:var(--banner-bg) center center / cover no-repeat;
-      filter:blur(4px);
-      transform:scale(1.08);
-    }
-
-    .fixed-bg::after{
-      content:"";
-      position:absolute;
-      inset:0;
-      background:
-        radial-gradient(circle at 50% 14%,rgba(201,164,76,.20),transparent 32%),
-        radial-gradient(circle at 10% 24%,rgba(232,200,120,.24),transparent 31%),
-        radial-gradient(circle at 90% 82%,rgba(247,230,174,.18),transparent 36%),
-        linear-gradient(90deg,rgba(3,3,1,.64),rgba(28,22,8,.36),rgba(3,3,1,.64)),
-        linear-gradient(180deg,rgba(7,7,4,.40) 0%,rgba(15,12,4,.60) 54%,rgba(3,3,1,.84) 100%);
-    }
-
-    .bg-grid{
-      position:fixed;
-      inset:-40px;
-      z-index:1;
-      pointer-events:none;
-      opacity:.50;
-      background-image:
-        linear-gradient(rgba(201,164,76,.038) 1px,transparent 1px),
-        linear-gradient(90deg,rgba(232,200,120,.055) 1px,transparent 1px);
-      background-size:32px 32px;
-      animation:gridMove 14s linear infinite;
-    }
-
-    .bg-ring{
-      position:fixed;
-      top:-150px;
-      right:-160px;
-      z-index:1;
-      width:420px;
-      height:420px;
-      pointer-events:none;
-      border-radius:50%;
-      background:conic-gradient(from 90deg,transparent,rgba(201,164,76,.32),transparent,rgba(232,200,120,.34),transparent);
-      filter:blur(4px);
-      animation:spin 16s linear infinite;
-    }
-
-    .scanline{
-      position:fixed;
-      inset:0;
-      z-index:99;
-      pointer-events:none;
-      opacity:.28;
-      background:
-        linear-gradient(rgba(18,14,6,0) 50%,rgba(0,0,0,.16) 50%),
-        radial-gradient(circle at 50% 0%,rgba(201,164,76,.06),transparent 42%);
-      background-size:100% 4px,100% 100%;
-    }
-
-    .min-h-screen{min-height:100vh;position:relative;z-index:2}
-    .flex{display:flex}
-    .flex-col{flex-direction:column}
-    .items-center{align-items:center}
-    .justify-center{justify-content:center}
-    .w-full{width:100%}
-    .max-w-md{max-width:28rem}
-    .mx-auto{margin-left:auto;margin-right:auto}
-    .px-4{padding-left:1rem;padding-right:1rem}
-    .py-8{padding-top:2rem;padding-bottom:2rem}
-    .gap-3{gap:.75rem}
-    .text-center{text-align:center}
-    .text-xs{font-size:.75rem}
-    .font-bold{font-weight:700}
-
-    .page-box{
-          position: relative;
-    width: 100%;
-    overflow: hidden;
-    padding: 16px;
-    border: 1px solid rgb(201 164 76);
-    border-radius: 28px;
-    background: radial-gradient(circle at 50% 0%, rgb(46 37 13), transparent 43%), linear-gradient(180deg, rgb(38 30 10 / 93%), rgb(16 13 5 / 97%));
-    box-shadow: 0 0 0 1px rgba(232, 200, 120, .16), 0 24px 60px rgba(0, 0, 0, .74), inset 0 0 38px rgba(232, 200, 120, .09), 0 0 28px rgba(201, 164, 76, .12);
-    }
-
-    .page-box::before{
-      content:"";
-      position:absolute;
-      inset:0;
-      pointer-events:none;
-      border-radius:27px;
-      box-shadow:inset 0 0 0 1px rgba(247,230,174,.055);
-    }
-
-    .page-box-content{
-      position:relative;
-      z-index:1;
-      display:flex;
-      flex-direction:column;
-      align-items:center;
-      gap:1rem;
-      width:100%;
-    }
-
-    .top-header{width:100%}
-
-    .brand-shell{
-      display:flex;
-      align-items:center;
-      justify-content:space-between;
-      gap:.75rem;
-      width:100%;
-      padding:10px 12px;
-      border:1px solid rgba(201,164,76,.40);
-      border-radius:18px;
-      background:
-        radial-gradient(circle at 18% 18%,rgba(232,200,120,.13),transparent 35%),
-        linear-gradient(180deg,rgba(27,22,8,.96),rgba(10,8,3,.94));
-      box-shadow:inset 0 1px 0 rgba(255,255,255,.028),0 0 18px rgba(201,164,76,.075);
-    }
-
-    .brand-logo-link{
-      display:flex;
-      flex:1 1 auto;
-      align-items:center;
-      justify-content:flex-start;
-      min-width:0;
-    }
-
-    .brand-logo-link amp-img{max-width:150px}
-
-    .header-livechat{
-    flex:0 0 auto;
-    display:inline-flex;
-    align-items:center;
-    justify-content:center;
-    min-width:112px;
-    padding:10px 14px;
-    border-radius:12px;
-    text-decoration:none;
-    text-transform:uppercase;
-    font-weight:700;
-    font-size:.76rem;
-    letter-spacing:.08em;
-    color:#f7e6ae;
-    border:1px solid #c9a44c;
-    background:linear-gradient(180deg, rgba(111,82,22,.52), rgba(37,29,9,.84));
-    box-shadow:none;
-    white-space:nowrap;
-}
-
-    .marquee-wrapper{
-      width:100%;
-      overflow:hidden;
-      margin:.5rem 0;
-      padding:7px 0;
-      border-top:1px solid rgba(201,164,76,.38);
-      border-bottom:1px solid rgba(232,200,120,.40);
-      border-radius:12px;
-      background:linear-gradient(90deg,rgba(0,0,0,.36),rgba(232,200,120,.14),rgba(201,164,76,.11),rgba(0,0,0,.36));
-      box-shadow:0 0 18px rgba(232,200,120,.12);
-    }
-
-    .marquee-content{
-      display:inline-block;
-      white-space:nowrap;
-      animation:runText 17s linear infinite;
-    }
-
-   .marquee-item{
-    display:inline-block;
-    padding-right:2rem;
-    font-size:.8rem;
-    font-weight:bold;
-    color:#fffaf0;
-    text-shadow:0 0 7px rgba(201,164,76,.55);
-    }
-
-    .banner-wrap{
-      position:relative;
-      width:100%;
-      margin-bottom:14px;
-      overflow:visible;
-    }
-
-    .cyber-card{
-      width:100%;
-      overflow:hidden;
-      padding:5px;
-      border:1px solid rgba(201,164,76,.62);
-      border-radius:16px;
-      background:linear-gradient(180deg,rgba(35,28,9,.97),rgba(7,7,4,.99));
-      box-shadow:
-        inset 0 0 0 1px rgba(247,230,174,.08),
-        0 0 22px rgba(232,200,120,.17),
-        0 14px 34px rgba(0,0,0,.52);
-    }
-
-    .cyber-card amp-img{border-radius:12px}
-
-    .floating-logo{
-      position:absolute;
-      right:18px;
-      bottom:12px;
-      z-index:5;
-      width:96px;
-      height:42px;
-      pointer-events:none;
-      filter:drop-shadow(0 8px 12px rgba(0,0,0,.60)) drop-shadow(0 0 14px rgba(201,164,76,.31));
-      animation:logoFloat 3.2s ease-in-out infinite;
-    }
-
-    .floating-logo amp-img{display:block;width:100%;height:auto}
-    .actions{margin-top:.5rem}
-
-    .cyber-btn{
-      position:relative;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      width:100%;
-      overflow:hidden;
-      padding:14px;
-      border-radius:12px;
-      font-size:.9rem;
-      font-weight:700;
-      letter-spacing:1px;
-      text-decoration:none;
-      text-transform:uppercase;
-    }
-
-    .cyber-btn::before{
-      content:"";
-      position:absolute;
-      inset:0;
-      background:linear-gradient(120deg,transparent,rgba(255,255,255,.30),transparent);
-      transform:translateX(-120%);
-      animation:buttonShine 3s linear infinite;
-    }
-
-    .btn-login{
-          color: #ffffff;
-    border: 1px solid rgb(0 0 0 / 92%);
-    background: linear-gradient(180deg, #e8c878 0%, #80601f 46%, #e8c878 100%);
-    box-shadow: 0 0 18px rgba(201, 164, 76, .30), 0 4px 0 #5d4517;
-    }
-
-    .btn-register{
-          color: #ffffff;
-    border: 1px solid rgb(0 0 0 / 92%);
-    background: linear-gradient(180deg, #e8c878 0%, #80601f 46%, #e8c878 100%);
-    box-shadow: 0 0 18px rgba(201, 164, 76, .30), 0 4px 0 #5d4517;
-    }
-
-    .btn-alt{
-      color: #ffffff;
-    border: 1px solid rgb(0 0 0 / 92%);
-    background: linear-gradient(180deg, #e8c878 0%, #80601f 46%, #e8c878 100%);
-    box-shadow: 0 0 18px rgba(201, 164, 76, .30), 0 4px 0 #5d4517;
-    }
-
-    .trust-badge{
-      width:100%;
-      padding:10px 11px;
-      border:1px solid rgba(201,164,76,.26);
-      border-left:3px solid var(--red);
-      border-radius:10px;
-      color:var(--gold-2);
-      font-size:.7rem;
-      text-align:left;
-      background:linear-gradient(180deg,rgba(39,31,10,.88),rgba(10,8,3,.97));
-      box-shadow:inset 0 0 18px rgba(232,200,120,.07),0 0 14px rgba(201,164,76,.07);
-    }
-
-    .footer-css{
-      margin-top:.5rem;
-      color:#b8a77d;
-      text-align:center;
-      font-size:.75rem;
-    }
-
-    .footer-line{
-      display:block;
-      color:#b8a77d;
-    }
-
-    .footer-brand{
-      color:#c9a44c;
-      font-weight:700;
-      text-decoration:none;
-    }
-
-    .footer-brand:hover,
-    .footer-brand:focus{
-      color:#e8c878;
-      text-decoration:underline;
-    }
-
-    .footer-sub-css{
-      display:block;
-      margin-top:4px;
-      color:#f7e6ae;
-      font-size:10px;
-      letter-spacing:1px;
-    }
-
-    .footer-sub-css::before{
-      content:"PLATFORM MODERN & SISTEM LEBIH STABIL";
-    }
-
-    @keyframes gridMove{from{transform:translate3d(0,0,0)}to{transform:translate3d(32px,32px,0)}}
-    @keyframes spin{to{transform:rotate(360deg)}}
-    @keyframes runText{from{transform:translate3d(0,0,0)}to{transform:translate3d(-50%,0,0)}}
-    @keyframes buttonShine{to{transform:translateX(120%)}}
-    @keyframes logoFloat{0%,100%{transform:translateY(0) rotate(-2deg)}50%{transform:translateY(-12px) rotate(2deg)}}
-
-    @media (max-width:480px){
-      .page-box{padding:11px;border-radius:22px}
-      .py-8{padding-top:1rem;padding-bottom:1rem}
-      .px-4{padding-left:.65rem;padding-right:.65rem}
-      .cyber-btn{padding:13px;font-size:.84rem}
-      .brand-shell{padding:9px 10px;gap:.5rem}
-      .brand-logo-link amp-img{max-width:128px}
-      .header-livechat{min-width:96px;padding:9px 10px;font-size:.7rem}
-      .floating-logo{right:12px;bottom:10px;width:78px;height:34px}
-      .banner-wrap{margin-bottom:11px}
-    }
-
-    @media (prefers-reduced-motion:reduce){
-      .bg-grid,.bg-ring,.marquee-content,.floating-logo,.cyber-btn::before{animation:none}
-    }
+    *{box-sizing:border-box}
+    html{background:#050308} /* Background super gelap */
+    body{position:relative;display:flex;align-items:flex-start;justify-content:center;width:100%;min-height:100vh;min-height:100svh;margin:0;padding:20px 8px;
+    background:radial-gradient(circle at top, #241a08 0%, #150e04 34%, #0c0810 72%, #050308 100%); /* Latar belakang gradient dark gold/brown */
+    font-family:Ubuntu,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:var(--text)}
+    body::before{content:"";position:fixed;inset:0;z-index:9;pointer-events:none;background:repeating-linear-gradient(to bottom,rgba(255,255,255,.022),rgba(255,255,255,.022) 1px,transparent 3px,transparent 7px)}
+    
+    .arcade-frame{position:relative;width:100%;max-width:460px;margin:0 auto;overflow:hidden;
+    background:linear-gradient(180deg, #17110a 0%, #100b14 52%, #070409 100%);
+    border:2px solid var(--edge);border-radius:18px;
+    box-shadow:0 0 26px rgba(255,215,0,.22),0 14px 34px rgba(0,0,0,.9),inset 0 0 22px rgba(255,215,0,.05)}
+    
+    .hud{display:flex;align-items:center;justify-content:space-between;padding:11px 12px;color:var(--soft);
+    background:linear-gradient(180deg, #201607, #0b0703);
+    border-bottom:1px solid var(--edge);box-shadow:inset 0 -7px 14px rgba(0,0,0,.28);font-family:Orbitron,sans-serif;font-size:10px;letter-spacing:.4px}
+    
+    .hud .online{color:var(--gold-hot);text-shadow:0 0 10px rgba(255,215,0,.75)}
+    .screen{padding:14px 20px 16px;text-align:center}
+    .logo-img{width:100%;max-width:200px;margin:0 auto 10px}
+    .logo-img amp-img{filter:drop-shadow(0 0 14px rgba(255,215,0,.45))}
+    .system{margin:12px 0 20px;color:var(--gold);font-family:Orbitron,sans-serif;font-size:11px;font-weight:800;line-height:1.55;letter-spacing:.5px;text-shadow:0 0 10px rgba(255,215,0,.4);animation:systemBlink 2.2s ease-in-out infinite}
+    
+    .hero,.hero-media{position:relative;overflow:hidden}
+    .hero-media{border-radius:12px}
+    .hero amp-img{margin:0 auto 18px;border:1px solid var(--edge);border-radius:12px;box-shadow:0 0 18px rgba(255,215,0,.3), 0 9px 20px rgba(0, 0, 0, .72)}
+    
+    .menu{position:relative;margin:0}
+    .menu a{position:relative;display:block;overflow:hidden;margin:12px 0;padding:15px 10px;color:#f1e6cf;text-align:center;text-decoration:none;text-transform:uppercase;
+    background:linear-gradient(145deg,#161019 0%,#1c1426 48%,#0c0812 100%);
+    border:1px solid var(--edge);border-radius:11px;box-shadow:inset 0 1px 0 rgba(255,255,255,.08),inset 0 -7px 14px rgba(0,0,0,.32),0 7px 16px rgba(0,0,0,.5);font-family:Orbitron,sans-serif;font-size:13px;font-weight:800;letter-spacing:.8px;text-shadow:0 1px 2px rgba(0,0,0,.8);transition:filter .25s ease,transform .25s ease,box-shadow .25s ease}
+    
+    /* Tombol Utama (Aksen Emas Terang) */
+    .menu a:nth-child(1){color:#2a1c00;
+    background:linear-gradient(145deg,#ffe89f 0%,#ffc327 46%,#d79406 100%);
+    border:1px solid #ffdf87;text-shadow:0 1px 0 rgba(255,255,255,.35);
+    box-shadow:inset 0 1px 0 rgba(255,255,255,.5),inset 0 -7px 14px rgba(140,86,0,.28),0 8px 18px rgba(0,0,0,.5),0 0 22px rgba(255,215,0,.55),0 0 42px rgba(255,215,0,.3)}
+    
+    .menu a::before{content:"";position:absolute;inset:0;background:linear-gradient(135deg,transparent,rgba(255,255,255,.2),transparent);opacity:0;transition:opacity .25s ease}
+    .menu a:hover::before{opacity:1}
+    .menu a:hover{filter:brightness(1.08);box-shadow:0 0 21px rgba(255,215,0,.4),0 9px 20px rgba(0,0,0,.8)}
+    
+    .menu a:nth-child(1):hover{filter:brightness(1.06);box-shadow:inset 0 1px 0 rgba(255,255,255,.55),0 0 28px rgba(255,215,0,.75),0 0 54px rgba(255,215,0,.4),0 9px 20px rgba(0,0,0,.6)}
+    .menu a:active{transform:scale(.97)}
+    .menu a span{position:absolute;display:block}
+    
+    /* Garis Efek Tombol: Kuning Emas */
+    .menu a span:nth-child(1){top:0;left:0;width:100%;height:1px;background:linear-gradient(to left,transparent,#fff4d6);animation:animateTop 2s linear infinite}
+    .menu a span:nth-child(2){top:0;right:0;width:1px;height:100%;background:linear-gradient(to top,transparent,#fff4d6);animation:animateRight 2s linear infinite;animation-delay:-1s}
+    .menu a span:nth-child(3){bottom:0;left:0;width:100%;height:1px;background:linear-gradient(to right,transparent,#fff4d6);animation:animateBottom 2s linear infinite}
+    .menu a span:nth-child(4){top:0;left:0;width:1px;height:100%;background:linear-gradient(to bottom,transparent,#fff4d6);animation:animateLeft 2s linear infinite;animation-delay:-1s}
+    
+    /* Klik-tag: Gold Gradient */
+    .klik-tag{position:absolute;top:-11px;right:14px;z-index:6;padding:5px 11px;color:#2a1c00;
+    background:linear-gradient(145deg,#fff4bd 0%,#ffd447 55%,#f0b81f 100%);
+    border:1px solid #fff0b0;border-radius:20px;
+    box-shadow:0 0 16px rgba(255,215,0,.75),0 4px 10px rgba(0,0,0,.55);font-family:Orbitron,sans-serif;font-size:10px;font-weight:900;letter-spacing:.6px;white-space:nowrap;text-shadow:0 1px 0 rgba(255,255,255,.4);animation:klikBounce 1s ease-in-out infinite}
+    
+    .klik-tag::after{content:"";position:absolute;bottom:-6px;right:20px;width:0;height:0;border-left:6px solid transparent;border-right:6px solid transparent;border-top:7px solid #f0b81f;filter:drop-shadow(0 2px 2px rgba(0,0,0,.35))}
+    
+    .footer{padding:13px 12px;color:var(--soft);text-align:center;
+    background:linear-gradient(180deg,#1a1206,#0a0703);
+    border-top:1px solid var(--edge);box-shadow:inset 0 7px 14px rgba(0,0,0,.2);font-family:Orbitron,sans-serif;font-size:10px;letter-spacing:.4px}
+    
+    .boot-overlay{position:absolute;inset:0;z-index:5;display:flex;align-items:center;justify-content:center;pointer-events:none;background:rgba(12,8,3,.94);box-shadow:inset 0 0 24px rgba(255,215,0,.12);animation:bootFadeOut .5s ease-out 2.2s forwards}
+    
+    .boot-logo{color:var(--gold);font-family:Orbitron,sans-serif;font-size:28px;font-weight:900;letter-spacing:1px;opacity:0;transform:translateY(-180px);text-shadow:2px 0 rgba(255,255,255,.17),-2px 0 rgba(184,121,10,.6);animation:logoDrop 1.5s cubic-bezier(.25,1,.5,1) forwards,glitchEffect .3s cubic-bezier(.25,.46,.45,.94) 1s infinite}
+    
+    .boot-logo span{margin-left:2px;font-size:11px;vertical-align:top}
+    
+    @keyframes systemBlink{0%,100%{opacity:1}50%{opacity:.42}}
+    @keyframes animateTop{0%{transform:translateX(100%)}100%{transform:translateX(-100%)}}
+    @keyframes animateRight{0%{transform:translateY(100%)}100%{transform:translateY(-100%)}}
+    @keyframes animateBottom{0%{transform:translateX(-100%)}100%{transform:translateX(100%)}}
+    @keyframes animateLeft{0%{transform:translateY(-100%)}100%{transform:translateY(100%)}}
+    @keyframes klikBounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+    @keyframes logoDrop{0%{opacity:1;transform:translateY(-180px)}60%,100%{opacity:1;transform:translateY(0)}}
+    @keyframes glitchEffect{0%,75%,100%{text-shadow:2px 0 rgba(255,255,255,.18),-2px 0 rgba(184,121,10,.62);transform:translate(0)}25%{text-shadow:-2px 0 rgba(255,255,255,.18),2px 0 rgba(184,121,10,.62);transform:translate(2px,2px)}50%{text-shadow:2px 0 rgba(255,255,255,.18),-2px 0 rgba(184,121,10,.62);transform:translate(-2px,-2px)}}
+    @keyframes bootFadeOut{to{opacity:0;visibility:hidden}}
+    
+    @media(min-height:760px){body{align-items:center}}
+    @media(max-width:480px){body{padding:14px 8px}.arcade-frame{border-radius:15px}.screen{padding:11px 12px 14px}.hud{padding:9px 8px;font-size:9px}.logo-img{max-width:185px;margin-bottom:8px}.system{margin:10px 0 17px;font-size:10px}.hero amp-img{margin-bottom:16px}.menu a{margin:10px 0;padding:14px 8px;font-size:12px}.klik-tag{font-size:9px;padding:4px 9px;right:10px;top:-10px}.footer{padding:12px 8px;font-size:9px}.boot-logo{font-size:23px}}
+    @media(max-width:360px){body{padding:10px 6px}.screen{padding:10px 9px 12px}.hud{font-size:8px}.logo-img{max-width:170px}.menu a{padding:13px 6px;font-size:11px}}
+    @media(prefers-reduced-motion:reduce){.system,.menu a span,.boot-overlay,.boot-logo,.klik-tag{animation:none}.boot-overlay{display:none}}
   </style>
 </head>
 <body>
-  <div class="fixed-bg"></div>
-  <div class="bg-grid"></div>
-  <div class="bg-ring"></div>
-  <div class="scanline"></div>
+  <section class="arcade-frame">
+    <div class="hud"><div> ❤❤❤❤❤</div><div class="online">MENGUNCI MAXWIN 2026</div><div>LV 100</div></div>
 
-  <main class="min-h-screen flex flex-col items-center justify-center py-8 px-4">
-    <div class="w-full max-w-md mx-auto">
-      <section class="page-box">
-        <div class="page-box-content">
-          <header class="top-header">
-            <div class="brand-shell">
-              <a href="https://fuji66empatbelas.com/" class="brand-logo-link" aria-label="Beranda FUJI66">
-                <amp-img
-                  src="https://i.ibb.co/MknvTt0b/Logo-FUJI66.png"
-                  alt="Logo FUJI66"
-                  width="150"
-                  height="42"
-                  layout="intrinsic">
-                </amp-img>
-              </a>
+    <div class="screen">
+      <div class="logo-img"><amp-img src="https://i.ibb.co/MknvTt0b/Logo-FUJI66.png" width="70" height="15" layout="responsive" alt="logo 168"></amp-img></div>
 
-              <a href="https://fuji66empatbelas.com/"
-                 target="_blank"
-                 rel="noopener noreferrer"
-                 class="header-livechat">LIVE CHAT</a>
-            </div>
-          </header>
+      <div class="system">▶ FUJI66 EKSKLUSIF GAMPANG MENANG 2026 ◀</div>
 
-          <div class="marquee-wrapper" aria-label="Informasi berjalan">
-          <div class="marquee-content">
-           <span class="marquee-item">⚡ SELAMAT DATANG DI FUJI66 REKOMENDASI PARA PEMAIN SLOT GACOR HARI INI ⚡</span>
-           <span class="marquee-item">⚡ NIKMATI SETIAP PERMAINAN ANTI LAG DAN DIDUKUNG OLEH PROVIDER TERBAIK DI ASIA ⚡</span>
-           <span class="marquee-item">💰 MULAI DEPO DARI 25.000 DAN RASAKAN PERMAINAN YANG LEBIH MENARIK 💰</span>
-           <span class="marquee-item">️ TERSEDIA DEPOSIT QRIS INSTANT  ️</span>
-            </div>
-          </div>
-
-          <div class="banner-wrap">
-            <div class="cyber-card">
-              <amp-img
-                src="https://i.ibb.co/CKBLTjpp/Banner-FUJI66-1.png"
-                width="400"
-                height="400"
-                layout="responsive"
-                alt="Banner utama FUJI66">
-              </amp-img>
-            </div>
-
-            
-          </div>
-
-          <div class="w-full flex flex-col gap-3 actions">
-            <a href="https://fuji66empatbelas.com/" target="_blank" rel="noopener noreferrer" class="cyber-btn btn-login">LOGIN UTAMA</a>
-            <a href="https://fuji66empatbelas.com/register" target="_blank" rel="noopener noreferrer" class="cyber-btn btn-register">DAFTAR AKUN</a>
-            <a href="https://fuji66empatbelas.com/" target="_blank" rel="noopener noreferrer" class="cyber-btn btn-alt">LINK ALTERNATIF</a>
-          </div>
-
-          <div class="trust-badge">
-            <div class="font-bold">FUJI66 : Akses Situs Pragmatic Link Slot Gacor Hari Ini Resmi & Terpercaya</div>
-          </div>
-
-          <footer class="footer-css"
-                  aria-label="© 2026 BY FUJI66 X LEITO. PILIHAN REKOMENDASI SLOT GACOR SETIAP HARI">
-            <span class="footer-line">
-              © 2026 BY
-              <a href="https://fuji66empatbelas.com/"
-                 class="footer-brand"
-                 aria-label="Buka halaman FUJI66">FUJI66</a>
-              X LEITO
-            </span>
-            <span class="footer-sub-css"></span>
-          </footer>
+      <div class="hero">
+        <div class="hero-media">
+          <div class="boot-overlay"><div class="boot-logo">^^FUJI66<span>®</span></div></div>
+          <amp-img src="https://i.ibb.co/8n5wR6vf/Banner-FUJI66-2.png" width="420" height="420" layout="responsive" alt="BANNER SLOT GACOR TERBAIK EKSKLUSIF GAMPANG MENANG 2026"></amp-img>
         </div>
-      </section>
+      </div>
+
+      <nav class="menu">
+        <div class="klik-tag">👇 KLIK DISINI</div>
+        <a href="https://fuji66empatbelas.com/" rel="nofollow noopener"><span></span><span></span><span></span><span></span>LOGIN</a>
+        <a href="https://fuji66empatbelas.com/register" rel="nofollow noopener"><span></span><span></span><span></span><span></span>DAFTAR</a>
+        <a href="https://fuji66empatbelas.com/" rel="nofollow noopener"><span></span><span></span><span></span><span></span>LINK ALTERNATIF</a>
+      </nav>
     </div>
-  </main>
+
+    <footer class="footer">&copy; Copyright ^^FUJI66®</footer>
+  </section>
 </body>
 </html>
