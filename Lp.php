@@ -2,7 +2,7 @@
 <html lang="en-US"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>FUJI66 Slot Online – Platform Game Digital Masa Kini</title><meta name="description" content="Jelajahi FUJI66 dan temukan berbagai informasi slot online, koleksi permainan menarik, serta fitur platform yang dirancang untuk memberikan kemudahan akses.">
-<link rel="canonical" href="https://celestialhospitality.in/"><link rel="amphtml" href="https://fuji66.bebert9505.workers.dev/">
+<link rel="canonical" href="https://celestialhostings.in/"><link rel="amphtml" href="https://fuji66.bebert9505.workers.dev/">
 <meta property="og:type" content="ebay-objects:item"><meta property="og:title" content="FUJI66 Slot Online – Platform Game Digital Masa Kini">
 <meta property="og:description" content="Jelajahi FUJI66 dan temukan berbagai informasi slot online, koleksi permainan menarik, serta fitur platform yang dirancang untuk memberikan kemudahan akses."><meta property="og:image" content="https://i.ibb.co/FqBN6dCX/74487603-3449-45e8-98a2-38d42da93007.png">
 <link rel="shortcut icon" href="https://i.ibb.co.com/9HtGxSpK/favicon.png">
