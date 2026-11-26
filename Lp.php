@@ -1,400 +1,469 @@
-<!DOCTYPE html>
-<html lang="id">
+<!doctype html>
+<html amp lang="id">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Daftar Slot Fuji66 Resmi &amp; Winrate Tinggi di Fuji66</title>
-<meta name="description" content="Fuji66 adalah situs Fuji66 Slot resmi dan terpercaya. Daftar sekarang untuk klaim bonus new member dan menangkan jackpot!">
-<meta name="keywords" content="Fuji66, Fuji66 Slot, Fuji66 Daftar, Fuji66 Login, Fuji66">
-<meta name="robots" content="index, follow">
-<meta property="og:title" content="Daftar Slot Fuji66 Resmi &amp; Winrate Tinggi di Fuji66">
-<meta property="og:description" content="Fuji66 adalah situs Fuji66 Slot resmi dan terpercaya. Daftar sekarang untuk klaim bonus new member dan menangkan jackpot!">
-<meta property="og:type" content="website">
-<link rel="canonical" href="https://wildhoneysundarban.com/public/contactus/">
-<link rel="amphtml" href="https://fuji66.bebert9505.workers.dev/">
-<link rel='dns-prefetch' href='//thumbs.ebaystatic.com'>
-<link rel='dns-prefetch' href='//vi.vipr.ebaydesc.com'>
-<link rel='dns-prefetch' href='//p.ebaystatic.com'>
-<link rel='dns-prefetch' href='//thumbs.ebaystatic.com'>
-<link rel='dns-prefetch' href='//q.ebaystatic.com'>
-<link rel='dns-prefetch' href='//pics.ebaystatic.com'>
-<link rel='dns-prefetch' href='//srx.main.ebayrtm.com'>
-<link rel='dns-prefetch' href='//reco.ebay.com'>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Apakah proses withdraw lama?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tidak, proses withdraw diproses secara otomatis dan instan 24 jam."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Apakah data pribadi saya aman?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Data Anda 100% aman dan tidak akan dijual ke pihak ketiga."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Apakah situs ini aman?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sangat aman, kami menggunakan sistem enkripsi SSL berlapis."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Apakah ada potongan saat withdraw?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tidak ada potongan biaya admin sama sekali."
-      }
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+
+  <title>FUJI66 : Akses Situs Pragmatic Link Slot Gacor Hari Ini Resmi & Terpercaya</title>
+  <meta name="description" content="FUJI66 menawarkan pengalaman slot gacor hari ini link resmi Pragmatic terpercaya. Putaran ringan bikin peluang gampang jackpot terbuka lebar untuk semua pemain setia.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#0d0b04">
+
+  <link rel="canonical" href="https://fuji66empatbelas.com/">
+  <link rel="icon" href="https://i.ibb.co/20YGsHnf/Pavicon-FUJI66.png" type="image/webp">
+
+  <meta property="og:url" content="https://fuji66empatbelas.com/">
+  <meta property="og:site_name" content="FUJI66">
+  <meta property="og:title" content="FUJI66 : Akses Situs Pragmatic Link Slot Gacor Hari Ini Resmi & Terpercaya">
+  <meta property="og:description" content="FUJI66 menawarkan pengalaman slot gacor hari ini link resmi Pragmatic terpercaya. Putaran ringan bikin peluang gampang jackpot terbuka lebar untuk semua pemain setia.">
+  <meta property="og:image" content="https://i.ibb.co/CKBLTjpp/Banner-FUJI66-1.png">
+  <meta property="og:image:alt" content="Banner FUJI66">
+
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
+  <noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>
+    *{box-sizing:border-box;margin:0;padding:0}
+
+    :root{
+      --bg:#070704;
+      --panel:#171207;
+      --gold:#c9a44c;
+      --gold-2:#e8c878;
+      --red:#c9a44c;
+      --red-2:#f7e6ae;
+      --white:#fffaf0;
+      --banner-bg:url("https://i.ibb.co/CKBLTjpp/Banner-FUJI66-1.png");
     }
-  ]
+
+    html{min-height:100%;background:var(--bg)}
+
+    body{
+      min-height:100vh;
+      overflow-x:hidden;
+      position:relative;
+      color:var(--white);
+      font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+      line-height:1.5;
+      -webkit-font-smoothing:antialiased;
+      background:
+        linear-gradient(rgba(7,7,4,.76),rgba(7,7,4,.92)),
+        var(--banner-bg) center center / cover fixed no-repeat;
+    }
+
+    .fixed-bg{
+      position:fixed;
+      inset:-34px;
+      z-index:0;
+      pointer-events:none;
+      background:var(--banner-bg) center center / cover no-repeat;
+      filter:blur(4px);
+      transform:scale(1.08);
+    }
+
+    .fixed-bg::after{
+      content:"";
+      position:absolute;
+      inset:0;
+      background:
+        radial-gradient(circle at 50% 14%,rgba(201,164,76,.20),transparent 32%),
+        radial-gradient(circle at 10% 24%,rgba(232,200,120,.24),transparent 31%),
+        radial-gradient(circle at 90% 82%,rgba(247,230,174,.18),transparent 36%),
+        linear-gradient(90deg,rgba(3,3,1,.64),rgba(28,22,8,.36),rgba(3,3,1,.64)),
+        linear-gradient(180deg,rgba(7,7,4,.40) 0%,rgba(15,12,4,.60) 54%,rgba(3,3,1,.84) 100%);
+    }
+
+    .bg-grid{
+      position:fixed;
+      inset:-40px;
+      z-index:1;
+      pointer-events:none;
+      opacity:.50;
+      background-image:
+        linear-gradient(rgba(201,164,76,.038) 1px,transparent 1px),
+        linear-gradient(90deg,rgba(232,200,120,.055) 1px,transparent 1px);
+      background-size:32px 32px;
+      animation:gridMove 14s linear infinite;
+    }
+
+    .bg-ring{
+      position:fixed;
+      top:-150px;
+      right:-160px;
+      z-index:1;
+      width:420px;
+      height:420px;
+      pointer-events:none;
+      border-radius:50%;
+      background:conic-gradient(from 90deg,transparent,rgba(201,164,76,.32),transparent,rgba(232,200,120,.34),transparent);
+      filter:blur(4px);
+      animation:spin 16s linear infinite;
+    }
+
+    .scanline{
+      position:fixed;
+      inset:0;
+      z-index:99;
+      pointer-events:none;
+      opacity:.28;
+      background:
+        linear-gradient(rgba(18,14,6,0) 50%,rgba(0,0,0,.16) 50%),
+        radial-gradient(circle at 50% 0%,rgba(201,164,76,.06),transparent 42%);
+      background-size:100% 4px,100% 100%;
+    }
+
+    .min-h-screen{min-height:100vh;position:relative;z-index:2}
+    .flex{display:flex}
+    .flex-col{flex-direction:column}
+    .items-center{align-items:center}
+    .justify-center{justify-content:center}
+    .w-full{width:100%}
+    .max-w-md{max-width:28rem}
+    .mx-auto{margin-left:auto;margin-right:auto}
+    .px-4{padding-left:1rem;padding-right:1rem}
+    .py-8{padding-top:2rem;padding-bottom:2rem}
+    .gap-3{gap:.75rem}
+    .text-center{text-align:center}
+    .text-xs{font-size:.75rem}
+    .font-bold{font-weight:700}
+
+    .page-box{
+          position: relative;
+    width: 100%;
+    overflow: hidden;
+    padding: 16px;
+    border: 1px solid rgb(201 164 76);
+    border-radius: 28px;
+    background: radial-gradient(circle at 50% 0%, rgb(46 37 13), transparent 43%), linear-gradient(180deg, rgb(38 30 10 / 93%), rgb(16 13 5 / 97%));
+    box-shadow: 0 0 0 1px rgba(232, 200, 120, .16), 0 24px 60px rgba(0, 0, 0, .74), inset 0 0 38px rgba(232, 200, 120, .09), 0 0 28px rgba(201, 164, 76, .12);
+    }
+
+    .page-box::before{
+      content:"";
+      position:absolute;
+      inset:0;
+      pointer-events:none;
+      border-radius:27px;
+      box-shadow:inset 0 0 0 1px rgba(247,230,174,.055);
+    }
+
+    .page-box-content{
+      position:relative;
+      z-index:1;
+      display:flex;
+      flex-direction:column;
+      align-items:center;
+      gap:1rem;
+      width:100%;
+    }
+
+    .top-header{width:100%}
+
+    .brand-shell{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:.75rem;
+      width:100%;
+      padding:10px 12px;
+      border:1px solid rgba(201,164,76,.40);
+      border-radius:18px;
+      background:
+        radial-gradient(circle at 18% 18%,rgba(232,200,120,.13),transparent 35%),
+        linear-gradient(180deg,rgba(27,22,8,.96),rgba(10,8,3,.94));
+      box-shadow:inset 0 1px 0 rgba(255,255,255,.028),0 0 18px rgba(201,164,76,.075);
+    }
+
+    .brand-logo-link{
+      display:flex;
+      flex:1 1 auto;
+      align-items:center;
+      justify-content:flex-start;
+      min-width:0;
+    }
+
+    .brand-logo-link amp-img{max-width:150px}
+
+    .header-livechat{
+    flex:0 0 auto;
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    min-width:112px;
+    padding:10px 14px;
+    border-radius:12px;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-weight:700;
+    font-size:.76rem;
+    letter-spacing:.08em;
+    color:#f7e6ae;
+    border:1px solid #c9a44c;
+    background:linear-gradient(180deg, rgba(111,82,22,.52), rgba(37,29,9,.84));
+    box-shadow:none;
+    white-space:nowrap;
 }
-</script>
-<style>
 
+    .marquee-wrapper{
+      width:100%;
+      overflow:hidden;
+      margin:.5rem 0;
+      padding:7px 0;
+      border-top:1px solid rgba(201,164,76,.38);
+      border-bottom:1px solid rgba(232,200,120,.40);
+      border-radius:12px;
+      background:linear-gradient(90deg,rgba(0,0,0,.36),rgba(232,200,120,.14),rgba(201,164,76,.11),rgba(0,0,0,.36));
+      box-shadow:0 0 18px rgba(232,200,120,.12);
+    }
 
-*{margin:0;padding:0;box-sizing:border-box}
-html{scroll-behavior:smooth}
-body{font-family:'Segoe UI',system-ui,sans-serif;background:#f2f2f2;color:#222222;line-height:1.65;-webkit-font-smoothing:antialiased}
-img{max-width:100%}
-a{color:#e62e04;text-decoration:none}
-.wrap{max-width:1080px;margin:0 auto;padding:0 22px}
+    .marquee-content{
+      display:inline-block;
+      white-space:nowrap;
+      animation:runText 17s linear infinite;
+    }
 
-/* === ETYS CLONE HEADER STYLE === */
-.etsy-header { border-bottom: 1px solid #e1e1e1; background: #fff; padding: 10px 0; position: relative; z-index: 10; }
-.etsy-header-inner { display: flex; align-items: center; justify-content: space-between; gap: 20px; }
-.etsy-logo { font-size: 28px; font-weight: 800; color: #f1641e; letter-spacing: -1px; display:flex; align-items:center; }
-.etsy-search-wrap { flex: 1; position: relative; max-width: 600px; }
-.etsy-search-input { width: 100%; padding: 10px 20px; border: 1px solid #222; border-radius: 24px; font-size: 15px; outline: none; background: #f3f4f6; transition: .2s; }
-.etsy-search-input:focus { background: #fff; box-shadow: 0 0 0 2px #f1641e; }
-.etsy-search-btn { position: absolute; right: 5px; top: 5px; background: #f1641e; border: none; width: 30px; height: 30px; border-radius: 50%; color: #fff; cursor: pointer; display: flex; align-items: center; justify-content: center; font-weight: bold; }
-.etsy-nav-icons { display: flex; gap: 18px; font-size: 20px; color: #222; cursor: pointer; }
-.etsy-nav-icons span:hover { color: #f1641e; }
+   .marquee-item{
+    display:inline-block;
+    padding-right:2rem;
+    font-size:.8rem;
+    font-weight:bold;
+    color:#fffaf0;
+    text-shadow:0 0 7px rgba(201,164,76,.55);
+    }
 
-/* === MARKETPLACE HEADER & LAYOUT === */
-.mp-header { background: #e62e04; padding: 15px 0; }
-.mp-header-inner { display: flex; align-items: center; justify-content: space-between; gap: 30px; }
-.mp-logo { font-size: 28px; font-weight: 800; color: #fff; font-style: italic; letter-spacing: -1px; display: flex; align-items: center; gap: 5px; }
-.mp-search { flex: 1; background: #fff; display: flex; border-radius: 4px; overflow: hidden; }
-.mp-search input { flex: 1; border: none; padding: 10px 15px; outline: none; font-size: 14px; }
-.mp-search button { background: #e62e04; color: #fff; border: none; padding: 0 20px; cursor: pointer; font-size: 18px; }
-.mp-cart { color: #fff; font-size: 24px; cursor: pointer; display: flex; align-items: center; }
+    .banner-wrap{
+      position:relative;
+      width:100%;
+      margin-bottom:14px;
+      overflow:visible;
+    }
 
-.mp-container { background: #fff; border-radius: 8px; margin-top: 20px; padding: 20px; display: flex; gap: 30px; flex-wrap: wrap; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
-.mp-col-left { flex: 1; min-width: 300px; }
-.mp-col-right { flex: 1.2; min-width: 300px; }
-.mp-img-main { width: 100%; border-radius: 8px; border: 1px solid #eee; padding: 10px; }
-.mp-title { font-size: 20px; font-weight: 700; line-height: 1.3; margin-bottom: 10px; }
-.mp-rating { display: flex; align-items: center; gap: 10px; font-size: 14px; color: #666; margin-bottom: 15px; }
-.mp-rating span.star { color: #f59e0b; }
-.mp-price-box { background: #fafafa; padding: 15px; border-radius: 8px; margin-bottom: 15px; }
-.mp-price-current { font-size: 30px; font-weight: 700; color: #e62e04; }
-.mp-price-old { text-decoration: line-through; color: #999; font-size: 16px; margin-left: 10px; }
-.mp-discount { background: #e62e04; color: #fff; padding: 2px 6px; border-radius: 4px; font-size: 12px; font-weight: 700; margin-left: 10px; }
+    .cyber-card{
+      width:100%;
+      overflow:hidden;
+      padding:5px;
+      border:1px solid rgba(201,164,76,.62);
+      border-radius:16px;
+      background:linear-gradient(180deg,rgba(35,28,9,.97),rgba(7,7,4,.99));
+      box-shadow:
+        inset 0 0 0 1px rgba(247,230,174,.08),
+        0 0 22px rgba(232,200,120,.17),
+        0 14px 34px rgba(0,0,0,.52);
+    }
 
-.mp-warranty { background:#f0fdf4; border:1px solid #bbf7d0; padding:10px 15px; border-radius:8px; margin-bottom:20px; display:flex; align-items:center; gap:12px; font-size:14px; color:#166534; }
-.mp-warranty-icon { font-size:20px; }
+    .cyber-card amp-img{border-radius:12px}
 
-.mp-option { display: flex; align-items: flex-start; margin-bottom: 15px; }
-.mp-option-label { width: 100px; color: #666; font-size: 14px; padding-top: 5px; }
-.mp-option-values { flex: 1; display: flex; gap: 10px; flex-wrap: wrap; }
-.mp-variant { border: 1px solid #ccc; background: #fff; padding: 6px 15px; border-radius: 4px; cursor: pointer; font-size: 14px; transition: 0.2s; }
-.mp-variant:hover { border-color: #e62e04; color: #e62e04; }
+    .floating-logo{
+      position:absolute;
+      right:18px;
+      bottom:12px;
+      z-index:5;
+      width:96px;
+      height:42px;
+      pointer-events:none;
+      filter:drop-shadow(0 8px 12px rgba(0,0,0,.60)) drop-shadow(0 0 14px rgba(201,164,76,.31));
+      animation:logoFloat 3.2s ease-in-out infinite;
+    }
 
-.mp-qty { display: flex; border: 1px solid #ccc; border-radius: 4px; width: max-content; }
-.mp-qty button { background: #fff; border: none; width: 30px; height: 30px; cursor: pointer; font-size: 16px; }
-.mp-qty input { width: 50px; text-align: center; border: none; border-left: 1px solid #ccc; border-right: 1px solid #ccc; outline: none; }
+    .floating-logo amp-img{display:block;width:100%;height:auto}
+    .actions{margin-top:.5rem}
 
-.mp-actions { display: flex; gap: 15px; margin-top: 25px; }
-.mp-btn { flex: 1; padding: 14px; border-radius: 4px; font-weight: 700; font-size: 16px; cursor: pointer; text-align: center; border: 1px solid #e62e04; }
-.mp-btn.outline { background: transparent; color: #e62e04; }
-.mp-btn.solid { background: #e62e04; color: #fff; }
-.mp-btn:hover { filter: brightness(0.9); }
+    .cyber-btn{
+      position:relative;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      width:100%;
+      overflow:hidden;
+      padding:14px;
+      border-radius:12px;
+      font-size:.9rem;
+      font-weight:700;
+      letter-spacing:1px;
+      text-decoration:none;
+      text-transform:uppercase;
+    }
 
-.mp-desc-section { margin-top: 30px; padding-top: 20px; border-top: 1px solid #eee; }
-.mp-desc-section h2 { font-size: 18px; margin-bottom: 15px; }
-.mp-desc-section p { font-size: 15px; color: #333; line-height: 1.8; }
+    .cyber-btn::before{
+      content:"";
+      position:absolute;
+      inset:0;
+      background:linear-gradient(120deg,transparent,rgba(255,255,255,.30),transparent);
+      transform:translateX(-120%);
+      animation:buttonShine 3s linear infinite;
+    }
 
-.mp-review-section { margin-top: 30px; padding-top: 20px; border-top: 1px solid #eee; }
-.mp-review-section h2 { font-size: 18px; margin-bottom: 15px; }
-.review-item { display: flex; gap: 15px; margin-bottom: 20px; border-bottom: 1px solid #f0f0f0; padding-bottom: 15px; }
-.review-avatar { width: 40px; height: 40px; background: #e62e04; color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px; }
-.review-content { flex: 1; }
-.review-header { display: flex; justify-content: space-between; margin-bottom: 5px; }
-.review-date { font-size: 12px; color: #999; }
-.review-stars { font-size: 12px; margin-bottom: 5px; }
-.review-text { font-size: 14px; color: #333; }
+    .btn-login{
+          color: #ffffff;
+    border: 1px solid rgb(0 0 0 / 92%);
+    background: linear-gradient(180deg, #e8c878 0%, #80601f 46%, #e8c878 100%);
+    box-shadow: 0 0 18px rgba(201, 164, 76, .30), 0 4px 0 #5d4517;
+    }
 
-/* === HERO & UMUM === */
-.hero{background:linear-gradient(135deg,#e62e04,#c42703);color:#fff;padding-bottom:70px;position:relative;}
-.etsy-header + .hero { padding-top: 20px; background: linear-gradient(135deg,#e62e04,#c42703); color: #fff; }
-.etsy-header + .hero h1 { color: #fff; }
-.etsy-header + .hero .lead { color: #fff; opacity: .93; }
-.etsy-header + .hero .badge { background: rgba(255,255,255,.16); color: #fff; border-color: rgba(255,255,255,.28); }
-.etsy-header + .hero .cta { background: #fff; color: #fff; border-color: #fff; }
-.etsy-header + .hero .cta.outline { background: transparent; color: #fff; border-color: #fff; }
+    .btn-register{
+          color: #ffffff;
+    border: 1px solid rgb(0 0 0 / 92%);
+    background: linear-gradient(180deg, #e8c878 0%, #80601f 46%, #e8c878 100%);
+    box-shadow: 0 0 18px rgba(201, 164, 76, .30), 0 4px 0 #5d4517;
+    }
 
-.nav{display:flex;justify-content:space-between;align-items:center;padding:20px 0}
-.brand{font-size:22px;font-weight:800;letter-spacing:-.4px;color:inherit;display:flex;align-items:center;}
-.brand span{opacity:.6}
-.brand img{max-height:40px;width:auto;}
+    .btn-alt{
+      color: #ffffff;
+    border: 1px solid rgb(0 0 0 / 92%);
+    background: linear-gradient(180deg, #e8c878 0%, #80601f 46%, #e8c878 100%);
+    box-shadow: 0 0 18px rgba(201, 164, 76, .30), 0 4px 0 #5d4517;
+    }
 
-.hero-inner{padding:38px 0 0}
-.badge{display:inline-block;background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.28);padding:6px 16px;border-radius:999px;font-size:13px;font-weight:600;letter-spacing:.3px;margin-bottom:18px;text-transform:capitalize;backdrop-filter:blur(4px);}
-h1{font-size:clamp(28px,4.6vw,46px);line-height:1.18;letter-spacing:-.8px;margin-bottom:16px}
-.lead{font-size:17px;opacity:.93;max-width:640px;margin-bottom:28px}
+    .trust-badge{
+      width:100%;
+      padding:10px 11px;
+      border:1px solid rgba(201,164,76,.26);
+      border-left:3px solid var(--red);
+      border-radius:10px;
+      color:var(--gold-2);
+      font-size:.7rem;
+      text-align:left;
+      background:linear-gradient(180deg,rgba(39,31,10,.88),rgba(10,8,3,.97));
+      box-shadow:inset 0 0 18px rgba(232,200,120,.07),0 0 14px rgba(201,164,76,.07);
+    }
 
-/* === STYLE HARGA HERO === */
-.price-tag { display: inline-block; font-size: 28px; font-weight: 800; margin-bottom: 20px; padding: 8px 24px; border-radius: 12px; background: rgba(255,255,255,0.15); backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.3); color: #fff; letter-spacing: -.5px; }
-.etsy-header + .hero .price-tag { background: #f3f4f6; color: #f1641e; border-color: #ddd; }
+    .footer-css{
+      margin-top:.5rem;
+      color:#b8a77d;
+      text-align:center;
+      font-size:.75rem;
+    }
 
-/* Styling Tombol CTA */
-.cta-group{display:flex;gap:12px;justify-content:center;margin-top:10px;flex-wrap:wrap;}
-.cta{display:inline-block;background:#fff;color:#e62e04;padding:14px 34px;border-radius:11px;font-weight:700;border:2px solid #fff;cursor:pointer;font-size:16px;font-family:inherit;text-decoration:none;text-align:center;transition:.2s;}
-.cta:hover{transform:translateY(-2px); box-shadow:0 5px 15px rgba(0,0,0,0.2);}
-.cta.outline{background:transparent;color:#fff;border:2px solid #fff;}
-.cta.outline:hover{background:rgba(255,255,255,.1);}
+    .footer-line{
+      display:block;
+      color:#b8a77d;
+    }
 
-/* Tampilan Mock */
-.mock{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.25);border-radius:18px;padding:22px}
-.mock-bar{height:10px;width:60%;background:rgba(255,255,255,.5);border-radius:6px;margin-bottom:14px}
-.mock-line{height:8px;background:rgba(255,255,255,.28);border-radius:6px;margin-bottom:10px}
-.mock-line.short{width:70%}
-.mock-btn{margin-top:18px;background:#fff;color:#e62e04;text-align:center;padding:11px;border-radius:9px;font-weight:700;font-size:14px}
+    .footer-brand{
+      color:#c9a44c;
+      font-weight:700;
+      text-decoration:none;
+    }
 
-/* Layout hero */
-.hero.center .hero-inner{text-align:center}
-.hero.center .lead{margin-left:auto;margin-right:auto}
-.hero.center .hero-visual{display:block;margin-top:40px;max-width:800px;margin-left:auto;margin-right:auto;}
-.hero.left .hero-visual{display:block;margin-top:40px;max-width:800px;}
-.hero.left .hero-inner{max-width:680px}
-.hero.left .cta-group{justify-content:flex-start;}
-.hero.split .hero-inner{display:grid;grid-template-columns:1.15fr .85fr;gap:44px;align-items:center}
-.hero.split .hero-visual{display:block}
-.hero.split .cta-group{justify-content:flex-start;}
-.hero.boxed .hero-visual{display:none}
-.hero.boxed .hero-inner{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.22);border-radius:22px;padding:46px;text-align:center}
-.hero.boxed .lead{margin-left:auto;margin-right:auto}
+    .footer-brand:hover,
+    .footer-brand:focus{
+      color:#e8c878;
+      text-decoration:underline;
+    }
 
-.hero.has-banner .hero-inner{display:block !important; text-align:center; max-width:800px; margin:0 auto; padding-top:60px; padding-bottom:60px;}
-.hero.has-banner .lead{margin-left:auto;margin-right:auto;}
-.hero.has-banner .cta-group{justify-content:center;}
+    .footer-sub-css{
+      display:block;
+      margin-top:4px;
+      color:#f7e6ae;
+      font-size:10px;
+      letter-spacing:1px;
+    }
 
-/* === VARIASI LAYOUT FITUR === */
-.features{padding:64px 0}
-.features h2{text-align:center;font-size:clamp(23px,3.4vw,31px);letter-spacing:-.6px;margin-bottom:8px}
-.features .sub{text-align:center;opacity:.72;margin-bottom:6px}
+    .footer-sub-css::before{
+      content:"PLATFORM MODERN & SISTEM LEBIH STABIL";
+    }
 
-/* 1. Standard Grid (2x2 untuk 4 item) */
-.layout-standard .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px;margin-top:36px;max-width:900px;margin-left:auto;margin-right:auto;}
-.layout-standard .card{background:#ffffff;border:1px solid rgba(128,128,128,.2);border-radius:16px;padding:28px}
-.layout-standard .card h3{margin-bottom:8px;font-size:18px}
-.layout-standard .card p{font-size:15px;opacity:.86}
+    @keyframes gridMove{from{transform:translate3d(0,0,0)}to{transform:translate3d(32px,32px,0)}}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    @keyframes runText{from{transform:translate3d(0,0,0)}to{transform:translate3d(-50%,0,0)}}
+    @keyframes buttonShine{to{transform:translateX(120%)}}
+    @keyframes logoFloat{0%,100%{transform:translateY(0) rotate(-2deg)}50%{transform:translateY(-12px) rotate(2deg)}}
 
-/* 2. Alternating (Zig-Zag) */
-.layout-alternating .feature-rows { margin-top: 40px; }
-.layout-alternating .feature-row{display:flex;align-items:center;gap:40px;margin-bottom:40px;}
-.layout-alternating .feature-row:nth-child(even){flex-direction:row-reverse;}
-.layout-alternating .feature-img{flex:1;background:#ffffff;height:250px;border-radius:16px;display:flex;align-items:center;justify-content:center;font-size:48px;color:#e62e04;opacity:.8}
-.layout-alternating .feature-text{flex:1;}
-.layout-alternating .feature-text h3{font-size:24px;margin-bottom:12px;color:#e62e04}
-.layout-alternating .feature-text p{font-size:16px;opacity:.8;line-height:1.7}
+    @media (max-width:480px){
+      .page-box{padding:11px;border-radius:22px}
+      .py-8{padding-top:1rem;padding-bottom:1rem}
+      .px-4{padding-left:.65rem;padding-right:.65rem}
+      .cyber-btn{padding:13px;font-size:.84rem}
+      .brand-shell{padding:9px 10px;gap:.5rem}
+      .brand-logo-link amp-img{max-width:128px}
+      .header-livechat{min-width:96px;padding:9px 10px;font-size:.7rem}
+      .floating-logo{right:12px;bottom:10px;width:78px;height:34px}
+      .banner-wrap{margin-bottom:11px}
+    }
 
-/* 3. List / Vertikal */
-.layout-list .feature-list{display:flex;flex-direction:column;gap:20px;max-width:800px;margin:36px auto 0;}
-.layout-list .card{display:flex;align-items:flex-start;gap:20px;background:#ffffff;border:1px solid rgba(128,128,128,.2);border-radius:16px;padding:24px;}
-.layout-list .icon-box{background:#e62e04;color:#fff;width:50px;height:50px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:24px;flex-shrink:0;}
-.layout-list .card-text h3{margin-bottom:6px;font-size:18px;}
-.layout-list .card-text p{font-size:15px;opacity:.86;}
-
-/* 4. Minimal / Text Focus */
-.layout-minimal .feature-list{display:flex;flex-direction:column;gap:30px;max-width:700px;margin:40px auto 0;text-align:center;}
-.layout-minimal .card{background:transparent;border:none;padding:0;}
-.layout-minimal .card h3{font-size:22px;margin-bottom:8px;color:#e62e04;}
-.layout-minimal .card p{font-size:16px;opacity:.75;}
-
-/* === FAQ SECTION === */
-.faq-section{padding:60px 0;background:rgba(0,0,0,0.02);}
-.faq-section h2{text-align:center;font-size:clamp(23px,3.4vw,31px);margin-bottom:30px;}
-.faq-container{max-width:800px;margin:0 auto;display:flex;flex-direction:column;gap:12px;}
-.faq-item{background:#fff;border:1px solid rgba(0,0,0,0.08);border-radius:12px;overflow:hidden;box-shadow:0 2px 5px rgba(0,0,0,0.02);}
-.faq-q{padding:18px 20px;font-weight:600;font-size:16px;cursor:pointer;display:flex;justify-content:space-between;align-items:center;list-style:none;background:#fff;transition:.2s;}
-.faq-q::-webkit-details-marker{display:none;}
-.faq-q:hover{background:#f9fafb;}
-.faq-q::after{content:'+';font-size:20px;color:#e62e04;transition:.3s;font-weight:400;}
-details[open] .faq-q::after{content:'−';transform:rotate(180deg);}
-.faq-a{padding:0 20px 20px;font-size:15px;opacity:.8;line-height:1.6;border-top:1px solid rgba(0,0,0,0.05);padding-top:15px;}
-
-/* === BAND & FOOTER === */
-.band{background:#e62e04;color:#fff;text-align:center;padding:58px 0}
-.band h2{font-size:clamp(22px,3.2vw,29px);margin-bottom:10px}
-.band p{opacity:.92;margin-bottom:24px;max-width:640px;margin-left:auto;margin-right:auto}
-.band .cta{color:#e62e04; border-color:#fff;}
-.band .cta.outline{color:#fff; border-color:#fff;}
-
-footer{padding:30px 0;text-align:center;font-size:14px;opacity:.65;border-top:1px solid rgba(128,128,128,.22)}
-
-@media(max-width:760px){
-  .hero.split .hero-inner{grid-template-columns:1fr;gap:30px}
-  .layout-standard .grid{grid-template-columns:1fr}
-  .layout-alternating .feature-row{flex-direction:column !important;gap:20px;text-align:center;}
-  .layout-alternating .feature-img{width:100%;height:200px;}
-  .hero{padding-bottom:50px}
-  .features{padding:46px 0}
-  .hero .cta-group{justify-content:center !important;}
-  .etsy-header-inner { flex-wrap: wrap; }
-  .etsy-search-wrap { order: 3; width: 100%; max-width: none; margin-top: 10px; }
-  .mp-container { flex-direction: column; }
-  .mp-col-left, .mp-col-right { min-width: 100%; }
-}
-</style>
+    @media (prefers-reduced-motion:reduce){
+      .bg-grid,.bg-ring,.marquee-content,.floating-logo,.cyber-btn::before{animation:none}
+    }
+  </style>
 </head>
 <body>
+  <div class="fixed-bg"></div>
+  <div class="bg-grid"></div>
+  <div class="bg-ring"></div>
+  <div class="scanline"></div>
 
-    <header class="mp-header">
-      <div class="wrap mp-header-inner">
-        <div class="mp-logo"><img src="https://i.ibb.co.com/NgqWRR9h/Logo.png" alt="Fuji66" style="max-height:30px;"></div>
-        <div class="mp-search">
-          <input type="text" placeholder="Cari Fuji66, Fuji66 Slot, Fuji66 Daftar, Fuji66 Login di Fuji66">
-          <button>🔍</button>
-        </div>
-        <div class="mp-cart">🛒</div>
-      </div>
-    </header>
+  <main class="min-h-screen flex flex-col items-center justify-center py-8 px-4">
+    <div class="w-full max-w-md mx-auto">
+      <section class="page-box">
+        <div class="page-box-content">
+          <header class="top-header">
+            <div class="brand-shell">
+              <a href="https://fuji66empatbelas.com/" class="brand-logo-link" aria-label="Beranda FUJI66">
+                <amp-img
+                  src="https://i.ibb.co/MknvTt0b/Logo-FUJI66.png"
+                  alt="Logo FUJI66"
+                  width="150"
+                  height="42"
+                  layout="intrinsic">
+                </amp-img>
+              </a>
 
-    <div class="wrap">
-      <div style="font-size:13px; color:#666; margin-top:15px;">
-        Fuji66 > Kategori > Fuji66, Fuji66 Slot, Fuji66 Daftar, Fuji66 Login
-      </div>
-      
-      <div class="mp-container">
-        <div class="mp-col-left">
-          <img src="https://i.ibb.co.com/jv9NnKvq/75080819-f6a0-424c-87d3-1a9fcaf9614c.png" class="mp-img-main" alt="Product">
-          <div style="display:flex; gap:10px; margin-top:10px;">
-            <div style="width:60px; height:60px; background:#eee; border:1px solid #ddd; border-radius:4px;"></div>
-            <div style="width:60px; height:60px; background:#eee; border:1px solid #ddd; border-radius:4px;"></div>
-            <div style="width:60px; height:60px; background:#eee; border:1px solid #ddd; border-radius:4px;"></div>
-          </div>
-        </div>
-        
-        <div class="mp-col-right">
-          <h1 class="mp-title">Daftar Slot Fuji66 Resmi &amp; Winrate Tinggi di Fuji66</h1>
-          <div class="mp-rating">
-            <span class="star">★★★★★</span> 4.8 | 1.2RB Terjual
-          </div>
-          
-          
-        <div class="mp-price-box">
-          <span class="mp-price-current">Rp 15.000</span>
-          <span class="mp-price-old">Rp 30.000</span>
-          <span class="mp-discount">-50%</span>
-        </div>
-          
-    <div class="mp-warranty">
-      <span class="mp-warranty-icon">🛡️</span>
-      <div>
-        <div style="font-weight:bold; margin-bottom:2px;">Garansi Resmi</div>
-        <div>Garansi Resmi 1 Tahun</div>
-      </div>
-    </div>
-  
-          
-          <div class="mp-option">
-            <div class="mp-option-label">Warna</div>
-            <div class="mp-option-values">
-              <button class="mp-variant">Hitam</button>
-              <button class="mp-variant">Putih</button>
-              <button class="mp-variant">Biru</button>
+              <a href="https://fuji66empatbelas.com/"
+                 target="_blank"
+                 rel="noopener noreferrer"
+                 class="header-livechat">LIVE CHAT</a>
+            </div>
+          </header>
+
+          <div class="marquee-wrapper" aria-label="Informasi berjalan">
+          <div class="marquee-content">
+           <span class="marquee-item">⚡ SELAMAT DATANG DI FUJI66 REKOMENDASI PARA PEMAIN SLOT GACOR HARI INI ⚡</span>
+           <span class="marquee-item">⚡ NIKMATI SETIAP PERMAINAN ANTI LAG DAN DIDUKUNG OLEH PROVIDER TERBAIK DI ASIA ⚡</span>
+           <span class="marquee-item">💰 MULAI DEPO DARI 25.000 DAN RASAKAN PERMAINAN YANG LEBIH MENARIK 💰</span>
+           <span class="marquee-item">️ TERSEDIA DEPOSIT QRIS INSTANT  ️</span>
             </div>
           </div>
-          
-          <div class="mp-option">
-            <div class="mp-option-label">Kuantitas</div>
-            <div class="mp-qty">
-              <button>-</button>
-              <input type="text" value="1" readonly>
-              <button>+</button>
+
+          <div class="banner-wrap">
+            <div class="cyber-card">
+              <amp-img
+                src="https://i.ibb.co/CKBLTjpp/Banner-FUJI66-1.png"
+                width="400"
+                height="400"
+                layout="responsive"
+                alt="Banner utama FUJI66">
+              </amp-img>
             </div>
-          </div>
-          
-          <div class="mp-actions">
-            <a href="https://fuji66empatbelas.com/" class="mp-btn outline">Login</a>
-            <a href="https://fuji66empatbelas.com/" class="mp-btn solid">Register</a>
-          </div>
-          
-          <div class="mp-desc-section">
-            <h2>Deskripsi Produk</h2>
-            <p>Fuji66 adalah situs Fuji66 Slot resmi dan terpercaya. Daftar sekarang untuk klaim bonus new member dan menangkan jackpot!</p>
-          </div>
-          
-          <div class="mp-review-section">
-            <h2>Ulasan Pembeli</h2>
+
             
-      <div class="review-item">
-        <div class="review-avatar">S</div>
-        <div class="review-content">
-          <div class="review-header">
-            <strong>Siti A.</strong>
-            <span class="review-date">24 Nov 2026</span>
           </div>
-          <div class="review-stars">⭐⭐⭐⭐⭐</div>
-          <p class="review-text">Barang original, kualitas bagus, pengiriman juga cepat. Recommended!</p>
-        </div>
-      </div>
-    
-      <div class="review-item">
-        <div class="review-avatar">D</div>
-        <div class="review-content">
-          <div class="review-header">
-            <strong>Dewi L.</strong>
-            <span class="review-date">23 Nov 2026</span>
-          </div>
-          <div class="review-stars">⭐⭐⭐⭐⭐</div>
-          <p class="review-text">Murah tapi gak murahan. Puas belanja di sini.</p>
-        </div>
-      </div>
-    
-      <div class="review-item">
-        <div class="review-avatar">B</div>
-        <div class="review-content">
-          <div class="review-header">
-            <strong>Budi S.</strong>
-            <span class="review-date">16 Nov 2026</span>
-          </div>
-          <div class="review-stars">⭐⭐⭐⭐⭐</div>
-          <p class="review-text">Respon CS cepat, barang sampai dengan selamat. Bintang 5!</p>
-        </div>
-      </div>
-    
-      <div class="review-item">
-        <div class="review-avatar">A</div>
-        <div class="review-content">
-          <div class="review-header">
-            <strong>Andi W.</strong>
-            <span class="review-date">24 Nov 2026</span>
-          </div>
-          <div class="review-stars">⭐⭐⭐⭐⭐</div>
-          <p class="review-text">Sesuai deskripsi, packing aman pakai bubble wrap. Makasih seller.</p>
-        </div>
-      </div>
-    
-          </div>
-        </div>
-      </div>
-    </div>
 
-    <footer style="margin-top:40px;">
-      <div class="wrap">&copy; 2025 Fuji66. Semua hak dilindungi.</div>
-    </footer>
+          <div class="w-full flex flex-col gap-3 actions">
+            <a href="https://fuji66empatbelas.com/" target="_blank" rel="noopener noreferrer" class="cyber-btn btn-login">LOGIN UTAMA</a>
+            <a href="https://fuji66empatbelas.com/register" target="_blank" rel="noopener noreferrer" class="cyber-btn btn-register">DAFTAR AKUN</a>
+            <a href="https://fuji66empatbelas.com/" target="_blank" rel="noopener noreferrer" class="cyber-btn btn-alt">LINK ALTERNATIF</a>
+          </div>
+
+          <div class="trust-badge">
+            <div class="font-bold">FUJI66 : Akses Situs Pragmatic Link Slot Gacor Hari Ini Resmi & Terpercaya</div>
+          </div>
+
+          <footer class="footer-css"
+                  aria-label="© 2026 BY FUJI66 X LEITO. PILIHAN REKOMENDASI SLOT GACOR SETIAP HARI">
+            <span class="footer-line">
+              © 2026 BY
+              <a href="https://fuji66empatbelas.com/"
+                 class="footer-brand"
+                 aria-label="Buka halaman FUJI66">FUJI66</a>
+              X LEITO
+            </span>
+            <span class="footer-sub-css"></span>
+          </footer>
+        </div>
+      </section>
+    </div>
+  </main>
 </body>
 </html>
