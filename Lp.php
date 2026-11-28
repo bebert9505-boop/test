@@ -1,63 +1,88 @@
-<!doctype html>
-<html ⚡ lang="id"><head>
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width,maximum-scale=1">
-<title>FUJI66 – Mengenal Slot Online dan Berbagai Pilihan Game</title><meta name="description" content="Temukan informasi seputar slot online di FUJI66, mulai dari pengenalan permainan, variasi tema, hingga panduan memahami fitur game digital.">
-<link rel="canonical" href="https://celestialphotography.in/"><link rel="amphtml" href="https://fuji66.bebert9505.workers.dev/">
-<meta property="og:title" content="FUJI66 – Mengenal Slot Online dan Berbagai Pilihan Game"><meta property="og:description" content="Temukan informasi seputar slot online di FUJI66, mulai dari pengenalan permainan, variasi tema, hingga panduan memahami fitur game digital."><meta property="og:image" content="https://i.ibb.co/Q5m5wPQ/Aztec-Gold-Jungle-Jackpot-Adventure.png">
-<link rel="icon" type="image/png" href="https://i.ibb.co.com/9HtGxSpK/favicon.png">
-<script async src="https://cdn.ampproject.org/v0.js"></script>
-<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700;800;900&family=Ubuntu:wght@400;500;700&display=swap" rel="stylesheet">
-<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
-<noscript><style amp-boilerplate>body{-webkit-animation:none;animation:none}</style></noscript>
-<style amp-custom>
-:root{--gold:#FFD700;--gold-hot:#FFFACD;--amber:#DAA520;--edge:#B8860B;--soft:#F0E68C;--text:#FFF8DC}
-*{box-sizing:border-box}
-html{background:#050308}
-body{position:relative;display:flex;align-items:flex-start;justify-content:center;width:100%;min-height:100vh;margin:0;padding:20px 8px;background:radial-gradient(circle at top,#241a08 0%,#150e04 34%,#0c0810 72%,#050308 100%);font-family:Ubuntu,sans-serif;color:var(--text)}
-body::before{content:"";position:fixed;inset:0;z-index:9;pointer-events:none;background:repeating-linear-gradient(to bottom,rgba(255,255,255,.022),rgba(255,255,255,.022) 1px,transparent 3px,transparent 7px)}
-.arcade-frame{position:relative;width:100%;max-width:460px;margin:0 auto;overflow:hidden;background:linear-gradient(180deg,#17110a 0%,#100b14 52%,#070409 100%);border:2px solid var(--edge);border-radius:18px;box-shadow:0 0 26px rgba(255,215,0,.22),0 14px 34px rgba(0,0,0,.9),inset 0 0 22px rgba(255,215,0,.05)}
-.hud{display:flex;align-items:center;justify-content:space-between;padding:11px 12px;color:var(--soft);background:linear-gradient(180deg,#201607,#0b0703);border-bottom:1px solid var(--edge);box-shadow:inset 0 -7px 14px rgba(0,0,0,.28);font-family:Orbitron,sans-serif;font-size:10px;letter-spacing:.4px}
-.hud .online{color:var(--gold-hot);text-shadow:0 0 10px rgba(255,215,0,.75)}
-.screen{padding:14px 20px 16px;text-align:center}
-.logo-img{width:100%;max-width:200px;margin:0 auto 10px}
-.logo-img amp-img{filter:drop-shadow(0 0 14px rgba(255,215,0,.45))}
-.system{margin:12px 0 20px;color:var(--gold);font-family:Orbitron,sans-serif;font-size:11px;font-weight:800;line-height:1.55;letter-spacing:.5px;text-shadow:0 0 10px rgba(255,215,0,.4);animation:systemBlink 2.2s ease-in-out infinite}
-.hero,.hero-media{position:relative;overflow:hidden}
-.hero-media{border-radius:12px}
-.hero amp-img{margin:0 auto 18px;border:1px solid var(--edge);border-radius:12px;box-shadow:0 0 18px rgba(255,215,0,.3),0 9px 20px rgba(0,0,0,.72)}
-.menu{position:relative;margin:0}
-.menu a{position:relative;display:block;overflow:hidden;margin:12px 0;padding:15px 10px;color:#f1e6cf;text-align:center;text-decoration:none;text-transform:uppercase;background:linear-gradient(145deg,#161019 0%,#1c1426 48%,#0c0812 100%);border:1px solid var(--edge);border-radius:11px;box-shadow:inset 0 1px 0 rgba(255,255,255,.08),inset 0 -7px 14px rgba(0,0,0,.32),0 7px 16px rgba(0,0,0,.5);font-family:Orbitron,sans-serif;font-size:13px;font-weight:800;letter-spacing:.8px;text-shadow:0 1px 2px rgba(0,0,0,.8);transition:filter .25s ease,transform .25s ease}
-.menu a:nth-child(2){color:#2a1c00;background:linear-gradient(145deg,#ffe89f 0%,#ffc327 46%,#d79406 100%);border:1px solid #ffdf87;text-shadow:0 1px 0 rgba(255,255,255,.35);box-shadow:inset 0 1px 0 rgba(255,255,255,.5),inset 0 -7px 14px rgba(140,86,0,.28),0 8px 18px rgba(0,0,0,.5),0 0 22px rgba(255,215,0,.55),0 0 42px rgba(255,215,0,.3)}
-.menu a:hover{filter:brightness(1.08)}
-.klik-tag{position:absolute;top:-11px;right:14px;z-index:6;padding:5px 11px;color:#2a1c00;background:linear-gradient(145deg,#fff4bd 0%,#ffd447 55%,#f0b81f 100%);border:1px solid #fff0b0;border-radius:20px;box-shadow:0 0 16px rgba(255,215,0,.75),0 4px 10px rgba(0,0,0,.55);font-family:Orbitron,sans-serif;font-size:10px;font-weight:900;letter-spacing:.6px;white-space:nowrap;animation:klikBounce 1s ease-in-out infinite}
-.klik-tag::after{content:"";position:absolute;bottom:-6px;right:20px;width:0;height:0;border-left:6px solid transparent;border-right:6px solid transparent;border-top:7px solid #f0b81f}
-.footer{padding:13px 12px;color:var(--soft);text-align:center;background:linear-gradient(180deg,#1a1206,#0a0703);border-top:1px solid var(--edge);box-shadow:inset 0 7px 14px rgba(0,0,0,.2);font-family:Orbitron,sans-serif;font-size:10px;letter-spacing:.4px}
-.boot-overlay{position:absolute;inset:0;z-index:5;display:flex;align-items:center;justify-content:center;pointer-events:none;background:rgba(12,8,3,.94);animation:bootFadeOut .5s ease-out 2.2s forwards}
-.boot-logo{color:var(--gold);font-family:Orbitron,sans-serif;font-size:28px;font-weight:900;letter-spacing:1px;opacity:0;transform:translateY(-180px);text-shadow:2px 0 rgba(255,255,255,.17),-2px 0 rgba(184,121,10,.6);animation:logoDrop 1.5s cubic-bezier(.25,1,.5,1) forwards,glitchEffect .3s cubic-bezier(.25,.46,.45,.94) 1s infinite}
-.boot-logo span{margin-left:2px;font-size:11px;vertical-align:top}
-@keyframes systemBlink{0%,100%{opacity:1}50%{opacity:.42}}
-@keyframes klikBounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
-@keyframes logoDrop{0%{opacity:1;transform:translateY(-180px)}60%,100%{opacity:1;transform:translateY(0)}}
-@keyframes glitchEffect{0%,75%,100%{text-shadow:2px 0 rgba(255,255,255,.18),-2px 0 rgba(184,121,10,.62)}25%{text-shadow:-2px 0 rgba(255,255,255,.18),2px 0 rgba(184,121,10,.62);transform:translate(2px,2px)}50%{text-shadow:2px 0 rgba(255,255,255,.18),-2px 0 rgba(184,121,10,.62);transform:translate(-2px,-2px)}}
-@keyframes bootFadeOut{to{opacity:0;visibility:hidden}}
-@media(min-height:760px){body{align-items:center}}
-@media(max-width:480px){body{padding:14px 8px}.arcade-frame{border-radius:15px}.screen{padding:11px 12px 14px}.hud{padding:9px 8px;font-size:9px}.logo-img{max-width:185px;margin-bottom:8px}.system{margin:10px 0 17px;font-size:10px}.hero amp-img{margin-bottom:16px}.menu a{margin:10px 0;padding:14px 8px;font-size:12px}.klik-tag{font-size:9px;padding:4px 9px;right:10px;top:-10px}.footer{padding:12px 8px;font-size:9px}.boot-logo{font-size:23px}}
-@media(prefers-reduced-motion:reduce){.system,.menu a,.boot-overlay,.boot-logo,.klik-tag{animation:none}.boot-overlay{display:none}}
+<!DOCTYPE html>
+<html lang="en-GB"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SULE88 – Slot Gacor dan Slot Online</title><meta name="description" content="SULE88 menghadirkan informasi seputar slot online, berbagai kategori permainan digital, serta panduan mengenal fitur dan mekanisme permainan.">
+<link rel="canonical" href="https://chandertalregency.com/"><link rel="amphtml" href="https://sule88.bebert9505.workers.dev/">
+<meta property="og:title" content="SULE88 – Slot Gacor dan Slot Online"><meta property="og:description" content="SULE88 menghadirkan informasi seputar slot online, berbagai kategori permainan digital, serta panduan mengenal fitur dan mekanisme permainan."><meta property="og:image" content="https://i.ibb.co.com/N2RRtDHT/Aztec-Gold-Jungle-Slot-Adventure.png">
+<link rel="shortcut icon" href="https://i.ibb.co.com/Qv7wYjb0/Logo-SULE88.png">
+<link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;font-family:'Mulish',sans-serif}
+body{background:#fff;color:#222}a{text-decoration:none}
+.header{display:flex;align-items:center;padding:12px 24px;border-bottom:1px solid #e1e1e1;gap:16px;max-width:1400px;margin:0 auto}
+.header-logo img{height:40px;object-fit:contain}
+.header-categories{display:flex;align-items:center;font-size:14px;font-weight:600;color:#333;gap:6px}
+.header-search{flex:1;display:flex;position:relative}
+.header-search input{width:100%;padding:12px 20px;border:1px solid #757575;border-radius:24px;font-size:15px;outline:none}
+.header-search button{position:absolute;right:6px;top:50%;transform:translateY(-50%);background:#f1641e;border:none;width:34px;height:34px;border-radius:50%;display:flex;align-items:center;justify-content:center}
+.header-search button svg{fill:#fff;width:16px;height:16px}
+.header-icons{display:flex;align-items:center;gap:16px}
+.header-icons svg{width:24px;height:24px;fill:none;stroke:#222;stroke-width:1.5}
+.header-icons .avatar{width:32px;height:32px;border-radius:50%;object-fit:cover}
+.top-buttons{display:flex;width:100%;height:52px}
+.top-buttons a{flex:1;display:flex;align-items:center;justify-content:center;color:#fff;font-size:16px;font-weight:700}
+.btn-login-top{background:#9b111e}.btn-daftar-top{background:#002fa7}
+.trust-bar{background:#f3f3f3;display:flex;justify-content:center;align-items:center;gap:24px;padding:14px 20px;font-size:14px;color:#555;border-bottom:1px solid #e1e1e1}
+.trust-bar-item{display:flex;align-items:center;gap:6px;font-weight:600}
+.main-layout{max-width:1100px;margin:0 auto;padding:0 20px}
+.product-row{display:grid;grid-template-columns:1fr 1fr;gap:40px;margin:20px 0 30px}
+.product-image{width:100%;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.1)}
+.product-info-col{padding-top:10px}
+.star-seller-badge{display:flex;justify-content:flex-end;gap:12px;margin-bottom:16px}
+.star-seller-icon{color:#a330d1}
+.star-seller-text{font-size:12px;color:#333;line-height:1.4}
+.star-seller-text strong{display:block;margin-bottom:2px}
+.promo-text{color:#a8002c;font-size:14px;font-weight:600;margin-bottom:8px}
+.price{font-size:32px;font-weight:400;margin-bottom:4px}
+.subtitle{font-size:13px;color:#666;margin-bottom:24px}
+.product-title{font-size:28px;font-weight:700;line-height:1.2;margin-bottom:20px;color:#111}
+.product-desc{font-size:15px;line-height:1.6;color:#555;margin-bottom:24px}
+.rating-row{display:flex;align-items:center;gap:8px;margin-bottom:28px;font-size:13px;color:#555;font-weight:600}
+.stars{display:flex;gap:2px}.stars svg{width:14px;height:14px;fill:#222}
+.bottom-buttons{display:flex;gap:12px;margin-bottom:20px}
+.bottom-buttons a{flex:1;display:flex;align-items:center;justify-content:center;height:50px;border-radius:4px;color:#fff;font-size:15px;font-weight:700}
+.btn-login-bottom{background:#9b111e}.btn-daftar-bottom{background:#002fa7}
+.bottom-info-section{margin-bottom:40px}
+.bottom-title{font-size:18px;font-weight:700;color:#222;margin-bottom:12px}
+.breadcrumb{font-size:13px;color:#555}.breadcrumb a{color:#555}
+.blue-banner{background:#1c5ebf;padding:30px 20px;display:flex;justify-content:center;align-items:center;gap:12px;color:#fff}
+.blue-banner svg{width:32px;height:32px;fill:currentColor}
+.blue-banner span{font-size:18px;font-weight:600}
+.site-footer{background:#222;color:#b0b0b0;padding:30px 20px;font-size:13px}
+.footer-inner{max-width:1100px;margin:0 auto;display:flex;justify-content:space-between;flex-wrap:wrap;gap:20px}
+.footer-right{display:flex;gap:20px}.footer-right a{color:#b0b0b0}
+@media(max-width:768px){.header{flex-wrap:wrap}.header-search{order:3;flex-basis:100%;margin-top:10px}.header-categories{display:none}.product-row{grid-template-columns:1fr;gap:24px}.footer-inner{flex-direction:column}.blue-banner{flex-direction:column;text-align:center}}
 </style></head><body>
-<section class="arcade-frame">
-<div class="hud"><div>❤❤❤❤❤</div><div class="online">MENGUNCI MAXWIN 2026</div><div>LV 100</div></div>
-<div class="screen">
-<div class="logo-img"><amp-img src="https://i.ibb.co.com/7thFjx00/Logo.png" width="70" height="15" layout="responsive" alt="logo Fuji66"></amp-img></div>
-<div class="system">▶ FUJI66 EKSKLUSIF GAMPANG MENANG 2026 ◀</div>
-<div class="hero"><div class="hero-media">
-<div class="boot-overlay"><div class="boot-logo">^^FUJI66<span>®</span></div></div>
-<amp-img src="https://i.ibb.co/Q5m5wPQ/Aztec-Gold-Jungle-Jackpot-Adventure.png" width="420" height="420" layout="responsive" alt="banner"></amp-img>
+<header class="header">
+<div class="header-logo"><a href="https://sule88ajasatu.com/"><img src="https://i.ibb.co.com/Qv7wYjb0/Logo-SULE88.png" alt="Sule88"></a></div>
+<div class="header-categories"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h16"/></svg> Categories</div>
+<div class="header-search"><input type="text" placeholder="Cari Kami Di Google 'Sule88'"><button><svg viewBox="0 0 24 24"><path d="M10.5 19a8.46 8.46 0 0 0 5.262-1.824l4.865 4.864 1.414-1.414-4.865-4.865A8.5 8.5 0 1 0 10.5 19m0-2a6.5 6.5 0 1 0 0-13 6.5 6.5 0 0 0 0 13"/></svg></button></div>
+<div class="header-icons">
+<svg viewBox="0 0 24 24"><path d="M12 22a10 10 0 1 1 10-10 10.013 10.013 0 0 1-10 10m0-18a8 8 0 1 0 8 8 8.01 8.01 0 0 0-8-8"/><path d="M12 18a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m1-4h-2a3.04 3.04 0 0 1 1.7-2.379c.8-.566 1.3-.947 1.3-1.621a2 2 0 1 0-4 0H8a4 4 0 1 1 8 0 4 4 0 0 1-2.152 3.259c-.33.186-.62.438-.848.741"/></svg>
+<img src="https://i.ibb.co.com/Qv7wYjb0/Logo-SULE88.png" class="avatar">
+<svg viewBox="0 0 24 24"><path d="M12 3a5 5 0 0 0-5 5v1H2.447l2.4 12h14.306l2.4-12H17V8a5 5 0 0 0-5-5m0 2a3 3 0 0 0-3 3v1h6V8a3 3 0 0 0-3-3M6.486 19l-1.6-8h14.227l-1.6 8z"/></svg>
+</div></header>
+<div class="top-buttons"><a href="https://sule88ajasatu.com/" class="btn-login-top">LOGIN</a><a href="https://sule88ajasatu.com/" class="btn-daftar-top">DAFTAR</a></div>
+<div class="trust-bar">
+<div class="trust-bar-item">Shop confidently on Etsy</div>
+<div class="trust-bar-item"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#222" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg> Sule88</div>
+<div class="trust-bar-item"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#222" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg> Slot Gacor</div>
+</div>
+<div class="main-layout">
+<div class="product-row">
+<div><img src="https://i.ibb.co.com/N2RRtDHT/Aztec-Gold-Jungle-Slot-Adventure.png" class="product-image"></div>
+<div class="product-info-col">
+<div class="star-seller-badge"><div class="star-seller-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.4 7.2h7.6l-6 4.8 2.4 7.2-6-4.8-6 4.8 2.4-7.2-6-4.8h7.6z"/></svg></div><div class="star-seller-text"><strong>Star Seller.</strong> This seller consistently earned 5-star reviews, dispatched on time.</div></div>
+<div class="promo-text">Sule88 adalah merupakan platform terbaik bagi para pecinta game online.</div>
+<div class="price">Rp 10.000</div>
+<div class="subtitle">Link Slot Gacor Hari Ini</div>
+<h1 class="product-title">SULE88 – Slot Gacor dan Slot Online</h1>
+<p class="product-desc">SULE88 menghadirkan informasi seputar slot online, berbagai kategori permainan digital, serta panduan mengenal fitur dan mekanisme permainan.</p>
+<div class="rating-row">SLOT GACOR <div class="stars"><svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div></div>
+<div class="bottom-buttons"><a href="https://sule88ajasatu.com/" class="btn-login-bottom">LOGIN</a><a href="https://sule88ajasatu.com/" class="btn-daftar-bottom">DAFTAR</a></div>
 </div></div>
-<nav class="menu">
-<div class="klik-tag">👇 KLIK DISINI</div>
-<a href="https://fuji66empatbelas.com/" rel="nofollow noopener">LOGIN</a>
-<a href="https://fuji66empatbelas.com/" rel="nofollow noopener">DAFTAR</a>
-<a href="https://fuji66empatbelas.com/" rel="nofollow noopener">LINK ALTERNATIF</a>
-</nav></div>
-<footer class="footer">&copy; Copyright ^^FUJI66®</footer>
-</section></body></html>
+<div class="bottom-info-section"><div class="bottom-title">SULE88 – Slot Gacor dan Slot Online</div><div class="breadcrumb"><a href="#">Sule88</a> &gt; <a href="#">LINK SLOT</a> &gt; <a href="#">SLOT GACOR</a></div></div>
+</div>
+<div class="blue-banner"><svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg><span>SULE88 – Slot Gacor dan Slot Online</span></div>
+<footer class="site-footer"><div class="footer-inner"><div>Indonesia | English (UK) | Rp (IDR)</div><div class="footer-right"><a href="#">&copy; 2026 Etsy, Inc.</a><a href="#">Terms</a><a href="#">Privacy</a></div></div></footer>
+</body></html>
